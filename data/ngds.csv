@@ -1,0 +1,16 @@
+orgname	name	star_count	forks	issues	contributors	size
+ngds	ckanext-ngds	4	8	87	22	40822
+ngds	documents	1	0	0	10	114753
+ngds	metadata-issues	1	0	17	1	108
+ngds	service-notifications	0	0	5	1	108
+ngds	GTO-test-reports	0	0	0	0	0
+ngds	install-and-run	1	2	4	5	35007
+ngds	ckanext-geoserver	1	3	6	3	5726
+ngds	data-archiver	0	1	4	1	992
+ngds	SMU-metadata-tranformation	0	0	0	0	0
+ngds	ckanext-datastorecsw	0	2	1	1	272
+ngds	ckanext-mapsearch	1	3	1	5	464
+ngds	ckanext-ogcpreview	1	2	1	3	1466
+ngds	CKAN-DataOne	0	0	0	1	160
+ngds	ckanext-metadata	0	3	14	5	844
+ngds	CheckRunningArcGISservices	0	0	0	1	240

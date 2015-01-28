@@ -1,0 +1,15 @@
+orgname	name	star_count	forks	issues	contributors	size
+companieshouse	MojoX-Moose-Controller	0	0	0	3	305
+companieshouse	Log-Declare	0	0	1	5	484
+companieshouse	MojoX-OAuth2	0	0	0	6	582
+companieshouse	MojoX-JSON-XS	0	0	0	2	262
+companieshouse	MojoX-Log-Declare	0	1	0	3	390
+companieshouse	MojoX-Plugin-PODRenderer	0	1	1	3	274
+companieshouse	MojoX-Renderer-IncludeLater	0	0	0	3	312
+companieshouse	dzil	0	0	0	3	224
+companieshouse	JSON-WebEncryption	0	0	1	6	318
+companieshouse	Dist-Zilla-PluginBundle-CHGOVUK	0	0	1	3	371
+companieshouse	MojoX-URL-Sign	0	0	1	2	252
+companieshouse	MojoX-Plugin-Hook-BeforeRendered	0	0	1	5	344
+companieshouse	MojoX-Plugin-AnyCache	0	0	4	3	620
+companieshouse	go-tiff2pdf	0	0	0	2	407
