@@ -10,7 +10,7 @@ from pygithub3 import Github
 
 # Write valid login and password
 GIT_NAME = 'ivbeg'
-GIT_PASSWORD = '5568756f75ce7d9e3bd11d89fd777673e52f9303'
+GIT_PASSWORD = file('../git_pass.txt', 'r').read()
 
 FILEPATH = 'data/'
 REPPATH = 'data/repos/'
