@@ -1,9 +1,12 @@
-orgname	name	star_count	forks	issues	contributors	size
-NIEM	NIEM.github.io	2	2	0	6	2206
-NIEM	NDR-Test-Suite	0	0	0	3	576
-NIEM	NIEM-UML	1	1	0	4	166810
-NIEM	Emergency-Management-Model-Content	1	2	0	3	413
-NIEM	Implementation-Cookbook	2	2	1	2	327
-NIEM	working-draft	1	0	1	1	197
-NIEM	Developer-Network-IEPD-Series--SuperHero	0	1	0	2	3122
-NIEM	Template-IEPD	0	4	0	2	129
+orgname	name
+NIEM	NIEM.github.io
+NIEM	NDR-Test-Suite
+NIEM	NIEM-UML
+NIEM	Emergency-Management-Model-Content
+NIEM	Implementation-Cookbook
+NIEM	How-to-Upload-an-IEPD-to-GitHub
+NIEM	Developer-Network-IEPD-Series--SuperHero
+NIEM	Template-IEPD
+NIEM	DATA-Act
+NIEM	Sample-RFQ-language
+NIEM	niem-code-lists-spec

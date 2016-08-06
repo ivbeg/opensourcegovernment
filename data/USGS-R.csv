@@ -1,37 +1,64 @@
-orgname	name	star_count	forks	issues	contributors	size
-USGS-R	mda.lakes	0	2	12	2	112763
-USGS-R	EGRET	3	9	0	5	361264
-USGS-R	dataRetrieval	12	10	7	3	25371
-USGS-R	functionCollection	0	1	0	1	178
-USGS-R	EflowStats	2	4	1	3	13477
-USGS-R	smwrData	0	1	0	2	305
-USGS-R	usgs-r.github.com	1	5	0	7	885859
-USGS-R	smwrBase	1	3	1	2	2163
-USGS-R	smwrGraphs	1	1	1	2	1951
-USGS-R	smwrStats	1	0	1	2	1260
-USGS-R	USGSwsQW	1	0	1	2	515
-USGS-R	glmtools	6	9	1	3	33434
-USGS-R	geoknife	6	7	7	5	1098
-USGS-R	NWCCompare	1	2	0	2	2346
-USGS-R	itemServiceCCH	1	2	1	2	521
-USGS-R	GSqwsr	1	5	0	2	3881
-USGS-R	DVstats	0	0	0	2	372
-USGS-R	rloadest	0	1	0	3	4848
-USGS-R	restrend	0	0	0	2	864
-USGS-R	GLRItcl	0	2	0	2	1547
-USGS-R	USGSHydroTools	0	4	0	3	18031
-USGS-R	CI	0	0	0	1	1052
-USGS-R	rEnddat	0	0	0	1	196
-USGS-R	SampleSplitting	0	0	0	1	2336
-USGS-R	GDopp	1	1	4	1	12702
-USGS-R	USGSHydroOpt	0	3	0	3	29148
-USGS-R	sensorQC	1	1	7	2	486
-USGS-R	USGSwsDataRetrieval	0	3	1	2	431
-USGS-R	Rainmaker	0	2	0	2	334
-USGS-R	Welcome	0	2	1	1	215
-USGS-R	tom	0	3	1	3	135
-USGS-R	QWToolbox	0	3	6	2	661
-USGS-R	powstreams	1	3	4	3	272
-USGS-R	sbtools	0	3	10	2	308
-USGS-R	mda.streams	0	5	5	4	523
-USGS-R	usgs-r-website	0	2	0	2	262
+orgname	name
+USGS-R	mda.lakes
+USGS-R	EGRET
+USGS-R	dataRetrieval
+USGS-R	functionCollection
+USGS-R	EflowStats
+USGS-R	smwrData
+USGS-R	usgs-r.github.com
+USGS-R	smwrBase
+USGS-R	smwrGraphs
+USGS-R	smwrStats
+USGS-R	smwrQW
+USGS-R	glmtools
+USGS-R	geoknife
+USGS-R	NWCCompare
+USGS-R	hazardItems
+USGS-R	GSqwsr
+USGS-R	DVstats
+USGS-R	rloadest
+USGS-R	restrend
+USGS-R	GLRItcl
+USGS-R	USGSHydroTools
+USGS-R	rEnddat
+USGS-R	SampleSplitting
+USGS-R	GDopp
+USGS-R	USGSHydroOpt
+USGS-R	sensorQC
+USGS-R	Rainmaker
+USGS-R	Welcome
+USGS-R	laketemps
+USGS-R	powstreams
+USGS-R	sbtools
+USGS-R	mda.streams
+USGS-R	usgs-r-website
+USGS-R	lakeReport
+USGS-R	grantools
+USGS-R	repgen
+USGS-R	toxEval
+USGS-R	soilmoisturetools
+USGS-R	hydrofabric
+USGS-R	streamMetabolizer
+USGS-R	lakeattributes
+USGS-R	BatTool
+USGS-R	gsplot
+USGS-R	gsIntroR
+USGS-R	netcdf.dsg
+USGS-R	EGRETci
+USGS-R	EGRETextra
+USGS-R	htcTrends
+USGS-R	WQ-Review
+USGS-R	necsc-lake-modeling
+USGS-R	hydroMap
+USGS-R	WREG
+USGS-R	ie2misc
+USGS-R	a-la-carte
+USGS-R	geolakes
+USGS-R	necsc-integrated-trends
+USGS-R	wateRuse
+USGS-R	HUCAgg
+USGS-R	GcClust
+USGS-R	waterData
+USGS-R	rSPARROW
+USGS-R	wrv
+USGS-R	intro-curriculum

@@ -1,16 +1,23 @@
-orgname	name	star_count	forks	issues	contributors	size
-chicago	windy	39	9	2	6	201
-chicago	windy-python	0	0	0	0	48
-chicago	windy-php	0	0	0	0	48
-chicago	windy-node	1	0	0	0	48
-chicago	osd-street-center-line	107	22	0	2	25820
-chicago	osd-pedway-routes	31	18	1	2	104
-chicago	osd-bike-routes	130	27	3	3	1150
-chicago	osd-bike-racks	33	5	0	1	268
-chicago	osd-building-footprints	52	15	5	1	124535
-chicago	metalicious	29	9	13	4	1079
-chicago	food-deserts	2	2	5	1	2502
-chicago	RSocrata	28	15	13	2	632
-chicago	open-data-annual-report-2013	7	5	8	2	77144
-chicago	open-data-etl-utility-kit	19	9	7	4	10559
-chicago	journal-chicago	2	1	0	1	191
+orgname	name
+chicago	windy
+chicago	windy-python
+chicago	windy-php
+chicago	windy-node
+chicago	tweetstreamwrapper
+chicago	osd-street-center-line
+chicago	osd-pedway-routes
+chicago	osd-bike-routes
+chicago	osd-bike-racks
+chicago	osd-building-footprints
+chicago	metalicious
+chicago	food-deserts
+chicago	RSocrata
+chicago	open-data-annual-report-2013
+chicago	food-inspections-evaluation
+chicago	open-data-etl-utility-kit
+chicago	journal-chicago
+chicago	contributor-license-agreement
+chicago	opengrid
+chicago	opengrid-svc-template
+chicago	e-coli-beach-predictions
+chicago	WNV_model

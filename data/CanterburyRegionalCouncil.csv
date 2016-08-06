@@ -1,12 +1,20 @@
-orgname	name	star_count	forks	issues	contributors	size
-CanterburyRegionalCouncil	CanterburyMaps_Android	1	0	2	2	133709
-CanterburyRegionalCouncil	CanterburyMaps_iOS	0	0	3	2	25756
-CanterburyRegionalCouncil	CanterburyMaps_WinPhone8	0	0	0	1	9704
-CanterburyRegionalCouncil	CanterburyMaps_Windows8	0	0	0	0	108
-CanterburyRegionalCouncil	LLUR_Public_Framework	0	0	0	1	3380
-CanterburyRegionalCouncil	ESRI_Enhanced_Proxy	1	0	0	1	140
-CanterburyRegionalCouncil	tourofchch	0	0	0	1	19968
-CanterburyRegionalCouncil	PropertyMap	0	0	0	3	523
-CanterburyRegionalCouncil	ObjectiveMatching	0	0	0	3	18060
-CanterburyRegionalCouncil	StoryMaps-Wetlands	0	0	0	2	2220
-CanterburyRegionalCouncil	Quiz	1	0	5	1	6220
+orgname	name
+CanterburyRegionalCouncil	CanterburyMaps_Android
+CanterburyRegionalCouncil	CanterburyMaps_iOS
+CanterburyRegionalCouncil	CanterburyMaps_WinPhone8
+CanterburyRegionalCouncil	CanterburyMaps_Windows8
+CanterburyRegionalCouncil	LLUR_Public_Framework
+CanterburyRegionalCouncil	ESRI_Enhanced_Proxy
+CanterburyRegionalCouncil	tourofchch
+CanterburyRegionalCouncil	PropertyMap
+CanterburyRegionalCouncil	ObjectiveMatching
+CanterburyRegionalCouncil	StoryMaps-Wetlands
+CanterburyRegionalCouncil	Quiz
+CanterburyRegionalCouncil	FloodInvestigationAmberley
+CanterburyRegionalCouncil	RFS
+CanterburyRegionalCouncil	ecan-webappbuilder-components
+CanterburyRegionalCouncil	MetroInfoMaps
+CanterburyRegionalCouncil	BUILDING-OUR-FOOTPRINTS
+CanterburyRegionalCouncil	ProxyFileHandler
+CanterburyRegionalCouncil	Trip-Splitter-Widget
+CanterburyRegionalCouncil	AirQualityMonitoringDevice

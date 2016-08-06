@@ -1,6 +1,9 @@
-orgname	name	star_count	forks	issues	contributors	size
-geobolivia	visualizador	1	5	0	1	426
-geobolivia	setup-georchestra	1	0	0	1	112
-geobolivia	sviewer	1	1	0	3	6161
-geobolivia	scripts_calidad	0	1	0	1	101
-geobolivia	addons_mapfishapp	1	0	0	1	136
+orgname	name
+geobolivia	visualizador
+geobolivia	setup-georchestra
+geobolivia	mdscan
+geobolivia	sviewer
+geobolivia	scripts_calidad
+geobolivia	addons_mapfishapp
+geobolivia	addons
+geobolivia	geoutils

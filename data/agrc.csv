@@ -1,43 +1,82 @@
-orgname	name	star_count	forks	issues	contributors	size
-agrc	agrc.widgets	14	2	10	3	5414
-agrc	StubModule	6	3	0	1	281
-agrc	SdeTimer	1	0	0	2	1966
-agrc	AGRCJavaScriptProjectBoilerPlate	23	9	27	3	2463
-agrc	AutomatedCaching	2	0	0	1	3565
-agrc	agrc.ijit	1	1	2	2	1788
-agrc	AddressPointEditor	4	0	5	2	6334
-agrc	SendEmailService	1	0	1	1	836
-agrc	GeocodingSample	2	0	0	2	483
-agrc	ArcGisServerPermissionsProxy	0	0	0	2	2148
-agrc	PEL	1	1	2	2	5556
-agrc	AgrcPasswordManagement	0	0	0	1	152
-agrc	agrc.python	0	2	0	2	14889
-agrc	ugs-chemistry	1	1	3	3	2425
-agrc	deq-enviro	1	0	6	2	9672
-agrc	PLSS	0	0	0	1	2296
-agrc	geocoding-addin	0	0	0	2	200
-agrc	public-utilities	0	0	0	1	1048
-agrc	agrc-jasmine-matchers	0	0	0	1	144
-agrc	deq-spills	0	0	0	1	908
-agrc	BasemapUpgrade	0	1	1	2	198
-agrc	fiber-verification	0	0	8	3	32992
-agrc	Chalkdust	0	0	0	1	204
-agrc	ZipPlus4	0	0	0	0	0
-agrc	MasterStreetAddressGuideVisualizer	0	0	0	1	140
-agrc	blog-posts	1	0	0	2	908
-agrc	land-mobile-radio	0	0	14	1	372
-agrc	BEMS	1	0	7	1	632
-agrc	UDSH-SurveySync	0	1	1	2	3430
-agrc	NewsLetter	1	1	2	1	839
-agrc	broadband	0	0	1	1	3132
-agrc	AmdButler	2	1	7	2	396
-agrc	acs-alias-address-point	0	0	2	2	796
-agrc	ArcGIS-Server-Benchmarking	0	0	0	1	492
-agrc	bb-econ	0	0	11	1	5572
-agrc	Crash-db	0	1	1	2	203
-agrc	DEQ-TankRisk	0	0	2	1	0
-agrc	ugs-db	1	1	6	2	3586
-agrc	UDOT-LRS-Elevator	0	0	0	1	0
-agrc	Crash-web	1	0	5	2	120
-agrc	raster	0	0	1	1	116
-agrc	surface-water-quality	0	0	2	1	18172
+orgname	name
+agrc	agrc.widgets
+agrc	StubModule
+agrc	SdeTimer
+agrc	AGRCJavaScriptProjectBoilerPlate
+agrc	AutomatedCaching
+agrc	agrc.ijit
+agrc	AddressPointEditor
+agrc	SendEmailService
+agrc	GeocodingSample
+agrc	ArcGisServerPermissionsProxy
+agrc	PEL
+agrc	AgrcPasswordManagement
+agrc	agrc.python
+agrc	ugs-chemistry
+agrc	deq-enviro
+agrc	PLSS
+agrc	geocoding-toolbox
+agrc	public-utilities
+agrc	agrc-jasmine-matchers
+agrc	deq-spills
+agrc	fiber-verification
+agrc	Chalkdust
+agrc	ZipPlus4
+agrc	MasterStreetAddressGuideVisualizer
+agrc	blog-posts
+agrc	land-mobile-radio
+agrc	BEMS
+agrc	UDSH-SurveySync
+agrc	NewsLetter
+agrc	starch
+agrc	AmdButler
+agrc	acs-alias-address-point
+agrc	ArcGIS-Server-Benchmarking
+agrc	ironing-board
+agrc	DEQ-TankRisk
+agrc	ugs-db
+agrc	UDOT-LRS-Elevator
+agrc	Crash-web
+agrc	raster
+agrc	surface-water-quality
+agrc	Broadband-DriveTest-Stats
+agrc	mapserv-data-update
+agrc	AddressAssurance
+agrc	grunt-arcgis-press
+agrc	Presentations
+agrc	deq-reconcile-and-post
+agrc	wri-web
+agrc	wri-db
+agrc	dojo-layer-treemap
+agrc	Crash-db
+agrc	trs-zoom-addin
+agrc	agrc.github.io
+agrc	Spillman
+agrc	UDOT-LRS-Negative-Route-Agreement-Freeways
+agrc	wri-webapi
+agrc	uen
+agrc	atom-amdbutler
+agrc	atom-agrc-snippets
+agrc	roadkill-mobile
+agrc	roadkill-desktop
+agrc	caching-scripts
+agrc	tile-etl
+agrc	grunt-server-replay
+agrc	oil-gas-mining
+agrc	web-mercator-wsut-killer
+agrc	Address-Point-ETL
+agrc	Parcels
+agrc	tower-circle-sectors
+agrc	api.mapserv.utah.gov
+agrc	forklift
+agrc	print-proxy
+agrc	lt-gov-political-districts
+agrc	templater
+agrc	vista
+agrc	uic-etl
+agrc	basemap-caches
+agrc	cell-tower-coverage
+agrc	electrofishing
+agrc	warehouse
+agrc	health-facilities
+agrc	road-centerlines-schema

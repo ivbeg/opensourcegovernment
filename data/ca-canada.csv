@@ -1,4 +1,4 @@
-orgname	name	star_count	forks	issues	contributors	size
-ca-canada	data.CODE	1	0	0	1	144
-ca-canada	data.blog	0	0	0	1	384
-ca-canada	data.devcorner	1	1	1	1	148
+orgname	name
+ca-canada	data.CODE
+ca-canada	data.devcorner
+ca-canada	api

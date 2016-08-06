@@ -1,4 +1,5 @@
-orgname	name	star_count	forks	issues	contributors	size
-rinfo	fst	6	0	25	3	4124
-rinfo	rdl	2	0	64	7	16864
-rinfo	lagrummet.se	4	0	106	9	14832
+orgname	name
+rinfo	fst
+rinfo	rdl
+rinfo	lagrummet.se
+rinfo	lagrummet_test

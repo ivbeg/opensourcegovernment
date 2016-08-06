@@ -1,15 +1,19 @@
-orgname	name	star_count	forks	issues	contributors	size
-PROCERGS	login-cidadao	11	6	28	7	51908
-PROCERGS	vpr	2	2	3	2	19170
-PROCERGS	rsmovel-ios	1	1	0	1	1533
-PROCERGS	template-servicos-rsmovel	1	0	0	1	516
-PROCERGS	notification-service	0	0	0	1	300
-PROCERGS	AppBase	0	0	0	1	760
-PROCERGS	AppExemplos	0	0	0	0	0
-PROCERGS	PRAndroidLib	0	0	0	1	496
-PROCERGS	TabsNavigation	0	0	0	1	724
-PROCERGS	rsmovel-android	0	0	0	1	716
-PROCERGS	login-cidadao-badges-template	0	0	0	1	148
-PROCERGS	login-cidadao-badges-bundle	0	0	0	2	184
-PROCERGS	meurs-bundle	0	0	0	1	0
-PROCERGS	login-cidadao-igp-bundle	0	0	0	3	156
+orgname	name
+PROCERGS	login-cidadao
+PROCERGS	vpr
+PROCERGS	rsmovel-ios
+PROCERGS	template-servicos-rsmovel
+PROCERGS	notification-service
+PROCERGS	AppBase
+PROCERGS	AppExemplos
+PROCERGS	PRAndroidLib
+PROCERGS	TabsNavigation
+PROCERGS	rsmovel-android
+PROCERGS	login-cidadao-badges-template
+PROCERGS	login-cidadao-badges-bundle
+PROCERGS	meurs-bundle
+PROCERGS	login-cidadao-igp-bundle
+PROCERGS	tos-bundle
+PROCERGS	login-cidadao-docs
+PROCERGS	meurs-monitor-bundle
+PROCERGS	nfg-badges-bundle

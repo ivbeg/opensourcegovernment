@@ -1,10 +1,13 @@
-orgname	name	star_count	forks	issues	contributors	size
-project-open-data	csv-to-api	113	23	10	4	220
-project-open-data	db-to-api	156	42	5	3	273
-project-open-data	kickstart	14	4	2	3	108
-project-open-data	slash_developer	4	1	6	5	236
-project-open-data	json-validator	17	10	4	3	252
-project-open-data	catalog-generator	13	8	5	4	1024
-project-open-data	esri2open	147	35	10	5	261
-project-open-data	G8_Metadata_Mapping	15	10	0	3	367
-project-open-data	project-open-data.github.io	447	234	61	52	29080
+orgname	name
+project-open-data	csv-to-api
+project-open-data	db-to-api
+project-open-data	kickstart
+project-open-data	slash_developer
+project-open-data	json-validator
+project-open-data	catalog-generator
+project-open-data	esri2open
+project-open-data	G8_Metadata_Mapping
+project-open-data	project-open-data.github.io
+project-open-data	project-open-data-dashboard
+project-open-data	simple-catalog-generator
+project-open-data	datajson-builder

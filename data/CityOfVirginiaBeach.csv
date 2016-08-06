@@ -1,4 +1,4 @@
-orgname	name	star_count	forks	issues	contributors	size
-CityOfVirginiaBeach	ParkFinder	7	3	0	1	3962
-CityOfVirginiaBeach	GIS-Data	3	1	0	1	263
-CityOfVirginiaBeach	ESRI-Map-Test	0	0	0	1	132
+orgname	name
+CityOfVirginiaBeach	ParkFinder
+CityOfVirginiaBeach	GIS-Data
+CityOfVirginiaBeach	ESRI-Map-Test

@@ -1,6 +1,9 @@
-orgname	name	star_count	forks	issues	contributors	size
-lgss	MyCouncil	2	0	8	2	21626
-lgss	MyCouncilIOS	2	1	5	2	1188
-lgss	MyCouncilAndroid	0	0	2	2	2302
-lgss	HousingApplicationPreform	0	0	0	1	312
-lgss	interactive-mapping	0	1	0	1	74968
+orgname	name
+lgss	MyCouncil
+lgss	MyCouncilIOS
+lgss	MyCouncilAndroid
+lgss	HousingApplicationPreform
+lgss	interactive-mapping
+lgss	lgss.github.io
+lgss	registrations-dashboard
+lgss	hubot

@@ -1,11 +1,11 @@
-orgname	name	star_count	forks	issues	contributors	size
-edinburghcouncil	datasets	15	11	3	3	17813
-edinburghcouncil	standards	2	0	0	1	160
-edinburghcouncil	csv2geojson	0	0	0	1	116
-edinburghcouncil	datasets-health	1	0	0	1	532
-edinburghcouncil	datasets-environment	1	0	0	1	168
-edinburghcouncil	frontend-framework	0	0	0	2	368
-edinburghcouncil	sports-cubed	0	0	0	1	0
-edinburghcouncil	datasets-transport	1	3	0	1	1556
-edinburghcouncil	sniffs	0	0	0	1	0
-edinburghcouncil	natural-neighbourhoods	0	0	0	1	188
+orgname	name
+edinburghcouncil	datasets
+edinburghcouncil	standards
+edinburghcouncil	csv2geojson
+edinburghcouncil	datasets-health
+edinburghcouncil	datasets-environment
+edinburghcouncil	frontend-framework
+edinburghcouncil	sports-cubed
+edinburghcouncil	datasets-transport
+edinburghcouncil	sniffs
+edinburghcouncil	natural-neighbourhoods

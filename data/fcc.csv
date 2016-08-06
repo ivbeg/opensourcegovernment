@@ -1,24 +1,53 @@
-orgname	name	star_count	forks	issues	contributors	size
-fcc	DeveloperView	7	2	0	2	773
-fcc	Crawler	50	24	2	2	138
-fcc	Sitemaps	8	3	1	1	96
-fcc	QSearch	2	0	0	1	620
-fcc	jQuery-and-Google-Analytics-Tools	6	2	1	2	120
-fcc	Look-and-Feel-Wrapper	3	2	0	2	98
-fcc	National-Broadband-Map-Web-App	8	3	2	1	236
-fcc	Faceted-Search-Widget	7	5	0	1	108
-fcc	NBM-Processing	6	2	1	3	889
-fcc	Digital-Strategy-Progress	4	1	0	1	104
-fcc	Auction901-Results	1	0	0	1	14004
-fcc	lpfm	11	1	0	1	1868
-fcc	lpfmpoints	16	48	0	3	286
-fcc	rightrail	2	1	0	2	2460
-fcc	calltraffic	12	13	0	6	1782
-fcc	pirateaction2	2	1	0	2	596
-fcc	mobile-mba-converter	1	3	1	4	1068
-fcc	JSON2CSV-PHP	4	2	0	2	118
-fcc	clearinghouseSDK	5	0	0	0	262
-fcc	am-tower-locator	2	9	1	2	426
-fcc	SABdata	3	13	0	1	698849
-fcc	modernizing-e-rate-101	1	0	0	1	284
-fcc	Constraint-Generator	1	2	0	1	97070
+orgname	name
+fcc	DeveloperView
+fcc	Crawler
+fcc	Sitemaps
+fcc	QSearch
+fcc	jQuery-and-Google-Analytics-Tools
+fcc	Look-and-Feel-Wrapper
+fcc	National-Broadband-Map-Web-App
+fcc	Faceted-Search-Widget
+fcc	NBM-Processing
+fcc	Digital-Strategy-Progress
+fcc	Auction901-Results
+fcc	usf_erate_fy2010
+fcc	ib-traffic-2010
+fcc	lpfm
+fcc	lpfmpoints
+fcc	unserved_fixed_broadband
+fcc	spectrum-band-plans
+fcc	rightrail
+fcc	vagrant-synthetic-data-machine
+fcc	calltraffic
+fcc	pirateaction2
+fcc	RuralHealthPilot
+fcc	706_map
+fcc	mobile-mba-converter
+fcc	JSON2CSV-PHP
+fcc	clearinghouseSDK
+fcc	caf1_round2
+fcc	CGSA
+fcc	SABdata
+fcc	cost_map
+fcc	cost_model_illustration
+fcc	modernizing-e-rate-101
+fcc	wireless-license-boundaries
+fcc	Constraint-Generator
+fcc	vizmo
+fcc	FCC-APIs
+fcc	connect2health-map
+fcc	ror-map
+fcc	cost_model_map
+fcc	cgsamap
+fcc	caf-2-final-areas-map
+fcc	caf-2-final-map
+fcc	caf-2-vermont-map
+fcc	overbuilt-map
+fcc	caf-2-accepted-map
+fcc	design-standards
+fcc	bpr-map-2016
+fcc	gisp-map-demo
+fcc	ias-map-1
+fcc	ias-map-2
+fcc	ias-map-4
+fcc	ias-map-6

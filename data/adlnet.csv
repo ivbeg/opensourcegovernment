@@ -1,67 +1,46 @@
-orgname	name	star_count	forks	issues	contributors	size
-adlnet	LR.Net	7	6	0	0	1738
-adlnet	LR-Data	4	4	2	2	2954
-adlnet	3D-Repository	20	12	8	3	228507
-adlnet	LR-Publisher	6	3	0	1	241
-adlnet	scorm4unity	14	7	5	3	3139
-adlnet	ADL_LRS	94	56	3	4	5929
-adlnet	LRSGame	8	4	9	5	2490
-adlnet	Bookmarklet	7	1	1	2	243
-adlnet	pytincan	8	6	0	2	124
-adlnet	LRSGameDashboard	3	2	1	4	490
-adlnet	RUSSEL	3	2	1	1	102353
-adlnet	RUSSELlib	0	1	0	1	29062
-adlnet	xAPI-TestSpec	1	3	1	3	520
-adlnet	Sandbox	17	1	22	14	772710
-adlnet	RUSSELserver	0	1	0	0	517064
-adlnet	experienceapi_client_examples	14	25	2	2	768
-adlnet	xAPI-Spec	140	124	65	26	4163
-adlnet	LR-Wordpress-Plugin	1	6	4	2	1909
-adlnet	ITAEngine	0	1	0	1	376
-adlnet	LR-CAR-Pipe	0	0	0	1	164
-adlnet	xAPI-Design	1	3	0	4	55
-adlnet	xapi_design_mondemic	0	0	0	1	112
-adlnet	xapi_design_instancy	0	0	0	1	116
-adlnet	xapi_design_isn_zurich	0	0	0	1	116
-adlnet	xapi_design_booz_allen	0	0	0	1	112
-adlnet	xapi_design_101i	0	0	0	1	108
-adlnet	xapi_design_altair	0	0	0	1	112
-adlnet	xapi_design_magical_muppets	0	2	0	1	99
-adlnet	xapi_design_hugo_libre	0	0	0	1	116
-adlnet	xapi_design_world_of_xapicraft	1	4	0	3	4525
-adlnet	Joint-Venture	0	3	0	3	52
-adlnet	xAPIVerbs	7	8	0	2	175
-adlnet	qr_bottle_demo	1	2	0	2	229
-adlnet	xAPIWrapper	16	23	0	5	513
-adlnet	xapi_design_imbuElearning	0	0	0	1	112
-adlnet	LR-Search	4	0	1	1	1776
-adlnet	xAPI_LRS_Test	12	13	20	11	503
-adlnet	video	1	4	0	2	4878
-adlnet	xapiwrapper-node	3	1	0	2	170
-adlnet	competency-example	1	3	1	3	1036
-adlnet	DECALS	1	1	0	1	49840
-adlnet	Sandbox-Wordpress-Theme	0	0	0	3	556
-adlnet	xci	0	3	0	3	3287
-adlnet	xAPI-Dashboard	14	6	0	3	9598
-adlnet	xAPI_HTML_Templates	0	1	0	1	0
-adlnet	LR-Lite	0	0	0	1	396
-adlnet	learner-profile-concept	0	0	0	2	264
-adlnet	xAPI-Design---Team-Proxy	0	2	0	1	0
-adlnet	palTracker	0	0	0	1	124
-adlnet	jxapi	3	3	0	3	516
-adlnet	XAPIGame	0	1	0	2	5806
-adlnet	xapi-html5-data-attributes	1	1	0	1	195
-adlnet	xapi-jqm	3	2	10	3	26121
-adlnet	gitbook-plugin-xapi	0	1	0	1	104
-adlnet	xapi-epub	1	1	0	1	6053
-adlnet	Content-Hosting-Service	0	0	0	1	208
-adlnet	SCORM-to-xAPI-Wrapper	6	5	1	2	239
-adlnet	xAPI-bootcamp-examples	0	2	0	2	5745
-adlnet	warriorAthlete	2	0	0	2	60396
-adlnet	xAPI-Caching	1	0	0	1	172
-adlnet	edx-xapi-bridge	2	0	0	4	320
-adlnet	xAPI-SCORM-Profile	3	1	11	1	1020
-adlnet	xapi-cop-charter-template	0	0	0	1	112
-adlnet	xAPI-CoP-Charter	1	1	0	1	180
-adlnet	sandbox-xblock	0	0	0	1	212
-adlnet	xAPI-Android-Roses	0	1	0	1	104
+orgname	name
+adlnet	LR-Data
+adlnet	3D-Repository
+adlnet	ADL_LRS
+adlnet	RUSSEL
+adlnet	Sandbox
+adlnet	experienceapi_client_examples
+adlnet	xAPI-Spec
+adlnet	xAPIVerbs
+adlnet	xAPIWrapper
+adlnet	xAPI_LRS_Test
+adlnet	xapiwrapper-node
+adlnet	DECALS
+adlnet	xci
+adlnet	xAPI-Dashboard
+adlnet	LR-Lite
+adlnet	jxapi
+adlnet	xapi-jqm
+adlnet	SCORM-to-xAPI-Wrapper
+adlnet	lrs-conformance-test-suite
+adlnet	Table-XBlock
+adlnet	edx-xapi-bridge
+adlnet	xAPI-SCORM-Profile
+adlnet	xapi-cop-charter-template
+adlnet	xAPI-CoP-Charter
+adlnet	xAPI-Android-Roses
+adlnet	xapi-lab
+adlnet	xapi-statement-viewer
+adlnet	SCORM-to-TLA-Roadmap
+adlnet	HPIT-python-client
+adlnet	adlnet.github.io
+adlnet	MarsgameSandbox
+adlnet	SCORM-2004-4ed-Test-Suite
+adlnet	SCORM-2004-4ed-SampleRTE
+adlnet	SandboxDocs
+adlnet	xapi-youtube
+adlnet	SandboxAssetServer
+adlnet	xapi-bootcamp-2015
+adlnet	IITSEC2015_Demo
+adlnet	xAPI-Fridge
+adlnet	Starting-from-SCORM-A-Developers-Guide
+adlnet	Intro-to-Developing-Web-based-xAPI-Content
+adlnet	xapi-launch
+adlnet	companion-specification-for-xapi-vocabularies
+adlnet	experience-xapi-vocabulary-primer
+adlnet	vocab-server

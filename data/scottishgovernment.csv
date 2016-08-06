@@ -1,3 +1,11 @@
-orgname	name	star_count	forks	issues	contributors	size
-scottishgovernment	scottishgovernment	0	0	0	1	0
-scottishgovernment	scottishgovernment.github.io	0	2	0	4	941
+orgname	name
+scottishgovernment	config-weaver
+scottishgovernment	geo-search
+scottishgovernment	mygov-parent
+scottishgovernment	os-codepoint
+scottishgovernment	mygovscot-puppet-blogpost
+scottishgovernment	arch-reference-library
+scottishgovernment	arch-metamodel
+scottishgovernment	arch-standards
+scottishgovernment	scottishgovernment.github.io
+scottishgovernment	jenkins

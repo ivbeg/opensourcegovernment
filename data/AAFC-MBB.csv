@@ -1,24 +1,40 @@
-orgname	name	star_count	forks	issues	contributors	size
-AAFC-MBB	rpmout	0	1	1	1	10500
-AAFC-MBB	ITISProxy	0	0	0	1	420
-AAFC-MBB	matiri	1	1	5	2	284
-AAFC-MBB	android-mock-ws	0	1	0	1	176
-AAFC-MBB	android-real-ws	0	0	4	1	376
-AAFC-MBB	ITISProxyLoader	0	0	0	1	136
-AAFC-MBB	NGSSampleManager	0	2	0	2	327
-AAFC-MBB	dockerfiles	1	1	0	3	347
-AAFC-MBB	puppet-manifests	1	0	1	2	292
-AAFC-MBB	AODP_releases	2	1	0	1	268463
-AAFC-MBB	acceptor	0	0	1	1	196
-AAFC-MBB	MBB-Bio-Roll	0	0	1	1	1010832
-AAFC-MBB	Galaxy	0	1	1	3	24320
-AAFC-MBB	rpmpaths	0	0	0	1	948
-AAFC-MBB	HostPathogenWS	0	0	1	1	396
-AAFC-MBB	HostPathogenLuceneIndexer	0	0	0	1	264
-AAFC-MBB	gbif-ipt-vagrant	0	1	2	4	250
-AAFC-MBB	HostPathogenLuceneSearcher	0	0	0	1	656
-AAFC-MBB	HostPathogenNouns	0	0	0	1	217
-AAFC-MBB	vagrant-aws	0	0	0	1	100
-AAFC-MBB	blastdb_dynamo	0	0	0	1	0
-AAFC-MBB	HostPathogenJSP	0	0	0	1	0
-AAFC-MBB	MBB-Bio-Roll-Docker	0	0	0	1	0
+orgname	name
+AAFC-MBB	rpmout
+AAFC-MBB	ITISProxy
+AAFC-MBB	matiri
+AAFC-MBB	android-mock-ws
+AAFC-MBB	android-real-ws
+AAFC-MBB	ITISProxyLoader
+AAFC-MBB	NGSSampleManager
+AAFC-MBB	dockerfiles
+AAFC-MBB	puppet-manifests
+AAFC-MBB	AODP_releases
+AAFC-MBB	acceptor
+AAFC-MBB	MBB-Bio-Roll
+AAFC-MBB	Galaxy
+AAFC-MBB	rpmpaths
+AAFC-MBB	HostPathogenLuceneIndexer
+AAFC-MBB	gbif-ipt-vagrant
+AAFC-MBB	HostPathogenLuceneSearcher
+AAFC-MBB	vagrant-aws
+AAFC-MBB	blastdb_dynamo
+AAFC-MBB	MBB-Bio-Roll-Docker
+AAFC-MBB	vagrant-specify7
+AAFC-MBB	vagrant-galaxy-puppet
+AAFC-MBB	annotation-scripts
+AAFC-MBB	crti-assembly-pipeline
+AAFC-MBB	qsub-omics
+AAFC-MBB	unitedb-py
+AAFC-MBB	gflow
+AAFC-MBB	pybold
+AAFC-MBB	docker-assembly
+AAFC-MBB	sge-puppet
+AAFC-MBB	hpdb
+AAFC-MBB	snakemake-mothur
+AAFC-MBB	blackbox-pipeline
+AAFC-MBB	parallel_itsx
+AAFC-MBB	biocluster-playbook
+AAFC-MBB	bold2blast
+AAFC-MBB	snakemake-trimmomatic
+AAFC-MBB	xlsx2redmine
+AAFC-MBB	snakemake-workflows

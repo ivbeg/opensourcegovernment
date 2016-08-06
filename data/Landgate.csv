@@ -1,9 +1,10 @@
-orgname	name	star_count	forks	issues	contributors	size
-Landgate	Locate	4	2	0	2	257
-Landgate	slip-developer-documentation	4	0	1	1	336
-Landgate	slip-code-samples	3	0	0	1	124
-Landgate	Sandbox	0	0	0	1	152
-Landgate	Unearthed	1	1	0	1	1245
-Landgate	GovHack-2014	0	1	0	1	159
-Landgate	SLIP-Demos	0	0	0	1	476
-Landgate	findmypollingplace	0	0	0	1	264
+orgname	name
+Landgate	Locate
+Landgate	slip-developer-documentation
+Landgate	slip-code-samples
+Landgate	Sandbox
+Landgate	Unearthed
+Landgate	GovHack-2014
+Landgate	SLIP-Demos
+Landgate	findmypollingplace
+Landgate	GovHack-2015

@@ -1,14 +1,19 @@
-orgname	name	star_count	forks	issues	contributors	size
-ogdch	ckanext-ogdch	2	2	0	4	1320
-ogdch	ckanext-ogdch_actions	0	0	0	2	240
-ogdch	ckanext-noregistration	0	0	0	2	264
-ogdch	ckanext-transharvest	1	0	1	3	296
-ogdch	ckanext-fso	0	2	0	5	416
-ogdch	ckanext-meteoswiss	0	0	0	4	424
-ogdch	ckanext-sfa	0	0	0	4	548
-ogdch	ckanext-snl	0	0	1	4	1132
-ogdch	ckanext-swisstopo	0	0	0	4	592
-ogdch	ckanext-zhgis	0	1	0	3	404
-ogdch	ckanext-zhstat	0	0	0	5	424
-ogdch	s3-logs-analyzer	3	3	0	2	112
-ogdch	ckanext-foph	0	0	0	2	324
+orgname	name
+ogdch	ckanext-ogdch
+ogdch	ckanext-ogdch_actions
+ogdch	ckanext-noregistration
+ogdch	ckanext-transharvest
+ogdch	ckanext-fso
+ogdch	ckanext-meteoswiss
+ogdch	ckanext-sfa
+ogdch	ckanext-snl
+ogdch	ckanext-swisstopo
+ogdch	ckanext-zhgis
+ogdch	ckanext-zhstat
+ogdch	s3-logs-analyzer
+ogdch	ckanext-foph
+ogdch	ckanext-switzerland
+ogdch	dcat-ap-docs
+ogdch	ogdch.github.io
+ogdch	ckanext-geocat
+ogdch	ckanext-neat

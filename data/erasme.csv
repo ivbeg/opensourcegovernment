@@ -1,23 +1,37 @@
-orgname	name	star_count	forks	issues	contributors	size
-erasme	check_cciss	1	0	0	0	76
-erasme	wii2osc	2	1	0	0	96
-erasme	sinatra_skeleton	0	0	0	1	100
-erasme	erajs	3	0	0	2	33305
-erasme	museotouch	7	6	0	5	12922
-erasme	paperzoom	1	0	1	1	1332
-erasme	sensors	2	0	0	1	424
-erasme	shortie	1	0	0	0	152
-erasme	protheses	1	0	0	2	15448
-erasme	museotouch-serveur	0	0	0	2	404
-erasme	logotouch2	2	0	1	1	676
-erasme	raspeomix	3	0	0	2	16948
-erasme	vagrant-dev-env	0	0	0	0	56
-erasme	rouedesinventions	0	0	0	2	9968
-erasme	liberasme-http-cil	1	0	0	1	344
-erasme	liberasme-cloud-cil	1	0	0	1	4164
-erasme	rfidreader	0	0	1	2	34832
-erasme	kjing	1	0	0	1	616
-erasme	griotte	7	3	3	1	1796
-erasme	griotte.erasme.org	1	0	0	1	1725
-erasme	guidelines	1	0	0	1	252
-erasme	webnapperon2	1	0	0	1	3432
+orgname	name
+erasme	check_cciss
+erasme	sinatra_skeleton
+erasme	erajs
+erasme	shortie
+erasme	vagrant-dev-env
+erasme	liberasme-http-cil
+erasme	liberasme-cloud-cil
+erasme	kjing
+erasme	website_griotte
+erasme	guidelines
+erasme	webnapperon2
+erasme	androidwifidirect
+erasme	ansible-rbenv
+erasme	ansible-ruby-compiled
+erasme	erasme-roles-specs
+erasme	ansible-nginx
+erasme	ansible-php5-fpm
+erasme	ansible-nodejs
+erasme	ansible-etherpad
+erasme	ansible-simplesaml
+erasme	ansible-laclasse-sso
+erasme	ansible-laclasse-annuaire
+erasme	ansible-laclasse-register
+erasme	ansible-redis
+erasme	ansible-laclasse-portail
+erasme	ansible-laclasse-cahiertextes
+erasme	ansible-laclasse-docs
+erasme	ansible-laclasse-suiviperso
+erasme	ansible-laclasse-adminpanel
+erasme	ansible-laclasse-backend
+erasme	ansible-laclasse-frontend
+erasme	ansible-memcached
+erasme	ansible-laclasse-publipostage
+erasme	ansible-mysql
+erasme	ansible-mysql-client
+erasme	ansible-tmux

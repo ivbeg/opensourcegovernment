@@ -1,6 +1,10 @@
-orgname	name	star_count	forks	issues	contributors	size
-IMDProjects	ETVLeaflet	0	0	0	1	132
-IMDProjects	Sandbox	0	1	1	1	827
-IMDProjects	VitalSignsMaps	0	0	0	1	136
-IMDProjects	MapWidgets	0	0	0	1	1544
-IMDProjects	NPScapeVisualization	0	1	2	1	156
+orgname	name
+IMDProjects	ETVLeaflet
+IMDProjects	Sandbox
+IMDProjects	VitalSignsMaps
+IMDProjects	MapWidgets
+IMDProjects	NPScapeVisualization
+IMDProjects	GeneralVisualization
+IMDProjects	IMDBounds
+IMDProjects	IM_Climate
+IMDProjects	ETV

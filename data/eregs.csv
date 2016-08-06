@@ -1,3 +1,7 @@
-orgname	name	star_count	forks	issues	contributors	size
-eregs	eregulations-huboard-experiment	0	0	0	0	56
-eregs	eregulations	2	5	0	2	404
+orgname	name
+eregs	eregs.github.io
+eregs	regulations-site
+eregs	regulations-core
+eregs	regulations-parser
+eregs	fr-notices
+eregs	eRegulations

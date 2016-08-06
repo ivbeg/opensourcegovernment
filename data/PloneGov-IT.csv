@@ -1,40 +1,46 @@
-orgname	name	star_count	forks	issues	contributors	size
-PloneGov-IT	comuneimola.compensi	2	2	2	3	251
-PloneGov-IT	ospfe.percorso_sla	0	0	0	3	436
-PloneGov-IT	rer.downloadurl	0	0	0	1	128
-PloneGov-IT	rg.prenotazioni	1	2	0	3	2211
-PloneGov-IT	monet.mapsviewlet	0	2	0	3	170
-PloneGov-IT	cciaa.portlet.calendar	0	0	0	1	152
-PloneGov-IT	collective.portlet.mybookmarks	0	0	0	2	172
-PloneGov-IT	uniba.bandilavoro	0	0	0	1	176
-PloneGov-IT	monet.calendar.criteria	0	0	0	1	164
-PloneGov-IT	monet.calendar.event	0	0	0	1	532
-PloneGov-IT	monet.calendar.extensions	0	0	0	2	504
-PloneGov-IT	monet.calendar.location	0	0	0	2	296
-PloneGov-IT	monet.calendar.portlet	0	0	0	2	200
-PloneGov-IT	monet.calendar.star	0	0	0	1	172
-PloneGov-IT	collective.solr_collection	1	1	0	3	200
-PloneGov-IT	collective.excludecriterion	0	0	0	1	108
-PloneGov-IT	cciaa.portlet.ulteriori_approfondimenti	0	0	0	2	156
-PloneGov-IT	ospfe.singole_procedure	0	0	0	1	1256
-PloneGov-IT	rer.bandi	0	0	0	4	284
-PloneGov-IT	collective.filteredlocking	0	0	0	2	152
-PloneGov-IT	rer.sitesearch	1	0	0	5	568
-PloneGov-IT	pd.prenotazioni	0	0	0	2	556
-PloneGov-IT	pd.contentrules.sms	0	0	0	2	180
-PloneGov-IT	rer.fix13603	0	0	0	1	140
-PloneGov-IT	unipdgest.portlet.navigation	0	0	0	1	176
-PloneGov-IT	pd.plonedemografico	0	0	0	1	172
-PloneGov-IT	collective.deepsitemap	0	0	0	3	136
-PloneGov-IT	collective.datehacker	0	0	0	2	136
-PloneGov-IT	rer.portlet.advanced_static	1	0	1	5	264
-PloneGov-IT	collective.rtvideo.senapetv	0	0	0	0	160
-PloneGov-IT	rg.infocard	0	0	0	1	296
-PloneGov-IT	rer.groupware.star	1	0	0	2	136
-PloneGov-IT	rer.groupware.addressbook	0	0	0	3	248
-PloneGov-IT	rer.groupware.core	0	0	0	4	216
-PloneGov-IT	rer.groupware.multilanguage	0	0	0	1	120
-PloneGov-IT	rer.groupware.notify	0	0	0	3	232
-PloneGov-IT	rer.groupware.room	0	0	0	4	420
-PloneGov-IT	rer.groupware.security	0	0	0	3	168
-PloneGov-IT	rer.groupware.workflow	0	0	0	3	236
+orgname	name
+PloneGov-IT	comuneimola.compensi
+PloneGov-IT	ospfe.percorso_sla
+PloneGov-IT	rer.downloadurl
+PloneGov-IT	rg.prenotazioni
+PloneGov-IT	monet.mapsviewlet
+PloneGov-IT	cciaa.portlet.calendar
+PloneGov-IT	collective.portlet.mybookmarks
+PloneGov-IT	uniba.bandilavoro
+PloneGov-IT	monet.calendar.criteria
+PloneGov-IT	monet.calendar.event
+PloneGov-IT	monet.calendar.extensions
+PloneGov-IT	monet.calendar.location
+PloneGov-IT	monet.calendar.portlet
+PloneGov-IT	monet.calendar.star
+PloneGov-IT	collective.solr_collection
+PloneGov-IT	collective.excludecriterion
+PloneGov-IT	cciaa.portlet.ulteriori_approfondimenti
+PloneGov-IT	ospfe.singole_procedure
+PloneGov-IT	rer.bandi
+PloneGov-IT	collective.filteredlocking
+PloneGov-IT	rer.sitesearch
+PloneGov-IT	pd.prenotazioni
+PloneGov-IT	pd.contentrules.sms
+PloneGov-IT	rer.fix13603
+PloneGov-IT	unipdgest.portlet.navigation
+PloneGov-IT	pd.plonedemografico
+PloneGov-IT	collective.deepsitemap
+PloneGov-IT	collective.datehacker
+PloneGov-IT	rer.portlet.advanced_static
+PloneGov-IT	collective.rtvideo.senapetv
+PloneGov-IT	rg.infocard
+PloneGov-IT	rer.groupware.star
+PloneGov-IT	rer.groupware.addressbook
+PloneGov-IT	rer.groupware.core
+PloneGov-IT	rer.groupware.multilanguage
+PloneGov-IT	rer.groupware.notify
+PloneGov-IT	rer.groupware.room
+PloneGov-IT	rer.groupware.security
+PloneGov-IT	rer.groupware.workflow
+PloneGov-IT	collective.pfg.userjoin
+PloneGov-IT	rer.al.mcorevideoportlet
+PloneGov-IT	rer.cookieconsent
+PloneGov-IT	rer.consentembed
+PloneGov-IT	collective.outputfilters.enhancelinks
+PloneGov-IT	collective.taxonomysupport

@@ -1,24 +1,24 @@
-orgname	name	star_count	forks	issues	contributors	size
-azgs	geomapaz	1	1	0	1	19172
-azgs	azgs-leaflet	18	9	3	1	404
-azgs	quakedb	0	1	2	2	4948
-azgs	hazards-viewer	0	2	5	2	4435
-azgs	instance-manager	0	1	2	1	136
-azgs	oil-and-gas-viewer	1	0	0	3	2476
-azgs	geomobile	0	0	0	1	168
-azgs	geologic-map-of-arizona	0	2	4	1	12856
-azgs	geologic-map-of-phoenix-area	0	0	0	0	56
-azgs	hazard-data	0	0	0	1	4332
-azgs	logos	0	0	0	1	476
-azgs	vae-ec2-instructions	0	0	0	1	1520
-azgs	map-template	0	0	0	1	216
-azgs	HolbrookPotashMap	0	1	1	2	30190
-azgs	EarthFissureViewer	1	2	0	3	426873
-azgs	mine-collections-planning	0	0	5	0	56
-azgs	tomcat-geoserver	0	1	0	1	172
-azgs	az-agriculture	0	3	2	1	27818
-azgs	Minedata	0	0	0	1	108
-azgs	geologic-map-production	0	0	1	1	41868
-azgs	Arizona-Agency-Alert	0	0	1	0	0
-azgs	az-wine	0	1	0	1	460
-azgs	maintenance-redirect	0	0	0	1	380
+orgname	name
+azgs	geomapaz
+azgs	azgs-leaflet
+azgs	quakedb
+azgs	hazards-viewer
+azgs	instance-manager
+azgs	oil-and-gas-viewer
+azgs	geomobile
+azgs	geologic-map-of-arizona
+azgs	hazard-data
+azgs	logos
+azgs	vae-ec2-instructions
+azgs	map-template
+azgs	HolbrookPotashMap
+azgs	EarthFissureViewer
+azgs	mine-collections-planning
+azgs	tomcat-geoserver
+azgs	az-agriculture
+azgs	Minedata
+azgs	geologic-map-production
+azgs	Arizona-Agency-Alert
+azgs	azwine
+azgs	maintenance-redirect
+azgs	azwinemap

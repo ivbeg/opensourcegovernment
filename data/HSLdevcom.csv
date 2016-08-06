@@ -1,11 +1,36 @@
-orgname	name	star_count	forks	issues	contributors	size
-HSLdevcom	hsl-navigator	15	0	7	2	2477
-HSLdevcom	hsl-visualisation	9	1	0	1	102
-HSLdevcom	navigator-proto	11	7	9	4	2369
-HSLdevcom	navigator-server	3	3	0	4	466
-HSLdevcom	localroute	8	5	6	2	546
-HSLdevcom	kalkati2gtfs	3	2	1	4	211
-HSLdevcom	navigator-recorder	0	1	0	1	119
-HSLdevcom	parkandrideAPI	6	1	2	4	7837
-HSLdevcom	openjourneyplanner	0	0	30	1	1444
-HSLdevcom	hsl-card-java	0	0	0	1	116
+orgname	name
+HSLdevcom	hsl-navigator
+HSLdevcom	hsl-visualisation
+HSLdevcom	navigator-proto
+HSLdevcom	navigator-server
+HSLdevcom	localroute
+HSLdevcom	kalkati2gtfs
+HSLdevcom	navigator-recorder
+HSLdevcom	parkandrideAPI
+HSLdevcom	digitransit
+HSLdevcom	hsl-card-java
+HSLdevcom	digitransit-deploy
+HSLdevcom	digitransit-data
+HSLdevcom	hsl-now
+HSLdevcom	digitransit-geocoder
+HSLdevcom	digitransit-map
+HSLdevcom	digitransit-ui
+HSLdevcom	routes-in-future
+HSLdevcom	bus-call-analysis
+HSLdevcom	pelias-gtfs
+HSLdevcom	digitransit-site
+HSLdevcom	pelias-nlsfi-places-importer
+HSLdevcom	digitransit-benchmark
+HSLdevcom	pelias-data-container
+HSLdevcom	hsl-map-style
+HSLdevcom	tilelive-hsl-parkandride
+HSLdevcom	tilelive-otp-citybikes
+HSLdevcom	pelias-fuzzy-tests
+HSLdevcom	hsl-map-server
+HSLdevcom	tilelive-otp-routes
+HSLdevcom	hsl-map-generator-ui
+HSLdevcom	OpenTripPlanner-data-container
+HSLdevcom	digitransit-proxy
+HSLdevcom	tilelive-hsl-ticket-sales
+HSLdevcom	digitransit-openshift-deploy
+HSLdevcom	hastus2gtfs

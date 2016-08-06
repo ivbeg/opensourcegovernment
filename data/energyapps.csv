@@ -1,20 +1,44 @@
-orgname	name	star_count	forks	issues	contributors	size
-energyapps	doe-budget	0	0	0	1	764
-energyapps	bestpractices	0	0	0	1	256
-energyapps	templates	1	0	0	1	256
-energyapps	solar	2	0	0	1	6600
-energyapps	EM_timeline	0	0	0	1	93984
-energyapps	labs	0	0	0	1	220
-energyapps	sankey	0	0	0	1	312
-energyapps	lpo	0	0	0	1	272
-energyapps	budget_workflow	0	0	0	1	512
-energyapps	app_frame	0	0	0	1	1376
-energyapps	turbine	0	0	0	1	3584
-energyapps	consumption-d3	0	0	0	1	656
-energyapps	consumption	0	0	0	1	5048
-energyapps	app-frame-foundation	0	0	0	1	4892
-energyapps	geothermal	0	0	0	1	984
-energyapps	production	0	0	0	1	3272
-energyapps	PPPO_timeline	0	0	0	1	8988
-energyapps	prod_over_years	0	0	0	1	1796
-energyapps	climate-dash	0	0	0	1	0
+orgname	name
+energyapps	doe-budget
+energyapps	bestpractices
+energyapps	templates
+energyapps	solar
+energyapps	EM_timeline
+energyapps	labs
+energyapps	sankey-old
+energyapps	lpo
+energyapps	budget_workflow
+energyapps	app_frame
+energyapps	turbine
+energyapps	consumption-d3
+energyapps	consumption
+energyapps	app-frame-foundation
+energyapps	geothermal
+energyapps	production
+energyapps	PPPO_timeline
+energyapps	prod_over_years
+energyapps	climate-dash
+energyapps	quiz-template
+energyapps	power-plants-quiz
+energyapps	power-plants-map
+energyapps	wind-vision
+energyapps	history-of-nuclear
+energyapps	grid-quiz
+energyapps	facilities
+energyapps	quizzer
+energyapps	sankey
+energyapps	test-app-frame
+energyapps	test-frame
+energyapps	climate-frame
+energyapps	systemdown
+energyapps	egallon
+energyapps	pym
+energyapps	utilities_data_processor
+energyapps	co2
+energyapps	energyintensity
+energyapps	sotu-carbon
+energyapps	sunshot-vision
+energyapps	generator-energyapps
+energyapps	bbc-map
+energyapps	EM-before-after
+energyapps	burrito-calculator

@@ -1,48 +1,72 @@
-orgname	name	star_count	forks	issues	contributors	size
-ioos	pyoos	13	12	13	6	1735
-ioos	sos-injector	1	4	0	6	876
-ioos	sensor-web-harvester	1	2	2	6	150813
-ioos	cf4j	1	0	0	1	908
-ioos	phenomena	0	3	0	4	444
-ioos	ioos-sos-common	0	0	1	1	404
-ioos	sos-injector-example	0	1	0	2	273
-ioos	wicken	2	2	0	3	360
-ioos	ioos-sos-validator	0	0	1	1	348
-ioos	petulant-bear	0	4	1	5	270
-ioos	metamap	1	0	0	2	496
-ioos	glider_dac_thredds_catalog	0	1	5	3	467
-ioos	ioos.github.io	0	1	0	3	1639
-ioos	catalog	4	9	71	8	26344
-ioos	ipython-notebooks	0	1	3	4	395
-ioos	ioossos2kml	0	0	0	1	548
-ioos	compliance-checker	5	7	14	5	2389
-ioos	comt_catalog	1	2	19	3	715
-ioos	system-test	4	10	58	11	101988
-ioos	ncsos-deployment	0	0	5	1	136
-ioos	sos-injector-db	1	1	2	1	632
-ioos	conda-recipes	3	9	4	4	2075
-ioos	secoora	1	1	4	1	50660
-ioos	registry	1	2	30	6	2285
-ioos	i52n-sos	1	0	7	1	656
-ioos	vocabularies	0	5	3	5	513
-ioos	ioosngdac	0	3	14	3	5828
-ioos	comt	1	4	17	3	1371
-ioos	db2ncsos	0	0	0	1	1452
-ioos	freezing-avenger	1	0	4	1	0
-ioos	comt_2	1	0	0	2	160
-ioos	comt_1_archive	0	0	2	2	980
-ioos	comt_notebooks	0	0	0	2	216
-ioos	ncml	1	2	3	3	247
-ioos	glider-dac	0	2	7	4	875
-ioos	qartod	0	1	3	1	124
-ioos	glider-dac-catalog	0	0	1	1	136
-ioos	ioos-sos-compliance-tests	0	0	1	1	956
-ioos	ioos-csv-tsv	0	2	1	3	305
-ioos	flot_graph_examples	0	0	0	1	1164
-ioos	conventions-for-observing-asset-identifiers	0	2	4	1	157
-ioos	sos-guidelines	0	4	4	5	1873
-ioos	biological-data-services	0	1	0	2	100
-ioos	animal-telemetry	0	1	0	2	1121
-ioos	ioos-chrome	0	0	0	1	212
-ioos	metadataTransformations	1	0	0	3	2188
-ioos	metadataValidations	0	0	0	1	340
+orgname	name
+ioos	pyoos
+ioos	sos-injector
+ioos	sensor-web-harvester
+ioos	cf4j
+ioos	phenomena
+ioos	ioos-sos-common
+ioos	sos-injector-example
+ioos	wicken
+ioos	ioos-sos-validator
+ioos	petulant-bear
+ioos	metamap
+ioos	glider_dac_thredds_catalog
+ioos	ioos.github.io
+ioos	service-monitor
+ioos	ioossos2kml
+ioos	compliance-checker
+ioos	comt_catalog
+ioos	system-test
+ioos	ncsos-deployment
+ioos	sos-injector-db
+ioos	conda-recipes
+ioos	registry
+ioos	i52n-sos
+ioos	vocabularies
+ioos	ioosngdac
+ioos	comt
+ioos	db2ncsos
+ioos	freezing-avenger
+ioos	comt_2
+ioos	comt_1_archive
+ioos	comt_notebooks
+ioos	ncml
+ioos	glider-dac
+ioos	qartod
+ioos	ioos-sos-compliance-tests
+ioos	ioos-csv-tsv
+ioos	flot_graph_examples
+ioos	conventions-for-observing-asset-identifiers
+ioos	sos-guidelines
+ioos	biological-data-services
+ioos	animal-telemetry
+ioos	ioos-chrome
+ioos	metadataTransformations
+ioos	metadataValidations
+ioos	glider-dac-status
+ioos	HF-radar
+ioos	cc-plugin-glider
+ioos	compliance-checker-web
+ioos	APIRUS
+ioos	odvc
+ioos	configuration-management
+ioos	passive-acoustics
+ioos	ciso
+ioos	gliders
+ioos	cc-plugin-ncei
+ioos	model-data-framework
+ioos	cc-plugin-sgrid
+ioos	ioos-us
+ioos	ioos-sos-issues-generic
+ioos	catalog-ckan
+ioos	notebooks_demos
+ioos	eds
+ioos	catalog-docker-base
+ioos	catalog-docker-ckan
+ioos	catalog-docker-pycsw
+ioos	catalog-docker-ckan-harvest
+ioos	catalog-harvesting
+ioos	catalog-registry
+ioos	catalog-harvest-registry
+ioos	sos-dif
+ioos	catalog

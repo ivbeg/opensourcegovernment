@@ -1,87 +1,191 @@
-orgname	name	star_count	forks	issues	contributors	size
-cfpb	django-nudge	73	16	20	6	757
-cfpb	transit_subsidy	26	6	1	4	30146
-cfpb	ec2mapper	39	3	1	3	168
-cfpb	hmda-tools	10	6	4	4	1048
-cfpb	clouseau	4	7	13	7	1925
-cfpb	qu	121	36	9	14	9540
-cfpb	django-cache-tools	10	3	1	4	602
-cfpb	idea-box	58	14	1	9	1383
-cfpb	regulations-parser	27	11	9	5	4167
-cfpb	regulations-core	9	9	0	5	1285
-cfpb	regulations-site	14	16	7	10	14857
-cfpb	sheer	21	12	13	5	2197
-cfpb	django-widgeter	4	1	0	1	160
-cfpb	api	6	16	15	5	2777
-cfpb	cfpb.github.io	39	44	5	13	2585
-cfpb	source-code-policy	10	12	0	4	249
-cfpb	DOCter	8	10	3	6	650
-cfpb	design-manual	32	20	54	15	24049
-cfpb	jmeter-bootstrap	6	3	0	4	239
-cfpb	collab	32	14	3	10	1981
-cfpb	collab-staff-directory	8	6	3	4	732
-cfpb	collab-news	6	3	0	4	345
-cfpb	owning-a-home	20	18	10	17	19954
-cfpb	grunt-cfpb-internal	0	2	1	9	250
-cfpb	cf-colors	0	2	0	2	301
-cfpb	django-hud	6	15	0	5	246
-cfpb	find-a-housing-counselor	8	7	0	3	431
-cfpb	cf-component-demo	0	3	13	5	1476
-cfpb	cf-grid	3	4	6	5	1289
-cfpb	cf-typography	1	3	3	3	771
-cfpb	cf-buttons	2	4	3	4	3369
-cfpb	cf-forms	1	4	3	4	2432
-cfpb	click-to-comment	0	5	0	4	2658
-cfpb	github-wiki-search	1	6	14	4	7126
-cfpb	cf-pagination	0	4	4	4	2318
-cfpb	cf-expandables	1	4	4	4	2435
-cfpb	capital-framework	12	8	32	7	5182
-cfpb	open-graph-control	0	13	0	2	331
-cfpb	cf-tables	0	0	0	1	104
-cfpb	cf-tabs	0	2	3	1	756
-cfpb	cf-grunt-config	2	4	7	3	286
-cfpb	cf-demo	0	4	4	4	653
-cfpb	cf-icons	3	4	4	4	1441
-cfpb	normalize-legacy-addon	0	1	0	2	159
-cfpb	loan-calc	2	4	0	3	346
-cfpb	cfgov-refresh	5	9	12	6	16467
-cfpb	cfgov-sheer-templates	1	1	1	2	176
-cfpb	fuzzy-state-search	1	1	0	1	112
-cfpb	collab-form-builder	7	3	2	3	351
-cfpb	mapusaurus	7	12	0	11	5467
-cfpb	cfpb-wp-cli	0	9	0	2	284
-cfpb	hmda-fan	1	1	0	2	204
-cfpb	collab-mystery-meet	1	2	0	3	469
-cfpb	open-source-project-template	6	5	0	4	528
-cfpb	cms-toolkit	2	16	1	5	715
-cfpb	amortize	5	3	0	2	277
-cfpb	hmda-explorer	5	7	1	12	13007
-cfpb	generator-node-cfpb	0	1	0	2	250
-cfpb	format-usd	0	2	0	2	200
-cfpb	unformat-usd	0	2	0	2	157
-cfpb	is-money-usd	0	4	0	3	157
-cfpb	owning-a-home-api	1	7	2	4	603
-cfpb	overall-loan-cost	0	2	0	2	226
-cfpb	cf-core	1	4	9	3	1472
-cfpb	objectified	0	2	0	1	242
-cfpb	django-api-test	1	3	2	3	185
-cfpb	stay-positive	0	1	0	1	166
-cfpb	eRegulations	1	0	0	1	228
-cfpb	django-rest-framework-selectserializer	0	1	1	1	152
-cfpb	devdash	0	5	8	7	4686
-cfpb	pilot_pilot	1	2	0	2	395
-cfpb	proxy-methodology	4	1	0	2	38057
-cfpb	jumbo-mortgage	0	3	0	3	234
-cfpb	generator-cf	4	4	10	4	931
-cfpb	dotfiles	0	3	0	2	172
-cfpb	cf-layout	1	5	1	3	407
-cfpb	hmda-pilot	4	8	48	6	847
-cfpb	hmda-rule-spec	1	6	0	5	777
-cfpb	hmda-rule-engine	0	6	1	6	765
-cfpb	hmda-edit-check-api	0	6	1	5	3493
-cfpb	shortstack	1	3	1	3	631
-cfpb	hmda-viz-prototype	2	2	13	1	992
-cfpb	kratos	1	4	6	2	2542
-cfpb	kratos_test	0	0	0	0	0
-cfpb	sentia	0	1	0	4	0
-cfpb	porchlight	0	2	0	4	0
+orgname	name
+cfpb	django-nudge
+cfpb	transit_subsidy
+cfpb	ec2mapper
+cfpb	hmda-tools
+cfpb	clouseau
+cfpb	qu
+cfpb	django-cache-tools
+cfpb	idea-box
+cfpb	regulations-parser
+cfpb	regulations-core
+cfpb	regulations-site
+cfpb	sheer
+cfpb	django-widgeter
+cfpb	api
+cfpb	cfpb.github.io
+cfpb	source-code-policy
+cfpb	DOCter
+cfpb	design-manual
+cfpb	jmeter-bootstrap
+cfpb	collab
+cfpb	collab-staff-directory
+cfpb	collab-news
+cfpb	owning-a-home
+cfpb	grunt-cfpb-internal
+cfpb	cf-colors
+cfpb	django-hud
+cfpb	find-a-housing-counselor
+cfpb	cf-component-demo
+cfpb	cf-grid
+cfpb	cf-typography
+cfpb	cf-buttons
+cfpb	cf-forms
+cfpb	click-to-comment
+cfpb	github-wiki-search
+cfpb	cf-pagination
+cfpb	cf-expandables
+cfpb	capital-framework
+cfpb	open-graph-control
+cfpb	cf-tables
+cfpb	cf-tabs
+cfpb	cf-grunt-config
+cfpb	cf-demo
+cfpb	cf-icons
+cfpb	normalize-legacy-addon
+cfpb	loan-calc
+cfpb	cfgov-refresh
+cfpb	cfgov-sheer-templates
+cfpb	fuzzy-state-search
+cfpb	collab-form-builder
+cfpb	mapusaurus
+cfpb	cfpb-wp-cli
+cfpb	hmda-fan
+cfpb	collab-mystery-meet
+cfpb	open-source-project-template
+cfpb	cms-toolkit
+cfpb	amortize
+cfpb	hmda-explorer
+cfpb	generator-node-cfpb
+cfpb	format-usd
+cfpb	unformat-usd
+cfpb	is-money-usd
+cfpb	owning-a-home-api
+cfpb	overall-loan-cost
+cfpb	cf-core
+cfpb	objectified
+cfpb	django-api-test
+cfpb	stay-positive
+cfpb	django-rest-framework-selectserializer
+cfpb	pantheon
+cfpb	pilot_pilot
+cfpb	proxy-methodology
+cfpb	jumbo-mortgage
+cfpb	generator-cf
+cfpb	dotfiles
+cfpb	cf-layout
+cfpb	hmda-pilot
+cfpb	hmda-rule-spec
+cfpb	hmda-rule-engine
+cfpb	hmda-edit-check-api
+cfpb	shortstack
+cfpb	hmda-viz-prototype
+cfpb	kratos
+cfpb	sentia
+cfpb	porchlight
+cfpb	email-templates
+cfpb	grasshopper
+cfpb	decision-stacker
+cfpb	publish_eccu
+cfpb	front-end
+cfpb	grasshopper-loader
+cfpb	grasshopper-ui
+cfpb	sifu
+cfpb	flask-eventics
+cfpb	ckan-installer
+cfpb	moirai
+cfpb	retirement
+cfpb	dash
+cfpb	macropolo
+cfpb	pantheon-helpers
+cfpb	ckanext-cfpb-extrafields
+cfpb	aurora
+cfpb	-new-clouseau-
+cfpb	python27-for-el6
+cfpb	fr-notices
+cfpb	node-wcag
+cfpb	grasshopper-parser
+cfpb	pantheon-2
+cfpb	regulations-stub
+cfpb	CFPBot
+cfpb	grasshopper-retriever
+cfpb	cf-notifications
+cfpb	xsv-el6-rpm
+cfpb	cf-tooltips
+cfpb	unitybox
+cfpb	agile-playbook
+cfpb	delinkenator
+cfpb	cfgov-django
+cfpb	django-sheerlike
+cfpb	regulations-configs
+cfpb	gnucobol-el6-rpm
+cfpb	jenkins-automation
+cfpb	project-open-source
+cfpb	node-wcag-cli
+cfpb	kratos-moirai
+cfpb	kratos-gh
+cfpb	hmda-geo
+cfpb	generator-cf-component
+cfpb	back-end
+cfpb	python34-for-el6
+cfpb	rhobot
+cfpb	pg-common
+cfpb	hmda-viz-processing
+cfpb	hmda-explorer-updater
+cfpb	rural-or-underserved-test
+cfpb	regulations-schema
+cfpb	college-costs
+cfpb	readme_refresh_day
+cfpb	student-debt-calculator
+cfpb	cf-modals
+cfpb	regulations-xml-parser
+cfpb	sentia-softwarediscovery
+cfpb	qm-data-processing
+cfpb	hackathon
+cfpb	cf-type-testing
+cfpb	django-mysql-ssl
+cfpb	jenkins-as-code-starter-project
+cfpb	new-relic-installer
+cfpb	zip-backfill
+cfpb	drake-el6-rpm
+cfpb	salesforce-dataloader-el6-rpm
+cfpb	imcs-el6-rpm
+cfpb	test_hmda_pipeline
+cfpb	xtdiff
+cfpb	pipeline-ccdb
+cfpb	auto-loans
+cfpb	tax-time-saving
+cfpb	hammerdb-el6-rpm
+cfpb	hypopg-el6-rpm
+cfpb	pg_jobmon
+cfpb	hmda-platform
+cfpb	hmda-platform-ui
+cfpb	regulations-xml
+cfpb	cstore_fdw-el6-rpm
+cfpb	pg_bulkload-el6-rpm
+cfpb	postgis2-el6-rpm
+cfpb	pg_partman-el6-rpm
+cfpb	drama-free-django
+cfpb	cf-theme-cfpb
+cfpb	complaint-intake
+cfpb	vax
+cfpb	data-viz-workshop
+cfpb	hubot-acrogov
+cfpb	dimension
+cfpb	present-value
+cfpb	payment-calculator
+cfpb	hubot-aws-cfpb
+cfpb	hubot-capital-framework
+cfpb	redis-el6-rpm
+cfpb	onboarding-scheduler
+cfpb	hubot-onboarding
+cfpb	complaint
+cfpb	time2read
+cfpb	open-source-checklist
+cfpb	read2me
+cfpb	psql-authnz
+cfpb	rhobot-for-el6
+cfpb	elasticizer
+cfpb	hubot-new-relic-alerts
+cfpb	maven-for-el6
+cfpb	hmda-platform-auth

@@ -1,15 +1,21 @@
-orgname	name	star_count	forks	issues	contributors	size
-sunpy	sunpy	151	106	180	36	141784
-sunpy	eitwave	7	7	7	5	6826
-sunpy	presentations	1	5	1	5	44587
-sunpy	heroes	2	2	0	2	206
-sunpy	sunpy-0.4-paper	0	10	5	9	8587
-sunpy	sunpy-viewer	0	1	0	1	101
-sunpy	gallery_old	0	0	2	1	396
-sunpy	sunpy.github.io	0	4	16	5	2531
-sunpy	sunpy-logo	0	2	0	1	1200
-sunpy	sunpy-SEP	0	6	8	4	579
-sunpy	ginga-sunpy	0	2	6	4	362
-sunpy	gallery	0	3	7	3	1614
-sunpy	TEBBS	0	0	1	0	0
-sunpy	conda-ci-testing-packages	0	0	0	4	0
+orgname	name
+sunpy	sunpy
+sunpy	eitwave
+sunpy	presentations
+sunpy	heroes
+sunpy	sunpy-0.4-paper
+sunpy	sunpy-viewer
+sunpy	gallery_old
+sunpy	sunpy.github.io
+sunpy	sunpy-logo
+sunpy	sunpy-SEP
+sunpy	ginga-sunpy
+sunpy	gallery
+sunpy	TEBBS
+sunpy	conda-ci-testing-packages
+sunpy	solarbextrapolation
+sunpy	cube
+sunpy	sunpy-figure-tests
+sunpy	sunkit-sst
+sunpy	tutorial-notebooks
+sunpy	2016SPD-Python-SunPy

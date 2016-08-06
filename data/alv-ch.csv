@@ -1,20 +1,37 @@
-orgname	name	star_count	forks	issues	contributors	size
-alv-ch	alv-ch-ng	4	1	0	3	8349
-alv-ch	jobroom-api	0	0	0	2	444
-alv-ch	jobroom-web	0	0	0	2	816
-alv-ch	alv-ch-java	1	1	0	2	1396
-alv-ch	poc-man	0	0	0	1	4832
-alv-ch	alv-ch-laboratory	0	0	0	2	1008
-alv-ch	alv-ch-snippets	0	0	0	1	168
-alv-ch	alv-ch-integration	0	0	0	1	2036
-alv-ch	doc-man	0	0	0	1	11856
-alv-ch	alv-ch-nodejs	0	0	0	1	232
-alv-ch	jobroom-mobile	0	0	0	1	3372
-alv-ch	alv-ch-sysinfos.api	0	1	1	5	4404
-alv-ch	alv-ch-sysinfos.ui	0	1	1	6	1795
-alv-ch	alv-ch-circular.ui	0	0	0	5	668
-alv-ch	alv-ch-tech	0	0	0	2	656
-alv-ch	grunt-build-alv-ch	0	0	1	1	160
-alv-ch	alv-ch-reperire	0	0	0	0	0
-alv-ch	alv-ch	0	0	1	2	232
-alv-ch	generator-alvch	0	0	0	1	0
+orgname	name
+alv-ch	alv-ch-ng
+alv-ch	job-room
+alv-ch	alv-ch-java
+alv-ch	poc-man
+alv-ch	alv-ch-snippets
+alv-ch	alv-ch-integration
+alv-ch	alv-ch-yoGenerators
+alv-ch	alv-ch-sysinfos.api
+alv-ch	alv-ch-sysinfos.ui
+alv-ch	alv-ch-circular.ui
+alv-ch	alv-ch-tech
+alv-ch	ssi-novus.ui
+alv-ch	alv-ch
+alv-ch	ssi-novus.api
+alv-ch	iam.auth-manager
+alv-ch	iam.auth-server
+alv-ch	config-server
+alv-ch	integration.server
+alv-ch	integration.spring-boot-partnerjob-import-starter
+alv-ch	integration.spring-boot-starters-commons
+alv-ch	integration.spring-boot-avgCompanies-import-starter
+alv-ch	egov-java-commons
+alv-ch	egov.spring-boot-egovCodes-starter
+alv-ch	emergency
+alv-ch	job-desk
+alv-ch	alv-services
+alv-ch	integration.spring-boot-jobs-export-starter
+alv-ch	alv-ch-batches
+alv-ch	jobroom-api
+alv-ch	jobmatch
+alv-ch	job-desk-app
+alv-ch	alv-ch-doc
+alv-ch	ssi-monitor
+alv-ch	postman
+alv-ch	jobmatch-api
+alv-ch	ta-poc-contentful

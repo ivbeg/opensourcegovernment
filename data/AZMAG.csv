@@ -1,2 +1,11 @@
-orgname	name	star_count	forks	issues	contributors	size
-AZMAG	mag_urbansim	2	0	0	2	1844
+orgname	name
+AZMAG	map-DemographicState
+AZMAG	map-ReadOnAZ
+AZMAG	map-Employment
+AZMAG	map-DemographicRegional
+AZMAG	map-LandUse
+AZMAG	map-Bikeways
+AZMAG	map-Projections
+AZMAG	map-BLI
+AZMAG	map-Wickenburg
+AZMAG	map-GilaBend

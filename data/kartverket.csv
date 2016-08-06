@@ -1,11 +1,17 @@
-orgname	name	star_count	forks	issues	contributors	size
-kartverket	kivyMaps	23	8	0	2	10550
-kartverket	anathem	2	1	0	3	4584
-kartverket	fyba	6	5	3	5	64157
-kartverket	norgeskart.no	10	6	13	4	819
-kartverket	GeoNorgeAPI	2	1	0	2	1106
-kartverket	mapserverSldGenerator	1	0	0	1	200
-kartverket	xslt-for-ogc-services	0	0	0	1	124
-kartverket	MetadataEditor	0	1	0	2	3496
-kartverket	MetadataMonitor	0	0	0	1	628
-kartverket	example-clients	8	1	0	3	4344
+orgname	name
+kartverket	kivyMaps
+kartverket	anathem
+kartverket	fyba
+kartverket	norgeskart.no
+kartverket	GeoNorgeAPI
+kartverket	mapserverSldGenerator
+kartverket	xslt-for-ogc-services
+kartverket	MetadataEditor
+kartverket	MetadataMonitor
+kartverket	example-clients
+kartverket	coverage
+kartverket	felleskomponenter
+kartverket	UML-modelleringsskript
+kartverket	geonorge-nedlastingsapi
+kartverket	eksempelklient-etinglysing-altinn
+kartverket	faktaark

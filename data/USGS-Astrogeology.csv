@@ -1,6 +1,32 @@
-orgname	name	star_count	forks	issues	contributors	size
-USGS-Astrogeology	SpaceBlender	0	1	0	1	193
-USGS-Astrogeology	ArcGIS_Plugins	0	1	1	2	2382
-USGS-Astrogeology	Vagrant	0	0	0	1	156
-USGS-Astrogeology	QGIS_Plugins	0	0	0	1	300
-USGS-Astrogeology	GDAL_scripts	0	0	0	1	1596
+orgname	name
+USGS-Astrogeology	SpaceBlender
+USGS-Astrogeology	ArcGIS_Plugins
+USGS-Astrogeology	Vagrant
+USGS-Astrogeology	QGIS_Plugins
+USGS-Astrogeology	GDAL_scripts
+USGS-Astrogeology	isis3
+USGS-Astrogeology	socet_gxp_dev
+USGS-Astrogeology	python_tutorials
+USGS-Astrogeology	variable_scalebar
+USGS-Astrogeology	socet_set
+USGS-Astrogeology	autocnet
+USGS-Astrogeology	conda-geos
+USGS-Astrogeology	conda-hdf5
+USGS-Astrogeology	conda-gdal
+USGS-Astrogeology	conda-openjpeg
+USGS-Astrogeology	conda-jsonc
+USGS-Astrogeology	conda-lapack
+USGS-Astrogeology	conda-armidillo
+USGS-Astrogeology	conda-libtiff
+USGS-Astrogeology	conda-xerces-c
+USGS-Astrogeology	conda-patchelf
+USGS-Astrogeology	conda-protobuf
+USGS-Astrogeology	conda-tbb
+USGS-Astrogeology	conda-h5py
+USGS-Astrogeology	autocnet_tutorials
+USGS-Astrogeology	PySAT
+USGS-Astrogeology	plio
+USGS-Astrogeology	conda-pvl
+USGS-Astrogeology	conda-spiceypy
+USGS-Astrogeology	LargeCraterClusteringTool
+USGS-Astrogeology	ISIS3_scripts

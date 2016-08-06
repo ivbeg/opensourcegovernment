@@ -1,5 +1,8 @@
-orgname	name	star_count	forks	issues	contributors	size
-M-O-S-E-S	mgm	4	2	0	1	2724
-M-O-S-E-S	mgmNode	1	1	0	1	235
-M-O-S-E-S	firestorm	1	1	0	49	1389956
-M-O-S-E-S	aarModule	1	0	0	1	600
+orgname	name
+M-O-S-E-S	mgm
+M-O-S-E-S	mgm-node
+M-O-S-E-S	opensim-aar-plugin
+M-O-S-E-S	opensim-mgm-plugin
+M-O-S-E-S	mgm2
+M-O-S-E-S	opensim-scripting-library
+M-O-S-E-S	opensim-oar-utilities

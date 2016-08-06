@@ -1,17 +1,53 @@
-orgname	name	star_count	forks	issues	contributors	size
-City-of-Helsinki	palaute-integraatio	0	0	0	1	196
-City-of-Helsinki	geocoder	3	1	0	2	460
-City-of-Helsinki	aura	5	1	0	1	602
-City-of-Helsinki	helsinki-address-register	2	1	0	1	638
-City-of-Helsinki	openahjo	10	5	22	4	4285
-City-of-Helsinki	issues-example	2	1	1	1	384
-City-of-Helsinki	helsinki-orto	2	1	0	1	691
-City-of-Helsinki	servicemap	13	6	61	5	4893
-City-of-Helsinki	smbackend	1	1	1	2	762
-City-of-Helsinki	appseli	0	2	0	4	568
-City-of-Helsinki	linkedevents	0	3	19	4	1093
-City-of-Helsinki	helsinki-deployment	1	0	0	1	128
-City-of-Helsinki	events-ui	0	0	0	1	432
-City-of-Helsinki	appseli-ui	0	1	0	3	661
-City-of-Helsinki	kuulemispalvelu-ui	0	0	0	0	0
-City-of-Helsinki	owsbench	0	0	0	1	100
+orgname	name
+City-of-Helsinki	palaute-integraatio
+City-of-Helsinki	geocoder
+City-of-Helsinki	aura
+City-of-Helsinki	helsinki-address-register
+City-of-Helsinki	openahjo
+City-of-Helsinki	issues-example
+City-of-Helsinki	helsinki-orto
+City-of-Helsinki	munigeo
+City-of-Helsinki	servicemap
+City-of-Helsinki	smbackend
+City-of-Helsinki	appseli
+City-of-Helsinki	linkedevents
+City-of-Helsinki	events-ui
+City-of-Helsinki	appseli-ui
+City-of-Helsinki	kuulemispalvelu-ui
+City-of-Helsinki	kuulemma
+City-of-Helsinki	owsbench
+City-of-Helsinki	geoserver-preview
+City-of-Helsinki	heatmapper
+City-of-Helsinki	kore
+City-of-Helsinki	hkisaml
+City-of-Helsinki	ckanext-hoi
+City-of-Helsinki	laskereport
+City-of-Helsinki	respa
+City-of-Helsinki	lipas
+City-of-Helsinki	helbot
+City-of-Helsinki	django-helusers
+City-of-Helsinki	leui
+City-of-Helsinki	ckan-install-playbook
+City-of-Helsinki	geowaterbed
+City-of-Helsinki	devheldev
+City-of-Helsinki	servicemap-embedder
+City-of-Helsinki	issuereporting-documentation
+City-of-Helsinki	kerrokantasi
+City-of-Helsinki	kerrokantasi-ui
+City-of-Helsinki	passport-helsinki
+City-of-Helsinki	passport-helsinki-example
+City-of-Helsinki	linkedevents-ui
+City-of-Helsinki	django-appcatalog
+City-of-Helsinki	djangosaml2
+City-of-Helsinki	palvelutietovaranto
+City-of-Helsinki	open-city-app
+City-of-Helsinki	tapi
+City-of-Helsinki	paatos
+City-of-Helsinki	organisaatiorekisteri
+City-of-Helsinki	palaute-ui-alpha
+City-of-Helsinki	democracy-preview
+City-of-Helsinki	helerm
+City-of-Helsinki	respa-exchange
+City-of-Helsinki	digihel
+City-of-Helsinki	servicemap-test-legacy-redirect
+City-of-Helsinki	servicemap-user-documentation

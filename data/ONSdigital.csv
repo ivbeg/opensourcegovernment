@@ -1,18 +1,88 @@
-orgname	name	star_count	forks	issues	contributors	size
-ONSdigital	ons-poc-data	0	0	3	5	728
-ONSdigital	ons_data_models	0	0	0	5	600
-ONSdigital	ons-templates	0	0	0	2	220
-ONSdigital	ons-data-api	0	0	0	5	660
-ONSdigital	prototype-frontend	0	1	0	5	716
-ONSdigital	ProfileGenerator	0	1	0	0	552
-ONSdigital	Alpha	1	2	0	2	8178
-ONSdigital	onsdigital.github.io	0	1	0	1	524
-ONSdigital	web-apps	0	2	0	1	5207
-ONSdigital	ons-api_jsonstatviewer	2	1	0	1	172
-ONSdigital	ons-api_googlecharts	0	0	0	1	184
-ONSdigital	ons-api_maps	0	1	0	1	224
-ONSdigital	opendatasets	1	1	0	1	512
-ONSdigital	ons-api_areatree	0	1	0	1	296
-ONSdigital	rjstat	1	0	1	1	148
-ONSdigital	tredegar	2	1	0	7	122945
-ONSdigital	pattern-library	0	2	0	1	2472
+orgname	name
+ONSdigital	ons-poc-data
+ONSdigital	ons_data_models
+ONSdigital	ons-templates
+ONSdigital	ons-data-api
+ONSdigital	prototype-frontend
+ONSdigital	ONS-Charting
+ONSdigital	ProfileGenerator
+ONSdigital	Alpha
+ONSdigital	onsdigital.github.io
+ONSdigital	web-apps
+ONSdigital	ons-api_jsonstatviewer
+ONSdigital	ons-api_googlecharts
+ONSdigital	ons-api_maps
+ONSdigital	opendatasets
+ONSdigital	ons-api_areatree
+ONSdigital	rjstat
+ONSdigital	tredegar
+ONSdigital	pattern-library
+ONSdigital	florence
+ONSdigital	zebedee
+ONSdigital	project-brian
+ONSdigital	MrRusty
+ONSdigital	babbage
+ONSdigital	jenkins-docker
+ONSdigital	content-library
+ONSdigital	highcharts-export-docker
+ONSdigital	java-component
+ONSdigital	java-node-component
+ONSdigital	ONS-Local
+ONSdigital	java-phantom-component
+ONSdigital	java-node-phantom-component
+ONSdigital	chef-cookbooks
+ONSdigital	ons-postgresql
+ONSdigital	The-Train
+ONSdigital	alpha-eq-terraform
+ONSdigital	EQ-UI-Protos
+ONSdigital	alpha-eq-author
+ONSdigital	alpha-eq-survey-runner
+ONSdigital	eq-spikes
+ONSdigital	mathjax-api
+ONSdigital	babbage-automation
+ONSdigital	eq-performance-test
+ONSdigital	National-Accounts-Research
+ONSdigital	ons-survey-registry
+ONSdigital	ons-question-library
+ONSdigital	eq-author-patterns
+ONSdigital	ermintrude
+ONSdigital	eq-style-guide
+ONSdigital	eq-schema
+ONSdigital	ZebedeeScript
+ONSdigital	ons-boxen
+ONSdigital	eq-survey-runner
+ONSdigital	eq-messaging
+ONSdigital	eq-author
+ONSdigital	eq-sass
+ONSdigital	eq-deploy
+ONSdigital	eq-terraform
+ONSdigital	eq-submitter
+ONSdigital	java-node-phantom-ghostscript-component
+ONSdigital	elasticsearch-multicast-docker
+ONSdigital	csdb-import
+ONSdigital	eq-smoke-test
+ONSdigital	Dylan
+ONSdigital	ons-schema-definitions
+ONSdigital	sdx-decrypt
+ONSdigital	sdx-collect
+ONSdigital	pootle
+ONSdigital	flumpet
+ONSdigital	dockers
+ONSdigital	sdx-bdd
+ONSdigital	splunk-forwarder
+ONSdigital	sdx-console
+ONSdigital	eq-prototypes
+ONSdigital	sdx-recover
+ONSdigital	dp-logging
+ONSdigital	web-archive
+ONSdigital	sdx-validate
+ONSdigital	sdx-transform-cs
+ONSdigital	sdx-store
+ONSdigital	sdx-downstream
+ONSdigital	sdx-sequence
+ONSdigital	ons-devops
+ONSdigital	sdx-transform-testform
+ONSdigital	sdx-compose
+ONSdigital	sdx-mock-receipt
+ONSdigital	dp-web-status
+ONSdigital	OGD-Address

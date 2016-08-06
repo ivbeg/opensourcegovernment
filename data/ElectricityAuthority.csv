@@ -1,8 +1,10 @@
-orgname	name	star_count	forks	issues	contributors	size
-ElectricityAuthority	vSPD	3	7	0	4	6705
-ElectricityAuthority	LICENSE	0	0	0	2	152
-ElectricityAuthority	vSPD_loss_segment_calculation	0	0	0	1	130804
-ElectricityAuthority	EAplots	0	0	0	1	532
-ElectricityAuthority	PEM	0	0	0	0	16656
-ElectricityAuthority	pocp	0	0	0	3	30992
-ElectricityAuthority	gdx_grabber	0	1	0	1	268
+orgname	name
+ElectricityAuthority	vSPD
+ElectricityAuthority	LICENSE
+ElectricityAuthority	vSPD_loss_segment_calculation
+ElectricityAuthority	PEM
+ElectricityAuthority	pocp
+ElectricityAuthority	gdx_grabber
+ElectricityAuthority	gem
+ElectricityAuthority	tracing
+ElectricityAuthority	eaplots3

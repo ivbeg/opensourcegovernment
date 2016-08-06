@@ -1,24 +1,60 @@
-orgname	name	star_count	forks	issues	contributors	size
-difi	datahotel	12	1	4	1	1242
-difi	brukar	2	0	0	1	102
-difi	datahotel-java	1	0	0	1	125
-difi	oxalis	25	25	16	12	6638
-difi	veileder-opnedata	3	0	2	1	412
-difi	vefa-validator-conf	17	25	6	4	86577
-difi	vefa-validator-app	7	5	1	3	2391
-difi	datahotel-converter	0	0	0	1	120
-difi	kontaktregisteret-klient	1	5	1	6	556
-difi	begrep-Felles	0	0	0	3	300
-difi	begrep-SikkerDigitalPost	2	6	9	10	8278
-difi	begrep-Oppslagstjenesten	0	2	2	3	2069
-difi	begrep-ID-porten	1	0	2	2	388
-difi	sikker-digital-post-java-klient	1	2	2	6	1173
-difi	vefa-ehf-xslt	1	1	1	3	365
-difi	sdp-klient-eksempel-java-jetty	1	0	0	3	244
-difi	sdp-klient-eksempel-java-webclient	3	1	0	4	46664
-difi	vefa-vagrant	0	0	0	1	108
-difi	cmsdetect	0	1	0	1	160
-difi	sikker-digital-post-net-klient	0	1	1	5	4893
-difi	sikker-digital-post-net-klient-demo	0	0	0	2	416
-difi	demo-ipeppol	0	0	0	1	136
-difi	vefa-smp	0	0	0	1	152
+orgname	name
+difi	datahotel
+difi	brukar
+difi	oxalis
+difi	drupal7-module-brukar
+difi	veileder-opnedata
+difi	vefa-validator-conf
+difi	vefa-validator-app
+difi	datahotel-converter
+difi	kontaktregisteret-klient
+difi	begrep-Felles
+difi	begrep-SikkerDigitalPost
+difi	begrep-Oppslagstjenesten
+difi	begrep-ID-porten
+difi	sikker-digital-post-klient-java
+difi	vefa-ehf-xslt
+difi	sikker-digital-post-java-eksempel-jetty
+difi	sikker-digital-post-java-eksempel-webclient
+difi	cmsdetect
+difi	sikker-digital-post-klient-dotnet
+difi	move-integrasjonspunkt
+difi	demo-ipeppol
+difi	certvalidator
+difi	vefa-smp-lookup
+difi	felles-utility-dotnet
+difi	oppslagstjeneste-klient-dotnet
+difi	dcat-ap-no
+difi	docker
+difi	vefa-portal
+difi	vefa-ehf-generators
+difi	asic
+difi	move-deploy-manager
+difi	commons-libs
+difi	vefa-validator
+difi	vefa-esubmission
+difi	vefa-sbdh
+difi	vefa-peppol
+difi	vefa-commons-libs
+difi	datahotel-client
+difi	sikker-digital-post-dokumentasjon-regresjonstester-dotnet
+difi	vefa-preaward
+difi	signeringstjeneste-testklient
+difi	los
+difi	data-skos
+difi	move-service-registry
+difi	vefa-guides
+difi	vefa-validator-sbdh
+difi	einnsyn-krav
+difi	oxalis5
+difi	idporten-saml-metadata-validator
+difi	jenkins-docker
+difi	cen-tc434
+difi	docker-asciidoctor
+difi	xmlsignature
+difi	dc16-oidc-proxy
+difi	dc16-digitalcitizen
+difi	sikker-digital-post-dokumentasjon-regresjonstester-java
+difi	poc-statistics
+difi	dc16-signing
+difi	vokabular-lov

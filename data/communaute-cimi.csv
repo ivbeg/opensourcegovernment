@@ -1,12 +1,26 @@
-orgname	name	star_count	forks	issues	contributors	size
-communaute-cimi	mod_osm	3	0	0	1	232
-communaute-cimi	rosm	0	0	0	1	524
-communaute-cimi	massivedump	0	0	0	1	1280
-communaute-cimi	geocodeComp	2	4	0	4	1571
-communaute-cimi	check_play	0	0	0	1	864
-communaute-cimi	glay	0	0	0	1	152
-communaute-cimi	playadm	0	0	0	1	1996
-communaute-cimi	linuxproc	0	0	0	2	152
-communaute-cimi	checker	0	0	0	1	132
-communaute-cimi	uposm	0	0	0	1	208
-communaute-cimi	nova-node-playbook	0	0	0	1	0
+orgname	name
+communaute-cimi	mod_osm
+communaute-cimi	rosm
+communaute-cimi	massivedump
+communaute-cimi	geocodeComp
+communaute-cimi	check_play
+communaute-cimi	glay
+communaute-cimi	playadm
+communaute-cimi	linuxproc
+communaute-cimi	checker
+communaute-cimi	uposm
+communaute-cimi	qgis-minint
+communaute-cimi	georef-api
+communaute-cimi	georef-client
+communaute-cimi	qgis-minint-plugin-geocoding
+communaute-cimi	mapproxy-osm-cache-sample
+communaute-cimi	qgis-csv-color-map
+communaute-cimi	nm-geoalerte-back
+communaute-cimi	nm-geoalerte-docs
+communaute-cimi	nm-geoalerte-front
+communaute-cimi	nm-geoalerte-mob
+communaute-cimi	gpx-rev-geocode
+communaute-cimi	miditech14-qgis
+communaute-cimi	PFLAU-Viz
+communaute-cimi	scrap-jo-innondations-juin-2016
+communaute-cimi	geocoder-comparison-tool

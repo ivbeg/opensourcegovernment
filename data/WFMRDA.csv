@@ -1,6 +1,6 @@
-orgname	name	star_count	forks	issues	contributors	size
-WFMRDA	automate-wfdss-data	0	0	0	1	132
-WFMRDA	structure-point-consolidation-tools	0	0	0	1	0
-WFMRDA	quality-assurance-and-control-tools	0	0	0	1	16612
-WFMRDA	wildfire-metrics-analysis-tools	0	0	0	0	0
-WFMRDA	rest-query-to-fgdb-arcpy	1	0	1	1	148
+orgname	name
+WFMRDA	automate-wfdss-data
+WFMRDA	structure-point-consolidation-tools
+WFMRDA	quality-assurance-and-control-tools
+WFMRDA	wildfire-metrics-analysis-tools
+WFMRDA	rest-query-to-fgdb-arcpy

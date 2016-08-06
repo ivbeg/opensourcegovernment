@@ -1,64 +1,79 @@
-orgname	name	star_count	forks	issues	contributors	size
-east-sussex-county-council	Escc.WebAuthorMonitoring	0	0	0	1	192
-east-sussex-county-council	Escc.Redmine.Theme	0	0	0	1	108
-east-sussex-county-council	Escc.CouncilPlan	0	0	0	1	2360
-east-sussex-county-council	Escc.Cms.PageDeleter	0	0	0	1	112
-east-sussex-county-council	Escc.Cms.SetDefaultResourceGallery	0	0	0	1	108
-east-sussex-county-council	Escc.Search	0	0	0	1	108
-east-sussex-county-council	Escc.Search.Google	0	0	0	1	108
-east-sussex-county-council	Escc.Redmine.Sql	0	0	0	1	592
-east-sussex-county-council	Escc.Search.Website	0	0	0	1	928
-east-sussex-county-council	Escc.Cms.FindResourcesInWrongGallery	0	0	0	1	144
-east-sussex-county-council	Escc.Cms.IdentifyUnusedResources	0	0	0	1	344
-east-sussex-county-council	Escc.Cms.WebServices	0	0	0	1	116
-east-sussex-county-council	Escc.Cms.ResourceHelper	0	0	0	1	120
-east-sussex-county-council	Escc.Gritting.GrittingMap	0	0	0	1	960
-east-sussex-county-council	Escc.Gritting	0	0	0	1	124
-east-sussex-county-council	Escc.ResponsiveDesignDemo	0	0	0	1	176
-east-sussex-county-council	Escc.Gritting.Decisions.Web	0	0	0	1	908
-east-sussex-county-council	AccessEastSussex.Jobs	0	0	0	1	1296
-east-sussex-county-council	Escc.WebsiteStyleGuide	0	0	0	1	340
-east-sussex-county-council	Escc.TextEmailNewsletterStandard	0	0	0	1	128
-east-sussex-county-council	Escc.DeviceDetection.WebService	0	0	0	1	132
-east-sussex-county-council	Escc.RubbishAndRecycling.Website	0	0	0	1	136
-east-sussex-county-council	Escc.TravelChoice.Website	0	0	0	1	980
-east-sussex-county-council	Escc.HomePage.Website	0	0	0	1	984
-east-sussex-county-council	Escc.AZ	0	0	0	1	1380
-east-sussex-county-council	Escc.Events.Website	0	0	0	1	948
-east-sussex-county-council	Escc.Politics	0	0	0	1	164
-east-sussex-county-council	Escc.Schools.TermDates.Website	0	0	0	1	132
-east-sussex-county-council	Escc.Schools.Website	0	0	0	1	1172
-east-sussex-county-council	Escc.Data.Web	0	0	0	1	177
-east-sussex-county-council	Escc.EastSussexGovUK	0	0	0	1	2316
-east-sussex-county-council	Escc.ServiceClosures	0	0	0	1	180
-east-sussex-county-council	Escc.Data.Xml	0	0	0	1	140
-east-sussex-county-council	Escc.Feeds	0	0	0	1	140
-east-sussex-county-council	Escc.Exceptions.Soap	0	0	0	1	112
-east-sussex-county-council	Escc.NavigationControls	0	0	0	1	148
-east-sussex-county-council	Escc.TextStatistics	0	0	0	1	140
-east-sussex-county-council	Escc.AddressAndPersonalDetails	1	0	0	1	172
-east-sussex-county-council	Escc.Egms	0	0	0	1	232
-east-sussex-county-council	Escc.LocalOffer.Website	0	0	0	1	912
-east-sussex-county-council	Escc.Data.ActiveDirectory	0	0	0	1	136
-east-sussex-county-council	Escc.HouseStyle	0	0	0	1	224
-east-sussex-county-council	Escc.Services	0	0	0	1	112
-east-sussex-county-council	Escc.Services.Azure	0	0	0	1	112
-east-sussex-county-council	Escc.AzureEmailForwarder	0	0	0	1	120
-east-sussex-county-council	Escc.Umbraco.PropertyEditors	0	0	0	1	352
-east-sussex-county-council	Escc.Elibrary	0	0	0	1	128
-east-sussex-county-council	Escc.Umbraco	0	0	0	1	220
-east-sussex-county-council	Escc.CustomerFocusTemplates.Website	0	0	0	1	584
-east-sussex-county-council	Escc.AddressAndPersonalDetails.Controls	0	0	0	1	152
-east-sussex-county-council	Escc.AzureDeployment	2	0	0	1	228
-east-sussex-county-council	Escc.Alerts.Website	0	0	0	1	204
-east-sussex-county-council	Escc.Home.Website	0	0	0	1	224
-east-sussex-county-council	Escc.EastSussexGovUK.UmbracoDocumentTypes	0	0	0	1	256
-east-sussex-county-council	Escc.CoreLegacyTemplates.Website	0	0	0	1	420
-east-sussex-county-council	Escc.EastSussexGovUK.UmbracoViews	0	0	0	1	240
-east-sussex-county-council	Escc.Cms.IdentifyUnusedGroups	0	0	0	1	100
-east-sussex-county-council	Escc.Cms	0	0	0	1	260
-east-sussex-county-council	Escc.ClientDependencyFramework	0	0	0	1	136
-east-sussex-county-council	Escc.ContactUs.Website	0	0	0	1	984
-east-sussex-county-council	Escc.WebApplicationSetupScripts	0	0	0	1	120
-east-sussex-county-council	Escc.ModernGov.Website	0	0	0	1	116
-east-sussex-county-council	Escc.EastSussexGovUK.Umbraco	0	0	0	1	0
+orgname	name
+east-sussex-county-council	Escc.WebAuthorMonitoring
+east-sussex-county-council	Escc.Redmine.Theme
+east-sussex-county-council	Escc.Cms.PageDeleter
+east-sussex-county-council	Escc.Cms.SetDefaultResourceGallery
+east-sussex-county-council	Escc.Search
+east-sussex-county-council	Escc.Search.Google
+east-sussex-county-council	Escc.Redmine.Sql
+east-sussex-county-council	Escc.Search.Website
+east-sussex-county-council	Escc.Cms.FindResourcesInWrongGallery
+east-sussex-county-council	Escc.Cms.IdentifyUnusedResources
+east-sussex-county-council	Escc.Cms.WebServices
+east-sussex-county-council	Escc.Cms.ResourceHelper
+east-sussex-county-council	Escc.Gritting.GrittingMap
+east-sussex-county-council	Escc.ResponsiveDesignDemo
+east-sussex-county-council	AccessEastSussex.Jobs
+east-sussex-county-council	Escc.WebsiteStyleGuide
+east-sussex-county-council	Escc.TextEmailNewsletterStandard
+east-sussex-county-council	Escc.AZ
+east-sussex-county-council	Escc.Events.Website
+east-sussex-county-council	Escc.Politics
+east-sussex-county-council	Escc.Schools.TermDates.Website
+east-sussex-county-council	Escc.Web
+east-sussex-county-council	Escc.EastSussexGovUK
+east-sussex-county-council	Escc.ServiceClosures
+east-sussex-county-council	Escc.Net
+east-sussex-county-council	Escc.Feeds
+east-sussex-county-council	Escc.Exceptions.Soap
+east-sussex-county-council	Escc.NavigationControls.WebForms
+east-sussex-county-council	Escc.TextStatistics
+east-sussex-county-council	Escc.AddressAndPersonalDetails
+east-sussex-county-council	Escc.Web.Metadata
+east-sussex-county-council	Escc.ActiveDirectory
+east-sussex-county-council	Escc.HouseStyle
+east-sussex-county-council	Escc.Services
+east-sussex-county-council	Escc.Services.Azure
+east-sussex-county-council	Escc.AzureEmailForwarder
+east-sussex-county-council	Escc.Umbraco.PropertyEditors
+east-sussex-county-council	Escc.Elibrary
+east-sussex-county-council	Escc.Umbraco
+east-sussex-county-council	Escc.AddressAndPersonalDetails.Controls
+east-sussex-county-council	Escc.AzureDeployment
+east-sussex-county-council	Escc.Alerts.Website
+east-sussex-county-council	Escc.EastSussexGovUK.UmbracoDocumentTypes
+east-sussex-county-council	Escc.EastSussexGovUK.UmbracoViews
+east-sussex-county-council	Escc.Cms.IdentifyUnusedGroups
+east-sussex-county-council	Escc.Cms
+east-sussex-county-council	Escc.ClientDependencyFramework
+east-sussex-county-council	Escc.WebApplicationSetupScripts
+east-sussex-county-council	Escc.ModernGov.Website
+east-sussex-county-council	Escc.js
+east-sussex-county-council	Escc.Umbraco.MediaSync
+east-sussex-county-council	Escc.Geo
+east-sussex-county-council	Escc.Libraries.BranchFinder
+east-sussex-county-council	Escc.FormControls.WebForms
+east-sussex-county-council	Escc.RubbishAndRecycling.SiteFinder
+east-sussex-county-council	Escc.Data.Ado
+east-sussex-county-council	Escc.DatabaseFileControls
+east-sussex-county-council	Escc.Html
+east-sussex-county-council	Escc.SubscriptionControls.WebForms
+east-sussex-county-council	Escc.Redirects
+east-sussex-county-council	Escc.Umbraco.ContentExperiments
+east-sussex-county-council	Escc.Umbraco.HeatmapAnalytics
+east-sussex-county-council	KuduIssue1694Demo
+east-sussex-county-council	Escc.Umbraco.Banners
+east-sussex-county-council	Escc.SocialCareCosts.Website
+east-sussex-county-council	Escc.SocialCareTranslations.Website
+east-sussex-county-council	Escc.DistrictAndBoroughCouncils
+east-sussex-county-council	Escc.Search.AutoComplete
+east-sussex-county-council	Escc.Registration.BookingTemplate
+east-sussex-county-council	Escc.Roads.Roadworks
+east-sussex-county-council	Escc.Gritting
+east-sussex-county-council	Escc.Gritting.Decisions.Web
+east-sussex-county-council	Escc.Dates
+east-sussex-county-council	Escc.Microformats.WebForms
+east-sussex-county-council	Escc.BasicAuthentication.WebApi
+east-sussex-county-council	Escc.Umbraco.UserAccessWebService
+east-sussex-county-council	Escc.EastSussexGovUK.Umbraco
+east-sussex-county-council	Escc.Umbraco.UserAccessManager

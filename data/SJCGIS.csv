@@ -1,12 +1,23 @@
-orgname	name	star_count	forks	issues	contributors	size
-SJCGIS	PolarisJS	0	0	3	1	11924
-SJCGIS	aircraft-noise-reporting	0	0	0	6	1236
-SJCGIS	stormwater-planning-map-gallery	0	0	0	2	5652
-SJCGIS	Esri-CityEngine-tutorial	0	1	0	0	1824
-SJCGIS	jet-noise-reports-presentation	0	0	0	0	3824
-SJCGIS	tsunami-inundation	0	0	0	3	1532
-SJCGIS	ppt-just-say-no	0	0	0	0	1452
-SJCGIS	aircraft-noise-map	0	0	0	1	140
-SJCGIS	collision-heatmaps	0	0	0	0	128
-SJCGIS	sjcgis.github.io	0	0	0	0	0
-SJCGIS	email-templates	0	0	0	0	120
+orgname	name
+SJCGIS	PolarisJS
+SJCGIS	aircraft-noise-reporting
+SJCGIS	stormwater-planning-map-gallery
+SJCGIS	Esri-CityEngine-tutorial
+SJCGIS	jet-noise-reports-presentation
+SJCGIS	tsunami-inundation
+SJCGIS	aircraft-noise-map
+SJCGIS	collision-heatmaps
+SJCGIS	sjcgis.github.io
+SJCGIS	email-templates
+SJCGIS	arcgis-dynamic-segmentation-widget
+SJCGIS	newsletters
+SJCGIS	ago-web-maps
+SJCGIS	traffic-collisions-app
+SJCGIS	geopublisher
+SJCGIS	lidar-swipe
+SJCGIS	lv-uga-options
+SJCGIS	water-systems
+SJCGIS	sjc-leaflet
+SJCGIS	smp-proposed-designations
+SJCGIS	footprint-review
+SJCGIS	imagery-dl

@@ -1,12 +1,21 @@
-orgname	name	star_count	forks	issues	contributors	size
-cityofnewyork	NYCRules	4	0	0	2	20064
-cityofnewyork	RCNY_Downloader	1	0	0	1	92
-cityofnewyork	HPD-Data-Feeds	2	0	0	1	112
-cityofnewyork	City-Hall-Data-Feeds	0	0	0	1	112
-cityofnewyork	Comptrollers-Checkbook	0	1	0	1	116
-cityofnewyork	DOT-Data-Feeds	4	2	3	1	117
-cityofnewyork	Open311-Inquiry	8	3	1	1	188
-cityofnewyork	Pre-K-Finder	1	0	0	1	13092
-cityofnewyork	DORIS-Publications-Portal	2	1	5	3	38520
-cityofnewyork	CROL-PDF	10	5	11	5	128360
-cityofnewyork	after-school-program-finder	0	0	0	1	11796
+orgname	name
+cityofnewyork	NYCRules
+cityofnewyork	RCNY_Downloader
+cityofnewyork	HPD-Data-Feeds
+cityofnewyork	City-Hall-Data-Feeds
+cityofnewyork	Comptrollers-Checkbook
+cityofnewyork	DOT-Data-Feeds
+cityofnewyork	Open311-Inquiry
+cityofnewyork	Pre-K-Finder
+cityofnewyork	DORIS-Publications-Portal
+cityofnewyork	CROL-Overview
+cityofnewyork	after-school-program-finder
+cityofnewyork	CROL-Schema
+cityofnewyork	addressparser
+cityofnewyork	CROL-WebApp
+cityofnewyork	crow-vm
+cityofnewyork	TechJobs
+cityofnewyork	geoclient
+cityofnewyork	nyc-planimetrics
+cityofnewyork	hurricane
+cityofnewyork	pka

@@ -1,8 +1,23 @@
-orgname	name	star_count	forks	issues	contributors	size
-libris	kitin	10	1	38	12	23408
-libris	librisxl	23	2	14	11	13368
-libris	exportscript	0	1	0	1	106
-libris	kalod	0	0	0	2	136
-libris	librislod	1	0	0	2	372
-libris	seadlod	0	0	0	2	132
-libris	skillingtryck	0	0	0	1	316
+orgname	name
+libris	kitin
+libris	librisxl
+libris	exportscript
+libris	kalod
+libris	librislod
+libris	seadlod
+libris	skillingtryck
+libris	bibstat
+libris	definitions
+libris	cherry
+libris	cherry-load
+libris	lxltools
+libris	ld-editor
+libris	utv
+libris	swepubanalys
+libris	swepub-sparql
+libris	lxlviewer
+libris	export
+libris	jmarctools
+libris	isbntools
+libris	whelk-core
+libris	lxl_import

@@ -1,5 +1,5 @@
-orgname	name	star_count	forks	issues	contributors	size
-cislgov	cisl.portal.policy	0	0	0	1	164
-cislgov	cisl.portal.buildout	0	0	0	1	140
-cislgov	cisl.portal.plone25	0	0	0	2	924
-cislgov	cisl.portal.casosdesucesso	0	0	0	1	128
+orgname	name
+cislgov	cisl.portal.policy
+cislgov	cisl.portal.buildout
+cislgov	cisl.portal.plone25
+cislgov	cisl.portal.casosdesucesso

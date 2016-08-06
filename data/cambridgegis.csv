@@ -1,25 +1,27 @@
-orgname	name	star_count	forks	issues	contributors	size
-cambridgegis	ags-tools	0	2	0	2	181
-cambridgegis	AddressDashboard	0	0	2	2	936
-cambridgegis	maplib	0	0	11	1	192
-cambridgegis	cambridgegis.github.io	0	0	0	1	224
-cambridgegis	cambridgegis_data	40	23	3	2	100982
-cambridgegis	trees	0	1	0	1	132
-cambridgegis	cambridgegis_data_dpw	0	0	0	1	11476
-cambridgegis	cambridgegis_data_address	1	0	0	1	1700
-cambridgegis	cambridgegis_data_assessing	0	0	0	1	6360
-cambridgegis	cambridgegis_data_basemap	0	0	0	1	42444
-cambridgegis	cambridgegis_data_boundary	0	0	0	1	208
-cambridgegis	cambridgegis_data_cdd	0	0	0	1	2532
-cambridgegis	cambridgegis_data_demographics	0	0	0	1	916
-cambridgegis	cambridgegis_data_elections	0	0	0	1	236
-cambridgegis	cambridgegis_data_health	0	0	0	1	124
-cambridgegis	cambridgegis_data_historical	0	0	0	1	340
-cambridgegis	cambridgegis_data_hydro	0	0	0	1	1932
-cambridgegis	cambridgegis_data_infra	0	0	0	1	3312
-cambridgegis	cambridgegis_data_landmark	0	0	0	1	268
-cambridgegis	cambridgegis_data_public_safety	0	0	0	1	128
-cambridgegis	cambridgegis_data_recreation	0	1	0	1	1210
-cambridgegis	cambridgegis_data_traffic	0	0	0	1	10316
-cambridgegis	cambridgegis_data_trans	0	1	0	1	4355
-cambridgegis	DataDictionary	0	0	0	1	140
+orgname	name
+cambridgegis	ags-tools
+cambridgegis	AddressDashboard
+cambridgegis	maplib
+cambridgegis	cambridgegis.github.io
+cambridgegis	cambridgegis_data
+cambridgegis	trees
+cambridgegis	cambridgegis_data_dpw
+cambridgegis	cambridgegis_data_address
+cambridgegis	cambridgegis_data_assessing
+cambridgegis	cambridgegis_data_basemap
+cambridgegis	cambridgegis_data_boundary
+cambridgegis	cambridgegis_data_cdd
+cambridgegis	cambridgegis_data_demographics
+cambridgegis	cambridgegis_data_elections
+cambridgegis	cambridgegis_data_health
+cambridgegis	cambridgegis_data_historical
+cambridgegis	cambridgegis_data_hydro
+cambridgegis	cambridgegis_data_infra
+cambridgegis	cambridgegis_data_landmark
+cambridgegis	cambridgegis_data_public_safety
+cambridgegis	cambridgegis_data_recreation
+cambridgegis	cambridgegis_data_traffic
+cambridgegis	cambridgegis_data_trans
+cambridgegis	DataDictionary
+cambridgegis	cambridgegis_data_license
+cambridgegis	cambridgegis_data_environmental

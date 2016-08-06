@@ -1,7 +1,3 @@
-orgname	name	star_count	forks	issues	contributors	size
-slo-county-planning-and-building	django-polymorphic-eav	0	0	0	1	184
-slo-county-planning-and-building	install-scripts	0	0	0	1	340
-slo-county-planning-and-building	wagtail-pasobasin	0	0	0	1	284
-slo-county-planning-and-building	wagtail-energy	0	0	0	1	148
-slo-county-planning-and-building	wagtail-slogrants	0	0	0	1	196
-slo-county-planning-and-building	county-cms	0	0	0	1	364
+orgname	name
+slo-county-planning-and-building	install-scripts
+slo-county-planning-and-building	new-templates

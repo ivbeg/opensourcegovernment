@@ -1,12 +1,28 @@
-orgname	name	star_count	forks	issues	contributors	size
-CSB-IG	literature	0	0	3	3	144568
-CSB-IG	non-coding-NGS	0	0	0	2	10044
-CSB-IG	Computational-Genomics	0	0	0	1	124
-CSB-IG	pyvenny	0	0	0	1	200
-CSB-IG	natk	0	0	0	2	396
-CSB-IG	breast_cancer_networks	0	0	0	4	2900
-CSB-IG	hmgb1_rna_seq	0	0	0	2	3668
-CSB-IG	chip_annotator	0	1	0	1	117
-CSB-IG	tmr_search	0	0	0	2	169292
-CSB-IG	jaccard_R	0	0	0	2	144
-CSB-IG	fantomine	0	0	0	1	0
+orgname	name
+CSB-IG	literature
+CSB-IG	non-coding-NGS
+CSB-IG	Computational-Genomics
+CSB-IG	pyvenny
+CSB-IG	NinNX
+CSB-IG	breast_cancer_networks
+CSB-IG	hmgb1_rna_seq
+CSB-IG	chip_annotator
+CSB-IG	tmr_search
+CSB-IG	jaccard_R
+CSB-IG	fantomine
+CSB-IG	rnw
+CSB-IG	visibility_graph
+CSB-IG	pxat
+CSB-IG	pyveplot
+CSB-IG	enrichmentator
+CSB-IG	rugplot
+CSB-IG	tcgarnaseqbc
+CSB-IG	miRNAseq_rnw
+CSB-IG	bibliometrics
+CSB-IG	pa3bc
+CSB-IG	parallel-aracne
+CSB-IG	MEF2C-network
+CSB-IG	target-space
+CSB-IG	CSB-IG.github.io
+CSB-IG	circos_rnaseq_tcga_brca
+CSB-IG	midist

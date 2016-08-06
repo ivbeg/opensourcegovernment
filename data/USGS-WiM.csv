@@ -1,6 +1,47 @@
-orgname	name	star_count	forks	issues	contributors	size
-USGS-WiM	NSS	0	2	7	2	2569
-USGS-WiM	STNPublic	0	1	0	1	304
-USGS-WiM	STNField	0	0	0	1	412
-USGS-WiM	mercuryproject	0	3	0	2	1635
-USGS-WiM	STNDataPortal	0	0	0	1	468
+orgname	name
+USGS-WiM	NSS
+USGS-WiM	STNPublic
+USGS-WiM	STNField
+USGS-WiM	mercuryproject
+USGS-WiM	STNDataPortal
+USGS-WiM	NAWQATrends
+USGS-WiM	jstemplate-esri-bootstrap
+USGS-WiM	STNWeb1
+USGS-WiM	BadRiverGroundwater
+USGS-WiM	BadRiverInputs
+USGS-WiM	BadRiverResults
+USGS-WiM	SiGLDMS
+USGS-WiM	StreamStats
+USGS-WiM	StreamStatsWebserviceDocumentation
+USGS-WiM	STNEventApp
+USGS-WiM	WetlandsMapper
+USGS-WiM	Fishtail
+USGS-WiM	FishVis
+USGS-WiM	wim-leaflet-examples
+USGS-WiM	WiM-Main-Site
+USGS-WiM	NorEaST
+USGS-WiM	GitHubAPI_test
+USGS-WiM	NJReservoirMapper
+USGS-WiM	nwr-zoom-applet
+USGS-WiM	Sandy
+USGS-WiM	MARBFlood2015
+USGS-WiM	STNWeb
+USGS-WiM	WiM-Style-Guide
+USGS-WiM	BLTAdmin_angular
+USGS-WiM	nwis-chart-proxies
+USGS-WiM	BLTServices
+USGS-WiM	BLTWeb
+USGS-WiM	BLTPublic
+USGS-WiM	WiM-Mapper-Styles
+USGS-WiM	CBRARequests
+USGS-WiM	wim-styles
+USGS-WiM	CBRADMS
+USGS-WiM	PRMSWrapper
+USGS-WiM	nwis-mapper
+USGS-WiM	WiMAngularTemplate
+USGS-WiM	GroundWaterWatch
+USGS-WiM	Rigs2Reefs
+USGS-WiM	STNPublicInfo
+USGS-WiM	STNWebserviceDocumentation
+USGS-WiM	SiGLServices
+USGS-WiM	SiGLWebservicesDocumentation

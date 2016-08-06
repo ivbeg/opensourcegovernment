@@ -1,10 +1,20 @@
-orgname	name	star_count	forks	issues	contributors	size
-libraryofcongress	viewshare	28	9	21	6	31939
-libraryofcongress	chronam	29	11	51	9	10209
-libraryofcongress	bagit-python	23	12	2	17	1743
-libraryofcongress	pairtree	2	0	0	1	172
-libraryofcongress	bagit-java	12	11	10	5	154774
-libraryofcongress	iptables-gem	3	5	0	2	100
-libraryofcongress	wdl-viewer	9	2	0	1	283
-libraryofcongress	gazetteer	14	1	1	2	7317
-libraryofcongress	bagger	0	1	1	7	616008
+orgname	name
+libraryofcongress	viewshare
+libraryofcongress	chronam
+libraryofcongress	bagit-python
+libraryofcongress	pairtree
+libraryofcongress	bagit-java
+libraryofcongress	iptables-gem
+libraryofcongress	wdl-viewer
+libraryofcongress	gazetteer
+libraryofcongress	bagger
+libraryofcongress	bagger-js
+libraryofcongress	pimtoolbox
+libraryofcongress	mods2bibframe
+libraryofcongress	premis-v3-0
+libraryofcongress	django-tabular-export
+libraryofcongress	MarcMods3.5xsl
+libraryofcongress	MarcMods3.6xsl
+libraryofcongress	simple-artifact-uploader
+libraryofcongress	marc2mads20
+libraryofcongress	locator

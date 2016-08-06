@@ -1,7 +1,7 @@
-orgname	name	star_count	forks	issues	contributors	size
-mcc-gov	data-mcc-gov	4	1	0	1	595
-mcc-gov	iati-gen	1	2	0	2	1401
-mcc-gov	scrapers	0	1	0	1	129
-mcc-gov	gists	1	0	0	1	104
-mcc-gov	backend	1	1	0	1	128
-mcc-gov	IATI_Generator	1	1	0	1	220
+orgname	name
+mcc-gov	data-mcc-gov
+mcc-gov	iati-gen
+mcc-gov	scrapers
+mcc-gov	gists
+mcc-gov	backend
+mcc-gov	IATI_Generator

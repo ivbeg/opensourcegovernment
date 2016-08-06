@@ -1,0 +1,11 @@
+orgname	name
+phac-nml	galaxy_tools
+phac-nml	neptune
+phac-nml	irida
+phac-nml	irida-galaxy-importer
+phac-nml	irida-linker
+phac-nml	dynamic-tool-destination
+phac-nml	irida-miseq-uploader
+phac-nml	snvphyl-tools
+phac-nml	snvphyl-galaxy
+phac-nml	snvphyl-galaxy-cli

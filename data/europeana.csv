@@ -1,41 +1,79 @@
-orgname	name	star_count	forks	issues	contributors	size
-europeana	Europeana-Cloud	8	2	0	12	6066
-europeana	Europeana-Creative	3	3	5	4	32470
-europeana	openculture	12	5	0	2	80568
-europeana	Europeana1914-1918	3	1	0	6	156400
-europeana	europeana-client	4	4	6	5	715
-europeana	tools	1	0	0	6	272796
-europeana	uim-europeana	1	0	0	4	38004
-europeana	uim-core	3	0	0	7	14124
-europeana	api2	1	1	0	6	2139
-europeana	corelib	5	1	0	8	218736
-europeana	portal	5	1	0	7	72634
-europeana	contrib	1	5	0	7	217695
-europeana	GlobalNav	0	0	0	2	604
-europeana	exhibitions	2	0	0	3	344360
-europeana	portal_translations	0	0	1	6	91488
-europeana	Europeana-Patternlab	2	2	0	4	6895
-europeana	statistics	2	2	5	6	14599
-europeana	annotation	0	0	8	1	30271
-europeana	Labs	2	2	0	15	52515
-europeana	OAI-PMH	0	0	0	3	1264
-europeana	ImageHarvester	2	0	0	3	10536
-europeana	REPOX	1	1	5	2	7350
-europeana	mint2	2	1	0	0	27604
-europeana	labs-dev	0	0	0	1	36652
-europeana	labs-acceptance	0	0	0	1	37172
-europeana	labs-accepetance-website	0	0	0	0	37088
-europeana	labs-preview	1	3	0	9	52146
-europeana	labs-preview-website	0	0	0	0	57656
-europeana	labs-dev-website	0	0	0	1	36576
-europeana	WPBlog	0	1	0	1	8700
-europeana	publication	0	0	0	2	384
-europeana	europeana-client-ruby	1	0	0	1	196
-europeana	Europeana-Professional	1	0	0	6	22830
-europeana	openskos-client-ruby	0	0	0	1	160
-europeana	mongo-file-storage	0	0	0	1	0
-europeana	metis	0	0	0	3	85572
-europeana	filebrowser	0	0	0	2	184
-europeana	europeana-channels-blacklight	1	0	0	2	4078
-europeana	data-exporter	1	0	0	2	608
-europeana	europeana-static	0	0	0	0	0
+orgname	name
+europeana	Europeana-Cloud
+europeana	Europeana-Creative
+europeana	openculture
+europeana	Europeana1914-1918
+europeana	europeana-client
+europeana	tools
+europeana	uim-europeana
+europeana	uim-core
+europeana	api2
+europeana	corelib
+europeana	portal
+europeana	contrib
+europeana	GlobalNav
+europeana	broken_dont_bother_exhibitions
+europeana	portal_translations
+europeana	Europeana-Patternlab
+europeana	statistics
+europeana	annotation
+europeana	Labs
+europeana	OAI-PMH
+europeana	ImageHarvester
+europeana	REPOX
+europeana	mint2
+europeana	labs-dev
+europeana	labs-acceptance
+europeana	labs-accepetance-website
+europeana	labs-preview
+europeana	labs-preview-website
+europeana	labs-dev-website
+europeana	WPBlog
+europeana	publication
+europeana	europeana-client-ruby
+europeana	Europeana-Professional
+europeana	openskos-client-ruby
+europeana	mongo-file-storage
+europeana	metis
+europeana	filebrowser
+europeana	europeana-portal-collections
+europeana	data-exporter
+europeana	europeana-static
+europeana	java-buildpack-pass-dea
+europeana	europeana-styleguide-ruby
+europeana	ui-components
+europeana	Europeana-Research
+europeana	europeana-blacklight
+europeana	artd
+europeana	Europeana-Labs
+europeana	europeana-proxy-ruby
+europeana	europeana-ui-components-php
+europeana	entity-autocompletion
+europeana	europeana-api-client-ruby
+europeana	search
+europeana	europeana-statistics-dashboard
+europeana	europeana-statistics-grape
+europeana	europeana-redirecter
+europeana	portal-apache-web
+europeana	europeana-sitemap
+europeana	EDM-validation
+europeana	entity-api
+europeana	europeana-redirects
+europeana	Europeana-Hierarchies
+europeana	metis-authentication
+europeana	metis-identifier
+europeana	maintenance
+europeana	api-demo
+europeana	metis-dereference
+europeana	europeana-oembed-provider
+europeana	metis-framework
+europeana	europeana-dev-guides
+europeana	europeana-virtual-exhibitions
+europeana	metis-language-normalization
+europeana	Europeana-Cloud-OAIPMH-Loader
+europeana	metis-mapping-framework
+europeana	api-commons
+europeana	fogup
+europeana	eurubyana
+europeana	europeana-classification-test
+europeana	europeana-ldf-deployment

@@ -1,7 +1,24 @@
-orgname	name	star_count	forks	issues	contributors	size
-NMB-Dev	text-extraction	0	0	0	2	6740
-NMB-Dev	ErlangBackup	0	0	0	1	28836
-NMB-Dev	doc-client	0	0	0	1	3440
-NMB-Dev	drive-appengine	0	0	0	1	3352
-NMB-Dev	KS-2014	0	0	8	1	10272
-NMB-Dev	nmbservice	0	0	0	1	73904
+orgname	name
+NMB-Dev	KS-2014
+NMB-Dev	web-client
+NMB-Dev	nmb-private-pages
+NMB-Dev	nmb-picklist
+NMB-Dev	firebase-urlfetch
+NMB-Dev	aws-work-process
+NMB-Dev	aws-arb5
+NMB-Dev	medcsdump
+NMB-Dev	aws-rev5
+NMB-Dev	aws-dir5
+NMB-Dev	aws-home
+NMB-Dev	aws-mgt5
+NMB-Dev	ks2016-search
+NMB-Dev	mcms-four
+NMB-Dev	aws-caseload
+NMB-Dev	aws-nrabopen
+NMB-Dev	aws-data-control
+NMB-Dev	aws-processing
+NMB-Dev	aws-rpt5
+NMB-Dev	fb2-test
+NMB-Dev	fb2-test2
+NMB-Dev	fire-tutorial
+NMB-Dev	mcms16

@@ -1,7 +1,9 @@
-orgname	name	star_count	forks	issues	contributors	size
-idu-bogota	openerp-idu-addons	1	4	0	3	31800
-idu-bogota	idu-citizen-services	0	0	0	1	1968
-idu-bogota	openerp-php-webservice-client	2	2	0	1	215
-idu-bogota	curso-taller-openerp	8	16	1	2	365
-idu-bogota	python-arctoolbox	0	0	0	2	112
-idu-bogota	openerp-public-admon-addons	0	1	0	1	0
+orgname	name
+idu-bogota	openerp-idu-addons
+idu-bogota	idu-citizen-services
+idu-bogota	openerp-php-webservice-client
+idu-bogota	curso-taller-openerp
+idu-bogota	python-arctoolbox
+idu-bogota	openerp-public-admon-addons
+idu-bogota	openerp-utils
+idu-bogota	odoo-idu-addons-publico

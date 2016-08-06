@@ -1,14 +1,65 @@
-orgname	name	star_count	forks	issues	contributors	size
-ngageoint	geoq	174	38	92	14	37083
-ngageoint	geoq-chef-installer	22	5	1	3	329
-ngageoint	geoevents	21	6	0	2	14209
-ngageoint	geoevents-chef-installer	2	3	0	2	196
-ngageoint	rfi-generator	5	2	3	2	22386
-ngageoint	rfi-generator-chef-installer	0	2	0	2	168
-ngageoint	geowave	45	9	43	8	260168
-ngageoint	anti-piracy-iOS-app	7	7	0	4	31095
-ngageoint	anti-piracy-android-app	9	6	1	3	5761
-ngageoint	disconnected-content-explorer-iOS	2	6	2	3	1006
-ngageoint	disconnected-content-explorer-android	3	1	7	2	1890
-ngageoint	gamification-server	109	15	10	4	4992
-ngageoint	mrgeo	49	5	8	3	363295
+orgname	name
+ngageoint	geoq
+ngageoint	geoq-chef-installer
+ngageoint	geoevents
+ngageoint	geoevents-chef-installer
+ngageoint	rfi-generator
+ngageoint	rfi-generator-chef-installer
+ngageoint	geowave
+ngageoint	anti-piracy-iOS-app
+ngageoint	anti-piracy-android-app
+ngageoint	disconnected-content-explorer-iOS
+ngageoint	disconnected-content-explorer-android
+ngageoint	gamification-server
+ngageoint	mrgeo
+ngageoint	disconnected-content-explorer-examples
+ngageoint	geowave-osm
+ngageoint	geoint-standards
+ngageoint	elasticgeo
+ngageoint	geowave-vagrant
+ngageoint	geowave-benchmark
+ngageoint	map-of-world-api
+ngageoint	hootenanny
+ngageoint	hootenanny-ui
+ngageoint	voxel-globe
+ngageoint	six-library
+ngageoint	geopackage-wkb-java
+ngageoint	geopackage-core-java
+ngageoint	geopackage-java
+ngageoint	geopackage-android
+ngageoint	geopackage-mapcache-android
+ngageoint	geoint-standards.io
+ngageoint	hootenanny-rpms
+ngageoint	mage-server
+ngageoint	mage-android
+ngageoint	mage-android-sdk
+ngageoint	mage-ios
+ngageoint	mage-ios-sdk
+ngageoint	mage-android-wear
+ngageoint	mage-chronostouch-android
+ngageoint	GeoPackage
+ngageoint	MAGE
+ngageoint	mage-android-wear-bridge
+ngageoint	geopackage-wkb-ios
+ngageoint	geopackage-ios
+ngageoint	geopackage-mapcache-ios
+ngageoint	geopackage-nsg-profile
+ngageoint	wordpress-revision-slider
+ngageoint	Nounalyzer
+ngageoint	social-media-picture-explorer-ui
+ngageoint	mrgeo-geoserver-plugin
+ngageoint	Rational-Polynomial-Coefficients-Mapper
+ngageoint	Spectral-Library-Reader
+ngageoint	social-media-picture-explorer
+ngageoint	scale
+ngageoint	TM_UTDS_SVG
+ngageoint	geopackage-js
+ngageoint	DigitalGlobeReader
+ngageoint	SWIRSignalDetection
+ngageoint	endpoint.js
+ngageoint	mapcache-server
+ngageoint	cocreate
+ngageoint	ndaas
+ngageoint	wedge-maker-4-gis
+ngageoint	fog-machine
+ngageoint	seed

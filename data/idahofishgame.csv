@@ -1,6 +1,10 @@
-orgname	name	star_count	forks	issues	contributors	size
-idahofishgame	birdbybirdidaho.com	0	0	0	1	15800
-idahofishgame	fire	0	0	0	1	212
-idahofishgame	weeds	0	0	0	1	25460
-idahofishgame	training	0	0	0	1	500
-idahofishgame	huntplanner_mapcenter	0	0	1	2	55309
+orgname	name
+idahofishgame	birdbybirdidaho.com
+idahofishgame	fire
+idahofishgame	huntplanner_mapcenter
+idahofishgame	IDFG-BootstrapAppTemplate
+idahofishgame	style
+idahofishgame	opendata
+idahofishgame	video
+idahofishgame	bison
+idahofishgame	idfg_components

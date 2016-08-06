@@ -1,0 +1,12 @@
+orgname	name
+nlbdev	nordic-epub3-dtbook-migrator
+nlbdev	nlbdirekte
+nlbdev	docker-daisy-pipeline
+nlbdev	docker-nordic-epub3-dtbook-migrator
+nlbdev	docker-nordic-format-converter
+nlbdev	book-archive
+nlbdev	pipeline-mod-nlb
+nlbdev	docker-nlb-base
+nlbdev	presentasjon-eboker-for-alle
+nlbdev	filibuster-brage
+nlbdev	hubot-lyt

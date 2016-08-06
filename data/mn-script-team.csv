@@ -1,4 +1,5 @@
-orgname	name	star_count	forks	issues	contributors	size
-mn-script-team	DHS-MAXIS-Scripts	3	26	51	9	5885
-mn-script-team	BlueZone-Scripts-Installer	0	0	2	1	1300
-mn-script-team	BZS-FuncLib	1	2	0	3	590
+orgname	name
+mn-script-team	DHS-MAXIS-Scripts
+mn-script-team	BlueZone-Scripts-Installer
+mn-script-team	BZS-FuncLib
+mn-script-team	Release-Notes

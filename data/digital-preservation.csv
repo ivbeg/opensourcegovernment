@@ -1,8 +1,10 @@
-orgname	name	star_count	forks	issues	contributors	size
-digital-preservation	droid	31	15	21	7	12948
-digital-preservation	csv-tools	5	3	0	1	118
-digital-preservation	csv-validator	28	16	19	11	3598
-digital-preservation	pronom	1	2	1	3	146
-digital-preservation	utf8-validator	3	0	0	1	144
-digital-preservation	digital-preservation.github.io	0	0	0	2	224
-digital-preservation	csv-schema	2	3	0	3	548
+orgname	name
+digital-preservation	droid
+digital-preservation	csv-tools
+digital-preservation	csv-validator
+digital-preservation	pronom
+digital-preservation	utf8-validator
+digital-preservation	digital-preservation.github.io
+digital-preservation	csv-schema
+digital-preservation	dri-vocabulary
+digital-preservation	dali

@@ -1,14 +1,16 @@
-orgname	name	star_count	forks	issues	contributors	size
-vtrans	vtp3-roadmap	0	1	9	6	77404
-vtrans	vtp3-what-is-github	0	0	0	1	10884
-vtrans	vtp3-final-presentation	0	0	1	3	263
-vtrans	vtp3-pavement	0	0	0	4	2896
-vtrans	vtp3-bridges	0	0	0	4	2592
-vtrans	vtp3-home	0	2	3	5	49437
-vtrans	vtp3-projects	0	0	0	3	3544
-vtrans	vtp3-contacts	0	0	0	2	14948
-vtrans	vtp3-open-data-portal	0	0	0	1	41448
-vtrans	vtp3-maintenance	0	0	0	4	780
-vtrans	vtp3-dashboard	0	0	0	2	4092
-vtrans	vtp3-final-documents	0	0	0	4	236
-vtrans	morristown-bypass	0	0	0	1	73868
+orgname	name
+vtrans	vtp3-roadmap
+vtrans	vtp3-what-is-github
+vtrans	vtp3-final-presentation
+vtrans	vtp3-pavement
+vtrans	vtp3-bridges
+vtrans	vtp3-home
+vtrans	vtp3-projects
+vtrans	vtp3-contacts
+vtrans	vtp3-open-data-portal
+vtrans	vtp3-maintenance
+vtrans	vtp3-dashboard
+vtrans	vtp3-final-documents
+vtrans	morristown-bypass
+vtrans	chester-hs
+vtrans	map-charts-test

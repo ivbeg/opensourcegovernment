@@ -1,11 +1,13 @@
-orgname	name	star_count	forks	issues	contributors	size
-prefeiturasp	gestaourbanasp	6	3	1	2	32387
-prefeiturasp	mapa-gestaourbanasp	2	1	0	1	820
-prefeiturasp	minuta-participativa	4	2	1	7	7340
-prefeiturasp	programa-de-metas-wp	12	1	2	4	12940
-prefeiturasp	gestaopress	1	0	0	1	2200
-prefeiturasp	programa-de-metas-api	1	3	0	3	5645
-prefeiturasp	dicionario-de-dados	2	0	0	2	1780
-prefeiturasp	formulario-funcao-social	1	0	0	1	864
-prefeiturasp	ckan-csv-mass-import	1	2	0	1	332
-prefeiturasp	planeja-sampa	1	1	0	1	11412
+orgname	name
+prefeiturasp	gestaourbanasp
+prefeiturasp	mapa-gestaourbanasp
+prefeiturasp	minuta-participativa
+prefeiturasp	programa-de-metas-wp
+prefeiturasp	gestaopress
+prefeiturasp	programa-de-metas-api
+prefeiturasp	dicionario-de-dados
+prefeiturasp	formulario-funcao-social
+prefeiturasp	ckan-csv-mass-import
+prefeiturasp	planeja-sampa
+prefeiturasp	dados-espaciais-json
+prefeiturasp	pedidorespondido

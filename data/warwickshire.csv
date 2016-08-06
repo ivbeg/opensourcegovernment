@@ -1,14 +1,16 @@
-orgname	name	star_count	forks	issues	contributors	size
-warwickshire	remote_partial	0	1	0	2	396
-warwickshire	webdav_file_store	0	0	0	1	184
-warwickshire	dummy_data_api	0	0	0	1	172
-warwickshire	rambling_git	0	1	0	1	1216
-warwickshire	wcc-groups	0	0	0	2	176
-warwickshire	wcc-groups-gadget	0	0	0	2	172
-warwickshire	wcc-groups-chrome-ext	0	0	0	2	208
-warwickshire	saml_tools	4	0	0	1	388
-warwickshire	saml_tools_demo	1	0	0	1	256
-warwickshire	SLDs	2	0	0	1	1924
-warwickshire	FME-Workspaces	0	1	0	1	856
-warwickshire	GIS-Python-scripts	1	1	0	1	89
-warwickshire	video_killed_the_radio_star	0	0	0	1	116
+orgname	name
+warwickshire	remote_partial
+warwickshire	webdav_file_store
+warwickshire	dummy_data_api
+warwickshire	rambling_git
+warwickshire	wcc-groups
+warwickshire	wcc-groups-gadget
+warwickshire	wcc-groups-chrome-ext
+warwickshire	saml_tools
+warwickshire	saml_tools_demo
+warwickshire	SLDs
+warwickshire	FME-Workspaces
+warwickshire	GIS-Python-scripts
+warwickshire	video_killed_the_radio_star
+warwickshire	ssl_diagnostics
+warwickshire	images

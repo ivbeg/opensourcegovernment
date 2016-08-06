@@ -1,36 +1,43 @@
-orgname	name	star_count	forks	issues	contributors	size
-ozone-development	owf8-ozoneplatform	9	6	0	10	2130
-ozone-development	owf8-commons	3	3	0	11	10484
-ozone-development	owf8-docs	3	2	0	6	10217
-ozone-development	owf8-kernel	3	2	0	9	15931
-ozone-development	owf8-marketplace	3	3	0	4	679
-ozone-development	owf8-metrics	3	2	0	4	687
-ozone-development	owf8-owf	4	2	0	12	79956
-ozone-development	ozp-controller-node	3	2	40	2	2027
-ozone-development	ozp-iwc	8	2	18	10	22698
-ozone-development	ozp-documentation	3	0	5	7	3414
-ozone-development	ozp-webtop	7	1	35	8	15562
-ozone-development	ozp-controller-jvm	0	0	8	3	936
-ozone-development	owf7-refactor	0	0	0	1	334480
-ozone-development	ozp-center	5	0	46	8	25838
-ozone-development	ozone-development.github.io	0	1	1	11	9692
-ozone-development	ozp-iwc-owf7-widget-adapter	0	0	0	1	3984
-ozone-development	ozp-iwc-angular	0	0	1	6	1108
-ozone-development	meridian	7	4	62	10	57587
-ozone-development	ozp-demo	1	1	10	3	21162
-ozone-development	ozp-classification	0	0	6	3	208
-ozone-development	ozp-data-schemas	0	1	1	8	461
-ozone-development	center-ui	0	3	5	6	9736
-ozone-development	hud-ui	0	0	5	8	6016
-ozone-development	ozp-ansible-playbooks	1	1	0	3	224
-ozone-development	global-toolbar	0	0	0	4	416
-ozone-development	ozp-iwc-tester	0	0	1	3	3596
-ozone-development	ozp-rest-jmeter	0	0	1	3	7680
-ozone-development	piwik-plugin-ClientCertificates	0	0	0	1	188
-ozone-development	ozp-style	0	0	0	2	33988
-ozone-development	ozp-iwc-integrationDemo	0	0	0	1	1016
-ozone-development	ozp-iwc-applicationDemo	0	0	0	1	124
-ozone-development	piwik-theme-AppsMallTheme	0	0	0	1	780
-ozone-development	piwik-plugin-LoginPKI	0	0	0	1	144
-ozone-development	ozp-appbuilder	0	0	32	1	112
-ozone-development	vagrant-configs	0	0	0	1	0
+orgname	name
+ozone-development	ozp-controller-node
+ozone-development	ozp-iwc
+ozone-development	ozp-documentation
+ozone-development	ozp-webtop
+ozone-development	ozp-controller-jvm
+ozone-development	owf7-refactor
+ozone-development	depricated-ozp-center
+ozone-development	ozone-development.github.io
+ozone-development	ozp-iwc-owf7-widget-adapter
+ozone-development	ozp-iwc-angular
+ozone-development	meridian
+ozone-development	ozp-demo
+ozone-development	ozp-classification
+ozone-development	node-halapi
+ozone-development	ozp-data-schemas
+ozone-development	ozp-center
+ozone-development	ozp-hud
+ozone-development	ozp-ansible-playbooks
+ozone-development	global-toolbar
+ozone-development	ozp-iwc-tester
+ozone-development	ozp-rest-jmeter
+ozone-development	piwik-plugin-ClientCertificates
+ozone-development	ozp-iwc-integrationDemo
+ozone-development	ozp-iwc-applicationDemo
+ozone-development	piwik-theme-AppsMallTheme
+ozone-development	piwik-plugin-LoginPKI
+ozone-development	dev-tools
+ozone-development	ozone-website
+ozone-development	ozp-react-commons
+ozone-development	ozp-icons
+ozone-development	ozp-gatling
+ozone-development	meridian-dependencies
+ozone-development	ozp-community-request
+ozone-development	ozp-help
+ozone-development	piwik-plugin-UserCreatedWebsite
+ozone-development	ozp-backend
+ozone-development	ozp-locust
+ozone-development	bootstrap-classify
+ozone-development	ozp-ansible
+ozone-development	piwik-export
+ozone-development	mono-ozone-mobile-prototype
+ozone-development	demo-auth-service

@@ -1,26 +1,27 @@
-orgname	name	star_count	forks	issues	contributors	size
-cityofottawa	Apps4Ottawa-Website	1	1	0	3	339
-cityofottawa	Ottawa-ckan	5	1	3	4	11241
-cityofottawa	feeds_translation	0	0	0	2	126
-cityofottawa	Popup_Survey	0	0	0	2	124
-cityofottawa	ottawa_panelized_page_nav	0	0	1	3	224
-cityofottawa	light_box_image_gallery	0	0	0	1	96
-cityofottawa	immigration_zen	1	0	10	2	66572
-cityofottawa	ottawa_pane_styles	0	0	0	1	123
-cityofottawa	ottawa_toggle_block	0	0	1	2	212
-cityofottawa	ottawa_permits	0	0	0	2	188
-cityofottawa	toc_formatter	0	0	1	1	140
-cityofottawa	site_wide_warning	0	0	2	1	95
-cityofottawa	lansdowne_page_variant	0	0	0	0	52
-cityofottawa	ottdoc_make	0	0	0	3	605
-cityofottawa	ottdoc_zen	0	0	0	0	815
-cityofottawa	ottawa_external_links	0	0	0	1	108
-cityofottawa	shibboleth_auth	0	0	0	1	520
-cityofottawa	webform_sidkey	0	0	0	2	196
-cityofottawa	webform_gmap_location	0	0	0	4	204
-cityofottawa	ottawa_vjs_skin	0	0	1	1	160
-cityofottawa	council_and_elections	0	0	0	1	176
-cityofottawa	document_accessibility_report	0	0	0	1	108
-cityofottawa	youth_portal_dashboard	0	0	0	1	144
-cityofottawa	ott_image_styles	0	0	0	2	148
-cityofottawa	omd_make	0	0	0	2	168
+orgname	name
+cityofottawa	Apps4Ottawa-Website
+cityofottawa	Ottawa-ckan
+cityofottawa	feeds_translation
+cityofottawa	Popup_Survey
+cityofottawa	ottawa_panelized_page_nav
+cityofottawa	light_box_image_gallery
+cityofottawa	immigration_zen
+cityofottawa	ottawa_pane_styles
+cityofottawa	ottawa_toggle_block
+cityofottawa	ottawa_permits
+cityofottawa	toc_formatter
+cityofottawa	site_wide_warning
+cityofottawa	lansdowne_page_variant
+cityofottawa	ottdoc_make
+cityofottawa	ottdoc_zen
+cityofottawa	ottawa_external_links
+cityofottawa	shibboleth_auth
+cityofottawa	webform_sidkey
+cityofottawa	webform_gmap_location
+cityofottawa	ottawa_vjs_skin
+cityofottawa	council_and_elections
+cityofottawa	document_accessibility_report
+cityofottawa	youth_portal_dashboard
+cityofottawa	ott_image_styles
+cityofottawa	spotlight_leaflet
+cityofottawa	spotlight_leaflet_map

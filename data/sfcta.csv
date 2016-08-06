@@ -1,20 +1,23 @@
-orgname	name	star_count	forks	issues	contributors	size
-sfcta	androidtracks	22	17	7	0	1436
-sfcta	TAutils	5	0	0	2	1328
-sfcta	CycleTracks	29	13	2	3	1860
-sfcta	BikeRouter	11	2	0	1	164
-sfcta	CountDracula	4	0	5	2	1320
-sfcta	cycletracks-crusher	0	1	1	1	152
-sfcta	timesheet	0	2	1	2	1270
-sfcta	dispatch	0	0	0	1	168
-sfcta	champ-client	0	0	0	1	124
-sfcta	cluster	0	1	1	2	193
-sfcta	quickboards	0	0	0	2	176
-sfcta	CycleTracksWebsite	3	3	0	1	92
-sfcta	MyStreetSF	0	0	0	1	3516
-sfcta	delay_distribution	0	0	0	1	512
-sfcta	mat2h5	0	1	2	1	298
-sfcta	ta-setup	0	0	0	1	143216
-sfcta	popgen1	0	0	0	1	9400
-sfcta	ChampClient	0	0	0	1	136
-sfcta	NetworkWrangler	0	1	3	2	539
+orgname	name
+sfcta	androidtracks
+sfcta	TAutils
+sfcta	CycleTracks
+sfcta	BikeRouter
+sfcta	CountDracula
+sfcta	cycletracks-crusher
+sfcta	timesheet
+sfcta	dispatch
+sfcta	champ-client
+sfcta	cluster
+sfcta	quickboards
+sfcta	CycleTracksWebsite
+sfcta	MyStreetSF
+sfcta	delay_distribution
+sfcta	mat2h5
+sfcta	ta-setup
+sfcta	popgen1
+sfcta	ChampClient
+sfcta	NetworkWrangler
+sfcta	dta
+sfcta	fast-trips_demand_converter
+sfcta	gtfs_utils

@@ -1,19 +1,27 @@
 # Official government institutions, listed under their country or level of government
 
 Argentina:
+  - argob
+  - cifasis
+  - conectados-ar
   - gcba
+  - inti-cmnb
+  - municipioriogrande
 
 Australia:
   - actesa
   - actgov
   - agnsw
+  - ausdto
   - australianantarcticdatacentre
+  - bom-radar
   - datagovau
-  - DeptRegionalAustralia
-  - dpaw2
+  - dpipwe
+  - envris
   - ga-m3dv
   - gccgisteam
   - GeoscienceAustralia
+  - govcms
   - Healthway
   - hiscom
   - innovationgovau
@@ -24,15 +32,18 @@ Australia:
   - nmalabs
   - NSWPlanning
   - NSWRFS
+  - parksandwildlife
   - qld-gov-au
-  - srep
   - srnsw
   - SSCwebdev
   - SunshineCoastCouncil
+  - treasury-aus
+  - victoriangovernment
   - wamuseum
 
 Belgium:
   - belgianpolice
+  - Fedict
   - onroerenderfgoed
 
 Bolivia:
@@ -41,14 +52,20 @@ Bolivia:
 
 Brazil:
   - bacendeinf
+  - camaradosdeputadosoficial
   - cislgov
+  - culturagovbr
   - dadosgovbr
   - dataprev
+  - fateczonaleste
   - gabinetedigital
   - govbr
-  - GovBrasil  
+  - GovBrasil
+  - ibamacsr
   - InstitutoBenjaminConstant
   - interlegis
+  - justicagovbr
+  - labhackercd
   - lexml
   - pensandoodireito
   - plonegovbr
@@ -56,61 +73,97 @@ Brazil:
   - PrefeituraParnaiba
   - prefeiturasp
   - PROCERGS
+  - prodest
   - secom-tocantins
+  - secultce
   - SerraWeb
   - tisorocaba
   - tre-pa
   - wpgovbr
 
+Bulgaria:
+  - govbg
+  - governmentbg
+
 Canada:
   - AAFC-MBB
-  - britishcolumbia
+  - abgov
+  - bcdevexchange
+  - BCGov
   - ca-canada
   - CIHR
   - cityofgreatersudbury
   - cityofottawa
+  - cityofsurrey
   - cngo
+  - ECCC-MSC
   - electionsquebec
   - GeoCanViz
   - GNWT
   - goc
   - HIFIS
+  - infra-geo-ouverte
   - MC-MBO-WebPublishingTeam
-  - mce-scarto
   - nrc-cnrc
   - NRCan
   - nsgov
   - open-data
+  - phac-nml
   - pwgsc
   - RAMP-PCAR
   - RDOQ
   - ServiceCanada
+  - TBS-EACPD
   - thecityofcalgary
   - VilledeMontreal
   - wet-boew
 
+Catalonia:
+  - gencat
+
 Chile:
+  - datal-org
   - e-gob
 
 Colombia:
   - AltaConsejeriaTIC
+  - evaluon
   - idu-bogota
-  - rtvc
+
+Denmark:
+  - skat
 
 Ecuador:
+  - inamhi
   - innovacionsnap
+  - senescyt
+
+Egypt:
+  - informationtechnologyinstitute
 
 Estonia:
+  - e-gov
+  - kinnisvara
+  - MKM-ITAO
+  - open-eid
+  - opendata-ee
   - vvk-ehk
 
 European Union:
   - europeana
 
 Finland:
-  - avoinministerio
+  - Digipalvelutehdas
   - City-of-Helsinki
+  - finnishtransportagency
+  - Helsingin-kaupungin-tietokeskus
+  - helsinki-city-library
   - HSLdevcom
   - Lounaispaikka
+  - lukefi
+  - NatLibFi
+  - nlsfi
+  - vrk-kpa
 
 France:
   - afimb
@@ -118,13 +171,23 @@ France:
   - ApieFrance
   - communaute-cimi
   - DGFiP
+  - diplomatiegouvfr
+  - disic
   - erasme
   - etalab
-  - VilleDeMontpellier
+  - nanterre
+  - polewebmaedi
+  - sgmap
+  - sgmap-agd
 
 Germany:
   - gbv
+  - hbz
+  - isyfact
   - lobid
+
+Guatemala:
+  - minfingt
 
 Hong Kong:
   - datagovhk
@@ -132,16 +195,15 @@ Hong Kong:
 India:
   - itschool
 
-Japan:
-  - gsi-cyberjapan
-  
 International:
   - IATI
   - ogpl
-  - rOpenGov
 
 Isle of Man:
   - Isle-Of-Man-Government
+
+Israel:
+  - Digital-Israel
 
 Italy:
   - ComuneBologna
@@ -149,8 +211,20 @@ Italy:
   - PloneGov-IT
   - RegioneER
 
+Japan:
+  - city-of-kobe
+  - codefornamie
+  - gsi-cyberjapan
+  - nhohq
+  - nims-library
+  - wakayama-pref-org
+
 Latvia:
   - CSBLatvia
+
+Lithuania:
+  - viesujupirkimutarnyba
+  - vilnius
 
 Malaysia:
   - pmo2
@@ -158,7 +232,10 @@ Malaysia:
 Mexico:
   - CSB-IG
   - DDT-INMEGEN
+  - inmegen
   - profeco
+  - redoaxacadetodos
+  - mxabierto
 
 New Zealand:
   - CanterburyRegionalCouncil
@@ -169,14 +246,26 @@ New Zealand:
   - localgovernment
   - nz-mbie
   - NZWellingtonCityCouncil
+  - opcnz
   - R9BetterAPIs
+  - te-papa
 
 Norway:
+  - altinn
   - difi
   - dss-web
   - kartverket
   - KRD-KOMM-VL
   - metno
+  - navikt
+  - nlbdev
+  - rutebanken
+  - ruterno
+  - vegvesen
+
+Panama:
+  - IFARHU
+  - miambiente
 
 Paraguay:
   - mecpy
@@ -189,36 +278,72 @@ Philippines:
   - govph
   - igovphil
 
+Poland:
+  - coi-gov-pl
+
+Romania:
+  - govro
+
 Saudi Arabia:
   - SAS-NCDC
+
+Singapore:
+  - idagds
+  - moexmen
 
 South Africa:
   - eddZA
 
 Spain:
+  - AyuntamientoMadrid
   - ctt-gob-es
 
 Sweden:
-  - edelegationen
+  - domstol
+  - gbif-sweden
+  - kungbib
   - libris
+  - lldd
   - malmostad
+  - mtmse
+  - riksarkivet
   - rinfo
+  - statens-maritima-museer
+  - swedishpensionsagency
   - The-Municipality-of-Staffanstorp
 
 Switzerland:
   - alv-ch
   - alv-ch-ansible-roles
   - BFS-SHS-MSAS
+  - dsi-vd
   - FNSKtZH
+  - gisktzh
   - ogdch
   - sitn
+  - swiss-gov
+
+The Netherlands:
+  - dataoverheid
+  - GemeenteEde
+  - gemeentemuseum
+  - Geonovum
+  - IenS-Velsen
+  - MinELenI
+  - Pleio
+  - provinciegroningen
+  - provincieNH
+  - rijksoverheid
+  - StichtingHergebruikOverheid
+  - TweedeKamer
+  - zaanstad
 
 U.K. Central:
   - alphagov
   - BEACmodel
-  - brighton-hove-gov-uk
   - cabinetoffice
-  - CarersBeta
+  - certuk
+  - communitiesuk
   - companieshouse
   - datagovuk
   - decc
@@ -232,19 +357,22 @@ U.K. Central:
   - EnvHack2
   - EnvironmentAgency
   - gds-attic
+  - gds-dead
   - gds-operations
+  - GovernmentCommunicationsHeadquarters
   - guidance-guarantee-programme
   - hmrc
   - insolvencyservice
   - intellectual-property-office
   - IQuOD
+  - jncc
   - JNCC-UK
+  - jules-lsm
   - LandRegistry
-  - landregistry-archive
-  - LandRegistry-Attic
   - landregistry-ops
   - lgss
   - LocalGovDigital
+  - met-office-lab
   - MetOffice
   - MetOfficeSpaceApps
   - metomi
@@ -259,14 +387,22 @@ U.K. Central:
   - ukforeignoffice
   - UKHomeOffice
   - UKLocation
+  - uktradeinvestment
 
 U.K. Councils:
   - BarnsleyCouncil
+  - BathnesDevelopment
+  - BracknellForestCouncil
+  - brighton-hove-gov-uk
   - BristolCityCouncil
+  - CamdenCouncil
+  - cityofyork
+  - devoncc
   - DevonCountyCouncil
   - DundeeCityCouncil
   - east-sussex-county-council
   - edinburghcouncil
+  - gmfrs
   - GuildfordBC
   - HfdsCouncil
   - kentcc
@@ -274,14 +410,18 @@ U.K. Councils:
   - lichfield-district-council
   - LutonCouncil
   - RotherDC
+  - thehighlandcouncil
   - TraffordCouncil
   - warwickshire
+  - wealden
   - west-berkshire-council
 
 U.S. City:
+  - austincodeit
   - Baltimore-City-EGIS
   - berkeleypubliclibrary
   - BostonRedevelop
+  - cambridgedata
   - cambridgegis
   - chicago
   - city-of-bellingham
@@ -299,29 +439,37 @@ U.S. City:
   - CityOfGreeleyCo
   - cityofnewyork
   - CityOfPhiladelphia
+  - cityofportland
   - CityofReno
   - CityofSanFrancisco
   - CityofSantaMonica
+  - cityofsomerville
+  - cityofvernonia
   - CityOfVirginiaBeach
   - cityofwestsacramento
   - CityofYakima
   - cno-opa
-  - cocdata
   - CORaleigh
   - CUMTD
+  - datala
+  - dataseattlegov
   - DCCouncil
+  - DCgov
   - DenverDev
-  - dotnyc
+  - digitalinclusion
   - egovpdx
   - geospatialDENVER
   - Honolulu
+  - kcmo
   - lfucg
+  - longbeachinnovationteam
+  - LouisvilleMetro
   - mnhrc
   - monum
   - NYCComptroller
-  - octolabs
+  - nycdot
+  - NYCPlanning
   - OpenGovDC
-  - openlexington
   - p2g
   - pdxgis
   - PierceCountyWA
@@ -329,8 +477,9 @@ U.S. City:
   - ridertd
   - SantaClarita
   - sfbart
-  - sfgov
   - SiloamSprings
+  - southbend
+  - TownOfBrookline
   - tucsonaz
 
 U.S. County:
@@ -340,10 +489,15 @@ U.S. County:
   - bouldercounty
   - CanyonCounty
   - CarverCounty
+  - donaanacounty
+  - fairfieldcountyit
   - fpdcc
   - HarrisCountyFOA
   - HennepinCountyPublicDefender
+  - MCLD
   - miamidade
+  - pottcountyit
+  - saccounty
   - sfcta
   - SJCGIS
   - slo-county-planning-and-building
@@ -353,33 +507,33 @@ U.S. Federal:
   - 18f
   - adl-aicc
   - adlnet
+  - afrl
   - arcticlcc
   - BBGInnovate
+  - bfelob
   - blue-button
   - businessusa
   - CA-CST-Library
   - CA-CST-SII
+  - ccmc
   - cfpb
-  - chaos
   - cmsgov
-  - cocomans
+  - commercedataservice
   - commercegov
-  - cooperhewitt
   - defense-cyber-crime-center
+  - demand-driven-open-data
   - department-of-veterans-affairs
-  - educationdatainitiative
+  - didsr
   - EEOC
   - energyapps
   - erdc-cm
   - eregs
   - fcc
-  - fccdata
   - FCCdev
   - fda
   - Federal-Aviation-Administration
   - federaltradecommission
   - fedspendingtransparency
-  - foreignassistance
   - globegit
   - gopleader
   - government-services
@@ -390,88 +544,93 @@ U.S. Federal:
   - HHSDigitalMediaAPIPlatform
   - HHSIDEAlab
   - historyatstate
-  - hpc
-  - iadgov
+  - IIP-Design
   - IMDProjects
-  - immojn
+  - imls
   - informaticslab
   - Innovation-Toolkit
+  - internationaltradeadministration
   - ioos
   - IRSgov
-  - JBEI
-  - JPLOpenSource
-  - kbase
+  - keplergo
   - libraryofcongress
-  - losalamos
   - M-O-S-E-S
   - mcc-gov
+  - missioncommand
   - nasa
+  - nasa-develop
   - nasa-gibs
   - NASA-rdt
-  - nasajpl
+  - nasa-tournament-lab
+  - nasaworldwind
   - NationalGuard
   - nationalparkservice
-  - ncats
-  - ncbi
-  - ncbitools
-  - ncip
-  - NCPP
   - NCRN
-  - NDAR
   - NeoGeographyToolkit
-  - NERSC
+  - nesii
   - ngds
   - nhanes
-  - nhlbi
-  - niaid
+  - nidcd
   - NIEM
-  - NIST-BWS
   - NMB-Dev
   - NMML
+  - noaa-gfdl
+  - noaa-ncei-stp
+  - noaa-nws-cpc
   - NOAA-ORR-ERD
-  - nrel
-  - NREL-cookbooks
+  - ntia
+  - ombegov
   - Open-Sat
   - opengovplatform
   - ozone-development
   - ozoneplatform
   - peacecorps
-  - PM-Master
+  - petsc
   - presidential-innovation-fellows
   - project-open-data
+  - radiofreeasia
   - redhawksdr
-  - SEED-platform
+  - regulationsgov
+  - sbstusa
+  - SelectUSA
   - SERVIR
-  - Smithsonian
   - state-hiu
   - sunpy
+  - US-CBP
   - usagov
   - usaid
+  - usajobs
   - usasearch
   - usbr
+  - uscensusbureau
+  - uscis
   - usda
+  - usda-ars-agil
   - USDA-ERS
+  - USDA-FSA
   - usda-vs
   - usdepartmentoflabor
   - USDeptVeteransAffairs
+  - usds
   - usepa
   - USFWS
   - usg-scope
   - USGCRP
+  - usgpo
   - usgs
   - USGS-Astrogeology
   - USGS-CIDA
+  - usgs-cmg
+  - usgs-eros
   - USGS-OWI
   - USGS-R
   - USGS-WiM
   - usindianaffairs
   - usinterior
   - usnationalarchives
-  - usnistgov
   - USPS
   - USPTO
   - usstatedept
-  - vainnovation
   - VHAINNOVATIONS
   - virtual-world-framework
   - visionworkbench
@@ -479,11 +638,16 @@ U.S. Federal:
   - whitehouse
 
 U.S. Military and Intelligence:
+  - afseo
+  - erdc-itl
+  - iadgov
   - info-sharing-environment
+  - NationalSecurityAgency
   - ngageoint
   - project-interoperability
   - screamlab
   - shareandprotect
+  - SIMP
   - usarmyresearchlab
 
 U.S. Special District:
@@ -500,30 +664,40 @@ U.S. Special District:
 
 U.S. States:
   - agrc
+  - agrc-widgets
   - azgs
+  - calsimcallite
   - ccap
+  - coloradodemography
   - CTOpenData
   - DCGovWeb
   - eHawaii
   - FGS-FloridaGeologicalSurvey
+  - gocodecolorado
   - IDAHO-DOC-NCOMS
   - idahofishgame
-  - InDEM
   - investmentboard
   - LADCO
   - LibraryofVA
+  - massgov
   - MFWP-GIS
   - mn-script-team
+  - nebraskamap
   - nelegislature
   - NJOGIS
   - njstatelibrary
+  - ny
   - nys-its
   - nysenate
   - oimt
+  - okcareertech
+  - oregonopendata
   - ORMetro
+  - scdhhs
+  - scgeology
   - SLNC-DIMP
   - State-of-Arizona
-  - tndcs
+  - tndidd
   - TNRIS
   - twdb
   - TxDOT
@@ -532,7 +706,7 @@ U.S. States:
   - Virginia-House-of-Delegates
   - vtrans
   - vtrans-rail
-  - WA-OCIO
+  - wadoh
   - WisconsinDPI
   - wsdot
   - WSDOT-GIS
@@ -540,3 +714,13 @@ U.S. States:
 U.S. Tribal Nations:
   - coquille-indian-tribe
   - osage-nation
+
+Ukraine:
+  - openprocurement
+
+Uruguay:
+  - uygub
+
+Venezuela:
+  - CanaimaGNULinux
+  - suscerte

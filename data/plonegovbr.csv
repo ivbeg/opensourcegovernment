@@ -1,26 +1,27 @@
-orgname	name	star_count	forks	issues	contributors	size
-plonegovbr	plonegovbr.github.com	8	5	0	7	205
-plonegovbr	github-collective	2	0	0	1	96
-plonegovbr	plonegovbr.tema	4	2	0	1	464
-plonegovbr	beyondskins.plonesymposium.site	4	2	0	2	197
-plonegovbr	plonesymposium.southamerica	2	0	0	1	132
-plonegovbr	conference.core	2	0	0	1	108
-plonegovbr	conference.registration	3	0	0	1	120
-plonegovbr	conference.profile	2	0	0	1	116
-plonegovbr	conference.program	1	0	0	1	132
-plonegovbr	brasil.gov.barra	3	9	3	7	799
-plonegovbr	beyondskins.ploneconf.site	3	0	0	1	1432
-plonegovbr	brasil.gov.vcge	1	5	7	8	658
-plonegovbr	brasil.gov.portal	8	8	23	10	8517
-plonegovbr	brasil.gov.temas	4	9	5	9	10311
-plonegovbr	brasil.gov.tiles	0	1	11	9	1928
-plonegovbr	portal.buildout	3	7	6	9	2003
-plonegovbr	portal.vagrant	0	0	0	1	124
-plonegovbr	bobtemplates.plonegovbr	0	0	0	5	1204
-plonegovbr	brasil.gov.agenda	0	1	8	8	1040
-plonegovbr	portalpadrao.release	2	0	0	2	138
-plonegovbr	collective.opendata	5	1	6	2	240
-plonegovbr	brasil.gov.paginadestaque	0	0	1	3	1828
-plonegovbr	paginadestaque.temas	0	0	0	1	1532
-plonegovbr	brasil.gov.facetada	0	0	0	1	340
-plonegovbr	brasil.gov.portlets	0	0	0	4	812
+orgname	name
+plonegovbr	plonegovbr.github.com
+plonegovbr	github-collective
+plonegovbr	plonegovbr.tema
+plonegovbr	beyondskins.plonesymposium.site
+plonegovbr	plonesymposium.southamerica
+plonegovbr	conference.core
+plonegovbr	conference.registration
+plonegovbr	conference.profile
+plonegovbr	conference.program
+plonegovbr	brasil.gov.barra
+plonegovbr	beyondskins.ploneconf.site
+plonegovbr	brasil.gov.vcge
+plonegovbr	brasil.gov.portal
+plonegovbr	brasil.gov.temas
+plonegovbr	brasil.gov.tiles
+plonegovbr	portal.buildout
+plonegovbr	portal.vagrant
+plonegovbr	bobtemplates.plonegovbr
+plonegovbr	brasil.gov.agenda
+plonegovbr	portalpadrao.release
+plonegovbr	collective.opendata
+plonegovbr	brasil.gov.paginadestaque
+plonegovbr	paginadestaque.temas
+plonegovbr	brasil.gov.facetada
+plonegovbr	brasil.gov.portlets
+plonegovbr	brasil.gov.vlibrasvideo

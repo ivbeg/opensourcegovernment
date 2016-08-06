@@ -1,19 +1,22 @@
-orgname	name	star_count	forks	issues	contributors	size
-baltimorecounty	LightRail	4	0	0	1	172
-baltimorecounty	address-points	2	0	0	1	135536
-baltimorecounty	Parcel-130-discrepency	1	0	0	1	120
-baltimorecounty	FormattedLabeling	1	0	0	2	221
-baltimorecounty	OneToManyLabels	0	0	0	2	180
-baltimorecounty	CharlesStreetCenterline	0	0	0	1	2648
-baltimorecounty	URDL	0	0	0	1	2732
-baltimorecounty	ZIPcodes	2	0	0	1	7544
-baltimorecounty	CenterlineFlips	0	0	3	1	848
-baltimorecounty	building-footprint	1	0	0	1	748
-baltimorecounty	grid-600-scale	0	0	0	1	112
-baltimorecounty	GovernmentLands	1	1	0	1	16268
-baltimorecounty	hydrology	1	0	0	1	46308
-baltimorecounty	ArcMetadataMaintenance	0	1	0	1	0
-baltimorecounty	Historic-Districts	0	1	0	1	266
-baltimorecounty	Building-Polygons	0	0	0	1	120
-baltimorecounty	openstreetmap	1	0	0	1	3440
-baltimorecounty	historic-geodatabase-sde	0	0	1	1	228
+orgname	name
+baltimorecounty	LightRail
+baltimorecounty	address-points
+baltimorecounty	Parcel-130-discrepency
+baltimorecounty	FormattedLabeling
+baltimorecounty	OneToManyLabels
+baltimorecounty	CharlesStreetCenterline
+baltimorecounty	URDL
+baltimorecounty	ZIPcodes
+baltimorecounty	CenterlineFlips
+baltimorecounty	building-footprint
+baltimorecounty	grid-600-scale
+baltimorecounty	GovernmentLands
+baltimorecounty	hydrology
+baltimorecounty	ArcMetadataMaintenance
+baltimorecounty	Historic-Districts
+baltimorecounty	Building-Polygons
+baltimorecounty	openstreetmap
+baltimorecounty	historic-geodatabase-sde
+baltimorecounty	Bcpl-iOS
+baltimorecounty	HomepageRedesign
+baltimorecounty	baltimorecountymd.gov-assets

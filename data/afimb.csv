@@ -1,10 +1,23 @@
-orgname	name	star_count	forks	issues	contributors	size
-afimb	chouette	2	1	1	5	71632
-afimb	chouette2	6	2	0	7	12517
-afimb	ninoxe	2	0	0	6	1008
-afimb	irys-chouette	1	0	0	3	1004
-afimb	irys	1	0	0	3	1072
-afimb	siri_api	1	0	0	3	376
-afimb	webtopo_api	1	0	0	3	148
-afimb	compliance	1	0	0	1	148
-afimb	chouette-pkg	1	0	0	2	284
+orgname	name
+afimb	chouette
+afimb	chouette2
+afimb	ninoxe
+afimb	irys-chouette
+afimb	irys
+afimb	siri_api
+afimb	webtopo_api
+afimb	compliance
+afimb	chouette-pkg
+afimb	irys-demo
+afimb	siri_lite
+afimb	cvdtc
+afimb	cvdtc-i18n
+afimb	ievkit
+afimb	gtfslib-python
+afimb	siri-validator
+afimb	cvdtc_cv
+afimb	docker-chouette
+afimb	chouette2-i18n
+afimb	chouette-projects-i18n
+afimb	docker-cvdtc
+afimb	ievkit_views

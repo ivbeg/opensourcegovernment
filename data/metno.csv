@@ -1,42 +1,115 @@
-orgname	name	star_count	forks	issues	contributors	size
-metno	moxml	2	0	0	1	108
-metno	wdb-libwdbload	3	1	1	2	355
-metno	wdb-gribload	1	0	4	2	760
-metno	wdb-feltload	2	0	3	2	476
-metno	wdb-demload	1	0	0	2	244
-metno	wdb2ts	1	0	4	2	2136
-metno	wdb-config	1	0	0	2	140
-metno	wdb-bilload	1	0	0	2	416
-metno	wdb	5	2	0	3	4987
-metno	wdb-metadata	2	0	0	2	440
-metno	wdb-netcdf	1	0	0	1	216
-metno	wdb-moxload	1	0	0	1	224
-metno	wdb-stationplacesync	1	0	0	3	664
-metno	wdb-locationforecastLoad	1	0	0	2	348
-metno	wdb2R	1	0	0	1	292
-metno	wdb-feltpointload	1	0	0	1	100520
-metno	parch_locationforecastLoad	1	0	0	1	128
-metno	wdb-pointvalueload	2	0	0	3	1724
-metno	wdb-netcdfload	1	0	0	3	2560
-metno	wdb-partition	1	0	0	1	120
-metno	openlayers-timeslider	7	1	1	3	372
-metno	parch_miopdbLoad	1	0	0	1	156
-metno	wdb-pointvaluebatchload	0	0	0	2	244
-metno	metadata-editor	2	1	1	2	1641
-metno	wdbview	0	0	0	1	184
-metno	weather_symbol	0	0	0	1	400
-metno	bora_prototype	0	0	0	1	324
-metno	esd.test	1	3	0	1	65393
-metno	wdb-performance	0	0	0	1	280
-metno	cookbook-phabricator	3	3	1	2	240
-metno	diana	0	1	0	10	12222
-metno	esd	0	1	12	3	62091
-metno	met-api	0	0	0	4	8728
-metno	met-api-cd	0	0	0	1	256
-metno	rscripts	1	1	0	3	156
-metno	arcanist-support	0	0	0	1	132
-metno	seNorge2	0	0	0	0	104
-metno	nir	0	0	0	3	996
-metno	sesongvarsling	0	0	0	1	0
-metno	sesongarsling	0	0	0	1	0
-metno	metno.github.io	1	0	0	0	307
+orgname	name
+metno	moxml
+metno	wdb-libwdbload
+metno	wdb-gribload
+metno	wdb-feltload
+metno	wdb-demload
+metno	wdb2ts
+metno	wdb-config
+metno	wdb-bilload
+metno	wdb
+metno	wdb-metadata
+metno	wdb-netcdf
+metno	wdb-moxload
+metno	wdb-stationplacesync
+metno	wdb-locationforecastLoad
+metno	wdb2R
+metno	wdb-feltpointload
+metno	parch_locationforecastLoad
+metno	wdb-pointvalueload
+metno	wdb-netcdfload
+metno	wdb-partition
+metno	openlayers-timeslider
+metno	parch_miopdbLoad
+metno	wdb-pointvaluebatchload
+metno	metadata-editor
+metno	wdbview
+metno	weather_symbol
+metno	bora_prototype
+metno	esd.test
+metno	wdb-performance
+metno	cookbook-phabricator
+metno	diana
+metno	esd
+metno	metapi
+metno	met-api-cd
+metno	rscripts
+metno	arcanist-support
+metno	seNorge2
+metno	python-diana
+metno	sip-headless
+metno	python-qt4-headless
+metno	qt4-headless
+metno	nir
+metno	sesongvarsling
+metno	sesongprognose
+metno	metno.github.io
+metno	gridpp
+metno	fetch-vaa
+metno	vaa-kml
+metno	chef-utils
+metno	rr.correction
+metno	wgen
+metno	metapi-terms
+metno	scalastyle
+metno	met-solr
+metno	google-auth-tests
+metno	metapi-observations
+metno	metapi-auth
+metno	metapi-util
+metno	cookbook-metapi
+metno	metapi-template
+metno	cookbook-met-nexus
+metno	loop_wrapper
+metno	wgen.data
+metno	metapi-tests
+metno	metapi-solr-elements
+metno	metapi-elements
+metno	metapi-locations
+metno	satistjenesten
+metno	cookbook-ecflow
+metno	eps2probandltf
+metno	stationlists
+metno	klimagrid_T2m
+metno	NGCD
+metno	wdb-topoload
+metno	poseidon-web
+metno	poseidon-rest
+metno	gpu-ocean
+metno	metapi-sources
+metno	kvalobs
+metno	kvaggregated
+metno	kvsynopd
+metno	kvnorcom
+metno	kvjava
+metno	kvbufrd
+metno	kvhqc
+metno	kvqc2d
+metno	cookbook-kvalobs
+metno	kvmeta
+metno	kvmodelpopulate
+metno	check-met-public-services
+metno	python-productstatus-client
+metno	diana-extras
+metno	ecmwf-dissemination
+metno	productstatus
+metno	farekart
+metno	BMD
+metno	SPECS
+metno	EVA
+metno	fimex
+metno	mgp
+metno	esd_Rmarkdown
+metno	esd_Rshiny
+metno	tseries
+metno	tseriesconfig-udi
+metno	gpu-ocean-fortran
+metno	playbook-ecflow
+metno	metroms
+metno	skyrec
+metno	JTimeseries
+metno	Tuber
+metno	Metsis-theme
+metno	met_moai
+metno	metapi-kdvh-proxy-db
+metno	nwpevents2kafka

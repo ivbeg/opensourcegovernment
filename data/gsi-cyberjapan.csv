@@ -1,22 +1,73 @@
-orgname	name	star_count	forks	issues	contributors	size
-gsi-cyberjapan	next	8	1	9	0	556
-gsi-cyberjapan	ckanext-basemaps	2	0	0	0	132
-gsi-cyberjapan	jmp2ckan	1	0	0	0	140
-gsi-cyberjapan	vector-tile-experiment	5	3	5	2	342
-gsi-cyberjapan	layers-dot-txt-spec	0	0	0	0	144
-gsi-cyberjapan	style-dot-js-spec	0	0	0	0	112
-gsi-cyberjapan	geojson-with-style-spec	2	0	0	0	140
-gsi-cyberjapan	escape-route	0	0	0	0	220
-gsi-cyberjapan	ontake	0	1	0	0	341
-gsi-cyberjapan	ontake-3d	0	0	0	0	3592
-gsi-cyberjapan	mapuse4	2	2	1	0	213
-gsi-cyberjapan	elevation-php	0	1	0	0	106
-gsi-cyberjapan	dnd-ol3	0	1	0	0	113
-gsi-cyberjapan	experimental_dem	4	0	0	0	152
-gsi-cyberjapan	experimental_fgd	4	4	0	1	154
-gsi-cyberjapan	cocotile-mkmokuroku	0	0	0	0	136
-gsi-cyberjapan	cocotile-mokuroku2csv	0	0	0	0	128
-gsi-cyberjapan	cocotile-csv2cocotile	0	0	0	0	120
-gsi-cyberjapan	mokuroku-spec	0	0	0	0	192
-gsi-cyberjapan	mokuroku-generator	1	0	0	0	164
-gsi-cyberjapan	gsimaps	154	7	0	1	0
+orgname	name
+gsi-cyberjapan	next
+gsi-cyberjapan	ckanext-basemaps
+gsi-cyberjapan	jmp2ckan
+gsi-cyberjapan	vector-tile-experiment
+gsi-cyberjapan	layers-dot-txt-spec
+gsi-cyberjapan	style-dot-js-spec
+gsi-cyberjapan	geojson-with-style-spec
+gsi-cyberjapan	escape-route
+gsi-cyberjapan	ontake
+gsi-cyberjapan	ontake-3d
+gsi-cyberjapan	mapuse4
+gsi-cyberjapan	elevation-php
+gsi-cyberjapan	dnd-ol3
+gsi-cyberjapan	experimental_dem
+gsi-cyberjapan	experimental_fgd
+gsi-cyberjapan	cocotile-mkmokuroku
+gsi-cyberjapan	cocotile-mokuroku2csv
+gsi-cyberjapan	cocotile-csv2cocotile
+gsi-cyberjapan	mokuroku-spec
+gsi-cyberjapan	mokuroku-generator
+gsi-cyberjapan	gsimaps
+gsi-cyberjapan	cc-migrate
+gsi-cyberjapan	cocotile-spec
+gsi-cyberjapan	hashtags
+gsi-cyberjapan	experimental_pp
+gsi-cyberjapan	experimental_cp
+gsi-cyberjapan	experimental_zk25000
+gsi-cyberjapan	experimental_wmts
+gsi-cyberjapan	qdltc
+gsi-cyberjapan	experimental_anno
+gsi-cyberjapan	dkgshp2geojsontiles
+gsi-cyberjapan	gdal2xyztiles.py
+gsi-cyberjapan	mkserial
+gsi-cyberjapan	vectiles-mapkit
+gsi-cyberjapan	ua_daily
+gsi-cyberjapan	mokuroku-health-check
+gsi-cyberjapan	sl
+gsi-cyberjapan	gsitiles-leaflet
+gsi-cyberjapan	gsitiles-openlayers3
+gsi-cyberjapan	gsitiles-openlayers2
+gsi-cyberjapan	gsitiles-cesium
+gsi-cyberjapan	reduce-cocotile-2015-07
+gsi-cyberjapan	server-load
+gsi-cyberjapan	daicho-spec
+gsi-cyberjapan	daicho-init
+gsi-cyberjapan	daicho-update
+gsi-cyberjapan	daicho-export
+gsi-cyberjapan	fractional-z
+gsi-cyberjapan	watchizu-index-html
+gsi-cyberjapan	kakotile-spec
+gsi-cyberjapan	kakotile-generator
+gsi-cyberjapan	3s
+gsi-cyberjapan	cmp
+gsi-cyberjapan	bp2geojson
+gsi-cyberjapan	hadoop-cocotile-201509
+gsi-cyberjapan	experimental_anno-zh-cn
+gsi-cyberjapan	23118
+gsi-cyberjapan	tactile
+gsi-cyberjapan	yapng
+gsi-cyberjapan	praas-spec
+gsi-cyberjapan	tum
+gsi-cyberjapan	legacy_cyberjapan_symbols
+gsi-cyberjapan	dev_gsimaps_fy2015
+gsi-cyberjapan	vector_tiles_convert
+gsi-cyberjapan	experimental_landformclassification
+gsi-cyberjapan	gsimaps_160314
+gsi-cyberjapan	gsimaps_test
+gsi-cyberjapan	gsimaps-globe
+gsi-cyberjapan	legacy_mapcase
+gsi-cyberjapan	legacy_old_gsimaps
+gsi-cyberjapan	legacy_old_gsimaps_flash
+gsi-cyberjapan	Web-Map-Source-for-Tile-Maps
