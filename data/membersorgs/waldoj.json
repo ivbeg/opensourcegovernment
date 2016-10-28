@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/statedecoded/issues", 
+        "members_url": "https://api.github.com/orgs/statedecoded/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/statedecoded/public_members{/member}", 
+        "url": "https://api.github.com/orgs/statedecoded", 
+        "events_url": "https://api.github.com/orgs/statedecoded/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3639174?v=3", 
+        "repos_url": "https://api.github.com/orgs/statedecoded/repos", 
+        "login": "statedecoded", 
+        "id": 3639174, 
+        "hooks_url": "https://api.github.com/orgs/statedecoded/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openva/issues", 
+        "members_url": "https://api.github.com/orgs/openva/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openva/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openva", 
+        "events_url": "https://api.github.com/orgs/openva/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4702043?v=3", 
+        "repos_url": "https://api.github.com/orgs/openva/repos", 
+        "login": "openva", 
+        "id": 4702043, 
+        "hooks_url": "https://api.github.com/orgs/openva/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendata/issues", 
+        "members_url": "https://api.github.com/orgs/opendata/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opendata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendata", 
+        "events_url": "https://api.github.com/orgs/opendata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5973403?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendata/repos", 
+        "login": "opendata", 
+        "id": 5973403, 
+        "hooks_url": "https://api.github.com/orgs/opendata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/TrustTheVote-Project/issues", 
+        "members_url": "https://api.github.com/orgs/TrustTheVote-Project/members{/member}", 
+        "description": "Innovating election technology through open source principles.", 
+        "public_members_url": "https://api.github.com/orgs/TrustTheVote-Project/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TrustTheVote-Project", 
+        "events_url": "https://api.github.com/orgs/TrustTheVote-Project/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13039705?v=3", 
+        "repos_url": "https://api.github.com/orgs/TrustTheVote-Project/repos", 
+        "login": "TrustTheVote-Project", 
+        "id": 13039705, 
+        "hooks_url": "https://api.github.com/orgs/TrustTheVote-Project/hooks"
+    }
+]

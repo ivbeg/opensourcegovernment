@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/YouthTree/issues", 
+        "members_url": "https://api.github.com/orgs/YouthTree/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/YouthTree/public_members{/member}", 
+        "url": "https://api.github.com/orgs/YouthTree", 
+        "events_url": "https://api.github.com/orgs/YouthTree/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/232532?v=3", 
+        "repos_url": "https://api.github.com/orgs/YouthTree/repos", 
+        "login": "YouthTree", 
+        "id": 232532, 
+        "hooks_url": "https://api.github.com/orgs/YouthTree/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BetaNYC/issues", 
+        "members_url": "https://api.github.com/orgs/BetaNYC/members{/member}", 
+        "description": "Building a better New York City though #SmartGov, #OpenGov, #CivicTech, & #CivicStartups. Member of @CodeForAmerica's brigade program.", 
+        "public_members_url": "https://api.github.com/orgs/BetaNYC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BetaNYC", 
+        "events_url": "https://api.github.com/orgs/BetaNYC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3756624?v=3", 
+        "repos_url": "https://api.github.com/orgs/BetaNYC/repos", 
+        "login": "BetaNYC", 
+        "id": 3756624, 
+        "hooks_url": "https://api.github.com/orgs/BetaNYC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/enigma-platform/issues", 
+        "members_url": "https://api.github.com/orgs/enigma-platform/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/enigma-platform/public_members{/member}", 
+        "url": "https://api.github.com/orgs/enigma-platform", 
+        "events_url": "https://api.github.com/orgs/enigma-platform/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8472793?v=3", 
+        "repos_url": "https://api.github.com/orgs/enigma-platform/repos", 
+        "login": "enigma-platform", 
+        "id": 8472793, 
+        "hooks_url": "https://api.github.com/orgs/enigma-platform/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MindLeaps/issues", 
+        "members_url": "https://api.github.com/orgs/MindLeaps/members{/member}", 
+        "description": "MindLeaps develops transition programs for street kids in post-conflict countries.", 
+        "public_members_url": "https://api.github.com/orgs/MindLeaps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MindLeaps", 
+        "events_url": "https://api.github.com/orgs/MindLeaps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15523316?v=3", 
+        "repos_url": "https://api.github.com/orgs/MindLeaps/repos", 
+        "login": "MindLeaps", 
+        "id": 15523316, 
+        "hooks_url": "https://api.github.com/orgs/MindLeaps/hooks"
+    }
+]

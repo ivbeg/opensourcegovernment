@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ny/issues", 
+        "members_url": "https://api.github.com/orgs/ny/members{/member}", 
+        "description": "The official GitHub account of New York State Office of IT Services. ", 
+        "public_members_url": "https://api.github.com/orgs/ny/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ny", 
+        "events_url": "https://api.github.com/orgs/ny/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3894610?v=3", 
+        "repos_url": "https://api.github.com/orgs/ny/repos", 
+        "login": "ny", 
+        "id": 3894610, 
+        "hooks_url": "https://api.github.com/orgs/ny/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/issues", 
+        "members_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor", 
+        "events_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7460762?v=3", 
+        "repos_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/repos", 
+        "login": "NYS-ITS-HHS-Labor", 
+        "id": 7460762, 
+        "hooks_url": "https://api.github.com/orgs/NYS-ITS-HHS-Labor/hooks"
+    }
+]

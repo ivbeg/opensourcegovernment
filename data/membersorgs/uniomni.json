@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/AIFDR/issues", 
+        "members_url": "https://api.github.com/orgs/AIFDR/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/AIFDR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AIFDR", 
+        "events_url": "https://api.github.com/orgs/AIFDR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/582004?v=3", 
+        "repos_url": "https://api.github.com/orgs/AIFDR/repos", 
+        "login": "AIFDR", 
+        "id": 582004, 
+        "hooks_url": "https://api.github.com/orgs/AIFDR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GeoscienceAustralia/issues", 
+        "members_url": "https://api.github.com/orgs/GeoscienceAustralia/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GeoscienceAustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeoscienceAustralia", 
+        "events_url": "https://api.github.com/orgs/GeoscienceAustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4704285?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeoscienceAustralia/repos", 
+        "login": "GeoscienceAustralia", 
+        "id": 4704285, 
+        "hooks_url": "https://api.github.com/orgs/GeoscienceAustralia/hooks"
+    }
+]

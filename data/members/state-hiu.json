@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/state-hiu-dev/following{/other_user}", 
+        "events_url": "https://api.github.com/users/state-hiu-dev/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/state-hiu-dev/orgs", 
+        "url": "https://api.github.com/users/state-hiu-dev", 
+        "gists_url": "https://api.github.com/users/state-hiu-dev/gists{/gist_id}", 
+        "html_url": "https://github.com/state-hiu-dev", 
+        "subscriptions_url": "https://api.github.com/users/state-hiu-dev/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13385455?v=3", 
+        "repos_url": "https://api.github.com/users/state-hiu-dev/repos", 
+        "received_events_url": "https://api.github.com/users/state-hiu-dev/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/state-hiu-dev/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "state-hiu-dev", 
+        "type": "User", 
+        "id": 13385455, 
+        "followers_url": "https://api.github.com/users/state-hiu-dev/followers"
+    }
+]

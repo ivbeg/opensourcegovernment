@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opencleveland/issues", 
+        "members_url": "https://api.github.com/orgs/opencleveland/members{/member}", 
+        "description": "Cleveland's Code For America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/opencleveland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opencleveland", 
+        "events_url": "https://api.github.com/orgs/opencleveland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9359323?v=3", 
+        "repos_url": "https://api.github.com/orgs/opencleveland/repos", 
+        "login": "opencleveland", 
+        "id": 9359323, 
+        "hooks_url": "https://api.github.com/orgs/opencleveland/hooks"
+    }
+]

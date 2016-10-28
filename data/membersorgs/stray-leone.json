@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/teampopong/issues", 
+        "members_url": "https://api.github.com/orgs/teampopong/members{/member}", 
+        "description": "We open politics.", 
+        "public_members_url": "https://api.github.com/orgs/teampopong/public_members{/member}", 
+        "url": "https://api.github.com/orgs/teampopong", 
+        "events_url": "https://api.github.com/orgs/teampopong/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2258984?v=3", 
+        "repos_url": "https://api.github.com/orgs/teampopong/repos", 
+        "login": "teampopong", 
+        "id": 2258984, 
+        "hooks_url": "https://api.github.com/orgs/teampopong/hooks"
+    }
+]

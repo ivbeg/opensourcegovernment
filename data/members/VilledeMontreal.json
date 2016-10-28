@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/fprieur/following{/other_user}", 
+        "events_url": "https://api.github.com/users/fprieur/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/fprieur/orgs", 
+        "url": "https://api.github.com/users/fprieur", 
+        "gists_url": "https://api.github.com/users/fprieur/gists{/gist_id}", 
+        "html_url": "https://github.com/fprieur", 
+        "subscriptions_url": "https://api.github.com/users/fprieur/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/243898?v=3", 
+        "repos_url": "https://api.github.com/users/fprieur/repos", 
+        "received_events_url": "https://api.github.com/users/fprieur/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/fprieur/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "fprieur", 
+        "type": "User", 
+        "id": 243898, 
+        "followers_url": "https://api.github.com/users/fprieur/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/MartinJanelle/following{/other_user}", 
+        "events_url": "https://api.github.com/users/MartinJanelle/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/MartinJanelle/orgs", 
+        "url": "https://api.github.com/users/MartinJanelle", 
+        "gists_url": "https://api.github.com/users/MartinJanelle/gists{/gist_id}", 
+        "html_url": "https://github.com/MartinJanelle", 
+        "subscriptions_url": "https://api.github.com/users/MartinJanelle/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1247305?v=3", 
+        "repos_url": "https://api.github.com/users/MartinJanelle/repos", 
+        "received_events_url": "https://api.github.com/users/MartinJanelle/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/MartinJanelle/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "MartinJanelle", 
+        "type": "User", 
+        "id": 1247305, 
+        "followers_url": "https://api.github.com/users/MartinJanelle/followers"
+    }
+]

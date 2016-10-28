@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/rgarcia-herrera/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rgarcia-herrera/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rgarcia-herrera/orgs", 
+        "url": "https://api.github.com/users/rgarcia-herrera", 
+        "gists_url": "https://api.github.com/users/rgarcia-herrera/gists{/gist_id}", 
+        "html_url": "https://github.com/rgarcia-herrera", 
+        "subscriptions_url": "https://api.github.com/users/rgarcia-herrera/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1191351?v=3", 
+        "repos_url": "https://api.github.com/users/rgarcia-herrera/repos", 
+        "received_events_url": "https://api.github.com/users/rgarcia-herrera/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rgarcia-herrera/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rgarcia-herrera", 
+        "type": "User", 
+        "id": 1191351, 
+        "followers_url": "https://api.github.com/users/rgarcia-herrera/followers"
+    }
+]

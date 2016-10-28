@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/georchestra/issues", 
+        "members_url": "https://api.github.com/orgs/georchestra/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/georchestra/public_members{/member}", 
+        "url": "https://api.github.com/orgs/georchestra", 
+        "events_url": "https://api.github.com/orgs/georchestra/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/773831?v=3", 
+        "repos_url": "https://api.github.com/orgs/georchestra/repos", 
+        "login": "georchestra", 
+        "id": 773831, 
+        "hooks_url": "https://api.github.com/orgs/georchestra/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geobolivia/issues", 
+        "members_url": "https://api.github.com/orgs/geobolivia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/geobolivia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geobolivia", 
+        "events_url": "https://api.github.com/orgs/geobolivia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2715406?v=3", 
+        "repos_url": "https://api.github.com/orgs/geobolivia/repos", 
+        "login": "geobolivia", 
+        "id": 2715406, 
+        "hooks_url": "https://api.github.com/orgs/geobolivia/hooks"
+    }
+]

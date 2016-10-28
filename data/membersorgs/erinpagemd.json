@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/csun-student-affairs/issues", 
+        "members_url": "https://api.github.com/orgs/csun-student-affairs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/csun-student-affairs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/csun-student-affairs", 
+        "events_url": "https://api.github.com/orgs/csun-student-affairs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/583712?v=3", 
+        "repos_url": "https://api.github.com/orgs/csun-student-affairs/repos", 
+        "login": "csun-student-affairs", 
+        "id": 583712, 
+        "hooks_url": "https://api.github.com/orgs/csun-student-affairs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/issues", 
+        "members_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NashvilleSoftwareSchool", 
+        "events_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2388224?v=3", 
+        "repos_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/repos", 
+        "login": "NashvilleSoftwareSchool", 
+        "id": 2388224, 
+        "hooks_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ReaxDev/issues", 
+        "members_url": "https://api.github.com/orgs/ReaxDev/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ReaxDev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ReaxDev", 
+        "events_url": "https://api.github.com/orgs/ReaxDev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6961842?v=3", 
+        "repos_url": "https://api.github.com/orgs/ReaxDev/repos", 
+        "login": "ReaxDev", 
+        "id": 6961842, 
+        "hooks_url": "https://api.github.com/orgs/ReaxDev/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code-for-nashville/issues", 
+        "members_url": "https://api.github.com/orgs/code-for-nashville/members{/member}", 
+        "description": "Building Better Communities Through Technology", 
+        "public_members_url": "https://api.github.com/orgs/code-for-nashville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code-for-nashville", 
+        "events_url": "https://api.github.com/orgs/code-for-nashville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8493450?v=3", 
+        "repos_url": "https://api.github.com/orgs/code-for-nashville/repos", 
+        "login": "code-for-nashville", 
+        "id": 8493450, 
+        "hooks_url": "https://api.github.com/orgs/code-for-nashville/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NSS-Cohort-8/issues", 
+        "members_url": "https://api.github.com/orgs/NSS-Cohort-8/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NSS-Cohort-8/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NSS-Cohort-8", 
+        "events_url": "https://api.github.com/orgs/NSS-Cohort-8/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10163157?v=3", 
+        "repos_url": "https://api.github.com/orgs/NSS-Cohort-8/repos", 
+        "login": "NSS-Cohort-8", 
+        "id": 10163157, 
+        "hooks_url": "https://api.github.com/orgs/NSS-Cohort-8/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HackTennessee7/issues", 
+        "members_url": "https://api.github.com/orgs/HackTennessee7/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HackTennessee7/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackTennessee7", 
+        "events_url": "https://api.github.com/orgs/HackTennessee7/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12205611?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackTennessee7/repos", 
+        "login": "HackTennessee7", 
+        "id": 12205611, 
+        "hooks_url": "https://api.github.com/orgs/HackTennessee7/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/VotusInc/issues", 
+        "members_url": "https://api.github.com/orgs/VotusInc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/VotusInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/VotusInc", 
+        "events_url": "https://api.github.com/orgs/VotusInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12863312?v=3", 
+        "repos_url": "https://api.github.com/orgs/VotusInc/repos", 
+        "login": "VotusInc", 
+        "id": 12863312, 
+        "hooks_url": "https://api.github.com/orgs/VotusInc/hooks"
+    }
+]

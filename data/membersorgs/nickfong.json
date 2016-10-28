@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NERSC/issues", 
+        "members_url": "https://api.github.com/orgs/NERSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NERSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NERSC", 
+        "events_url": "https://api.github.com/orgs/NERSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380484?v=3", 
+        "repos_url": "https://api.github.com/orgs/NERSC/repos", 
+        "login": "NERSC", 
+        "id": 1380484, 
+        "hooks_url": "https://api.github.com/orgs/NERSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Berkeley-CS61B/issues", 
+        "members_url": "https://api.github.com/orgs/Berkeley-CS61B/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Berkeley-CS61B/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Berkeley-CS61B", 
+        "events_url": "https://api.github.com/orgs/Berkeley-CS61B/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9814088?v=3", 
+        "repos_url": "https://api.github.com/orgs/Berkeley-CS61B/repos", 
+        "login": "Berkeley-CS61B", 
+        "id": 9814088, 
+        "hooks_url": "https://api.github.com/orgs/Berkeley-CS61B/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Berkeley-MOSC/issues", 
+        "members_url": "https://api.github.com/orgs/Berkeley-MOSC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Berkeley-MOSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Berkeley-MOSC", 
+        "events_url": "https://api.github.com/orgs/Berkeley-MOSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17321096?v=3", 
+        "repos_url": "https://api.github.com/orgs/Berkeley-MOSC/repos", 
+        "login": "Berkeley-MOSC", 
+        "id": 17321096, 
+        "hooks_url": "https://api.github.com/orgs/Berkeley-MOSC/hooks"
+    }
+]

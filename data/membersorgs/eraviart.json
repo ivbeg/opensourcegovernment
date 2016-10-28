@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openfisca/issues", 
+        "members_url": "https://api.github.com/orgs/openfisca/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openfisca/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openfisca", 
+        "events_url": "https://api.github.com/orgs/openfisca/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1794404?v=3", 
+        "repos_url": "https://api.github.com/orgs/openfisca/repos", 
+        "login": "openfisca", 
+        "id": 1794404, 
+        "hooks_url": "https://api.github.com/orgs/openfisca/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/etalab/issues", 
+        "members_url": "https://api.github.com/orgs/etalab/members{/member}", 
+        "description": "Service du Premier ministre en charge de l'ouverture des donn\u00e9es publiques et du gouvernement ouvert", 
+        "public_members_url": "https://api.github.com/orgs/etalab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/etalab", 
+        "events_url": "https://api.github.com/orgs/etalab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313610?v=3", 
+        "repos_url": "https://api.github.com/orgs/etalab/repos", 
+        "login": "etalab", 
+        "id": 5313610, 
+        "hooks_url": "https://api.github.com/orgs/etalab/hooks"
+    }
+]

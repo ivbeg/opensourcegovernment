@@ -1,0 +1,81 @@
+# Coungtry groups used for comparsion
+
+United States:
+  - U.S. Federal
+  - U.S. Research Labs
+  - U.S. States
+  - U.S. City
+  - U.S. Military and Intelligence
+  - U.S. Special District
+  - U.S. County
+  - U.S. Tribal Nations
+
+UK:
+  - U.K. Central
+  - U.K. Councils
+  
+European Union (EU):
+  - Finland
+  - Norway
+  - France
+  - Spain
+  - Lithuania
+  - Estonia
+  - Sweden
+  - Belgium
+  - The Netherlands
+  - Poland
+  - Romania
+  - European Union
+  - Switzerland
+  - Germany
+  - Bulgaria
+  - Latvia
+  - Italy
+  - Isle of Man
+
+Civic:
+  - Code For America
+  - Civic Hackers
+  - Code for All
+  - Open Knowledge Foundation
+
+Rest of the world:
+  - Australia
+  - Canada
+  - Brazil
+  - Ukraine
+  - Argentina
+  - New Zealand
+  - Mexico
+  - International
+  - Chile
+  - Japan
+  - Singapore
+  - Peru
+  - Panama
+  - Bolivia
+  - Ecuador
+  - Israel
+  - Venezuela
+  - Guatemala
+  - Hong Kong
+  - Philippines
+  - Saudi Arabia
+  - Uruguay
+  - Egypt
+  - India
+  - South Africa
+  - Malaysia
+  - Colombia
+  - Paraguay
+
+
+#G7:
+#  - United States
+#  - Japan
+#  - France
+#  - Italy
+#  - Canada
+#  - Germany
+#  - UK

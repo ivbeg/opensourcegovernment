@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wikimedia/issues", 
+        "members_url": "https://api.github.com/orgs/wikimedia/members{/member}", 
+        "description": "Wikimedia is a global movement whose mission is to bring free educational content to the world.", 
+        "public_members_url": "https://api.github.com/orgs/wikimedia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wikimedia", 
+        "events_url": "https://api.github.com/orgs/wikimedia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/56668?v=3", 
+        "repos_url": "https://api.github.com/orgs/wikimedia/repos", 
+        "login": "wikimedia", 
+        "id": 56668, 
+        "hooks_url": "https://api.github.com/orgs/wikimedia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WikidataQuality/issues", 
+        "members_url": "https://api.github.com/orgs/WikidataQuality/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WikidataQuality/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WikidataQuality", 
+        "events_url": "https://api.github.com/orgs/WikidataQuality/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9149035?v=3", 
+        "repos_url": "https://api.github.com/orgs/WikidataQuality/repos", 
+        "login": "WikidataQuality", 
+        "id": 9149035, 
+        "hooks_url": "https://api.github.com/orgs/WikidataQuality/hooks"
+    }
+]

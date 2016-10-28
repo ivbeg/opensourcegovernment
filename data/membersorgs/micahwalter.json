@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cooperhewitt/issues", 
+        "members_url": "https://api.github.com/orgs/cooperhewitt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cooperhewitt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cooperhewitt", 
+        "events_url": "https://api.github.com/orgs/cooperhewitt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/367993?v=3", 
+        "repos_url": "https://api.github.com/orgs/cooperhewitt/repos", 
+        "login": "cooperhewitt", 
+        "id": 367993, 
+        "hooks_url": "https://api.github.com/orgs/cooperhewitt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Smithsonian/issues", 
+        "members_url": "https://api.github.com/orgs/Smithsonian/members{/member}", 
+        "description": "Smithsonian Institution OCIO Central GitHub", 
+        "public_members_url": "https://api.github.com/orgs/Smithsonian/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Smithsonian", 
+        "events_url": "https://api.github.com/orgs/Smithsonian/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3631392?v=3", 
+        "repos_url": "https://api.github.com/orgs/Smithsonian/repos", 
+        "login": "Smithsonian", 
+        "id": 3631392, 
+        "hooks_url": "https://api.github.com/orgs/Smithsonian/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kesnerwalter/issues", 
+        "members_url": "https://api.github.com/orgs/kesnerwalter/members{/member}", 
+        "description": "Our Stuff", 
+        "public_members_url": "https://api.github.com/orgs/kesnerwalter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kesnerwalter", 
+        "events_url": "https://api.github.com/orgs/kesnerwalter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5238158?v=3", 
+        "repos_url": "https://api.github.com/orgs/kesnerwalter/repos", 
+        "login": "kesnerwalter", 
+        "id": 5238158, 
+        "hooks_url": "https://api.github.com/orgs/kesnerwalter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/moments-notice/issues", 
+        "members_url": "https://api.github.com/orgs/moments-notice/members{/member}", 
+        "description": "Moment\u2019s Notice Project is an experiment in correspondence.", 
+        "public_members_url": "https://api.github.com/orgs/moments-notice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/moments-notice", 
+        "events_url": "https://api.github.com/orgs/moments-notice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10508823?v=3", 
+        "repos_url": "https://api.github.com/orgs/moments-notice/repos", 
+        "login": "moments-notice", 
+        "id": 10508823, 
+        "hooks_url": "https://api.github.com/orgs/moments-notice/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/the-pen/issues", 
+        "members_url": "https://api.github.com/orgs/the-pen/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/the-pen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/the-pen", 
+        "events_url": "https://api.github.com/orgs/the-pen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17087113?v=3", 
+        "repos_url": "https://api.github.com/orgs/the-pen/repos", 
+        "login": "the-pen", 
+        "id": 17087113, 
+        "hooks_url": "https://api.github.com/orgs/the-pen/hooks"
+    }
+]

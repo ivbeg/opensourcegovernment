@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordc/issues", 
+        "members_url": "https://api.github.com/orgs/codefordc/members{/member}", 
+        "description": "Code for DC is an all volunteer organization that creates tools, information, and experiences that serve the District. ", 
+        "public_members_url": "https://api.github.com/orgs/codefordc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordc", 
+        "events_url": "https://api.github.com/orgs/codefordc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordc/repos", 
+        "login": "codefordc", 
+        "id": 2768897, 
+        "hooks_url": "https://api.github.com/orgs/codefordc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openlawdc/issues", 
+        "members_url": "https://api.github.com/orgs/openlawdc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openlawdc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlawdc", 
+        "events_url": "https://api.github.com/orgs/openlawdc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4041961?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlawdc/repos", 
+        "login": "openlawdc", 
+        "id": 4041961, 
+        "hooks_url": "https://api.github.com/orgs/openlawdc/hooks"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/guardianproject/issues", 
+        "members_url": "https://api.github.com/orgs/guardianproject/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/guardianproject/public_members{/member}", 
+        "url": "https://api.github.com/orgs/guardianproject", 
+        "events_url": "https://api.github.com/orgs/guardianproject/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/218109?v=3", 
+        "repos_url": "https://api.github.com/orgs/guardianproject/repos", 
+        "login": "guardianproject", 
+        "id": 218109, 
+        "hooks_url": "https://api.github.com/orgs/guardianproject/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/appleseednyc/issues", 
+        "members_url": "https://api.github.com/orgs/appleseednyc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/appleseednyc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/appleseednyc", 
+        "events_url": "https://api.github.com/orgs/appleseednyc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/948925?v=3", 
+        "repos_url": "https://api.github.com/orgs/appleseednyc/repos", 
+        "login": "appleseednyc", 
+        "id": 948925, 
+        "hooks_url": "https://api.github.com/orgs/appleseednyc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityOfNewYork/issues", 
+        "members_url": "https://api.github.com/orgs/CityOfNewYork/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CityOfNewYork/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityOfNewYork", 
+        "events_url": "https://api.github.com/orgs/CityOfNewYork/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1107978?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityOfNewYork/repos", 
+        "login": "CityOfNewYork", 
+        "id": 1107978, 
+        "hooks_url": "https://api.github.com/orgs/CityOfNewYork/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BetaNYC/issues", 
+        "members_url": "https://api.github.com/orgs/BetaNYC/members{/member}", 
+        "description": "Building a better New York City though #SmartGov, #OpenGov, #CivicTech, & #CivicStartups. Member of @CodeForAmerica's brigade program.", 
+        "public_members_url": "https://api.github.com/orgs/BetaNYC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BetaNYC", 
+        "events_url": "https://api.github.com/orgs/BetaNYC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3756624?v=3", 
+        "repos_url": "https://api.github.com/orgs/BetaNYC/repos", 
+        "login": "BetaNYC", 
+        "id": 3756624, 
+        "hooks_url": "https://api.github.com/orgs/BetaNYC/hooks"
+    }
+]

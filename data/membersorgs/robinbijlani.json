@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForFtL/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForFtL/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CodeForFtL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForFtL", 
+        "events_url": "https://api.github.com/orgs/CodeForFtL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5661283?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForFtL/repos", 
+        "login": "CodeForFtL", 
+        "id": 5661283, 
+        "hooks_url": "https://api.github.com/orgs/CodeForFtL/hooks"
+    }
+]

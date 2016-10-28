@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/daisy/issues", 
+        "members_url": "https://api.github.com/orgs/daisy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/daisy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/daisy", 
+        "events_url": "https://api.github.com/orgs/daisy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/757383?v=3", 
+        "repos_url": "https://api.github.com/orgs/daisy/repos", 
+        "login": "daisy", 
+        "id": 757383, 
+        "hooks_url": "https://api.github.com/orgs/daisy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nlbdev/issues", 
+        "members_url": "https://api.github.com/orgs/nlbdev/members{/member}", 
+        "description": "NLB is Norway\u2019s largest producer of audio and braille books.", 
+        "public_members_url": "https://api.github.com/orgs/nlbdev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nlbdev", 
+        "events_url": "https://api.github.com/orgs/nlbdev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6852279?v=3", 
+        "repos_url": "https://api.github.com/orgs/nlbdev/repos", 
+        "login": "nlbdev", 
+        "id": 6852279, 
+        "hooks_url": "https://api.github.com/orgs/nlbdev/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open-city/issues", 
+        "members_url": "https://api.github.com/orgs/open-city/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/open-city/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-city", 
+        "events_url": "https://api.github.com/orgs/open-city/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1361807?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-city/repos", 
+        "login": "open-city", 
+        "id": 1361807, 
+        "hooks_url": "https://api.github.com/orgs/open-city/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datamade/issues", 
+        "members_url": "https://api.github.com/orgs/datamade/members{/member}", 
+        "description": "We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations.", 
+        "public_members_url": "https://api.github.com/orgs/datamade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datamade", 
+        "events_url": "https://api.github.com/orgs/datamade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=3", 
+        "repos_url": "https://api.github.com/orgs/datamade/repos", 
+        "login": "datamade", 
+        "id": 3723931, 
+        "hooks_url": "https://api.github.com/orgs/datamade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dssg/issues", 
+        "members_url": "https://api.github.com/orgs/dssg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dssg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dssg", 
+        "events_url": "https://api.github.com/orgs/dssg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
+        "repos_url": "https://api.github.com/orgs/dssg/repos", 
+        "login": "dssg", 
+        "id": 3827384, 
+        "hooks_url": "https://api.github.com/orgs/dssg/hooks"
+    }
+]

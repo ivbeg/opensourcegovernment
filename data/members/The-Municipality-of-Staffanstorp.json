@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/pjedlund/following{/other_user}", 
+        "events_url": "https://api.github.com/users/pjedlund/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/pjedlund/orgs", 
+        "url": "https://api.github.com/users/pjedlund", 
+        "gists_url": "https://api.github.com/users/pjedlund/gists{/gist_id}", 
+        "html_url": "https://github.com/pjedlund", 
+        "subscriptions_url": "https://api.github.com/users/pjedlund/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/824815?v=3", 
+        "repos_url": "https://api.github.com/users/pjedlund/repos", 
+        "received_events_url": "https://api.github.com/users/pjedlund/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/pjedlund/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "pjedlund", 
+        "type": "User", 
+        "id": 824815, 
+        "followers_url": "https://api.github.com/users/pjedlund/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/staffanstorp/following{/other_user}", 
+        "events_url": "https://api.github.com/users/staffanstorp/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/staffanstorp/orgs", 
+        "url": "https://api.github.com/users/staffanstorp", 
+        "gists_url": "https://api.github.com/users/staffanstorp/gists{/gist_id}", 
+        "html_url": "https://github.com/staffanstorp", 
+        "subscriptions_url": "https://api.github.com/users/staffanstorp/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1543505?v=3", 
+        "repos_url": "https://api.github.com/users/staffanstorp/repos", 
+        "received_events_url": "https://api.github.com/users/staffanstorp/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/staffanstorp/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "staffanstorp", 
+        "type": "User", 
+        "id": 1543505, 
+        "followers_url": "https://api.github.com/users/staffanstorp/followers"
+    }
+]

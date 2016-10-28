@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/recursecenter/issues", 
+        "members_url": "https://api.github.com/orgs/recursecenter/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recursecenter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recursecenter", 
+        "events_url": "https://api.github.com/orgs/recursecenter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085202?v=3", 
+        "repos_url": "https://api.github.com/orgs/recursecenter/repos", 
+        "login": "recursecenter", 
+        "id": 1085202, 
+        "hooks_url": "https://api.github.com/orgs/recursecenter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CashStar/issues", 
+        "members_url": "https://api.github.com/orgs/CashStar/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CashStar/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CashStar", 
+        "events_url": "https://api.github.com/orgs/CashStar/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1306652?v=3", 
+        "repos_url": "https://api.github.com/orgs/CashStar/repos", 
+        "login": "CashStar", 
+        "id": 1306652, 
+        "hooks_url": "https://api.github.com/orgs/CashStar/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HackerSchool12/issues", 
+        "members_url": "https://api.github.com/orgs/HackerSchool12/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HackerSchool12/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackerSchool12", 
+        "events_url": "https://api.github.com/orgs/HackerSchool12/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1767605?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackerSchool12/repos", 
+        "login": "HackerSchool12", 
+        "id": 1767605, 
+        "hooks_url": "https://api.github.com/orgs/HackerSchool12/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Code4Maine/issues", 
+        "members_url": "https://api.github.com/orgs/Code4Maine/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Code4Maine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4Maine", 
+        "events_url": "https://api.github.com/orgs/Code4Maine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3003028?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4Maine/repos", 
+        "login": "Code4Maine", 
+        "id": 3003028, 
+        "hooks_url": "https://api.github.com/orgs/Code4Maine/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PistonDevelopers/issues", 
+        "members_url": "https://api.github.com/orgs/PistonDevelopers/members{/member}", 
+        "description": "The Piston game engine organization for maintanenance and research", 
+        "public_members_url": "https://api.github.com/orgs/PistonDevelopers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PistonDevelopers", 
+        "events_url": "https://api.github.com/orgs/PistonDevelopers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7623406?v=3", 
+        "repos_url": "https://api.github.com/orgs/PistonDevelopers/repos", 
+        "login": "PistonDevelopers", 
+        "id": 7623406, 
+        "hooks_url": "https://api.github.com/orgs/PistonDevelopers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/friends-of-iup/issues", 
+        "members_url": "https://api.github.com/orgs/friends-of-iup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/friends-of-iup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friends-of-iup", 
+        "events_url": "https://api.github.com/orgs/friends-of-iup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12753677?v=3", 
+        "repos_url": "https://api.github.com/orgs/friends-of-iup/repos", 
+        "login": "friends-of-iup", 
+        "id": 12753677, 
+        "hooks_url": "https://api.github.com/orgs/friends-of-iup/hooks"
+    }
+]

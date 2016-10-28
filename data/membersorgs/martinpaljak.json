@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenSC/issues", 
+        "members_url": "https://api.github.com/orgs/OpenSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenSC", 
+        "events_url": "https://api.github.com/orgs/OpenSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/895249?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenSC/repos", 
+        "login": "OpenSC", 
+        "id": 895249, 
+        "hooks_url": "https://api.github.com/orgs/OpenSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-gov/issues", 
+        "members_url": "https://api.github.com/orgs/e-gov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/e-gov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-gov", 
+        "events_url": "https://api.github.com/orgs/e-gov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7447915?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-gov/repos", 
+        "login": "e-gov", 
+        "id": 7447915, 
+        "hooks_url": "https://api.github.com/orgs/e-gov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-eid/issues", 
+        "members_url": "https://api.github.com/orgs/open-eid/members{/member}", 
+        "description": "Estonian Electronic Identity Software", 
+        "public_members_url": "https://api.github.com/orgs/open-eid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-eid", 
+        "events_url": "https://api.github.com/orgs/open-eid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7879948?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-eid/repos", 
+        "login": "open-eid", 
+        "id": 7879948, 
+        "hooks_url": "https://api.github.com/orgs/open-eid/hooks"
+    }
+]

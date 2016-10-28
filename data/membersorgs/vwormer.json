@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/correctiv/issues", 
+        "members_url": "https://api.github.com/orgs/correctiv/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/correctiv/public_members{/member}", 
+        "url": "https://api.github.com/orgs/correctiv", 
+        "events_url": "https://api.github.com/orgs/correctiv/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7809407?v=3", 
+        "repos_url": "https://api.github.com/orgs/correctiv/repos", 
+        "login": "correctiv", 
+        "id": 7809407, 
+        "hooks_url": "https://api.github.com/orgs/correctiv/hooks"
+    }
+]

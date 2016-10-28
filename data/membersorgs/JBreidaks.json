@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CSBLatvia/issues", 
+        "members_url": "https://api.github.com/orgs/CSBLatvia/members{/member}", 
+        "description": "Statistics Latvia", 
+        "public_members_url": "https://api.github.com/orgs/CSBLatvia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CSBLatvia", 
+        "events_url": "https://api.github.com/orgs/CSBLatvia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8370516?v=3", 
+        "repos_url": "https://api.github.com/orgs/CSBLatvia/repos", 
+        "login": "CSBLatvia", 
+        "id": 8370516, 
+        "hooks_url": "https://api.github.com/orgs/CSBLatvia/hooks"
+    }
+]

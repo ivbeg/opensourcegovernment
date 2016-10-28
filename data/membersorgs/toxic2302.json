@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForGiessen/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForGiessen/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeForGiessen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForGiessen", 
+        "events_url": "https://api.github.com/orgs/CodeForGiessen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8227138?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForGiessen/repos", 
+        "login": "CodeForGiessen", 
+        "id": 8227138, 
+        "hooks_url": "https://api.github.com/orgs/CodeForGiessen/hooks"
+    }
+]

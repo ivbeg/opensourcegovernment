@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cometaworks/issues", 
+        "members_url": "https://api.github.com/orgs/cometaworks/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cometaworks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cometaworks", 
+        "events_url": "https://api.github.com/orgs/cometaworks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1832487?v=3", 
+        "repos_url": "https://api.github.com/orgs/cometaworks/repos", 
+        "login": "cometaworks", 
+        "id": 1832487, 
+        "hooks_url": "https://api.github.com/orgs/cometaworks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/issues", 
+        "members_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/members{/member}", 
+        "description": "A Github Repository for the Government of Puerto Rico", 
+        "public_members_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/commonwealth-of-puerto-rico", 
+        "events_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4306066?v=3", 
+        "repos_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/repos", 
+        "login": "commonwealth-of-puerto-rico", 
+        "id": 4306066, 
+        "hooks_url": "https://api.github.com/orgs/commonwealth-of-puerto-rico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SoPR/issues", 
+        "members_url": "https://api.github.com/orgs/SoPR/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SoPR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SoPR", 
+        "events_url": "https://api.github.com/orgs/SoPR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4494941?v=3", 
+        "repos_url": "https://api.github.com/orgs/SoPR/repos", 
+        "login": "SoPR", 
+        "id": 4494941, 
+        "hooks_url": "https://api.github.com/orgs/SoPR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pixelhipsters/issues", 
+        "members_url": "https://api.github.com/orgs/pixelhipsters/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pixelhipsters/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pixelhipsters", 
+        "events_url": "https://api.github.com/orgs/pixelhipsters/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4961749?v=3", 
+        "repos_url": "https://api.github.com/orgs/pixelhipsters/repos", 
+        "login": "pixelhipsters", 
+        "id": 4961749, 
+        "hooks_url": "https://api.github.com/orgs/pixelhipsters/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/puertoricorb/issues", 
+        "members_url": "https://api.github.com/orgs/puertoricorb/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/puertoricorb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/puertoricorb", 
+        "events_url": "https://api.github.com/orgs/puertoricorb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5136029?v=3", 
+        "repos_url": "https://api.github.com/orgs/puertoricorb/repos", 
+        "login": "puertoricorb", 
+        "id": 5136029, 
+        "hooks_url": "https://api.github.com/orgs/puertoricorb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codetrotters/issues", 
+        "members_url": "https://api.github.com/orgs/codetrotters/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codetrotters/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codetrotters", 
+        "events_url": "https://api.github.com/orgs/codetrotters/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13034905?v=3", 
+        "repos_url": "https://api.github.com/orgs/codetrotters/repos", 
+        "login": "codetrotters", 
+        "id": 13034905, 
+        "hooks_url": "https://api.github.com/orgs/codetrotters/hooks"
+    }
+]

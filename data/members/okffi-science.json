@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/antagomir/following{/other_user}", 
+        "events_url": "https://api.github.com/users/antagomir/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/antagomir/orgs", 
+        "url": "https://api.github.com/users/antagomir", 
+        "gists_url": "https://api.github.com/users/antagomir/gists{/gist_id}", 
+        "html_url": "https://github.com/antagomir", 
+        "subscriptions_url": "https://api.github.com/users/antagomir/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1228382?v=3", 
+        "repos_url": "https://api.github.com/users/antagomir/repos", 
+        "received_events_url": "https://api.github.com/users/antagomir/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/antagomir/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "antagomir", 
+        "type": "User", 
+        "id": 1228382, 
+        "followers_url": "https://api.github.com/users/antagomir/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ouzor/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ouzor/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ouzor/orgs", 
+        "url": "https://api.github.com/users/ouzor", 
+        "gists_url": "https://api.github.com/users/ouzor/gists{/gist_id}", 
+        "html_url": "https://github.com/ouzor", 
+        "subscriptions_url": "https://api.github.com/users/ouzor/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1228426?v=3", 
+        "repos_url": "https://api.github.com/users/ouzor/repos", 
+        "received_events_url": "https://api.github.com/users/ouzor/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ouzor/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ouzor", 
+        "type": "User", 
+        "id": 1228426, 
+        "followers_url": "https://api.github.com/users/ouzor/followers"
+    }
+]

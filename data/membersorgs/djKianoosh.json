@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Cobenian/issues", 
+        "members_url": "https://api.github.com/orgs/Cobenian/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Cobenian/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Cobenian", 
+        "events_url": "https://api.github.com/orgs/Cobenian/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/980157?v=3", 
+        "repos_url": "https://api.github.com/orgs/Cobenian/repos", 
+        "login": "Cobenian", 
+        "id": 980157, 
+        "hooks_url": "https://api.github.com/orgs/Cobenian/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/capclug/issues", 
+        "members_url": "https://api.github.com/orgs/capclug/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/capclug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/capclug", 
+        "events_url": "https://api.github.com/orgs/capclug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2116080?v=3", 
+        "repos_url": "https://api.github.com/orgs/capclug/repos", 
+        "login": "capclug", 
+        "id": 2116080, 
+        "hooks_url": "https://api.github.com/orgs/capclug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/US-CBP/issues", 
+        "members_url": "https://api.github.com/orgs/US-CBP/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/US-CBP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/US-CBP", 
+        "events_url": "https://api.github.com/orgs/US-CBP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20208707?v=3", 
+        "repos_url": "https://api.github.com/orgs/US-CBP/repos", 
+        "login": "US-CBP", 
+        "id": 20208707, 
+        "hooks_url": "https://api.github.com/orgs/US-CBP/hooks"
+    }
+]

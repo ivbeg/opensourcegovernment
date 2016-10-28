@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DigitalNZ/issues", 
+        "members_url": "https://api.github.com/orgs/DigitalNZ/members{/member}", 
+        "description": "We connect together millions of digital items to make them more useful. Our Supplejack aggregation technology is available to all.", 
+        "public_members_url": "https://api.github.com/orgs/DigitalNZ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DigitalNZ", 
+        "events_url": "https://api.github.com/orgs/DigitalNZ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/93386?v=3", 
+        "repos_url": "https://api.github.com/orgs/DigitalNZ/repos", 
+        "login": "DigitalNZ", 
+        "id": 93386, 
+        "hooks_url": "https://api.github.com/orgs/DigitalNZ/hooks"
+    }
+]

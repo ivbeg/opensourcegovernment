@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bem/issues", 
+        "members_url": "https://api.github.com/orgs/bem/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/bem/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bem", 
+        "events_url": "https://api.github.com/orgs/bem/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/223412?v=3", 
+        "repos_url": "https://api.github.com/orgs/bem/repos", 
+        "login": "bem", 
+        "id": 223412, 
+        "hooks_url": "https://api.github.com/orgs/bem/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bem-site/issues", 
+        "members_url": "https://api.github.com/orgs/bem-site/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bem-site/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bem-site", 
+        "events_url": "https://api.github.com/orgs/bem-site/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10230255?v=3", 
+        "repos_url": "https://api.github.com/orgs/bem-site/repos", 
+        "login": "bem-site", 
+        "id": 10230255, 
+        "hooks_url": "https://api.github.com/orgs/bem-site/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-government-ua/issues", 
+        "members_url": "https://api.github.com/orgs/e-government-ua/members{/member}", 
+        "description": "Non Commercial social-governmental startup for fighting with corruption in Ukraine", 
+        "public_members_url": "https://api.github.com/orgs/e-government-ua/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-government-ua", 
+        "events_url": "https://api.github.com/orgs/e-government-ua/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11369419?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-government-ua/repos", 
+        "login": "e-government-ua", 
+        "id": 11369419, 
+        "hooks_url": "https://api.github.com/orgs/e-government-ua/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gemini-testing/issues", 
+        "members_url": "https://api.github.com/orgs/gemini-testing/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gemini-testing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gemini-testing", 
+        "events_url": "https://api.github.com/orgs/gemini-testing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11424134?v=3", 
+        "repos_url": "https://api.github.com/orgs/gemini-testing/repos", 
+        "login": "gemini-testing", 
+        "id": 11424134, 
+        "hooks_url": "https://api.github.com/orgs/gemini-testing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/prosvita/issues", 
+        "members_url": "https://api.github.com/orgs/prosvita/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/prosvita/public_members{/member}", 
+        "url": "https://api.github.com/orgs/prosvita", 
+        "events_url": "https://api.github.com/orgs/prosvita/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13570685?v=3", 
+        "repos_url": "https://api.github.com/orgs/prosvita/repos", 
+        "login": "prosvita", 
+        "id": 13570685, 
+        "hooks_url": "https://api.github.com/orgs/prosvita/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/enb/issues", 
+        "members_url": "https://api.github.com/orgs/enb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/enb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/enb", 
+        "events_url": "https://api.github.com/orgs/enb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14005055?v=3", 
+        "repos_url": "https://api.github.com/orgs/enb/repos", 
+        "login": "enb", 
+        "id": 14005055, 
+        "hooks_url": "https://api.github.com/orgs/enb/hooks"
+    }
+]

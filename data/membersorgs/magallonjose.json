@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/IFARHU/issues", 
+        "members_url": "https://api.github.com/orgs/IFARHU/members{/member}", 
+        "description": "Instituto para la Formaci\u00f3n y Aprovechamiento de Recursos Humanos, Direcci\u00f3n de Tecnolog\u00eda Inform\u00e1tica", 
+        "public_members_url": "https://api.github.com/orgs/IFARHU/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IFARHU", 
+        "events_url": "https://api.github.com/orgs/IFARHU/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10016815?v=3", 
+        "repos_url": "https://api.github.com/orgs/IFARHU/repos", 
+        "login": "IFARHU", 
+        "id": 10016815, 
+        "hooks_url": "https://api.github.com/orgs/IFARHU/hooks"
+    }
+]

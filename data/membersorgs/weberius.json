@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/JUGCologne/issues", 
+        "members_url": "https://api.github.com/orgs/JUGCologne/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JUGCologne/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JUGCologne", 
+        "events_url": "https://api.github.com/orgs/JUGCologne/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3257621?v=3", 
+        "repos_url": "https://api.github.com/orgs/JUGCologne/repos", 
+        "login": "JUGCologne", 
+        "id": 3257621, 
+        "hooks_url": "https://api.github.com/orgs/JUGCologne/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforcologne/issues", 
+        "members_url": "https://api.github.com/orgs/codeforcologne/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforcologne/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforcologne", 
+        "events_url": "https://api.github.com/orgs/codeforcologne/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14066251?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforcologne/repos", 
+        "login": "codeforcologne", 
+        "id": 14066251, 
+        "hooks_url": "https://api.github.com/orgs/codeforcologne/hooks"
+    }
+]

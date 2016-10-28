@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/johnpauls/following{/other_user}", 
+        "events_url": "https://api.github.com/users/johnpauls/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/johnpauls/orgs", 
+        "url": "https://api.github.com/users/johnpauls", 
+        "gists_url": "https://api.github.com/users/johnpauls/gists{/gist_id}", 
+        "html_url": "https://github.com/johnpauls", 
+        "subscriptions_url": "https://api.github.com/users/johnpauls/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5996979?v=3", 
+        "repos_url": "https://api.github.com/users/johnpauls/repos", 
+        "received_events_url": "https://api.github.com/users/johnpauls/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/johnpauls/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "johnpauls", 
+        "type": "User", 
+        "id": 5996979, 
+        "followers_url": "https://api.github.com/users/johnpauls/followers"
+    }
+]

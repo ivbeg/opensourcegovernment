@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/recursecenter/issues", 
+        "members_url": "https://api.github.com/orgs/recursecenter/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recursecenter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recursecenter", 
+        "events_url": "https://api.github.com/orgs/recursecenter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085202?v=3", 
+        "repos_url": "https://api.github.com/orgs/recursecenter/repos", 
+        "login": "recursecenter", 
+        "id": 1085202, 
+        "hooks_url": "https://api.github.com/orgs/recursecenter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Automatic/issues", 
+        "members_url": "https://api.github.com/orgs/Automatic/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Automatic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Automatic", 
+        "events_url": "https://api.github.com/orgs/Automatic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1126674?v=3", 
+        "repos_url": "https://api.github.com/orgs/Automatic/repos", 
+        "login": "Automatic", 
+        "id": 1126674, 
+        "hooks_url": "https://api.github.com/orgs/Automatic/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbart/issues", 
+        "members_url": "https://api.github.com/orgs/sfbart/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sfbart/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbart", 
+        "events_url": "https://api.github.com/orgs/sfbart/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4842576?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbart/repos", 
+        "login": "sfbart", 
+        "id": 4842576, 
+        "hooks_url": "https://api.github.com/orgs/sfbart/hooks"
+    }
+]

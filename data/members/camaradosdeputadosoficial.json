@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/edmundoandrade/following{/other_user}", 
+        "events_url": "https://api.github.com/users/edmundoandrade/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/edmundoandrade/orgs", 
+        "url": "https://api.github.com/users/edmundoandrade", 
+        "gists_url": "https://api.github.com/users/edmundoandrade/gists{/gist_id}", 
+        "html_url": "https://github.com/edmundoandrade", 
+        "subscriptions_url": "https://api.github.com/users/edmundoandrade/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/345812?v=3", 
+        "repos_url": "https://api.github.com/users/edmundoandrade/repos", 
+        "received_events_url": "https://api.github.com/users/edmundoandrade/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/edmundoandrade/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "edmundoandrade", 
+        "type": "User", 
+        "id": 345812, 
+        "followers_url": "https://api.github.com/users/edmundoandrade/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/victor-bortone/following{/other_user}", 
+        "events_url": "https://api.github.com/users/victor-bortone/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/victor-bortone/orgs", 
+        "url": "https://api.github.com/users/victor-bortone", 
+        "gists_url": "https://api.github.com/users/victor-bortone/gists{/gist_id}", 
+        "html_url": "https://github.com/victor-bortone", 
+        "subscriptions_url": "https://api.github.com/users/victor-bortone/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5576122?v=3", 
+        "repos_url": "https://api.github.com/users/victor-bortone/repos", 
+        "received_events_url": "https://api.github.com/users/victor-bortone/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/victor-bortone/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "victor-bortone", 
+        "type": "User", 
+        "id": 5576122, 
+        "followers_url": "https://api.github.com/users/victor-bortone/followers"
+    }
+]

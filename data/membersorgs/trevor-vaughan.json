@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/onyxpoint/issues", 
+        "members_url": "https://api.github.com/orgs/onyxpoint/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/onyxpoint/public_members{/member}", 
+        "url": "https://api.github.com/orgs/onyxpoint", 
+        "events_url": "https://api.github.com/orgs/onyxpoint/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/169265?v=3", 
+        "repos_url": "https://api.github.com/orgs/onyxpoint/repos", 
+        "login": "onyxpoint", 
+        "id": 169265, 
+        "hooks_url": "https://api.github.com/orgs/onyxpoint/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hercules-team/issues", 
+        "members_url": "https://api.github.com/orgs/hercules-team/members{/member}", 
+        "description": "For all Augeas-related projects", 
+        "public_members_url": "https://api.github.com/orgs/hercules-team/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hercules-team", 
+        "events_url": "https://api.github.com/orgs/hercules-team/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2223281?v=3", 
+        "repos_url": "https://api.github.com/orgs/hercules-team/repos", 
+        "login": "hercules-team", 
+        "id": 2223281, 
+        "hooks_url": "https://api.github.com/orgs/hercules-team/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/simp/issues", 
+        "members_url": "https://api.github.com/orgs/simp/members{/member}", 
+        "description": "The System Integrity Management Platform", 
+        "public_members_url": "https://api.github.com/orgs/simp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/simp", 
+        "events_url": "https://api.github.com/orgs/simp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12174186?v=3", 
+        "repos_url": "https://api.github.com/orgs/simp/repos", 
+        "login": "simp", 
+        "id": 12174186, 
+        "hooks_url": "https://api.github.com/orgs/simp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/baltimore-puppet-users-group/issues", 
+        "members_url": "https://api.github.com/orgs/baltimore-puppet-users-group/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/baltimore-puppet-users-group/public_members{/member}", 
+        "url": "https://api.github.com/orgs/baltimore-puppet-users-group", 
+        "events_url": "https://api.github.com/orgs/baltimore-puppet-users-group/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12203133?v=3", 
+        "repos_url": "https://api.github.com/orgs/baltimore-puppet-users-group/repos", 
+        "login": "baltimore-puppet-users-group", 
+        "id": 12203133, 
+        "hooks_url": "https://api.github.com/orgs/baltimore-puppet-users-group/hooks"
+    }
+]

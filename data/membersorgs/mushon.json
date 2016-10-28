@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hasadna/issues", 
+        "members_url": "https://api.github.com/orgs/hasadna/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hasadna/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hasadna", 
+        "events_url": "https://api.github.com/orgs/hasadna/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/503639?v=3", 
+        "repos_url": "https://api.github.com/orgs/hasadna/repos", 
+        "login": "hasadna", 
+        "id": 503639, 
+        "hooks_url": "https://api.github.com/orgs/hasadna/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/issues", 
+        "members_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenDesign-WorkingGroup", 
+        "events_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1675182?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/repos", 
+        "login": "OpenDesign-WorkingGroup", 
+        "id": 1675182, 
+        "hooks_url": "https://api.github.com/orgs/OpenDesign-WorkingGroup/hooks"
+    }
+]

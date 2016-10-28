@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/seansweeney/following{/other_user}", 
+        "events_url": "https://api.github.com/users/seansweeney/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/seansweeney/orgs", 
+        "url": "https://api.github.com/users/seansweeney", 
+        "gists_url": "https://api.github.com/users/seansweeney/gists{/gist_id}", 
+        "html_url": "https://github.com/seansweeney", 
+        "subscriptions_url": "https://api.github.com/users/seansweeney/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5191004?v=3", 
+        "repos_url": "https://api.github.com/users/seansweeney/repos", 
+        "received_events_url": "https://api.github.com/users/seansweeney/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/seansweeney/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "seansweeney", 
+        "type": "User", 
+        "id": 5191004, 
+        "followers_url": "https://api.github.com/users/seansweeney/followers"
+    }
+]

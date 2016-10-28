@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/BI/issues", 
+        "members_url": "https://api.github.com/orgs/BI/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/BI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BI", 
+        "events_url": "https://api.github.com/orgs/BI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/339060?v=3", 
+        "repos_url": "https://api.github.com/orgs/BI/repos", 
+        "login": "BI", 
+        "id": 339060, 
+        "hooks_url": "https://api.github.com/orgs/BI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NIFA/issues", 
+        "members_url": "https://api.github.com/orgs/NIFA/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NIFA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NIFA", 
+        "events_url": "https://api.github.com/orgs/NIFA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1205098?v=3", 
+        "repos_url": "https://api.github.com/orgs/NIFA/repos", 
+        "login": "NIFA", 
+        "id": 1205098, 
+        "hooks_url": "https://api.github.com/orgs/NIFA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/elastics/issues", 
+        "members_url": "https://api.github.com/orgs/elastics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/elastics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/elastics", 
+        "events_url": "https://api.github.com/orgs/elastics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5254438?v=3", 
+        "repos_url": "https://api.github.com/orgs/elastics/repos", 
+        "login": "elastics", 
+        "id": 5254438, 
+        "hooks_url": "https://api.github.com/orgs/elastics/hooks"
+    }
+]

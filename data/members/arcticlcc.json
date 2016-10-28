@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jlblcc/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jlblcc/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jlblcc/orgs", 
+        "url": "https://api.github.com/users/jlblcc", 
+        "gists_url": "https://api.github.com/users/jlblcc/gists{/gist_id}", 
+        "html_url": "https://github.com/jlblcc", 
+        "subscriptions_url": "https://api.github.com/users/jlblcc/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5833603?v=3", 
+        "repos_url": "https://api.github.com/users/jlblcc/repos", 
+        "received_events_url": "https://api.github.com/users/jlblcc/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jlblcc/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jlblcc", 
+        "type": "User", 
+        "id": 5833603, 
+        "followers_url": "https://api.github.com/users/jlblcc/followers"
+    }
+]

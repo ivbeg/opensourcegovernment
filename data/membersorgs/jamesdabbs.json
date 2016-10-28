@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/theironyard/issues", 
+        "members_url": "https://api.github.com/orgs/theironyard/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/theironyard/public_members{/member}", 
+        "url": "https://api.github.com/orgs/theironyard", 
+        "events_url": "https://api.github.com/orgs/theironyard/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3", 
+        "repos_url": "https://api.github.com/orgs/theironyard/repos", 
+        "login": "theironyard", 
+        "id": 2248433, 
+        "hooks_url": "https://api.github.com/orgs/theironyard/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spaceappsatlanta/issues", 
+        "members_url": "https://api.github.com/orgs/spaceappsatlanta/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/spaceappsatlanta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spaceappsatlanta", 
+        "events_url": "https://api.github.com/orgs/spaceappsatlanta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3657611?v=3", 
+        "repos_url": "https://api.github.com/orgs/spaceappsatlanta/repos", 
+        "login": "spaceappsatlanta", 
+        "id": 3657611, 
+        "hooks_url": "https://api.github.com/orgs/spaceappsatlanta/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atl-bigdataweek/issues", 
+        "members_url": "https://api.github.com/orgs/atl-bigdataweek/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/atl-bigdataweek/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atl-bigdataweek", 
+        "events_url": "https://api.github.com/orgs/atl-bigdataweek/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4265752?v=3", 
+        "repos_url": "https://api.github.com/orgs/atl-bigdataweek/repos", 
+        "login": "atl-bigdataweek", 
+        "id": 4265752, 
+        "hooks_url": "https://api.github.com/orgs/atl-bigdataweek/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/peacecorps/issues", 
+        "members_url": "https://api.github.com/orgs/peacecorps/members{/member}", 
+        "description": "Plug into Peace Corps' mission", 
+        "public_members_url": "https://api.github.com/orgs/peacecorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/peacecorps", 
+        "events_url": "https://api.github.com/orgs/peacecorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4389885?v=3", 
+        "repos_url": "https://api.github.com/orgs/peacecorps/repos", 
+        "login": "peacecorps", 
+        "id": 4389885, 
+        "hooks_url": "https://api.github.com/orgs/peacecorps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atlrug-rhok/issues", 
+        "members_url": "https://api.github.com/orgs/atlrug-rhok/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/atlrug-rhok/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atlrug-rhok", 
+        "events_url": "https://api.github.com/orgs/atlrug-rhok/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4514218?v=3", 
+        "repos_url": "https://api.github.com/orgs/atlrug-rhok/repos", 
+        "login": "atlrug-rhok", 
+        "id": 4514218, 
+        "hooks_url": "https://api.github.com/orgs/atlrug-rhok/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/theironyard-rails-atl/issues", 
+        "members_url": "https://api.github.com/orgs/theironyard-rails-atl/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/theironyard-rails-atl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/theironyard-rails-atl", 
+        "events_url": "https://api.github.com/orgs/theironyard-rails-atl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8304973?v=3", 
+        "repos_url": "https://api.github.com/orgs/theironyard-rails-atl/repos", 
+        "login": "theironyard-rails-atl", 
+        "id": 8304973, 
+        "hooks_url": "https://api.github.com/orgs/theironyard-rails-atl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/issues", 
+        "members_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/members{/member}", 
+        "description": "Hello from curl", 
+        "public_members_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May", 
+        "events_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12142565?v=3", 
+        "repos_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/repos", 
+        "login": "TIY-DC-ROR-2015-May", 
+        "id": 12142565, 
+        "hooks_url": "https://api.github.com/orgs/TIY-DC-ROR-2015-May/hooks"
+    }
+]

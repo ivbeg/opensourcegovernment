@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GeoRemindMe/issues", 
+        "members_url": "https://api.github.com/orgs/GeoRemindMe/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GeoRemindMe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeoRemindMe", 
+        "events_url": "https://api.github.com/orgs/GeoRemindMe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/826955?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeoRemindMe/repos", 
+        "login": "GeoRemindMe", 
+        "id": 826955, 
+        "hooks_url": "https://api.github.com/orgs/GeoRemindMe/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openkratio/issues", 
+        "members_url": "https://api.github.com/orgs/openkratio/members{/member}", 
+        "description": "OpenGov & OpenData Organization", 
+        "public_members_url": "https://api.github.com/orgs/openkratio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkratio", 
+        "events_url": "https://api.github.com/orgs/openkratio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2310256?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkratio/repos", 
+        "login": "openkratio", 
+        "id": 2310256, 
+        "hooks_url": "https://api.github.com/orgs/openkratio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/yoinup/issues", 
+        "members_url": "https://api.github.com/orgs/yoinup/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/yoinup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/yoinup", 
+        "events_url": "https://api.github.com/orgs/yoinup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2564770?v=3", 
+        "repos_url": "https://api.github.com/orgs/yoinup/repos", 
+        "login": "yoinup", 
+        "id": 2564770, 
+        "hooks_url": "https://api.github.com/orgs/yoinup/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PythonGranada/issues", 
+        "members_url": "https://api.github.com/orgs/PythonGranada/members{/member}", 
+        "description": "The community dedicated to Python in Granada and its surroundings.", 
+        "public_members_url": "https://api.github.com/orgs/PythonGranada/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PythonGranada", 
+        "events_url": "https://api.github.com/orgs/PythonGranada/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14265379?v=3", 
+        "repos_url": "https://api.github.com/orgs/PythonGranada/repos", 
+        "login": "PythonGranada", 
+        "id": 14265379, 
+        "hooks_url": "https://api.github.com/orgs/PythonGranada/hooks"
+    }
+]

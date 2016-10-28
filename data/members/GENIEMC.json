@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/gnperdue/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gnperdue/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gnperdue/orgs", 
+        "url": "https://api.github.com/users/gnperdue", 
+        "gists_url": "https://api.github.com/users/gnperdue/gists{/gist_id}", 
+        "html_url": "https://github.com/gnperdue", 
+        "subscriptions_url": "https://api.github.com/users/gnperdue/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1294053?v=3", 
+        "repos_url": "https://api.github.com/users/gnperdue/repos", 
+        "received_events_url": "https://api.github.com/users/gnperdue/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gnperdue/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gnperdue", 
+        "type": "User", 
+        "id": 1294053, 
+        "followers_url": "https://api.github.com/users/gnperdue/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/TomaszGolan/following{/other_user}", 
+        "events_url": "https://api.github.com/users/TomaszGolan/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/TomaszGolan/orgs", 
+        "url": "https://api.github.com/users/TomaszGolan", 
+        "gists_url": "https://api.github.com/users/TomaszGolan/gists{/gist_id}", 
+        "html_url": "https://github.com/TomaszGolan", 
+        "subscriptions_url": "https://api.github.com/users/TomaszGolan/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12547139?v=3", 
+        "repos_url": "https://api.github.com/users/TomaszGolan/repos", 
+        "received_events_url": "https://api.github.com/users/TomaszGolan/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/TomaszGolan/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "TomaszGolan", 
+        "type": "User", 
+        "id": 12547139, 
+        "followers_url": "https://api.github.com/users/TomaszGolan/followers"
+    }
+]

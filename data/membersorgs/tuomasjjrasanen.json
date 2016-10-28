@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opinsys/issues", 
+        "members_url": "https://api.github.com/orgs/opinsys/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opinsys/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opinsys", 
+        "events_url": "https://api.github.com/orgs/opinsys/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/274282?v=3", 
+        "repos_url": "https://api.github.com/orgs/opinsys/repos", 
+        "login": "opinsys", 
+        "id": 274282, 
+        "hooks_url": "https://api.github.com/orgs/opinsys/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okffi/issues", 
+        "members_url": "https://api.github.com/orgs/okffi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okffi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okffi", 
+        "events_url": "https://api.github.com/orgs/okffi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1327578?v=3", 
+        "repos_url": "https://api.github.com/orgs/okffi/repos", 
+        "login": "okffi", 
+        "id": 1327578, 
+        "hooks_url": "https://api.github.com/orgs/okffi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/koodilehto/issues", 
+        "members_url": "https://api.github.com/orgs/koodilehto/members{/member}", 
+        "description": "Combines open technologies for your benefit", 
+        "public_members_url": "https://api.github.com/orgs/koodilehto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/koodilehto", 
+        "events_url": "https://api.github.com/orgs/koodilehto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1938165?v=3", 
+        "repos_url": "https://api.github.com/orgs/koodilehto/repos", 
+        "login": "koodilehto", 
+        "id": 1938165, 
+        "hooks_url": "https://api.github.com/orgs/koodilehto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/puavo-org/issues", 
+        "members_url": "https://api.github.com/orgs/puavo-org/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/puavo-org/public_members{/member}", 
+        "url": "https://api.github.com/orgs/puavo-org", 
+        "events_url": "https://api.github.com/orgs/puavo-org/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16498698?v=3", 
+        "repos_url": "https://api.github.com/orgs/puavo-org/repos", 
+        "login": "puavo-org", 
+        "id": 16498698, 
+        "hooks_url": "https://api.github.com/orgs/puavo-org/hooks"
+    }
+]

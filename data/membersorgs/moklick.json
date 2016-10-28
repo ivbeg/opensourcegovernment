@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wbkd/issues", 
+        "members_url": "https://api.github.com/orgs/wbkd/members{/member}", 
+        "description": "Data Visualizations | Interactive Maps | Visual Storytelling", 
+        "public_members_url": "https://api.github.com/orgs/wbkd/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wbkd", 
+        "events_url": "https://api.github.com/orgs/wbkd/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7106853?v=3", 
+        "repos_url": "https://api.github.com/orgs/wbkd/repos", 
+        "login": "wbkd", 
+        "id": 7106853, 
+        "hooks_url": "https://api.github.com/orgs/wbkd/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/limoengroen/issues", 
+        "members_url": "https://api.github.com/orgs/limoengroen/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/limoengroen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/limoengroen", 
+        "events_url": "https://api.github.com/orgs/limoengroen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1055632?v=3", 
+        "repos_url": "https://api.github.com/orgs/limoengroen/repos", 
+        "login": "limoengroen", 
+        "id": 1055632, 
+        "hooks_url": "https://api.github.com/orgs/limoengroen/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/beeldengeluid/issues", 
+        "members_url": "https://api.github.com/orgs/beeldengeluid/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/beeldengeluid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/beeldengeluid", 
+        "events_url": "https://api.github.com/orgs/beeldengeluid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1242122?v=3", 
+        "repos_url": "https://api.github.com/orgs/beeldengeluid/repos", 
+        "login": "beeldengeluid", 
+        "id": 1242122, 
+        "hooks_url": "https://api.github.com/orgs/beeldengeluid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gemeentemuseum/issues", 
+        "members_url": "https://api.github.com/orgs/gemeentemuseum/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/gemeentemuseum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gemeentemuseum", 
+        "events_url": "https://api.github.com/orgs/gemeentemuseum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1519905?v=3", 
+        "repos_url": "https://api.github.com/orgs/gemeentemuseum/repos", 
+        "login": "gemeentemuseum", 
+        "id": 1519905, 
+        "hooks_url": "https://api.github.com/orgs/gemeentemuseum/hooks"
+    }
+]

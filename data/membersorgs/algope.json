@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hubcivico/issues", 
+        "members_url": "https://api.github.com/orgs/hubcivico/members{/member}", 
+        "description": "Tecnolog\u00eda - Ciudadan\u00eda - Gobierno abierto", 
+        "public_members_url": "https://api.github.com/orgs/hubcivico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hubcivico", 
+        "events_url": "https://api.github.com/orgs/hubcivico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15668941?v=3", 
+        "repos_url": "https://api.github.com/orgs/hubcivico/repos", 
+        "login": "hubcivico", 
+        "id": 15668941, 
+        "hooks_url": "https://api.github.com/orgs/hubcivico/hooks"
+    }
+]

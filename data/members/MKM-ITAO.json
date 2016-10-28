@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/RRisto/following{/other_user}", 
+        "events_url": "https://api.github.com/users/RRisto/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/RRisto/orgs", 
+        "url": "https://api.github.com/users/RRisto", 
+        "gists_url": "https://api.github.com/users/RRisto/gists{/gist_id}", 
+        "html_url": "https://github.com/RRisto", 
+        "subscriptions_url": "https://api.github.com/users/RRisto/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8947407?v=3", 
+        "repos_url": "https://api.github.com/users/RRisto/repos", 
+        "received_events_url": "https://api.github.com/users/RRisto/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/RRisto/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "RRisto", 
+        "type": "User", 
+        "id": 8947407, 
+        "followers_url": "https://api.github.com/users/RRisto/followers"
+    }
+]

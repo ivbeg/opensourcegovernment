@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DCgov/issues", 
+        "members_url": "https://api.github.com/orgs/DCgov/members{/member}", 
+        "description": "This is a pilot project of OCTO.  If your team or agency wants to learn more please email opensource@dc.gov.", 
+        "public_members_url": "https://api.github.com/orgs/DCgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCgov", 
+        "events_url": "https://api.github.com/orgs/DCgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13023164?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCgov/repos", 
+        "login": "DCgov", 
+        "id": 13023164, 
+        "hooks_url": "https://api.github.com/orgs/DCgov/hooks"
+    }
+]

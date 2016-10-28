@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/vegvesen/issues", 
+        "members_url": "https://api.github.com/orgs/vegvesen/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/vegvesen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vegvesen", 
+        "events_url": "https://api.github.com/orgs/vegvesen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17743817?v=3", 
+        "repos_url": "https://api.github.com/orgs/vegvesen/repos", 
+        "login": "vegvesen", 
+        "id": 17743817, 
+        "hooks_url": "https://api.github.com/orgs/vegvesen/hooks"
+    }
+]

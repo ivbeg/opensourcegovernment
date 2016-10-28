@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/guru-sp/issues", 
+        "members_url": "https://api.github.com/orgs/guru-sp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/guru-sp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/guru-sp", 
+        "events_url": "https://api.github.com/orgs/guru-sp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/55218?v=3", 
+        "repos_url": "https://api.github.com/orgs/guru-sp/repos", 
+        "login": "guru-sp", 
+        "id": 55218, 
+        "hooks_url": "https://api.github.com/orgs/guru-sp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nodeschool/issues", 
+        "members_url": "https://api.github.com/orgs/nodeschool/members{/member}", 
+        "description": "Open source workshops that teach web software skills", 
+        "public_members_url": "https://api.github.com/orgs/nodeschool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nodeschool", 
+        "events_url": "https://api.github.com/orgs/nodeschool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5437587?v=3", 
+        "repos_url": "https://api.github.com/orgs/nodeschool/repos", 
+        "login": "nodeschool", 
+        "id": 5437587, 
+        "hooks_url": "https://api.github.com/orgs/nodeschool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/golangbr/issues", 
+        "members_url": "https://api.github.com/orgs/golangbr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/golangbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/golangbr", 
+        "events_url": "https://api.github.com/orgs/golangbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6026800?v=3", 
+        "repos_url": "https://api.github.com/orgs/golangbr/repos", 
+        "login": "golangbr", 
+        "id": 6026800, 
+        "hooks_url": "https://api.github.com/orgs/golangbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/databr/issues", 
+        "members_url": "https://api.github.com/orgs/databr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/databr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/databr", 
+        "events_url": "https://api.github.com/orgs/databr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8595385?v=3", 
+        "repos_url": "https://api.github.com/orgs/databr/repos", 
+        "login": "databr", 
+        "id": 8595385, 
+        "hooks_url": "https://api.github.com/orgs/databr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/uhuraapp/issues", 
+        "members_url": "https://api.github.com/orgs/uhuraapp/members{/member}", 
+        "description": "The Best Podcast Player", 
+        "public_members_url": "https://api.github.com/orgs/uhuraapp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/uhuraapp", 
+        "events_url": "https://api.github.com/orgs/uhuraapp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9499127?v=3", 
+        "repos_url": "https://api.github.com/orgs/uhuraapp/repos", 
+        "login": "uhuraapp", 
+        "id": 9499127, 
+        "hooks_url": "https://api.github.com/orgs/uhuraapp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/youse-seguradora/issues", 
+        "members_url": "https://api.github.com/orgs/youse-seguradora/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/youse-seguradora/public_members{/member}", 
+        "url": "https://api.github.com/orgs/youse-seguradora", 
+        "events_url": "https://api.github.com/orgs/youse-seguradora/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14187261?v=3", 
+        "repos_url": "https://api.github.com/orgs/youse-seguradora/repos", 
+        "login": "youse-seguradora", 
+        "id": 14187261, 
+        "hooks_url": "https://api.github.com/orgs/youse-seguradora/hooks"
+    }
+]

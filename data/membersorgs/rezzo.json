@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/issues", 
+        "members_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/public_members{/member}", 
+        "url": "https://api.github.com/orgs/desarrollandoAmericaLatina", 
+        "events_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/954274?v=3", 
+        "repos_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/repos", 
+        "login": "desarrollandoAmericaLatina", 
+        "id": 954274, 
+        "hooks_url": "https://api.github.com/orgs/desarrollandoAmericaLatina/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/poplus/issues", 
+        "members_url": "https://api.github.com/orgs/poplus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/poplus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/poplus", 
+        "events_url": "https://api.github.com/orgs/poplus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4304608?v=3", 
+        "repos_url": "https://api.github.com/orgs/poplus/repos", 
+        "login": "poplus", 
+        "id": 4304608, 
+        "hooks_url": "https://api.github.com/orgs/poplus/hooks"
+    }
+]

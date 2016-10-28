@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/martinpaljak/following{/other_user}", 
+        "events_url": "https://api.github.com/users/martinpaljak/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/martinpaljak/orgs", 
+        "url": "https://api.github.com/users/martinpaljak", 
+        "gists_url": "https://api.github.com/users/martinpaljak/gists{/gist_id}", 
+        "html_url": "https://github.com/martinpaljak", 
+        "subscriptions_url": "https://api.github.com/users/martinpaljak/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/46006?v=3", 
+        "repos_url": "https://api.github.com/users/martinpaljak/repos", 
+        "received_events_url": "https://api.github.com/users/martinpaljak/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/martinpaljak/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "martinpaljak", 
+        "type": "User", 
+        "id": 46006, 
+        "followers_url": "https://api.github.com/users/martinpaljak/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/PriitParmakson/following{/other_user}", 
+        "events_url": "https://api.github.com/users/PriitParmakson/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/PriitParmakson/orgs", 
+        "url": "https://api.github.com/users/PriitParmakson", 
+        "gists_url": "https://api.github.com/users/PriitParmakson/gists{/gist_id}", 
+        "html_url": "https://github.com/PriitParmakson", 
+        "subscriptions_url": "https://api.github.com/users/PriitParmakson/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7662658?v=3", 
+        "repos_url": "https://api.github.com/users/PriitParmakson/repos", 
+        "received_events_url": "https://api.github.com/users/PriitParmakson/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/PriitParmakson/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "PriitParmakson", 
+        "type": "User", 
+        "id": 7662658, 
+        "followers_url": "https://api.github.com/users/PriitParmakson/followers"
+    }
+]

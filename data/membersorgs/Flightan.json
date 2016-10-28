@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sgmap/issues", 
+        "members_url": "https://api.github.com/orgs/sgmap/members{/member}", 
+        "description": "Incubateur de Services Num\u00e9riques du Secr\u00e9tariat G\u00e9n\u00e9ral pour la Modernisation de l\u2019Action Publique", 
+        "public_members_url": "https://api.github.com/orgs/sgmap/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sgmap", 
+        "events_url": "https://api.github.com/orgs/sgmap/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7874148?v=3", 
+        "repos_url": "https://api.github.com/orgs/sgmap/repos", 
+        "login": "sgmap", 
+        "id": 7874148, 
+        "hooks_url": "https://api.github.com/orgs/sgmap/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/octo-web-front-end-tribe/issues", 
+        "members_url": "https://api.github.com/orgs/octo-web-front-end-tribe/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/octo-web-front-end-tribe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/octo-web-front-end-tribe", 
+        "events_url": "https://api.github.com/orgs/octo-web-front-end-tribe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14095290?v=3", 
+        "repos_url": "https://api.github.com/orgs/octo-web-front-end-tribe/repos", 
+        "login": "octo-web-front-end-tribe", 
+        "id": 14095290, 
+        "hooks_url": "https://api.github.com/orgs/octo-web-front-end-tribe/hooks"
+    }
+]

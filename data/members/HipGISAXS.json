@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mywoodstock/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mywoodstock/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mywoodstock/orgs", 
+        "url": "https://api.github.com/users/mywoodstock", 
+        "gists_url": "https://api.github.com/users/mywoodstock/gists{/gist_id}", 
+        "html_url": "https://github.com/mywoodstock", 
+        "subscriptions_url": "https://api.github.com/users/mywoodstock/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/704486?v=3", 
+        "repos_url": "https://api.github.com/users/mywoodstock/repos", 
+        "received_events_url": "https://api.github.com/users/mywoodstock/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mywoodstock/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mywoodstock", 
+        "type": "User", 
+        "id": 704486, 
+        "followers_url": "https://api.github.com/users/mywoodstock/followers"
+    }
+]

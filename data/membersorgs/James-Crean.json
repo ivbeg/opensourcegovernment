@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ESGF/issues", 
+        "members_url": "https://api.github.com/orgs/ESGF/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ESGF/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ESGF", 
+        "events_url": "https://api.github.com/orgs/ESGF/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1236619?v=3", 
+        "repos_url": "https://api.github.com/orgs/ESGF/repos", 
+        "login": "ESGF", 
+        "id": 1236619, 
+        "hooks_url": "https://api.github.com/orgs/ESGF/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/UV-CDAT/issues", 
+        "members_url": "https://api.github.com/orgs/UV-CDAT/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/UV-CDAT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UV-CDAT", 
+        "events_url": "https://api.github.com/orgs/UV-CDAT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2781444?v=3", 
+        "repos_url": "https://api.github.com/orgs/UV-CDAT/repos", 
+        "login": "UV-CDAT", 
+        "id": 2781444, 
+        "hooks_url": "https://api.github.com/orgs/UV-CDAT/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aims-group/issues", 
+        "members_url": "https://api.github.com/orgs/aims-group/members{/member}", 
+        "description": "Analytics, Informatics, and Management Systems Group", 
+        "public_members_url": "https://api.github.com/orgs/aims-group/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aims-group", 
+        "events_url": "https://api.github.com/orgs/aims-group/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4750601?v=3", 
+        "repos_url": "https://api.github.com/orgs/aims-group/repos", 
+        "login": "aims-group", 
+        "id": 4750601, 
+        "hooks_url": "https://api.github.com/orgs/aims-group/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PCMDI/issues", 
+        "members_url": "https://api.github.com/orgs/PCMDI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/PCMDI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PCMDI", 
+        "events_url": "https://api.github.com/orgs/PCMDI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6098305?v=3", 
+        "repos_url": "https://api.github.com/orgs/PCMDI/repos", 
+        "login": "PCMDI", 
+        "id": 6098305, 
+        "hooks_url": "https://api.github.com/orgs/PCMDI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/webshootertk/issues", 
+        "members_url": "https://api.github.com/orgs/webshootertk/members{/member}", 
+        "description": "Tool Kit", 
+        "public_members_url": "https://api.github.com/orgs/webshootertk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/webshootertk", 
+        "events_url": "https://api.github.com/orgs/webshootertk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8249189?v=3", 
+        "repos_url": "https://api.github.com/orgs/webshootertk/repos", 
+        "login": "webshootertk", 
+        "id": 8249189, 
+        "hooks_url": "https://api.github.com/orgs/webshootertk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ACME-OUI/issues", 
+        "members_url": "https://api.github.com/orgs/ACME-OUI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ACME-OUI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ACME-OUI", 
+        "events_url": "https://api.github.com/orgs/ACME-OUI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9678335?v=3", 
+        "repos_url": "https://api.github.com/orgs/ACME-OUI/repos", 
+        "login": "ACME-OUI", 
+        "id": 9678335, 
+        "hooks_url": "https://api.github.com/orgs/ACME-OUI/hooks"
+    }
+]

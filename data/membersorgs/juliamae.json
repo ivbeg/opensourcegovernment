@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/github/issues", 
+        "members_url": "https://api.github.com/orgs/github/members{/member}", 
+        "description": "How people build software.", 
+        "public_members_url": "https://api.github.com/orgs/github/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github", 
+        "events_url": "https://api.github.com/orgs/github/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=3", 
+        "repos_url": "https://api.github.com/orgs/github/repos", 
+        "login": "github", 
+        "id": 9919, 
+        "hooks_url": "https://api.github.com/orgs/github/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }
+]

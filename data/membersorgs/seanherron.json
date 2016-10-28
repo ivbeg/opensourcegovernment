@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nasa/issues", 
+        "members_url": "https://api.github.com/orgs/nasa/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nasa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nasa", 
+        "events_url": "https://api.github.com/orgs/nasa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/848102?v=3", 
+        "repos_url": "https://api.github.com/orgs/nasa/repos", 
+        "login": "nasa", 
+        "id": 848102, 
+        "hooks_url": "https://api.github.com/orgs/nasa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/planetlabs/issues", 
+        "members_url": "https://api.github.com/orgs/planetlabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/planetlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/planetlabs", 
+        "events_url": "https://api.github.com/orgs/planetlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5247016?v=3", 
+        "repos_url": "https://api.github.com/orgs/planetlabs/repos", 
+        "login": "planetlabs", 
+        "id": 5247016, 
+        "hooks_url": "https://api.github.com/orgs/planetlabs/hooks"
+    }
+]

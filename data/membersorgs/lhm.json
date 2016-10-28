@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/apileipzig/issues", 
+        "members_url": "https://api.github.com/orgs/apileipzig/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/apileipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apileipzig", 
+        "events_url": "https://api.github.com/orgs/apileipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/705200?v=3", 
+        "repos_url": "https://api.github.com/orgs/apileipzig/repos", 
+        "login": "apileipzig", 
+        "id": 705200, 
+        "hooks_url": "https://api.github.com/orgs/apileipzig/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforLeipzig/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforLeipzig/members{/member}", 
+        "description": "Open Data f\u00fcr Leipzig", 
+        "public_members_url": "https://api.github.com/orgs/CodeforLeipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforLeipzig", 
+        "events_url": "https://api.github.com/orgs/CodeforLeipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7286986?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforLeipzig/repos", 
+        "login": "CodeforLeipzig", 
+        "id": 7286986, 
+        "hooks_url": "https://api.github.com/orgs/CodeforLeipzig/hooks"
+    }
+]

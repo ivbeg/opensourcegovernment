@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openoakland/issues", 
+        "members_url": "https://api.github.com/orgs/openoakland/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openoakland", 
+        "events_url": "https://api.github.com/orgs/openoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2238933?v=3", 
+        "repos_url": "https://api.github.com/orgs/openoakland/repos", 
+        "login": "openoakland", 
+        "id": 2238933, 
+        "hooks_url": "https://api.github.com/orgs/openoakland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/brigade/issues", 
+        "members_url": "https://api.github.com/orgs/brigade/members{/member}", 
+        "description": "The World\u2019s First Voter Network", 
+        "public_members_url": "https://api.github.com/orgs/brigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/brigade", 
+        "events_url": "https://api.github.com/orgs/brigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7872961?v=3", 
+        "repos_url": "https://api.github.com/orgs/brigade/repos", 
+        "login": "brigade", 
+        "id": 7872961, 
+        "hooks_url": "https://api.github.com/orgs/brigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caciviclab/issues", 
+        "members_url": "https://api.github.com/orgs/caciviclab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caciviclab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caciviclab", 
+        "events_url": "https://api.github.com/orgs/caciviclab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9602455?v=3", 
+        "repos_url": "https://api.github.com/orgs/caciviclab/repos", 
+        "login": "caciviclab", 
+        "id": 9602455, 
+        "hooks_url": "https://api.github.com/orgs/caciviclab/hooks"
+    }
+]

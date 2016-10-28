@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4HR/issues", 
+        "members_url": "https://api.github.com/orgs/Code4HR/members{/member}", 
+        "description": "We meet: http://meetup.code4hr.org, Working Tasks: http://tasks.code4hr.org, Slack: http://chat.code4hr.org", 
+        "public_members_url": "https://api.github.com/orgs/Code4HR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4HR", 
+        "events_url": "https://api.github.com/orgs/Code4HR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1490563?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4HR/repos", 
+        "login": "Code4HR", 
+        "id": 1490563, 
+        "hooks_url": "https://api.github.com/orgs/Code4HR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/virtual-world-framework/issues", 
+        "members_url": "https://api.github.com/orgs/virtual-world-framework/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/virtual-world-framework/public_members{/member}", 
+        "url": "https://api.github.com/orgs/virtual-world-framework", 
+        "events_url": "https://api.github.com/orgs/virtual-world-framework/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1552130?v=3", 
+        "repos_url": "https://api.github.com/orgs/virtual-world-framework/repos", 
+        "login": "virtual-world-framework", 
+        "id": 1552130, 
+        "hooks_url": "https://api.github.com/orgs/virtual-world-framework/hooks"
+    }
+]

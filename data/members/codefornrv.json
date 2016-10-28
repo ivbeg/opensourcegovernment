@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bschoenfeld/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bschoenfeld/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bschoenfeld/orgs", 
+        "url": "https://api.github.com/users/bschoenfeld", 
+        "gists_url": "https://api.github.com/users/bschoenfeld/gists{/gist_id}", 
+        "html_url": "https://github.com/bschoenfeld", 
+        "subscriptions_url": "https://api.github.com/users/bschoenfeld/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/565347?v=3", 
+        "repos_url": "https://api.github.com/users/bschoenfeld/repos", 
+        "received_events_url": "https://api.github.com/users/bschoenfeld/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bschoenfeld/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bschoenfeld", 
+        "type": "User", 
+        "id": 565347, 
+        "followers_url": "https://api.github.com/users/bschoenfeld/followers"
+    }
+]

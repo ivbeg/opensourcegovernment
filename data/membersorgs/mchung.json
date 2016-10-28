@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rubyaz/issues", 
+        "members_url": "https://api.github.com/orgs/rubyaz/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rubyaz/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rubyaz", 
+        "events_url": "https://api.github.com/orgs/rubyaz/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/449775?v=3", 
+        "repos_url": "https://api.github.com/orgs/rubyaz/repos", 
+        "login": "rubyaz", 
+        "id": 449775, 
+        "hooks_url": "https://api.github.com/orgs/rubyaz/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/phxdata/issues", 
+        "members_url": "https://api.github.com/orgs/phxdata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/phxdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/phxdata", 
+        "events_url": "https://api.github.com/orgs/phxdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/497850?v=3", 
+        "repos_url": "https://api.github.com/orgs/phxdata/repos", 
+        "login": "phxdata", 
+        "id": 497850, 
+        "hooks_url": "https://api.github.com/orgs/phxdata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hasadna/issues", 
+        "members_url": "https://api.github.com/orgs/hasadna/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hasadna/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hasadna", 
+        "events_url": "https://api.github.com/orgs/hasadna/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/503639?v=3", 
+        "repos_url": "https://api.github.com/orgs/hasadna/repos", 
+        "login": "hasadna", 
+        "id": 503639, 
+        "hooks_url": "https://api.github.com/orgs/hasadna/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Gizra/issues", 
+        "members_url": "https://api.github.com/orgs/Gizra/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Gizra/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Gizra", 
+        "events_url": "https://api.github.com/orgs/Gizra/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2484795?v=3", 
+        "repos_url": "https://api.github.com/orgs/Gizra/repos", 
+        "login": "Gizra", 
+        "id": 2484795, 
+        "hooks_url": "https://api.github.com/orgs/Gizra/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackita02/issues", 
+        "members_url": "https://api.github.com/orgs/hackita02/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackita02/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackita02", 
+        "events_url": "https://api.github.com/orgs/hackita02/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14794036?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackita02/repos", 
+        "login": "hackita02", 
+        "id": 14794036, 
+        "hooks_url": "https://api.github.com/orgs/hackita02/hooks"
+    }
+]

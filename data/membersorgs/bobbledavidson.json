@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Viant-Metabolomics/issues", 
+        "members_url": "https://api.github.com/orgs/Viant-Metabolomics/members{/member}", 
+        "description": "Environmental Metabolomics Research Laboratory", 
+        "public_members_url": "https://api.github.com/orgs/Viant-Metabolomics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Viant-Metabolomics", 
+        "events_url": "https://api.github.com/orgs/Viant-Metabolomics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9974615?v=3", 
+        "repos_url": "https://api.github.com/orgs/Viant-Metabolomics/repos", 
+        "login": "Viant-Metabolomics", 
+        "id": 9974615, 
+        "hooks_url": "https://api.github.com/orgs/Viant-Metabolomics/hooks"
+    }
+]

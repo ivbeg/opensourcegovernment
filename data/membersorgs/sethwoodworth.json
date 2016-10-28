@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/FinalsClub/issues", 
+        "members_url": "https://api.github.com/orgs/FinalsClub/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/FinalsClub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FinalsClub", 
+        "events_url": "https://api.github.com/orgs/FinalsClub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/63195?v=3", 
+        "repos_url": "https://api.github.com/orgs/FinalsClub/repos", 
+        "login": "FinalsClub", 
+        "id": 63195, 
+        "hooks_url": "https://api.github.com/orgs/FinalsClub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/abstractEdu/issues", 
+        "members_url": "https://api.github.com/orgs/abstractEdu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/abstractEdu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/abstractEdu", 
+        "events_url": "https://api.github.com/orgs/abstractEdu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1727071?v=3", 
+        "repos_url": "https://api.github.com/orgs/abstractEdu/repos", 
+        "login": "abstractEdu", 
+        "id": 1727071, 
+        "hooks_url": "https://api.github.com/orgs/abstractEdu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GITenberg/issues", 
+        "members_url": "https://api.github.com/orgs/GITenberg/members{/member}", 
+        "description": "a collaborative, trackable, scriptable digital library using Git", 
+        "public_members_url": "https://api.github.com/orgs/GITenberg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GITenberg", 
+        "events_url": "https://api.github.com/orgs/GITenberg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1957667?v=3", 
+        "repos_url": "https://api.github.com/orgs/GITenberg/repos", 
+        "login": "GITenberg", 
+        "id": 1957667, 
+        "hooks_url": "https://api.github.com/orgs/GITenberg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CultureLabs/issues", 
+        "members_url": "https://api.github.com/orgs/CultureLabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CultureLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CultureLabs", 
+        "events_url": "https://api.github.com/orgs/CultureLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3342076?v=3", 
+        "repos_url": "https://api.github.com/orgs/CultureLabs/repos", 
+        "login": "CultureLabs", 
+        "id": 3342076, 
+        "hooks_url": "https://api.github.com/orgs/CultureLabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EbookFoundation/issues", 
+        "members_url": "https://api.github.com/orgs/EbookFoundation/members{/member}", 
+        "description": "Making the world safe for free ebooks.", 
+        "public_members_url": "https://api.github.com/orgs/EbookFoundation/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EbookFoundation", 
+        "events_url": "https://api.github.com/orgs/EbookFoundation/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14127308?v=3", 
+        "repos_url": "https://api.github.com/orgs/EbookFoundation/repos", 
+        "login": "EbookFoundation", 
+        "id": 14127308, 
+        "hooks_url": "https://api.github.com/orgs/EbookFoundation/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/webecology/issues", 
+        "members_url": "https://api.github.com/orgs/webecology/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/webecology/public_members{/member}", 
+        "url": "https://api.github.com/orgs/webecology", 
+        "events_url": "https://api.github.com/orgs/webecology/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17690540?v=3", 
+        "repos_url": "https://api.github.com/orgs/webecology/repos", 
+        "login": "webecology", 
+        "id": 17690540, 
+        "hooks_url": "https://api.github.com/orgs/webecology/hooks"
+    }
+]

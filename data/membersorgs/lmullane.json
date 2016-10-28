@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/BCDevExchange/issues", 
+        "members_url": "https://api.github.com/orgs/BCDevExchange/members{/member}", 
+        "description": "Hub of activity for our experimental web application, docs & stuff", 
+        "public_members_url": "https://api.github.com/orgs/BCDevExchange/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BCDevExchange", 
+        "events_url": "https://api.github.com/orgs/BCDevExchange/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11184649?v=3", 
+        "repos_url": "https://api.github.com/orgs/BCDevExchange/repos", 
+        "login": "BCDevExchange", 
+        "id": 11184649, 
+        "hooks_url": "https://api.github.com/orgs/BCDevExchange/hooks"
+    }
+]

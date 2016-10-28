@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USDepartmentofLabor/issues", 
+        "members_url": "https://api.github.com/orgs/USDepartmentofLabor/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/USDepartmentofLabor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USDepartmentofLabor", 
+        "events_url": "https://api.github.com/orgs/USDepartmentofLabor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2236061?v=3", 
+        "repos_url": "https://api.github.com/orgs/USDepartmentofLabor/repos", 
+        "login": "USDepartmentofLabor", 
+        "id": 2236061, 
+        "hooks_url": "https://api.github.com/orgs/USDepartmentofLabor/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CommerceGov/issues", 
+        "members_url": "https://api.github.com/orgs/CommerceGov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CommerceGov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CommerceGov", 
+        "events_url": "https://api.github.com/orgs/CommerceGov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4304939?v=3", 
+        "repos_url": "https://api.github.com/orgs/CommerceGov/repos", 
+        "login": "CommerceGov", 
+        "id": 4304939, 
+        "hooks_url": "https://api.github.com/orgs/CommerceGov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DistrictDataLabs/issues", 
+        "members_url": "https://api.github.com/orgs/DistrictDataLabs/members{/member}", 
+        "description": "Data Science Research, Open Source Projects, and Content.", 
+        "public_members_url": "https://api.github.com/orgs/DistrictDataLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DistrictDataLabs", 
+        "events_url": "https://api.github.com/orgs/DistrictDataLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7107115?v=3", 
+        "repos_url": "https://api.github.com/orgs/DistrictDataLabs/repos", 
+        "login": "DistrictDataLabs", 
+        "id": 7107115, 
+        "hooks_url": "https://api.github.com/orgs/DistrictDataLabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/uscensusbureau/issues", 
+        "members_url": "https://api.github.com/orgs/uscensusbureau/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/uscensusbureau/public_members{/member}", 
+        "url": "https://api.github.com/orgs/uscensusbureau", 
+        "events_url": "https://api.github.com/orgs/uscensusbureau/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10234353?v=3", 
+        "repos_url": "https://api.github.com/orgs/uscensusbureau/repos", 
+        "login": "uscensusbureau", 
+        "id": 10234353, 
+        "hooks_url": "https://api.github.com/orgs/uscensusbureau/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CommerceDataService/issues", 
+        "members_url": "https://api.github.com/orgs/CommerceDataService/members{/member}", 
+        "description": "A startup within DOC focused on building data products with and for the bureaus. We're hiring! https://www.commerce.gov/dataservice/", 
+        "public_members_url": "https://api.github.com/orgs/CommerceDataService/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CommerceDataService", 
+        "events_url": "https://api.github.com/orgs/CommerceDataService/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14348415?v=3", 
+        "repos_url": "https://api.github.com/orgs/CommerceDataService/repos", 
+        "login": "CommerceDataService", 
+        "id": 14348415, 
+        "hooks_url": "https://api.github.com/orgs/CommerceDataService/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datadrivenindustries/issues", 
+        "members_url": "https://api.github.com/orgs/datadrivenindustries/members{/member}", 
+        "description": "Data engineers and data scientists collaborating for the greater social good. ", 
+        "public_members_url": "https://api.github.com/orgs/datadrivenindustries/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datadrivenindustries", 
+        "events_url": "https://api.github.com/orgs/datadrivenindustries/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22029670?v=3", 
+        "repos_url": "https://api.github.com/orgs/datadrivenindustries/repos", 
+        "login": "datadrivenindustries", 
+        "id": 22029670, 
+        "hooks_url": "https://api.github.com/orgs/datadrivenindustries/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForAfrica/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForAfrica/members{/member}", 
+        "description": "Africa\u2019s Largest Civic Technology + Data Journalism Initiative", 
+        "public_members_url": "https://api.github.com/orgs/CodeForAfrica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForAfrica", 
+        "events_url": "https://api.github.com/orgs/CodeForAfrica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2786364?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForAfrica/repos", 
+        "login": "CodeForAfrica", 
+        "id": 2786364, 
+        "hooks_url": "https://api.github.com/orgs/CodeForAfrica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForAfricaLabs/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForAfricaLabs/members{/member}", 
+        "description": "A place for innovation from R&D.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForAfricaLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForAfricaLabs", 
+        "events_url": "https://api.github.com/orgs/CodeForAfricaLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8737893?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForAfricaLabs/repos", 
+        "login": "CodeForAfricaLabs", 
+        "id": 8737893, 
+        "hooks_url": "https://api.github.com/orgs/CodeForAfricaLabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ANCIR/issues", 
+        "members_url": "https://api.github.com/orgs/ANCIR/members{/member}", 
+        "description": "African Network of Centers for Investigative Reporting", 
+        "public_members_url": "https://api.github.com/orgs/ANCIR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ANCIR", 
+        "events_url": "https://api.github.com/orgs/ANCIR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11281371?v=3", 
+        "repos_url": "https://api.github.com/orgs/ANCIR/repos", 
+        "login": "ANCIR", 
+        "id": 11281371, 
+        "hooks_url": "https://api.github.com/orgs/ANCIR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pythias-io/issues", 
+        "members_url": "https://api.github.com/orgs/pythias-io/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pythias-io/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pythias-io", 
+        "events_url": "https://api.github.com/orgs/pythias-io/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17043810?v=3", 
+        "repos_url": "https://api.github.com/orgs/pythias-io/repos", 
+        "login": "pythias-io", 
+        "id": 17043810, 
+        "hooks_url": "https://api.github.com/orgs/pythias-io/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CfKenya-KMP/issues", 
+        "members_url": "https://api.github.com/orgs/CfKenya-KMP/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CfKenya-KMP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CfKenya-KMP", 
+        "events_url": "https://api.github.com/orgs/CfKenya-KMP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19259884?v=3", 
+        "repos_url": "https://api.github.com/orgs/CfKenya-KMP/repos", 
+        "login": "CfKenya-KMP", 
+        "id": 19259884, 
+        "hooks_url": "https://api.github.com/orgs/CfKenya-KMP/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/postcode/issues", 
+        "members_url": "https://api.github.com/orgs/postcode/members{/member}", 
+        "description": "Delivering Civic Technology", 
+        "public_members_url": "https://api.github.com/orgs/postcode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/postcode", 
+        "events_url": "https://api.github.com/orgs/postcode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5291993?v=3", 
+        "repos_url": "https://api.github.com/orgs/postcode/repos", 
+        "login": "postcode", 
+        "id": 5291993, 
+        "hooks_url": "https://api.github.com/orgs/postcode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nextrequest/issues", 
+        "members_url": "https://api.github.com/orgs/nextrequest/members{/member}", 
+        "description": "Open public records", 
+        "public_members_url": "https://api.github.com/orgs/nextrequest/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nextrequest", 
+        "events_url": "https://api.github.com/orgs/nextrequest/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19223207?v=3", 
+        "repos_url": "https://api.github.com/orgs/nextrequest/repos", 
+        "login": "nextrequest", 
+        "id": 19223207, 
+        "hooks_url": "https://api.github.com/orgs/nextrequest/hooks"
+    }
+]

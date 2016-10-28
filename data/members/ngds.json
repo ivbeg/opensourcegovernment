@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ccaudill/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ccaudill/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ccaudill/orgs", 
+        "url": "https://api.github.com/users/ccaudill", 
+        "gists_url": "https://api.github.com/users/ccaudill/gists{/gist_id}", 
+        "html_url": "https://github.com/ccaudill", 
+        "subscriptions_url": "https://api.github.com/users/ccaudill/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3188489?v=3", 
+        "repos_url": "https://api.github.com/users/ccaudill/repos", 
+        "received_events_url": "https://api.github.com/users/ccaudill/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ccaudill/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ccaudill", 
+        "type": "User", 
+        "id": 3188489, 
+        "followers_url": "https://api.github.com/users/ccaudill/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/pjbarry21/following{/other_user}", 
+        "events_url": "https://api.github.com/users/pjbarry21/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/pjbarry21/orgs", 
+        "url": "https://api.github.com/users/pjbarry21", 
+        "gists_url": "https://api.github.com/users/pjbarry21/gists{/gist_id}", 
+        "html_url": "https://github.com/pjbarry21", 
+        "subscriptions_url": "https://api.github.com/users/pjbarry21/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6089948?v=3", 
+        "repos_url": "https://api.github.com/users/pjbarry21/repos", 
+        "received_events_url": "https://api.github.com/users/pjbarry21/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/pjbarry21/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "pjbarry21", 
+        "type": "User", 
+        "id": 6089948, 
+        "followers_url": "https://api.github.com/users/pjbarry21/followers"
+    }
+]

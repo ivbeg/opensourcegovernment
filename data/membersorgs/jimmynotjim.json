@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cfpb/issues", 
+        "members_url": "https://api.github.com/orgs/cfpb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cfpb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cfpb", 
+        "events_url": "https://api.github.com/orgs/cfpb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1071563?v=3", 
+        "repos_url": "https://api.github.com/orgs/cfpb/repos", 
+        "login": "cfpb", 
+        "id": 1071563, 
+        "hooks_url": "https://api.github.com/orgs/cfpb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wp-evolved/issues", 
+        "members_url": "https://api.github.com/orgs/wp-evolved/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wp-evolved/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wp-evolved", 
+        "events_url": "https://api.github.com/orgs/wp-evolved/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8151017?v=3", 
+        "repos_url": "https://api.github.com/orgs/wp-evolved/repos", 
+        "login": "wp-evolved", 
+        "id": 8151017, 
+        "hooks_url": "https://api.github.com/orgs/wp-evolved/hooks"
+    }
+]

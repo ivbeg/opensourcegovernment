@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JumpStartGeorgia/issues", 
+        "members_url": "https://api.github.com/orgs/JumpStartGeorgia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JumpStartGeorgia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JumpStartGeorgia", 
+        "events_url": "https://api.github.com/orgs/JumpStartGeorgia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/349116?v=3", 
+        "repos_url": "https://api.github.com/orgs/JumpStartGeorgia/repos", 
+        "login": "JumpStartGeorgia", 
+        "id": 349116, 
+        "hooks_url": "https://api.github.com/orgs/JumpStartGeorgia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ciudadanointeligente/issues", 
+        "members_url": "https://api.github.com/orgs/ciudadanointeligente/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ciudadanointeligente/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ciudadanointeligente", 
+        "events_url": "https://api.github.com/orgs/ciudadanointeligente/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/631035?v=3", 
+        "repos_url": "https://api.github.com/orgs/ciudadanointeligente/repos", 
+        "login": "ciudadanointeligente", 
+        "id": 631035, 
+        "hooks_url": "https://api.github.com/orgs/ciudadanointeligente/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civic-commons/issues", 
+        "members_url": "https://api.github.com/orgs/civic-commons/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/civic-commons/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civic-commons", 
+        "events_url": "https://api.github.com/orgs/civic-commons/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3808045?v=3", 
+        "repos_url": "https://api.github.com/orgs/civic-commons/repos", 
+        "login": "civic-commons", 
+        "id": 3808045, 
+        "hooks_url": "https://api.github.com/orgs/civic-commons/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/poplus/issues", 
+        "members_url": "https://api.github.com/orgs/poplus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/poplus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/poplus", 
+        "events_url": "https://api.github.com/orgs/poplus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4304608?v=3", 
+        "repos_url": "https://api.github.com/orgs/poplus/repos", 
+        "login": "poplus", 
+        "id": 4304608, 
+        "hooks_url": "https://api.github.com/orgs/poplus/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician/members{/member}", 
+        "description": "Data about every national legislature in the world, freely available for you to use", 
+        "public_members_url": "https://api.github.com/orgs/everypolitician/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician", 
+        "events_url": "https://api.github.com/orgs/everypolitician/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12497298?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician/repos", 
+        "login": "everypolitician", 
+        "id": 12497298, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician-scrapers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/everypolitician-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician-scrapers", 
+        "events_url": "https://api.github.com/orgs/everypolitician-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18443033?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician-scrapers/repos", 
+        "login": "everypolitician-scrapers", 
+        "id": 18443033, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician-scrapers/hooks"
+    }
+]

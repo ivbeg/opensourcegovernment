@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dtewfik/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dtewfik/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dtewfik/orgs", 
+        "url": "https://api.github.com/users/dtewfik", 
+        "gists_url": "https://api.github.com/users/dtewfik/gists{/gist_id}", 
+        "html_url": "https://github.com/dtewfik", 
+        "subscriptions_url": "https://api.github.com/users/dtewfik/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2769001?v=3", 
+        "repos_url": "https://api.github.com/users/dtewfik/repos", 
+        "received_events_url": "https://api.github.com/users/dtewfik/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dtewfik/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dtewfik", 
+        "type": "User", 
+        "id": 2769001, 
+        "followers_url": "https://api.github.com/users/dtewfik/followers"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OParl/issues", 
+        "members_url": "https://api.github.com/orgs/OParl/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OParl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OParl", 
+        "events_url": "https://api.github.com/orgs/OParl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4183815?v=3", 
+        "repos_url": "https://api.github.com/orgs/OParl/repos", 
+        "login": "OParl", 
+        "id": 4183815, 
+        "hooks_url": "https://api.github.com/orgs/OParl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wurstmineberg/issues", 
+        "members_url": "https://api.github.com/orgs/wurstmineberg/members{/member}", 
+        "description": "whitelisted, highly customized but vanilla Minecraft server", 
+        "public_members_url": "https://api.github.com/orgs/wurstmineberg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wurstmineberg", 
+        "events_url": "https://api.github.com/orgs/wurstmineberg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5450583?v=3", 
+        "repos_url": "https://api.github.com/orgs/wurstmineberg/repos", 
+        "login": "wurstmineberg", 
+        "id": 5450583, 
+        "hooks_url": "https://api.github.com/orgs/wurstmineberg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BuergerbautStadt/issues", 
+        "members_url": "https://api.github.com/orgs/BuergerbautStadt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BuergerbautStadt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BuergerbautStadt", 
+        "events_url": "https://api.github.com/orgs/BuergerbautStadt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7241784?v=3", 
+        "repos_url": "https://api.github.com/orgs/BuergerbautStadt/repos", 
+        "login": "BuergerbautStadt", 
+        "id": 7241784, 
+        "hooks_url": "https://api.github.com/orgs/BuergerbautStadt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforberlin/issues", 
+        "members_url": "https://api.github.com/orgs/codeforberlin/members{/member}", 
+        "description": "OK Lab Berlin", 
+        "public_members_url": "https://api.github.com/orgs/codeforberlin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforberlin", 
+        "events_url": "https://api.github.com/orgs/codeforberlin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17669902?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforberlin/repos", 
+        "login": "codeforberlin", 
+        "id": 17669902, 
+        "hooks_url": "https://api.github.com/orgs/codeforberlin/hooks"
+    }
+]

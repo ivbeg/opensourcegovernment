@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/MKM-ITAO/issues", 
+        "members_url": "https://api.github.com/orgs/MKM-ITAO/members{/member}", 
+        "description": "Info\u00fchiskonna teenuste arendamise osakond", 
+        "public_members_url": "https://api.github.com/orgs/MKM-ITAO/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MKM-ITAO", 
+        "events_url": "https://api.github.com/orgs/MKM-ITAO/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15031243?v=3", 
+        "repos_url": "https://api.github.com/orgs/MKM-ITAO/repos", 
+        "login": "MKM-ITAO", 
+        "id": 15031243, 
+        "hooks_url": "https://api.github.com/orgs/MKM-ITAO/hooks"
+    }
+]

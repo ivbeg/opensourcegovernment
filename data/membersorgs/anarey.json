@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openkratio/issues", 
+        "members_url": "https://api.github.com/orgs/openkratio/members{/member}", 
+        "description": "OpenGov & OpenData Organization", 
+        "public_members_url": "https://api.github.com/orgs/openkratio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkratio", 
+        "events_url": "https://api.github.com/orgs/openkratio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2310256?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkratio/repos", 
+        "login": "openkratio", 
+        "id": 2310256, 
+        "hooks_url": "https://api.github.com/orgs/openkratio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gnomehispano/issues", 
+        "members_url": "https://api.github.com/orgs/gnomehispano/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gnomehispano/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gnomehispano", 
+        "events_url": "https://api.github.com/orgs/gnomehispano/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5729648?v=3", 
+        "repos_url": "https://api.github.com/orgs/gnomehispano/repos", 
+        "login": "gnomehispano", 
+        "id": 5729648, 
+        "hooks_url": "https://api.github.com/orgs/gnomehispano/hooks"
+    }
+]

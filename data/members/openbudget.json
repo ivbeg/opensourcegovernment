@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/akariv/following{/other_user}", 
+        "events_url": "https://api.github.com/users/akariv/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/akariv/orgs", 
+        "url": "https://api.github.com/users/akariv", 
+        "gists_url": "https://api.github.com/users/akariv/gists{/gist_id}", 
+        "html_url": "https://github.com/akariv", 
+        "subscriptions_url": "https://api.github.com/users/akariv/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/265333?v=3", 
+        "repos_url": "https://api.github.com/users/akariv/repos", 
+        "received_events_url": "https://api.github.com/users/akariv/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/akariv/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "akariv", 
+        "type": "User", 
+        "id": 265333, 
+        "followers_url": "https://api.github.com/users/akariv/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ydaniv/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ydaniv/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ydaniv/orgs", 
+        "url": "https://api.github.com/users/ydaniv", 
+        "gists_url": "https://api.github.com/users/ydaniv/gists{/gist_id}", 
+        "html_url": "https://github.com/ydaniv", 
+        "subscriptions_url": "https://api.github.com/users/ydaniv/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/116658?v=3", 
+        "repos_url": "https://api.github.com/users/ydaniv/repos", 
+        "received_events_url": "https://api.github.com/users/ydaniv/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ydaniv/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ydaniv", 
+        "type": "User", 
+        "id": 116658, 
+        "followers_url": "https://api.github.com/users/ydaniv/followers"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/tomkralidis/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tomkralidis/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tomkralidis/orgs", 
+        "url": "https://api.github.com/users/tomkralidis", 
+        "gists_url": "https://api.github.com/users/tomkralidis/gists{/gist_id}", 
+        "html_url": "https://github.com/tomkralidis", 
+        "subscriptions_url": "https://api.github.com/users/tomkralidis/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/910430?v=3", 
+        "repos_url": "https://api.github.com/users/tomkralidis/repos", 
+        "received_events_url": "https://api.github.com/users/tomkralidis/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tomkralidis/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tomkralidis", 
+        "type": "User", 
+        "id": 910430, 
+        "followers_url": "https://api.github.com/users/tomkralidis/followers"
+    }
+]

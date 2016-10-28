@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/gabesawhney/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gabesawhney/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gabesawhney/orgs", 
+        "url": "https://api.github.com/users/gabesawhney", 
+        "gists_url": "https://api.github.com/users/gabesawhney/gists{/gist_id}", 
+        "html_url": "https://github.com/gabesawhney", 
+        "subscriptions_url": "https://api.github.com/users/gabesawhney/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380585?v=3", 
+        "repos_url": "https://api.github.com/users/gabesawhney/repos", 
+        "received_events_url": "https://api.github.com/users/gabesawhney/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gabesawhney/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gabesawhney", 
+        "type": "User", 
+        "id": 1380585, 
+        "followers_url": "https://api.github.com/users/gabesawhney/followers"
+    }
+]

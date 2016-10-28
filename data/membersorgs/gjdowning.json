@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HHSIDEAlab/issues", 
+        "members_url": "https://api.github.com/orgs/HHSIDEAlab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HHSIDEAlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HHSIDEAlab", 
+        "events_url": "https://api.github.com/orgs/HHSIDEAlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5348654?v=3", 
+        "repos_url": "https://api.github.com/orgs/HHSIDEAlab/repos", 
+        "login": "HHSIDEAlab", 
+        "id": 5348654, 
+        "hooks_url": "https://api.github.com/orgs/HHSIDEAlab/hooks"
+    }
+]

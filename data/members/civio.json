@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dcabo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dcabo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dcabo/orgs", 
+        "url": "https://api.github.com/users/dcabo", 
+        "gists_url": "https://api.github.com/users/dcabo/gists{/gist_id}", 
+        "html_url": "https://github.com/dcabo", 
+        "subscriptions_url": "https://api.github.com/users/dcabo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17741?v=3", 
+        "repos_url": "https://api.github.com/users/dcabo/repos", 
+        "received_events_url": "https://api.github.com/users/dcabo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dcabo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dcabo", 
+        "type": "User", 
+        "id": 17741, 
+        "followers_url": "https://api.github.com/users/dcabo/followers"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dukex/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dukex/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dukex/orgs", 
+        "url": "https://api.github.com/users/dukex", 
+        "gists_url": "https://api.github.com/users/dukex/gists{/gist_id}", 
+        "html_url": "https://github.com/dukex", 
+        "subscriptions_url": "https://api.github.com/users/dukex/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/91538?v=3", 
+        "repos_url": "https://api.github.com/users/dukex/repos", 
+        "received_events_url": "https://api.github.com/users/dukex/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dukex/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dukex", 
+        "type": "User", 
+        "id": 91538, 
+        "followers_url": "https://api.github.com/users/dukex/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/PauloLuan/following{/other_user}", 
+        "events_url": "https://api.github.com/users/PauloLuan/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/PauloLuan/orgs", 
+        "url": "https://api.github.com/users/PauloLuan", 
+        "gists_url": "https://api.github.com/users/PauloLuan/gists{/gist_id}", 
+        "html_url": "https://github.com/PauloLuan", 
+        "subscriptions_url": "https://api.github.com/users/PauloLuan/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1131963?v=3", 
+        "repos_url": "https://api.github.com/users/PauloLuan/repos", 
+        "received_events_url": "https://api.github.com/users/PauloLuan/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/PauloLuan/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "PauloLuan", 
+        "type": "User", 
+        "id": 1131963, 
+        "followers_url": "https://api.github.com/users/PauloLuan/followers"
+    }
+]

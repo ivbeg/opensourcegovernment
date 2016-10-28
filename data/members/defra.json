@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/andrew-js-wright/following{/other_user}", 
+        "events_url": "https://api.github.com/users/andrew-js-wright/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/andrew-js-wright/orgs", 
+        "url": "https://api.github.com/users/andrew-js-wright", 
+        "gists_url": "https://api.github.com/users/andrew-js-wright/gists{/gist_id}", 
+        "html_url": "https://github.com/andrew-js-wright", 
+        "subscriptions_url": "https://api.github.com/users/andrew-js-wright/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2773538?v=3", 
+        "repos_url": "https://api.github.com/users/andrew-js-wright/repos", 
+        "received_events_url": "https://api.github.com/users/andrew-js-wright/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/andrew-js-wright/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "andrew-js-wright", 
+        "type": "User", 
+        "id": 2773538, 
+        "followers_url": "https://api.github.com/users/andrew-js-wright/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/opyate/following{/other_user}", 
+        "events_url": "https://api.github.com/users/opyate/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/opyate/orgs", 
+        "url": "https://api.github.com/users/opyate", 
+        "gists_url": "https://api.github.com/users/opyate/gists{/gist_id}", 
+        "html_url": "https://github.com/opyate", 
+        "subscriptions_url": "https://api.github.com/users/opyate/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/96808?v=3", 
+        "repos_url": "https://api.github.com/users/opyate/repos", 
+        "received_events_url": "https://api.github.com/users/opyate/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/opyate/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "opyate", 
+        "type": "User", 
+        "id": 96808, 
+        "followers_url": "https://api.github.com/users/opyate/followers"
+    }
+]

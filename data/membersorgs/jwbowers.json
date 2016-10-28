@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bowers-illinois-edu/issues", 
+        "members_url": "https://api.github.com/orgs/bowers-illinois-edu/members{/member}", 
+        "description": "A set of collaborators all working with Jake Bowers.", 
+        "public_members_url": "https://api.github.com/orgs/bowers-illinois-edu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bowers-illinois-edu", 
+        "events_url": "https://api.github.com/orgs/bowers-illinois-edu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/696347?v=3", 
+        "repos_url": "https://api.github.com/orgs/bowers-illinois-edu/repos", 
+        "login": "bowers-illinois-edu", 
+        "id": 696347, 
+        "hooks_url": "https://api.github.com/orgs/bowers-illinois-edu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sbstusa/issues", 
+        "members_url": "https://api.github.com/orgs/sbstusa/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/sbstusa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sbstusa", 
+        "events_url": "https://api.github.com/orgs/sbstusa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15111284?v=3", 
+        "repos_url": "https://api.github.com/orgs/sbstusa/repos", 
+        "login": "sbstusa", 
+        "id": 15111284, 
+        "hooks_url": "https://api.github.com/orgs/sbstusa/hooks"
+    }
+]

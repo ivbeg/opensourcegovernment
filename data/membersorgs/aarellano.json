@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/huevapi/issues", 
+        "members_url": "https://api.github.com/orgs/huevapi/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/huevapi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/huevapi", 
+        "events_url": "https://api.github.com/orgs/huevapi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/523341?v=3", 
+        "repos_url": "https://api.github.com/orgs/huevapi/repos", 
+        "login": "huevapi", 
+        "id": 523341, 
+        "hooks_url": "https://api.github.com/orgs/huevapi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-gob/issues", 
+        "members_url": "https://api.github.com/orgs/e-gob/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/e-gob/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-gob", 
+        "events_url": "https://api.github.com/orgs/e-gob/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7003419?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-gob/repos", 
+        "login": "e-gob", 
+        "id": 7003419, 
+        "hooks_url": "https://api.github.com/orgs/e-gob/hooks"
+    }
+]

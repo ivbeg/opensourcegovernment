@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jnylander/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jnylander/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jnylander/orgs", 
+        "url": "https://api.github.com/users/jnylander", 
+        "gists_url": "https://api.github.com/users/jnylander/gists{/gist_id}", 
+        "html_url": "https://github.com/jnylander", 
+        "subscriptions_url": "https://api.github.com/users/jnylander/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/741683?v=3", 
+        "repos_url": "https://api.github.com/users/jnylander/repos", 
+        "received_events_url": "https://api.github.com/users/jnylander/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jnylander/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jnylander", 
+        "type": "User", 
+        "id": 741683, 
+        "followers_url": "https://api.github.com/users/jnylander/followers"
+    }
+]

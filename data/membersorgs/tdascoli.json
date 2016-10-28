@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/alv-ch/issues", 
+        "members_url": "https://api.github.com/orgs/alv-ch/members{/member}", 
+        "description": "Public Employment Service Switzerland", 
+        "public_members_url": "https://api.github.com/orgs/alv-ch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alv-ch", 
+        "events_url": "https://api.github.com/orgs/alv-ch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7008756?v=3", 
+        "repos_url": "https://api.github.com/orgs/alv-ch/repos", 
+        "login": "alv-ch", 
+        "id": 7008756, 
+        "hooks_url": "https://api.github.com/orgs/alv-ch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/alv-ch-ng/issues", 
+        "members_url": "https://api.github.com/orgs/alv-ch-ng/members{/member}", 
+        "description": "CSS and AngularJS framework", 
+        "public_members_url": "https://api.github.com/orgs/alv-ch-ng/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alv-ch-ng", 
+        "events_url": "https://api.github.com/orgs/alv-ch-ng/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10919835?v=3", 
+        "repos_url": "https://api.github.com/orgs/alv-ch-ng/repos", 
+        "login": "alv-ch-ng", 
+        "id": 10919835, 
+        "hooks_url": "https://api.github.com/orgs/alv-ch-ng/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/alv-ch-devAndOps/issues", 
+        "members_url": "https://api.github.com/orgs/alv-ch-devAndOps/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/alv-ch-devAndOps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alv-ch-devAndOps", 
+        "events_url": "https://api.github.com/orgs/alv-ch-devAndOps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12889978?v=3", 
+        "repos_url": "https://api.github.com/orgs/alv-ch-devAndOps/repos", 
+        "login": "alv-ch-devAndOps", 
+        "id": 12889978, 
+        "hooks_url": "https://api.github.com/orgs/alv-ch-devAndOps/hooks"
+    }
+]

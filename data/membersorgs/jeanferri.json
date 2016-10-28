@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/plone/issues", 
+        "members_url": "https://api.github.com/orgs/plone/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/plone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plone", 
+        "events_url": "https://api.github.com/orgs/plone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/72034?v=3", 
+        "repos_url": "https://api.github.com/orgs/plone/repos", 
+        "login": "plone", 
+        "id": 72034, 
+        "hooks_url": "https://api.github.com/orgs/plone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pythonbrasil/issues", 
+        "members_url": "https://api.github.com/orgs/pythonbrasil/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pythonbrasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pythonbrasil", 
+        "events_url": "https://api.github.com/orgs/pythonbrasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/916137?v=3", 
+        "repos_url": "https://api.github.com/orgs/pythonbrasil/repos", 
+        "login": "pythonbrasil", 
+        "id": 916137, 
+        "hooks_url": "https://api.github.com/orgs/pythonbrasil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/plonegovbr/issues", 
+        "members_url": "https://api.github.com/orgs/plonegovbr/members{/member}", 
+        "description": "Comunidade Plone no Governo Brasileiro", 
+        "public_members_url": "https://api.github.com/orgs/plonegovbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plonegovbr", 
+        "events_url": "https://api.github.com/orgs/plonegovbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1334477?v=3", 
+        "repos_url": "https://api.github.com/orgs/plonegovbr/repos", 
+        "login": "plonegovbr", 
+        "id": 1334477, 
+        "hooks_url": "https://api.github.com/orgs/plonegovbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/interlegis/issues", 
+        "members_url": "https://api.github.com/orgs/interlegis/members{/member}", 
+        "description": "Programa de Moderniza\u00e7\u00e3o do Legislativo Brasileiro", 
+        "public_members_url": "https://api.github.com/orgs/interlegis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/interlegis", 
+        "events_url": "https://api.github.com/orgs/interlegis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1484001?v=3", 
+        "repos_url": "https://api.github.com/orgs/interlegis/repos", 
+        "login": "interlegis", 
+        "id": 1484001, 
+        "hooks_url": "https://api.github.com/orgs/interlegis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PloneGov/issues", 
+        "members_url": "https://api.github.com/orgs/PloneGov/members{/member}", 
+        "description": "An initiative of Egov on Public organizations around the world using Python and Plone CMS", 
+        "public_members_url": "https://api.github.com/orgs/PloneGov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PloneGov", 
+        "events_url": "https://api.github.com/orgs/PloneGov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1637045?v=3", 
+        "repos_url": "https://api.github.com/orgs/PloneGov/repos", 
+        "login": "PloneGov", 
+        "id": 1637045, 
+        "hooks_url": "https://api.github.com/orgs/PloneGov/hooks"
+    }
+]

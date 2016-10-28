@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/colorado-code-for-communities/issues", 
+        "members_url": "https://api.github.com/orgs/colorado-code-for-communities/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/colorado-code-for-communities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/colorado-code-for-communities", 
+        "events_url": "https://api.github.com/orgs/colorado-code-for-communities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3083583?v=3", 
+        "repos_url": "https://api.github.com/orgs/colorado-code-for-communities/repos", 
+        "login": "colorado-code-for-communities", 
+        "id": 3083583, 
+        "hooks_url": "https://api.github.com/orgs/colorado-code-for-communities/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForBoulder/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForBoulder/members{/member}", 
+        "description": "Boulder's Code for America Brigade. Join us to work on digital projects to benefit our community! All are welcome.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForBoulder/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForBoulder", 
+        "events_url": "https://api.github.com/orgs/CodeForBoulder/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6794815?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForBoulder/repos", 
+        "login": "CodeForBoulder", 
+        "id": 6794815, 
+        "hooks_url": "https://api.github.com/orgs/CodeForBoulder/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gocodeboulder/issues", 
+        "members_url": "https://api.github.com/orgs/gocodeboulder/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/gocodeboulder/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gocodeboulder", 
+        "events_url": "https://api.github.com/orgs/gocodeboulder/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7033367?v=3", 
+        "repos_url": "https://api.github.com/orgs/gocodeboulder/repos", 
+        "login": "gocodeboulder", 
+        "id": 7033367, 
+        "hooks_url": "https://api.github.com/orgs/gocodeboulder/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefordenver/issues", 
+        "members_url": "https://api.github.com/orgs/codefordenver/members{/member}", 
+        "description": "Code For America's Denver Brigade", 
+        "public_members_url": "https://api.github.com/orgs/codefordenver/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordenver", 
+        "events_url": "https://api.github.com/orgs/codefordenver/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7472092?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordenver/repos", 
+        "login": "codefordenver", 
+        "id": 7472092, 
+        "hooks_url": "https://api.github.com/orgs/codefordenver/hooks"
+    }
+]

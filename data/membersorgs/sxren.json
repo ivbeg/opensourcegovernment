@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/datasets/issues", 
+        "members_url": "https://api.github.com/orgs/datasets/members{/member}", 
+        "description": "Important, commonly-used datasets in high quality, easy-to-use & open form as data packages", 
+        "public_members_url": "https://api.github.com/orgs/datasets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datasets", 
+        "events_url": "https://api.github.com/orgs/datasets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1643515?v=3", 
+        "repos_url": "https://api.github.com/orgs/datasets/repos", 
+        "login": "datasets", 
+        "id": 1643515, 
+        "hooks_url": "https://api.github.com/orgs/datasets/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hhtyo/issues", 
+        "members_url": "https://api.github.com/orgs/hhtyo/members{/member}", 
+        "description": "Tokyo chapter of Hacks/Hackers, bringing journalists and technologists together.", 
+        "public_members_url": "https://api.github.com/orgs/hhtyo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hhtyo", 
+        "events_url": "https://api.github.com/orgs/hhtyo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7815293?v=3", 
+        "repos_url": "https://api.github.com/orgs/hhtyo/repos", 
+        "login": "hhtyo", 
+        "id": 7815293, 
+        "hooks_url": "https://api.github.com/orgs/hhtyo/hooks"
+    }
+]

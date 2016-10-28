@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/puppetlabs/issues", 
+        "members_url": "https://api.github.com/orgs/puppetlabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/puppetlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/puppetlabs", 
+        "events_url": "https://api.github.com/orgs/puppetlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/234268?v=3", 
+        "repos_url": "https://api.github.com/orgs/puppetlabs/repos", 
+        "login": "puppetlabs", 
+        "id": 234268, 
+        "hooks_url": "https://api.github.com/orgs/puppetlabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/guard/issues", 
+        "members_url": "https://api.github.com/orgs/guard/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/guard/public_members{/member}", 
+        "url": "https://api.github.com/orgs/guard", 
+        "events_url": "https://api.github.com/orgs/guard/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/351846?v=3", 
+        "repos_url": "https://api.github.com/orgs/guard/repos", 
+        "login": "guard", 
+        "id": 351846, 
+        "hooks_url": "https://api.github.com/orgs/guard/hooks"
+    }
+]

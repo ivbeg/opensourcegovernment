@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/tactivos/issues", 
+        "members_url": "https://api.github.com/orgs/tactivos/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/tactivos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tactivos", 
+        "events_url": "https://api.github.com/orgs/tactivos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1245510?v=3", 
+        "repos_url": "https://api.github.com/orgs/tactivos/repos", 
+        "login": "tactivos", 
+        "id": 1245510, 
+        "hooks_url": "https://api.github.com/orgs/tactivos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/balderdashy/issues", 
+        "members_url": "https://api.github.com/orgs/balderdashy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/balderdashy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/balderdashy", 
+        "events_url": "https://api.github.com/orgs/balderdashy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1445252?v=3", 
+        "repos_url": "https://api.github.com/orgs/balderdashy/repos", 
+        "login": "balderdashy", 
+        "id": 1445252, 
+        "hooks_url": "https://api.github.com/orgs/balderdashy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PartidoDeLaRed/issues", 
+        "members_url": "https://api.github.com/orgs/PartidoDeLaRed/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/PartidoDeLaRed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PartidoDeLaRed", 
+        "events_url": "https://api.github.com/orgs/PartidoDeLaRed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2153157?v=3", 
+        "repos_url": "https://api.github.com/orgs/PartidoDeLaRed/repos", 
+        "login": "PartidoDeLaRed", 
+        "id": 2153157, 
+        "hooks_url": "https://api.github.com/orgs/PartidoDeLaRed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DemocracyOS/issues", 
+        "members_url": "https://api.github.com/orgs/DemocracyOS/members{/member}", 
+        "description": "Better decisions, together.", 
+        "public_members_url": "https://api.github.com/orgs/DemocracyOS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DemocracyOS", 
+        "events_url": "https://api.github.com/orgs/DemocracyOS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4107101?v=3", 
+        "repos_url": "https://api.github.com/orgs/DemocracyOS/repos", 
+        "login": "DemocracyOS", 
+        "id": 4107101, 
+        "hooks_url": "https://api.github.com/orgs/DemocracyOS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DemocraciaEnRed/issues", 
+        "members_url": "https://api.github.com/orgs/DemocraciaEnRed/members{/member}", 
+        "description": "Nos unimos para innovar en donde nadie est\u00e1 innovando a\u00fan: en el sistema pol\u00edtico.", 
+        "public_members_url": "https://api.github.com/orgs/DemocraciaEnRed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DemocraciaEnRed", 
+        "events_url": "https://api.github.com/orgs/DemocraciaEnRed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6372447?v=3", 
+        "repos_url": "https://api.github.com/orgs/DemocraciaEnRed/repos", 
+        "login": "DemocraciaEnRed", 
+        "id": 6372447, 
+        "hooks_url": "https://api.github.com/orgs/DemocraciaEnRed/hooks"
+    }
+]

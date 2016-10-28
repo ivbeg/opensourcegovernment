@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pyepics/issues", 
+        "members_url": "https://api.github.com/orgs/pyepics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pyepics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pyepics", 
+        "events_url": "https://api.github.com/orgs/pyepics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/672133?v=3", 
+        "repos_url": "https://api.github.com/orgs/pyepics/repos", 
+        "login": "pyepics", 
+        "id": 672133, 
+        "hooks_url": "https://api.github.com/orgs/pyepics/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/francisrupert/following{/other_user}", 
+        "events_url": "https://api.github.com/users/francisrupert/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/francisrupert/orgs", 
+        "url": "https://api.github.com/users/francisrupert", 
+        "gists_url": "https://api.github.com/users/francisrupert/gists{/gist_id}", 
+        "html_url": "https://github.com/francisrupert", 
+        "subscriptions_url": "https://api.github.com/users/francisrupert/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1165933?v=3", 
+        "repos_url": "https://api.github.com/users/francisrupert/repos", 
+        "received_events_url": "https://api.github.com/users/francisrupert/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/francisrupert/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "francisrupert", 
+        "type": "User", 
+        "id": 1165933, 
+        "followers_url": "https://api.github.com/users/francisrupert/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mstropes/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mstropes/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mstropes/orgs", 
+        "url": "https://api.github.com/users/mstropes", 
+        "gists_url": "https://api.github.com/users/mstropes/gists{/gist_id}", 
+        "html_url": "https://github.com/mstropes", 
+        "subscriptions_url": "https://api.github.com/users/mstropes/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18535399?v=3", 
+        "repos_url": "https://api.github.com/users/mstropes/repos", 
+        "received_events_url": "https://api.github.com/users/mstropes/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mstropes/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mstropes", 
+        "type": "User", 
+        "id": 18535399, 
+        "followers_url": "https://api.github.com/users/mstropes/followers"
+    }
+]

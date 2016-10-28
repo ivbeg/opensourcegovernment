@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CoderDojoGitHub/issues", 
+        "members_url": "https://api.github.com/orgs/CoderDojoGitHub/members{/member}", 
+        "description": "This is the home of GitHub's CoderDojo content (now closed)", 
+        "public_members_url": "https://api.github.com/orgs/CoderDojoGitHub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CoderDojoGitHub", 
+        "events_url": "https://api.github.com/orgs/CoderDojoGitHub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3376135?v=3", 
+        "repos_url": "https://api.github.com/orgs/CoderDojoGitHub/repos", 
+        "login": "CoderDojoGitHub", 
+        "id": 3376135, 
+        "hooks_url": "https://api.github.com/orgs/CoderDojoGitHub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eregs/issues", 
+        "members_url": "https://api.github.com/orgs/eregs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eregs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eregs", 
+        "events_url": "https://api.github.com/orgs/eregs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4005681?v=3", 
+        "repos_url": "https://api.github.com/orgs/eregs/repos", 
+        "login": "eregs", 
+        "id": 4005681, 
+        "hooks_url": "https://api.github.com/orgs/eregs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kinesisptyltd/issues", 
+        "members_url": "https://api.github.com/orgs/kinesisptyltd/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/kinesisptyltd/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kinesisptyltd", 
+        "events_url": "https://api.github.com/orgs/kinesisptyltd/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1607032?v=3", 
+        "repos_url": "https://api.github.com/orgs/kinesisptyltd/repos", 
+        "login": "kinesisptyltd", 
+        "id": 1607032, 
+        "hooks_url": "https://api.github.com/orgs/kinesisptyltd/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforAustralia/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforAustralia/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeforAustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforAustralia", 
+        "events_url": "https://api.github.com/orgs/CodeforAustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2573081?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforAustralia/repos", 
+        "login": "CodeforAustralia", 
+        "id": 2573081, 
+        "hooks_url": "https://api.github.com/orgs/CodeforAustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tmuxinator/issues", 
+        "members_url": "https://api.github.com/orgs/tmuxinator/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/tmuxinator/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tmuxinator", 
+        "events_url": "https://api.github.com/orgs/tmuxinator/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6574276?v=3", 
+        "repos_url": "https://api.github.com/orgs/tmuxinator/repos", 
+        "login": "tmuxinator", 
+        "id": 6574276, 
+        "hooks_url": "https://api.github.com/orgs/tmuxinator/hooks"
+    }
+]

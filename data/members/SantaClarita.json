@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ryanatwork/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ryanatwork/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ryanatwork/orgs", 
+        "url": "https://api.github.com/users/ryanatwork", 
+        "gists_url": "https://api.github.com/users/ryanatwork/gists{/gist_id}", 
+        "html_url": "https://github.com/ryanatwork", 
+        "subscriptions_url": "https://api.github.com/users/ryanatwork/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/437339?v=3", 
+        "repos_url": "https://api.github.com/users/ryanatwork/repos", 
+        "received_events_url": "https://api.github.com/users/ryanatwork/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ryanatwork/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ryanatwork", 
+        "type": "User", 
+        "id": 437339, 
+        "followers_url": "https://api.github.com/users/ryanatwork/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ryandrake/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ryandrake/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ryandrake/orgs", 
+        "url": "https://api.github.com/users/ryandrake", 
+        "gists_url": "https://api.github.com/users/ryandrake/gists{/gist_id}", 
+        "html_url": "https://github.com/ryandrake", 
+        "subscriptions_url": "https://api.github.com/users/ryandrake/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/438288?v=3", 
+        "repos_url": "https://api.github.com/users/ryandrake/repos", 
+        "received_events_url": "https://api.github.com/users/ryandrake/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ryandrake/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ryandrake", 
+        "type": "User", 
+        "id": 438288, 
+        "followers_url": "https://api.github.com/users/ryandrake/followers"
+    }
+]

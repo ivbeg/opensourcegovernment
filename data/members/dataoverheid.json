@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dataoverheidnl/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dataoverheidnl/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dataoverheidnl/orgs", 
+        "url": "https://api.github.com/users/dataoverheidnl", 
+        "gists_url": "https://api.github.com/users/dataoverheidnl/gists{/gist_id}", 
+        "html_url": "https://github.com/dataoverheidnl", 
+        "subscriptions_url": "https://api.github.com/users/dataoverheidnl/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12847858?v=3", 
+        "repos_url": "https://api.github.com/users/dataoverheidnl/repos", 
+        "received_events_url": "https://api.github.com/users/dataoverheidnl/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dataoverheidnl/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dataoverheidnl", 
+        "type": "User", 
+        "id": 12847858, 
+        "followers_url": "https://api.github.com/users/dataoverheidnl/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/supportindicia/following{/other_user}", 
+        "events_url": "https://api.github.com/users/supportindicia/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/supportindicia/orgs", 
+        "url": "https://api.github.com/users/supportindicia", 
+        "gists_url": "https://api.github.com/users/supportindicia/gists{/gist_id}", 
+        "html_url": "https://github.com/supportindicia", 
+        "subscriptions_url": "https://api.github.com/users/supportindicia/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13311504?v=3", 
+        "repos_url": "https://api.github.com/users/supportindicia/repos", 
+        "received_events_url": "https://api.github.com/users/supportindicia/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/supportindicia/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "supportindicia", 
+        "type": "User", 
+        "id": 13311504, 
+        "followers_url": "https://api.github.com/users/supportindicia/followers"
+    }
+]

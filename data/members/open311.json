@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/inghamn/following{/other_user}", 
+        "events_url": "https://api.github.com/users/inghamn/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/inghamn/orgs", 
+        "url": "https://api.github.com/users/inghamn", 
+        "gists_url": "https://api.github.com/users/inghamn/gists{/gist_id}", 
+        "html_url": "https://github.com/inghamn", 
+        "subscriptions_url": "https://api.github.com/users/inghamn/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/630282?v=3", 
+        "repos_url": "https://api.github.com/users/inghamn/repos", 
+        "received_events_url": "https://api.github.com/users/inghamn/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/inghamn/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "inghamn", 
+        "type": "User", 
+        "id": 630282, 
+        "followers_url": "https://api.github.com/users/inghamn/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/philipashlock/following{/other_user}", 
+        "events_url": "https://api.github.com/users/philipashlock/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/philipashlock/orgs", 
+        "url": "https://api.github.com/users/philipashlock", 
+        "gists_url": "https://api.github.com/users/philipashlock/gists{/gist_id}", 
+        "html_url": "https://github.com/philipashlock", 
+        "subscriptions_url": "https://api.github.com/users/philipashlock/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/183402?v=3", 
+        "repos_url": "https://api.github.com/users/philipashlock/repos", 
+        "received_events_url": "https://api.github.com/users/philipashlock/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/philipashlock/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "philipashlock", 
+        "type": "User", 
+        "id": 183402, 
+        "followers_url": "https://api.github.com/users/philipashlock/followers"
+    }
+]

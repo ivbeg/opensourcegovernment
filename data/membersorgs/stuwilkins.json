@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NSLS-II-CSX/issues", 
+        "members_url": "https://api.github.com/orgs/NSLS-II-CSX/members{/member}", 
+        "description": "Code Repository for the CSX Beamline at NSLS-II", 
+        "public_members_url": "https://api.github.com/orgs/NSLS-II-CSX/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NSLS-II-CSX", 
+        "events_url": "https://api.github.com/orgs/NSLS-II-CSX/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6436775?v=3", 
+        "repos_url": "https://api.github.com/orgs/NSLS-II-CSX/repos", 
+        "login": "NSLS-II-CSX", 
+        "id": 6436775, 
+        "hooks_url": "https://api.github.com/orgs/NSLS-II-CSX/hooks"
+    }
+]

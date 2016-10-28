@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/github/issues", 
+        "members_url": "https://api.github.com/orgs/github/members{/member}", 
+        "description": "How people build software.", 
+        "public_members_url": "https://api.github.com/orgs/github/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github", 
+        "events_url": "https://api.github.com/orgs/github/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=3", 
+        "repos_url": "https://api.github.com/orgs/github/repos", 
+        "login": "github", 
+        "id": 9919, 
+        "hooks_url": "https://api.github.com/orgs/github/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cartographers-for-social-equality/issues", 
+        "members_url": "https://api.github.com/orgs/cartographers-for-social-equality/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cartographers-for-social-equality/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cartographers-for-social-equality", 
+        "events_url": "https://api.github.com/orgs/cartographers-for-social-equality/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7967231?v=3", 
+        "repos_url": "https://api.github.com/orgs/cartographers-for-social-equality/repos", 
+        "login": "cartographers-for-social-equality", 
+        "id": 7967231, 
+        "hooks_url": "https://api.github.com/orgs/cartographers-for-social-equality/hooks"
+    }
+]

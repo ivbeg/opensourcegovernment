@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/projectcypress/issues", 
+        "members_url": "https://api.github.com/orgs/projectcypress/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/projectcypress/public_members{/member}", 
+        "url": "https://api.github.com/orgs/projectcypress", 
+        "events_url": "https://api.github.com/orgs/projectcypress/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1188796?v=3", 
+        "repos_url": "https://api.github.com/orgs/projectcypress/repos", 
+        "login": "projectcypress", 
+        "id": 1188796, 
+        "hooks_url": "https://api.github.com/orgs/projectcypress/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforboston/issues", 
+        "members_url": "https://api.github.com/orgs/codeforboston/members{/member}", 
+        "description": "Improving civic life and social good in Greater Boston.", 
+        "public_members_url": "https://api.github.com/orgs/codeforboston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforboston", 
+        "events_url": "https://api.github.com/orgs/codeforboston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2533182?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforboston/repos", 
+        "login": "codeforboston", 
+        "id": 2533182, 
+        "hooks_url": "https://api.github.com/orgs/codeforboston/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/projecttacoma/issues", 
+        "members_url": "https://api.github.com/orgs/projecttacoma/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/projecttacoma/public_members{/member}", 
+        "url": "https://api.github.com/orgs/projecttacoma", 
+        "events_url": "https://api.github.com/orgs/projecttacoma/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5497023?v=3", 
+        "repos_url": "https://api.github.com/orgs/projecttacoma/repos", 
+        "login": "projecttacoma", 
+        "id": 5497023, 
+        "hooks_url": "https://api.github.com/orgs/projecttacoma/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/greenstreetsinitiative/issues", 
+        "members_url": "https://api.github.com/orgs/greenstreetsinitiative/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/greenstreetsinitiative/public_members{/member}", 
+        "url": "https://api.github.com/orgs/greenstreetsinitiative", 
+        "events_url": "https://api.github.com/orgs/greenstreetsinitiative/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6661278?v=3", 
+        "repos_url": "https://api.github.com/orgs/greenstreetsinitiative/repos", 
+        "login": "greenstreetsinitiative", 
+        "id": 6661278, 
+        "hooks_url": "https://api.github.com/orgs/greenstreetsinitiative/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Medirectory/issues", 
+        "members_url": "https://api.github.com/orgs/Medirectory/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Medirectory/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Medirectory", 
+        "events_url": "https://api.github.com/orgs/Medirectory/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11929251?v=3", 
+        "repos_url": "https://api.github.com/orgs/Medirectory/repos", 
+        "login": "Medirectory", 
+        "id": 11929251, 
+        "hooks_url": "https://api.github.com/orgs/Medirectory/hooks"
+    }
+]

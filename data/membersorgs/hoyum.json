@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/difi/issues", 
+        "members_url": "https://api.github.com/orgs/difi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/difi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/difi", 
+        "events_url": "https://api.github.com/orgs/difi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/226592?v=3", 
+        "repos_url": "https://api.github.com/orgs/difi/repos", 
+        "login": "difi", 
+        "id": 226592, 
+        "hooks_url": "https://api.github.com/orgs/difi/hooks"
+    }
+]

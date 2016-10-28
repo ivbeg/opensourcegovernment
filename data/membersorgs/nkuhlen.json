@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-UK/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-UK/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-UK", 
+        "events_url": "https://api.github.com/orgs/DataKind-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7648747?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-UK/repos", 
+        "login": "DataKind-UK", 
+        "id": 7648747, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-UK/hooks"
+    }
+]

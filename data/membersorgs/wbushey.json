@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/govdelivery/issues", 
+        "members_url": "https://api.github.com/orgs/govdelivery/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/govdelivery/public_members{/member}", 
+        "url": "https://api.github.com/orgs/govdelivery", 
+        "events_url": "https://api.github.com/orgs/govdelivery/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/210271?v=3", 
+        "repos_url": "https://api.github.com/orgs/govdelivery/repos", 
+        "login": "govdelivery", 
+        "id": 210271, 
+        "hooks_url": "https://api.github.com/orgs/govdelivery/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-democracy/issues", 
+        "members_url": "https://api.github.com/orgs/e-democracy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/e-democracy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-democracy", 
+        "events_url": "https://api.github.com/orgs/e-democracy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/365413?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-democracy/repos", 
+        "login": "e-democracy", 
+        "id": 365413, 
+        "hooks_url": "https://api.github.com/orgs/e-democracy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTwinCities/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTwinCities/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OpenTwinCities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTwinCities", 
+        "events_url": "https://api.github.com/orgs/OpenTwinCities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2691793?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTwinCities/repos", 
+        "login": "OpenTwinCities", 
+        "id": 2691793, 
+        "hooks_url": "https://api.github.com/orgs/OpenTwinCities/hooks"
+    }
+]

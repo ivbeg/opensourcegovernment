@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opented/issues", 
+        "members_url": "https://api.github.com/orgs/opented/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opented/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opented", 
+        "events_url": "https://api.github.com/orgs/opented/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2913232?v=3", 
+        "repos_url": "https://api.github.com/orgs/opented/repos", 
+        "login": "opented", 
+        "id": 2913232, 
+        "hooks_url": "https://api.github.com/orgs/opented/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/painless-software/issues", 
+        "members_url": "https://api.github.com/orgs/painless-software/members{/member}", 
+        "description": "Your software development could be painless.", 
+        "public_members_url": "https://api.github.com/orgs/painless-software/public_members{/member}", 
+        "url": "https://api.github.com/orgs/painless-software", 
+        "events_url": "https://api.github.com/orgs/painless-software/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15011563?v=3", 
+        "repos_url": "https://api.github.com/orgs/painless-software/repos", 
+        "login": "painless-software", 
+        "id": 15011563, 
+        "hooks_url": "https://api.github.com/orgs/painless-software/hooks"
+    }
+]

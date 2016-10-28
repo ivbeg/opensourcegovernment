@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sfcta/issues", 
+        "members_url": "https://api.github.com/orgs/sfcta/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/sfcta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfcta", 
+        "events_url": "https://api.github.com/orgs/sfcta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/841249?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfcta/repos", 
+        "login": "sfcta", 
+        "id": 841249, 
+        "hooks_url": "https://api.github.com/orgs/sfcta/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osPlanning/issues", 
+        "members_url": "https://api.github.com/orgs/osPlanning/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/osPlanning/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osPlanning", 
+        "events_url": "https://api.github.com/orgs/osPlanning/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4582090?v=3", 
+        "repos_url": "https://api.github.com/orgs/osPlanning/repos", 
+        "login": "osPlanning", 
+        "id": 4582090, 
+        "hooks_url": "https://api.github.com/orgs/osPlanning/hooks"
+    }
+]

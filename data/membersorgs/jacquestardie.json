@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/salmonhabitat/issues", 
+        "members_url": "https://api.github.com/orgs/salmonhabitat/members{/member}", 
+        "description": "Restoring natural stream processes in Downeast Maine", 
+        "public_members_url": "https://api.github.com/orgs/salmonhabitat/public_members{/member}", 
+        "url": "https://api.github.com/orgs/salmonhabitat", 
+        "events_url": "https://api.github.com/orgs/salmonhabitat/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1139352?v=3", 
+        "repos_url": "https://api.github.com/orgs/salmonhabitat/repos", 
+        "login": "salmonhabitat", 
+        "id": 1139352, 
+        "hooks_url": "https://api.github.com/orgs/salmonhabitat/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mainehackerclub/issues", 
+        "members_url": "https://api.github.com/orgs/mainehackerclub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mainehackerclub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mainehackerclub", 
+        "events_url": "https://api.github.com/orgs/mainehackerclub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1809513?v=3", 
+        "repos_url": "https://api.github.com/orgs/mainehackerclub/repos", 
+        "login": "mainehackerclub", 
+        "id": 1809513, 
+        "hooks_url": "https://api.github.com/orgs/mainehackerclub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Code4Maine/issues", 
+        "members_url": "https://api.github.com/orgs/Code4Maine/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Code4Maine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4Maine", 
+        "events_url": "https://api.github.com/orgs/Code4Maine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3003028?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4Maine/repos", 
+        "login": "Code4Maine", 
+        "id": 3003028, 
+        "hooks_url": "https://api.github.com/orgs/Code4Maine/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mainecivichackday/issues", 
+        "members_url": "https://api.github.com/orgs/mainecivichackday/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mainecivichackday/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mainecivichackday", 
+        "events_url": "https://api.github.com/orgs/mainecivichackday/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4450148?v=3", 
+        "repos_url": "https://api.github.com/orgs/mainecivichackday/repos", 
+        "login": "mainecivichackday", 
+        "id": 4450148, 
+        "hooks_url": "https://api.github.com/orgs/mainecivichackday/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/recombinators/issues", 
+        "members_url": "https://api.github.com/orgs/recombinators/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recombinators/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recombinators", 
+        "events_url": "https://api.github.com/orgs/recombinators/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11448531?v=3", 
+        "repos_url": "https://api.github.com/orgs/recombinators/repos", 
+        "login": "recombinators", 
+        "id": 11448531, 
+        "hooks_url": "https://api.github.com/orgs/recombinators/hooks"
+    }
+]

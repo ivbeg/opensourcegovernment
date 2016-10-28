@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4Maine/issues", 
+        "members_url": "https://api.github.com/orgs/Code4Maine/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Code4Maine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4Maine", 
+        "events_url": "https://api.github.com/orgs/Code4Maine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3003028?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4Maine/repos", 
+        "login": "Code4Maine", 
+        "id": 3003028, 
+        "hooks_url": "https://api.github.com/orgs/Code4Maine/hooks"
+    }
+]

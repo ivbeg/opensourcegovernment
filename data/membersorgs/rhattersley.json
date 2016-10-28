@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SciTools/issues", 
+        "members_url": "https://api.github.com/orgs/SciTools/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SciTools/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SciTools", 
+        "events_url": "https://api.github.com/orgs/SciTools/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1391487?v=3", 
+        "repos_url": "https://api.github.com/orgs/SciTools/repos", 
+        "login": "SciTools", 
+        "id": 1391487, 
+        "hooks_url": "https://api.github.com/orgs/SciTools/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pyugrid/issues", 
+        "members_url": "https://api.github.com/orgs/pyugrid/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pyugrid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pyugrid", 
+        "events_url": "https://api.github.com/orgs/pyugrid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4869809?v=3", 
+        "repos_url": "https://api.github.com/orgs/pyugrid/repos", 
+        "login": "pyugrid", 
+        "id": 4869809, 
+        "hooks_url": "https://api.github.com/orgs/pyugrid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cf-metadata/issues", 
+        "members_url": "https://api.github.com/orgs/cf-metadata/members{/member}", 
+        "description": "Experiments in alternative encodings of the CF conventions.", 
+        "public_members_url": "https://api.github.com/orgs/cf-metadata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cf-metadata", 
+        "events_url": "https://api.github.com/orgs/cf-metadata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6905963?v=3", 
+        "repos_url": "https://api.github.com/orgs/cf-metadata/repos", 
+        "login": "cf-metadata", 
+        "id": 6905963, 
+        "hooks_url": "https://api.github.com/orgs/cf-metadata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cf-convention/issues", 
+        "members_url": "https://api.github.com/orgs/cf-convention/members{/member}", 
+        "description": "Source code repository for CF Conventions documents at http://cf-convention.github.io", 
+        "public_members_url": "https://api.github.com/orgs/cf-convention/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cf-convention", 
+        "events_url": "https://api.github.com/orgs/cf-convention/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6909709?v=3", 
+        "repos_url": "https://api.github.com/orgs/cf-convention/repos", 
+        "login": "cf-convention", 
+        "id": 6909709, 
+        "hooks_url": "https://api.github.com/orgs/cf-convention/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MetOffice/issues", 
+        "members_url": "https://api.github.com/orgs/MetOffice/members{/member}", 
+        "description": "The Met Office is the UK's National Weather Service", 
+        "public_members_url": "https://api.github.com/orgs/MetOffice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MetOffice", 
+        "events_url": "https://api.github.com/orgs/MetOffice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6997732?v=3", 
+        "repos_url": "https://api.github.com/orgs/MetOffice/repos", 
+        "login": "MetOffice", 
+        "id": 6997732, 
+        "hooks_url": "https://api.github.com/orgs/MetOffice/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SciTools-incubator/issues", 
+        "members_url": "https://api.github.com/orgs/SciTools-incubator/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SciTools-incubator/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SciTools-incubator", 
+        "events_url": "https://api.github.com/orgs/SciTools-incubator/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14869753?v=3", 
+        "repos_url": "https://api.github.com/orgs/SciTools-incubator/repos", 
+        "login": "SciTools-incubator", 
+        "id": 14869753, 
+        "hooks_url": "https://api.github.com/orgs/SciTools-incubator/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AshburtonH3/issues", 
+        "members_url": "https://api.github.com/orgs/AshburtonH3/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/AshburtonH3/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AshburtonH3", 
+        "events_url": "https://api.github.com/orgs/AshburtonH3/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19728123?v=3", 
+        "repos_url": "https://api.github.com/orgs/AshburtonH3/repos", 
+        "login": "AshburtonH3", 
+        "id": 19728123, 
+        "hooks_url": "https://api.github.com/orgs/AshburtonH3/hooks"
+    }
+]

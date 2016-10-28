@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/erasme/issues", 
+        "members_url": "https://api.github.com/orgs/erasme/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/erasme/public_members{/member}", 
+        "url": "https://api.github.com/orgs/erasme", 
+        "events_url": "https://api.github.com/orgs/erasme/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/204704?v=3", 
+        "repos_url": "https://api.github.com/orgs/erasme/repos", 
+        "login": "erasme", 
+        "id": 204704, 
+        "hooks_url": "https://api.github.com/orgs/erasme/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/urbanlab/issues", 
+        "members_url": "https://api.github.com/orgs/urbanlab/members{/member}", 
+        "description": "Laboratoire d'innovation ouverte Erasme. M\u00e9tropole de Lyon.", 
+        "public_members_url": "https://api.github.com/orgs/urbanlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/urbanlab", 
+        "events_url": "https://api.github.com/orgs/urbanlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1254215?v=3", 
+        "repos_url": "https://api.github.com/orgs/urbanlab/repos", 
+        "login": "urbanlab", 
+        "id": 1254215, 
+        "hooks_url": "https://api.github.com/orgs/urbanlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/museomix/issues", 
+        "members_url": "https://api.github.com/orgs/museomix/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/museomix/public_members{/member}", 
+        "url": "https://api.github.com/orgs/museomix", 
+        "events_url": "https://api.github.com/orgs/museomix/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2589616?v=3", 
+        "repos_url": "https://api.github.com/orgs/museomix/repos", 
+        "login": "museomix", 
+        "id": 2589616, 
+        "hooks_url": "https://api.github.com/orgs/museomix/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ludomuse/issues", 
+        "members_url": "https://api.github.com/orgs/ludomuse/members{/member}", 
+        "description": "Moteur de jeu mobile collaboratif ", 
+        "public_members_url": "https://api.github.com/orgs/ludomuse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ludomuse", 
+        "events_url": "https://api.github.com/orgs/ludomuse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13136840?v=3", 
+        "repos_url": "https://api.github.com/orgs/ludomuse/repos", 
+        "login": "ludomuse", 
+        "id": 13136840, 
+        "hooks_url": "https://api.github.com/orgs/ludomuse/hooks"
+    }
+]

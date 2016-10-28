@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ingelectronicadj/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ingelectronicadj/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ingelectronicadj/orgs", 
+        "url": "https://api.github.com/users/ingelectronicadj", 
+        "gists_url": "https://api.github.com/users/ingelectronicadj/gists{/gist_id}", 
+        "html_url": "https://github.com/ingelectronicadj", 
+        "subscriptions_url": "https://api.github.com/users/ingelectronicadj/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8690140?v=3", 
+        "repos_url": "https://api.github.com/users/ingelectronicadj/repos", 
+        "received_events_url": "https://api.github.com/users/ingelectronicadj/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ingelectronicadj/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ingelectronicadj", 
+        "type": "User", 
+        "id": 8690140, 
+        "followers_url": "https://api.github.com/users/ingelectronicadj/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/snaphuman/following{/other_user}", 
+        "events_url": "https://api.github.com/users/snaphuman/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/snaphuman/orgs", 
+        "url": "https://api.github.com/users/snaphuman", 
+        "gists_url": "https://api.github.com/users/snaphuman/gists{/gist_id}", 
+        "html_url": "https://github.com/snaphuman", 
+        "subscriptions_url": "https://api.github.com/users/snaphuman/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/246425?v=3", 
+        "repos_url": "https://api.github.com/users/snaphuman/repos", 
+        "received_events_url": "https://api.github.com/users/snaphuman/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/snaphuman/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "snaphuman", 
+        "type": "User", 
+        "id": 246425, 
+        "followers_url": "https://api.github.com/users/snaphuman/followers"
+    }
+]

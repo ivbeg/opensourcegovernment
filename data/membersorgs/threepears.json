@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/issues", 
+        "members_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NashvilleSoftwareSchool", 
+        "events_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2388224?v=3", 
+        "repos_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/repos", 
+        "login": "NashvilleSoftwareSchool", 
+        "id": 2388224, 
+        "hooks_url": "https://api.github.com/orgs/NashvilleSoftwareSchool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code-for-nashville/issues", 
+        "members_url": "https://api.github.com/orgs/code-for-nashville/members{/member}", 
+        "description": "Building Better Communities Through Technology", 
+        "public_members_url": "https://api.github.com/orgs/code-for-nashville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code-for-nashville", 
+        "events_url": "https://api.github.com/orgs/code-for-nashville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8493450?v=3", 
+        "repos_url": "https://api.github.com/orgs/code-for-nashville/repos", 
+        "login": "code-for-nashville", 
+        "id": 8493450, 
+        "hooks_url": "https://api.github.com/orgs/code-for-nashville/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NSS-Cohort-11/issues", 
+        "members_url": "https://api.github.com/orgs/NSS-Cohort-11/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NSS-Cohort-11/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NSS-Cohort-11", 
+        "events_url": "https://api.github.com/orgs/NSS-Cohort-11/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11652660?v=3", 
+        "repos_url": "https://api.github.com/orgs/NSS-Cohort-11/repos", 
+        "login": "NSS-Cohort-11", 
+        "id": 11652660, 
+        "hooks_url": "https://api.github.com/orgs/NSS-Cohort-11/hooks"
+    }
+]

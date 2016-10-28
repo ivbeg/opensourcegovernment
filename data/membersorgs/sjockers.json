@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTechSchool/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTechSchool/members{/member}", 
+        "description": "Educating the public for free!", 
+        "public_members_url": "https://api.github.com/orgs/OpenTechSchool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTechSchool", 
+        "events_url": "https://api.github.com/orgs/OpenTechSchool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1956369?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTechSchool/repos", 
+        "login": "OpenTechSchool", 
+        "id": 1956369, 
+        "hooks_url": "https://api.github.com/orgs/OpenTechSchool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/stadtlandcode/issues", 
+        "members_url": "https://api.github.com/orgs/stadtlandcode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/stadtlandcode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/stadtlandcode", 
+        "events_url": "https://api.github.com/orgs/stadtlandcode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2950633?v=3", 
+        "repos_url": "https://api.github.com/orgs/stadtlandcode/repos", 
+        "login": "stadtlandcode", 
+        "id": 2950633, 
+        "hooks_url": "https://api.github.com/orgs/stadtlandcode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/teikei/issues", 
+        "members_url": "https://api.github.com/orgs/teikei/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/teikei/public_members{/member}", 
+        "url": "https://api.github.com/orgs/teikei", 
+        "events_url": "https://api.github.com/orgs/teikei/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7583909?v=3", 
+        "repos_url": "https://api.github.com/orgs/teikei/repos", 
+        "login": "teikei", 
+        "id": 7583909, 
+        "hooks_url": "https://api.github.com/orgs/teikei/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/correctiv/issues", 
+        "members_url": "https://api.github.com/orgs/correctiv/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/correctiv/public_members{/member}", 
+        "url": "https://api.github.com/orgs/correctiv", 
+        "events_url": "https://api.github.com/orgs/correctiv/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7809407?v=3", 
+        "repos_url": "https://api.github.com/orgs/correctiv/repos", 
+        "login": "correctiv", 
+        "id": 7809407, 
+        "hooks_url": "https://api.github.com/orgs/correctiv/hooks"
+    }
+]

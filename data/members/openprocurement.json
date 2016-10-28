@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/testing-openprocurement-org/following{/other_user}", 
+        "events_url": "https://api.github.com/users/testing-openprocurement-org/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/testing-openprocurement-org/orgs", 
+        "url": "https://api.github.com/users/testing-openprocurement-org", 
+        "gists_url": "https://api.github.com/users/testing-openprocurement-org/gists{/gist_id}", 
+        "html_url": "https://github.com/testing-openprocurement-org", 
+        "subscriptions_url": "https://api.github.com/users/testing-openprocurement-org/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22059696?v=3", 
+        "repos_url": "https://api.github.com/users/testing-openprocurement-org/repos", 
+        "received_events_url": "https://api.github.com/users/testing-openprocurement-org/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/testing-openprocurement-org/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "testing-openprocurement-org", 
+        "type": "User", 
+        "id": 22059696, 
+        "followers_url": "https://api.github.com/users/testing-openprocurement-org/followers"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lfucg/issues", 
+        "members_url": "https://api.github.com/orgs/lfucg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lfucg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lfucg", 
+        "events_url": "https://api.github.com/orgs/lfucg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5739571?v=3", 
+        "repos_url": "https://api.github.com/orgs/lfucg/repos", 
+        "login": "lfucg", 
+        "id": 5739571, 
+        "hooks_url": "https://api.github.com/orgs/lfucg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/citygram/issues", 
+        "members_url": "https://api.github.com/orgs/citygram/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/citygram/public_members{/member}", 
+        "url": "https://api.github.com/orgs/citygram", 
+        "events_url": "https://api.github.com/orgs/citygram/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7969112?v=3", 
+        "repos_url": "https://api.github.com/orgs/citygram/repos", 
+        "login": "citygram", 
+        "id": 7969112, 
+        "hooks_url": "https://api.github.com/orgs/citygram/hooks"
+    }
+]

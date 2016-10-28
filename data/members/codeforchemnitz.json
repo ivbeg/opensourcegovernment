@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/MorrisJobke/following{/other_user}", 
+        "events_url": "https://api.github.com/users/MorrisJobke/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/MorrisJobke/orgs", 
+        "url": "https://api.github.com/users/MorrisJobke", 
+        "gists_url": "https://api.github.com/users/MorrisJobke/gists{/gist_id}", 
+        "html_url": "https://github.com/MorrisJobke", 
+        "subscriptions_url": "https://api.github.com/users/MorrisJobke/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/245432?v=3", 
+        "repos_url": "https://api.github.com/users/MorrisJobke/repos", 
+        "received_events_url": "https://api.github.com/users/MorrisJobke/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/MorrisJobke/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "MorrisJobke", 
+        "type": "User", 
+        "id": 245432, 
+        "followers_url": "https://api.github.com/users/MorrisJobke/followers"
+    }
+]

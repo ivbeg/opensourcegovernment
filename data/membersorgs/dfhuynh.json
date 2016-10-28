@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenRefine/issues", 
+        "members_url": "https://api.github.com/orgs/OpenRefine/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OpenRefine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenRefine", 
+        "events_url": "https://api.github.com/orgs/OpenRefine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2538880?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenRefine/repos", 
+        "login": "OpenRefine", 
+        "id": 2538880, 
+        "hooks_url": "https://api.github.com/orgs/OpenRefine/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataprotocols/issues", 
+        "members_url": "https://api.github.com/orgs/dataprotocols/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataprotocols/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprotocols", 
+        "events_url": "https://api.github.com/orgs/dataprotocols/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2647475?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprotocols/repos", 
+        "login": "dataprotocols", 
+        "id": 2647475, 
+        "hooks_url": "https://api.github.com/orgs/dataprotocols/hooks"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/idagds/issues", 
+        "members_url": "https://api.github.com/orgs/idagds/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/idagds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/idagds", 
+        "events_url": "https://api.github.com/orgs/idagds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12439141?v=3", 
+        "repos_url": "https://api.github.com/orgs/idagds/repos", 
+        "login": "idagds", 
+        "id": 12439141, 
+        "hooks_url": "https://api.github.com/orgs/idagds/hooks"
+    }
+]

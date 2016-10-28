@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/educloudalliance/issues", 
+        "members_url": "https://api.github.com/orgs/educloudalliance/members{/member}", 
+        "description": "Jointly create shared community-driven distribution channel for cloud technology based services and teaching material in Education", 
+        "public_members_url": "https://api.github.com/orgs/educloudalliance/public_members{/member}", 
+        "url": "https://api.github.com/orgs/educloudalliance", 
+        "events_url": "https://api.github.com/orgs/educloudalliance/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6926874?v=3", 
+        "repos_url": "https://api.github.com/orgs/educloudalliance/repos", 
+        "login": "educloudalliance", 
+        "id": 6926874, 
+        "hooks_url": "https://api.github.com/orgs/educloudalliance/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/apinf/issues", 
+        "members_url": "https://api.github.com/orgs/apinf/members{/member}", 
+        "description": "API New Factory project working with API management solutions", 
+        "public_members_url": "https://api.github.com/orgs/apinf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apinf", 
+        "events_url": "https://api.github.com/orgs/apinf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9882661?v=3", 
+        "repos_url": "https://api.github.com/orgs/apinf/repos", 
+        "login": "apinf", 
+        "id": 9882661, 
+        "hooks_url": "https://api.github.com/orgs/apinf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/digikopo/issues", 
+        "members_url": "https://api.github.com/orgs/digikopo/members{/member}", 
+        "description": "Koulutuspolitiikan osaston ICT projektit", 
+        "public_members_url": "https://api.github.com/orgs/digikopo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/digikopo", 
+        "events_url": "https://api.github.com/orgs/digikopo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12108862?v=3", 
+        "repos_url": "https://api.github.com/orgs/digikopo/repos", 
+        "login": "digikopo", 
+        "id": 12108862, 
+        "hooks_url": "https://api.github.com/orgs/digikopo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Digipalvelutehdas/issues", 
+        "members_url": "https://api.github.com/orgs/Digipalvelutehdas/members{/member}", 
+        "description": "Kansallista palveluarkkitehtuuria hy\u00f6dynt\u00e4vi\u00e4 ja t\u00e4ydent\u00e4vi\u00e4 digitaalisia palveluita", 
+        "public_members_url": "https://api.github.com/orgs/Digipalvelutehdas/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Digipalvelutehdas", 
+        "events_url": "https://api.github.com/orgs/Digipalvelutehdas/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12421888?v=3", 
+        "repos_url": "https://api.github.com/orgs/Digipalvelutehdas/repos", 
+        "login": "Digipalvelutehdas", 
+        "id": 12421888, 
+        "hooks_url": "https://api.github.com/orgs/Digipalvelutehdas/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/APIOps/issues", 
+        "members_url": "https://api.github.com/orgs/APIOps/members{/member}", 
+        "description": "APIOps, a new breed of DevOps to support creation and maintence of IoT driven ecosystem. ", 
+        "public_members_url": "https://api.github.com/orgs/APIOps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/APIOps", 
+        "events_url": "https://api.github.com/orgs/APIOps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12773901?v=3", 
+        "repos_url": "https://api.github.com/orgs/APIOps/repos", 
+        "login": "APIOps", 
+        "id": 12773901, 
+        "hooks_url": "https://api.github.com/orgs/APIOps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/zenofapi/issues", 
+        "members_url": "https://api.github.com/orgs/zenofapi/members{/member}", 
+        "description": "API Strategy and development services", 
+        "public_members_url": "https://api.github.com/orgs/zenofapi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/zenofapi", 
+        "events_url": "https://api.github.com/orgs/zenofapi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16442326?v=3", 
+        "repos_url": "https://api.github.com/orgs/zenofapi/repos", 
+        "login": "zenofapi", 
+        "id": 16442326, 
+        "hooks_url": "https://api.github.com/orgs/zenofapi/hooks"
+    }
+]

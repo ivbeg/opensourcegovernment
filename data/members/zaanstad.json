@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bartbaas/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bartbaas/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bartbaas/orgs", 
+        "url": "https://api.github.com/users/bartbaas", 
+        "gists_url": "https://api.github.com/users/bartbaas/gists{/gist_id}", 
+        "html_url": "https://github.com/bartbaas", 
+        "subscriptions_url": "https://api.github.com/users/bartbaas/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1308903?v=3", 
+        "repos_url": "https://api.github.com/users/bartbaas/repos", 
+        "received_events_url": "https://api.github.com/users/bartbaas/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bartbaas/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bartbaas", 
+        "type": "User", 
+        "id": 1308903, 
+        "followers_url": "https://api.github.com/users/bartbaas/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/teamgeo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/teamgeo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/teamgeo/orgs", 
+        "url": "https://api.github.com/users/teamgeo", 
+        "gists_url": "https://api.github.com/users/teamgeo/gists{/gist_id}", 
+        "html_url": "https://github.com/teamgeo", 
+        "subscriptions_url": "https://api.github.com/users/teamgeo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1137490?v=3", 
+        "repos_url": "https://api.github.com/users/teamgeo/repos", 
+        "received_events_url": "https://api.github.com/users/teamgeo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/teamgeo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "teamgeo", 
+        "type": "User", 
+        "id": 1137490, 
+        "followers_url": "https://api.github.com/users/teamgeo/followers"
+    }
+]

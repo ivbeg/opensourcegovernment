@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gabinetedigital/issues", 
+        "members_url": "https://api.github.com/orgs/gabinetedigital/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gabinetedigital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gabinetedigital", 
+        "events_url": "https://api.github.com/orgs/gabinetedigital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2326605?v=3", 
+        "repos_url": "https://api.github.com/orgs/gabinetedigital/repos", 
+        "login": "gabinetedigital", 
+        "id": 2326605, 
+        "hooks_url": "https://api.github.com/orgs/gabinetedigital/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/redelivre/issues", 
+        "members_url": "https://api.github.com/orgs/redelivre/members{/member}", 
+        "description": "Desenvolvimento em rede", 
+        "public_members_url": "https://api.github.com/orgs/redelivre/public_members{/member}", 
+        "url": "https://api.github.com/orgs/redelivre", 
+        "events_url": "https://api.github.com/orgs/redelivre/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5776152?v=3", 
+        "repos_url": "https://api.github.com/orgs/redelivre/repos", 
+        "login": "redelivre", 
+        "id": 5776152, 
+        "hooks_url": "https://api.github.com/orgs/redelivre/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/secultce/issues", 
+        "members_url": "https://api.github.com/orgs/secultce/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/secultce/public_members{/member}", 
+        "url": "https://api.github.com/orgs/secultce", 
+        "events_url": "https://api.github.com/orgs/secultce/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12171407?v=3", 
+        "repos_url": "https://api.github.com/orgs/secultce/repos", 
+        "login": "secultce", 
+        "id": 12171407, 
+        "hooks_url": "https://api.github.com/orgs/secultce/hooks"
+    }
+]

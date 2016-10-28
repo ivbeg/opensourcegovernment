@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4HR/issues", 
+        "members_url": "https://api.github.com/orgs/Code4HR/members{/member}", 
+        "description": "We meet: http://meetup.code4hr.org, Working Tasks: http://tasks.code4hr.org, Slack: http://chat.code4hr.org", 
+        "public_members_url": "https://api.github.com/orgs/Code4HR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4HR", 
+        "events_url": "https://api.github.com/orgs/Code4HR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1490563?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4HR/repos", 
+        "login": "Code4HR", 
+        "id": 1490563, 
+        "hooks_url": "https://api.github.com/orgs/Code4HR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/norfolkjs/issues", 
+        "members_url": "https://api.github.com/orgs/norfolkjs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/norfolkjs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/norfolkjs", 
+        "events_url": "https://api.github.com/orgs/norfolkjs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5777723?v=3", 
+        "repos_url": "https://api.github.com/orgs/norfolkjs/repos", 
+        "login": "norfolkjs", 
+        "id": 5777723, 
+        "hooks_url": "https://api.github.com/orgs/norfolkjs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hrphp/issues", 
+        "members_url": "https://api.github.com/orgs/hrphp/members{/member}", 
+        "description": "The Hampton Roads PHP (HRPHP) User Group is for PHP developers of all experience levels.", 
+        "public_members_url": "https://api.github.com/orgs/hrphp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hrphp", 
+        "events_url": "https://api.github.com/orgs/hrphp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5885429?v=3", 
+        "repos_url": "https://api.github.com/orgs/hrphp/repos", 
+        "login": "hrphp", 
+        "id": 5885429, 
+        "hooks_url": "https://api.github.com/orgs/hrphp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sushijs/issues", 
+        "members_url": "https://api.github.com/orgs/sushijs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sushijs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sushijs", 
+        "events_url": "https://api.github.com/orgs/sushijs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6209470?v=3", 
+        "repos_url": "https://api.github.com/orgs/sushijs/repos", 
+        "login": "sushijs", 
+        "id": 6209470, 
+        "hooks_url": "https://api.github.com/orgs/sushijs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/popuprobots/issues", 
+        "members_url": "https://api.github.com/orgs/popuprobots/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/popuprobots/public_members{/member}", 
+        "url": "https://api.github.com/orgs/popuprobots", 
+        "events_url": "https://api.github.com/orgs/popuprobots/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8323585?v=3", 
+        "repos_url": "https://api.github.com/orgs/popuprobots/repos", 
+        "login": "popuprobots", 
+        "id": 8323585, 
+        "hooks_url": "https://api.github.com/orgs/popuprobots/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/issues", 
+        "members_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/members{/member}", 
+        "description": "It is easiest to be ahead of the curve when you are defining the future. We know what is next, because we are building it", 
+        "public_members_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EmergingTechnologyAdvisors", 
+        "events_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8947774?v=3", 
+        "repos_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/repos", 
+        "login": "EmergingTechnologyAdvisors", 
+        "id": 8947774, 
+        "hooks_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/trailsjs/issues", 
+        "members_url": "https://api.github.com/orgs/trailsjs/members{/member}", 
+        "description": "A Modern Web Application Framework for Node.js", 
+        "public_members_url": "https://api.github.com/orgs/trailsjs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/trailsjs", 
+        "events_url": "https://api.github.com/orgs/trailsjs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15969634?v=3", 
+        "repos_url": "https://api.github.com/orgs/trailsjs/repos", 
+        "login": "trailsjs", 
+        "id": 15969634, 
+        "hooks_url": "https://api.github.com/orgs/trailsjs/hooks"
+    }
+]

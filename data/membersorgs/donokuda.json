@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/github/issues", 
+        "members_url": "https://api.github.com/orgs/github/members{/member}", 
+        "description": "How people build software.", 
+        "public_members_url": "https://api.github.com/orgs/github/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github", 
+        "events_url": "https://api.github.com/orgs/github/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=3", 
+        "repos_url": "https://api.github.com/orgs/github/repos", 
+        "login": "github", 
+        "id": 9919, 
+        "hooks_url": "https://api.github.com/orgs/github/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atom/issues", 
+        "members_url": "https://api.github.com/orgs/atom/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/atom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atom", 
+        "events_url": "https://api.github.com/orgs/atom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1089146?v=3", 
+        "repos_url": "https://api.github.com/orgs/atom/repos", 
+        "login": "atom", 
+        "id": 1089146, 
+        "hooks_url": "https://api.github.com/orgs/atom/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforHawaii/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforHawaii/members{/member}", 
+        "description": "We are civic-minded volunteers interested in using technology and open data to make our local communities better.", 
+        "public_members_url": "https://api.github.com/orgs/CodeforHawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforHawaii", 
+        "events_url": "https://api.github.com/orgs/CodeforHawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6244195?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforHawaii/repos", 
+        "login": "CodeforHawaii", 
+        "id": 6244195, 
+        "hooks_url": "https://api.github.com/orgs/CodeforHawaii/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/electron/issues", 
+        "members_url": "https://api.github.com/orgs/electron/members{/member}", 
+        "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS", 
+        "public_members_url": "https://api.github.com/orgs/electron/public_members{/member}", 
+        "url": "https://api.github.com/orgs/electron", 
+        "events_url": "https://api.github.com/orgs/electron/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13409222?v=3", 
+        "repos_url": "https://api.github.com/orgs/electron/repos", 
+        "login": "electron", 
+        "id": 13409222, 
+        "hooks_url": "https://api.github.com/orgs/electron/hooks"
+    }
+]

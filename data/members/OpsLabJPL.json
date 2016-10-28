@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/drmarkpowell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/drmarkpowell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/drmarkpowell/orgs", 
+        "url": "https://api.github.com/users/drmarkpowell", 
+        "gists_url": "https://api.github.com/users/drmarkpowell/gists{/gist_id}", 
+        "html_url": "https://github.com/drmarkpowell", 
+        "subscriptions_url": "https://api.github.com/users/drmarkpowell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1024831?v=3", 
+        "repos_url": "https://api.github.com/users/drmarkpowell/repos", 
+        "received_events_url": "https://api.github.com/users/drmarkpowell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/drmarkpowell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "drmarkpowell", 
+        "type": "User", 
+        "id": 1024831, 
+        "followers_url": "https://api.github.com/users/drmarkpowell/followers"
+    }
+]

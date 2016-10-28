@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ColoradoDemography/issues", 
+        "members_url": "https://api.github.com/orgs/ColoradoDemography/members{/member}", 
+        "description": "The State Demography Office is the primary state agency for population and demographic information.", 
+        "public_members_url": "https://api.github.com/orgs/ColoradoDemography/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ColoradoDemography", 
+        "events_url": "https://api.github.com/orgs/ColoradoDemography/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16090588?v=3", 
+        "repos_url": "https://api.github.com/orgs/ColoradoDemography/repos", 
+        "login": "ColoradoDemography", 
+        "id": 16090588, 
+        "hooks_url": "https://api.github.com/orgs/ColoradoDemography/hooks"
+    }
+]

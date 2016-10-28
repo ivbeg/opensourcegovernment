@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/goodfornothing/issues", 
+        "members_url": "https://api.github.com/orgs/goodfornothing/members{/member}", 
+        "description": "Bringing smart folk together to solve stuff that matters", 
+        "public_members_url": "https://api.github.com/orgs/goodfornothing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/goodfornothing", 
+        "events_url": "https://api.github.com/orgs/goodfornothing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1749216?v=3", 
+        "repos_url": "https://api.github.com/orgs/goodfornothing/repos", 
+        "login": "goodfornothing", 
+        "id": 1749216, 
+        "hooks_url": "https://api.github.com/orgs/goodfornothing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LambethCouncil/issues", 
+        "members_url": "https://api.github.com/orgs/LambethCouncil/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LambethCouncil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LambethCouncil", 
+        "events_url": "https://api.github.com/orgs/LambethCouncil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1853333?v=3", 
+        "repos_url": "https://api.github.com/orgs/LambethCouncil/repos", 
+        "login": "LambethCouncil", 
+        "id": 1853333, 
+        "hooks_url": "https://api.github.com/orgs/LambethCouncil/hooks"
+    }
+]

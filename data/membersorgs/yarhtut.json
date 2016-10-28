@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/boost/issues", 
+        "members_url": "https://api.github.com/orgs/boost/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/boost/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boost", 
+        "events_url": "https://api.github.com/orgs/boost/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20521?v=3", 
+        "repos_url": "https://api.github.com/orgs/boost/repos", 
+        "login": "boost", 
+        "id": 20521, 
+        "hooks_url": "https://api.github.com/orgs/boost/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DigitalNZ/issues", 
+        "members_url": "https://api.github.com/orgs/DigitalNZ/members{/member}", 
+        "description": "We connect together millions of digital items to make them more useful. Our Supplejack aggregation technology is available to all.", 
+        "public_members_url": "https://api.github.com/orgs/DigitalNZ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DigitalNZ", 
+        "events_url": "https://api.github.com/orgs/DigitalNZ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/93386?v=3", 
+        "repos_url": "https://api.github.com/orgs/DigitalNZ/repos", 
+        "login": "DigitalNZ", 
+        "id": 93386, 
+        "hooks_url": "https://api.github.com/orgs/DigitalNZ/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/webkitz/issues", 
+        "members_url": "https://api.github.com/orgs/webkitz/members{/member}", 
+        "description": "Students with a passion for late night coding....", 
+        "public_members_url": "https://api.github.com/orgs/webkitz/public_members{/member}", 
+        "url": "https://api.github.com/orgs/webkitz", 
+        "events_url": "https://api.github.com/orgs/webkitz/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13501825?v=3", 
+        "repos_url": "https://api.github.com/orgs/webkitz/repos", 
+        "login": "webkitz", 
+        "id": 13501825, 
+        "hooks_url": "https://api.github.com/orgs/webkitz/hooks"
+    }
+]

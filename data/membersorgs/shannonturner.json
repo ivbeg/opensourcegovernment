@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordc/issues", 
+        "members_url": "https://api.github.com/orgs/codefordc/members{/member}", 
+        "description": "Code for DC is an all volunteer organization that creates tools, information, and experiences that serve the District. ", 
+        "public_members_url": "https://api.github.com/orgs/codefordc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordc", 
+        "events_url": "https://api.github.com/orgs/codefordc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordc/repos", 
+        "login": "codefordc", 
+        "id": 2768897, 
+        "hooks_url": "https://api.github.com/orgs/codefordc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForProgress/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForProgress/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeForProgress/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForProgress", 
+        "events_url": "https://api.github.com/orgs/CodeForProgress/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6910784?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForProgress/repos", 
+        "login": "CodeForProgress", 
+        "id": 6910784, 
+        "hooks_url": "https://api.github.com/orgs/CodeForProgress/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dcfemtech/issues", 
+        "members_url": "https://api.github.com/orgs/dcfemtech/members{/member}", 
+        "description": "The DC Women in Tech Collective", 
+        "public_members_url": "https://api.github.com/orgs/dcfemtech/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dcfemtech", 
+        "events_url": "https://api.github.com/orgs/dcfemtech/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7329613?v=3", 
+        "repos_url": "https://api.github.com/orgs/dcfemtech/repos", 
+        "login": "dcfemtech", 
+        "id": 7329613, 
+        "hooks_url": "https://api.github.com/orgs/dcfemtech/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hearmecode/issues", 
+        "members_url": "https://api.github.com/orgs/hearmecode/members{/member}", 
+        "description": "Free, beginner-friendly coding classes for women, by women", 
+        "public_members_url": "https://api.github.com/orgs/hearmecode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hearmecode", 
+        "events_url": "https://api.github.com/orgs/hearmecode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7767237?v=3", 
+        "repos_url": "https://api.github.com/orgs/hearmecode/repos", 
+        "login": "hearmecode", 
+        "id": 7767237, 
+        "hooks_url": "https://api.github.com/orgs/hearmecode/hooks"
+    }
+]

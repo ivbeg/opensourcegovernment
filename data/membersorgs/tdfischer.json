@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SYNHAK/issues", 
+        "members_url": "https://api.github.com/orgs/SYNHAK/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SYNHAK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SYNHAK", 
+        "events_url": "https://api.github.com/orgs/SYNHAK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1314169?v=3", 
+        "repos_url": "https://api.github.com/orgs/SYNHAK/repos", 
+        "login": "SYNHAK", 
+        "id": 1314169, 
+        "hooks_url": "https://api.github.com/orgs/SYNHAK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caminus/issues", 
+        "members_url": "https://api.github.com/orgs/caminus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caminus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caminus", 
+        "events_url": "https://api.github.com/orgs/caminus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2318101?v=3", 
+        "repos_url": "https://api.github.com/orgs/caminus/repos", 
+        "login": "caminus", 
+        "id": 2318101, 
+        "hooks_url": "https://api.github.com/orgs/caminus/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForSummitCounty/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForSummitCounty/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CodeForSummitCounty/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForSummitCounty", 
+        "events_url": "https://api.github.com/orgs/CodeForSummitCounty/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3849495?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForSummitCounty/repos", 
+        "login": "CodeForSummitCounty", 
+        "id": 3849495, 
+        "hooks_url": "https://api.github.com/orgs/CodeForSummitCounty/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/omco/issues", 
+        "members_url": "https://api.github.com/orgs/omco/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/omco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/omco", 
+        "events_url": "https://api.github.com/orgs/omco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3912789?v=3", 
+        "repos_url": "https://api.github.com/orgs/omco/repos", 
+        "login": "omco", 
+        "id": 3912789, 
+        "hooks_url": "https://api.github.com/orgs/omco/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/piratesf/issues", 
+        "members_url": "https://api.github.com/orgs/piratesf/members{/member}", 
+        "description": "The San Francisco Pirate Party", 
+        "public_members_url": "https://api.github.com/orgs/piratesf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/piratesf", 
+        "events_url": "https://api.github.com/orgs/piratesf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20191513?v=3", 
+        "repos_url": "https://api.github.com/orgs/piratesf/repos", 
+        "login": "piratesf", 
+        "id": 20191513, 
+        "hooks_url": "https://api.github.com/orgs/piratesf/hooks"
+    }
+]

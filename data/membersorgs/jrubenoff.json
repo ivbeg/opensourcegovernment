@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dobtco/issues", 
+        "members_url": "https://api.github.com/orgs/dobtco/members{/member}", 
+        "description": "We help governments deliver great digital services to the people who depend on them.", 
+        "public_members_url": "https://api.github.com/orgs/dobtco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dobtco", 
+        "events_url": "https://api.github.com/orgs/dobtco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3903909?v=3", 
+        "repos_url": "https://api.github.com/orgs/dobtco/repos", 
+        "login": "dobtco", 
+        "id": 3903909, 
+        "hooks_url": "https://api.github.com/orgs/dobtco/hooks"
+    }
+]

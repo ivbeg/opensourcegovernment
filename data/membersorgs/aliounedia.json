@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Dakarlug/issues", 
+        "members_url": "https://api.github.com/orgs/Dakarlug/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Dakarlug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Dakarlug", 
+        "events_url": "https://api.github.com/orgs/Dakarlug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/622456?v=3", 
+        "repos_url": "https://api.github.com/orgs/Dakarlug/repos", 
+        "login": "Dakarlug", 
+        "id": 622456, 
+        "hooks_url": "https://api.github.com/orgs/Dakarlug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/senegalouvert/issues", 
+        "members_url": "https://api.github.com/orgs/senegalouvert/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/senegalouvert/public_members{/member}", 
+        "url": "https://api.github.com/orgs/senegalouvert", 
+        "events_url": "https://api.github.com/orgs/senegalouvert/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4836598?v=3", 
+        "repos_url": "https://api.github.com/orgs/senegalouvert/repos", 
+        "login": "senegalouvert", 
+        "id": 4836598, 
+        "hooks_url": "https://api.github.com/orgs/senegalouvert/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/senegalhistory/issues", 
+        "members_url": "https://api.github.com/orgs/senegalhistory/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/senegalhistory/public_members{/member}", 
+        "url": "https://api.github.com/orgs/senegalhistory", 
+        "events_url": "https://api.github.com/orgs/senegalhistory/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6246302?v=3", 
+        "repos_url": "https://api.github.com/orgs/senegalhistory/repos", 
+        "login": "senegalhistory", 
+        "id": 6246302, 
+        "hooks_url": "https://api.github.com/orgs/senegalhistory/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/senegalouvert-datasets/issues", 
+        "members_url": "https://api.github.com/orgs/senegalouvert-datasets/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/senegalouvert-datasets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/senegalouvert-datasets", 
+        "events_url": "https://api.github.com/orgs/senegalouvert-datasets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9354951?v=3", 
+        "repos_url": "https://api.github.com/orgs/senegalouvert-datasets/repos", 
+        "login": "senegalouvert-datasets", 
+        "id": 9354951, 
+        "hooks_url": "https://api.github.com/orgs/senegalouvert-datasets/hooks"
+    }
+]

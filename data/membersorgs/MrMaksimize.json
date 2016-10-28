@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opensandiego/issues", 
+        "members_url": "https://api.github.com/orgs/opensandiego/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opensandiego/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opensandiego", 
+        "events_url": "https://api.github.com/orgs/opensandiego/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/363945?v=3", 
+        "repos_url": "https://api.github.com/orgs/opensandiego/repos", 
+        "login": "opensandiego", 
+        "id": 363945, 
+        "hooks_url": "https://api.github.com/orgs/opensandiego/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Srcery/issues", 
+        "members_url": "https://api.github.com/orgs/Srcery/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Srcery/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Srcery", 
+        "events_url": "https://api.github.com/orgs/Srcery/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1778505?v=3", 
+        "repos_url": "https://api.github.com/orgs/Srcery/repos", 
+        "login": "Srcery", 
+        "id": 1778505, 
+        "hooks_url": "https://api.github.com/orgs/Srcery/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/doughio/issues", 
+        "members_url": "https://api.github.com/orgs/doughio/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/doughio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/doughio", 
+        "events_url": "https://api.github.com/orgs/doughio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2767237?v=3", 
+        "repos_url": "https://api.github.com/orgs/doughio/repos", 
+        "login": "doughio", 
+        "id": 2767237, 
+        "hooks_url": "https://api.github.com/orgs/doughio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CoquiCoders/issues", 
+        "members_url": "https://api.github.com/orgs/CoquiCoders/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CoquiCoders/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CoquiCoders", 
+        "events_url": "https://api.github.com/orgs/CoquiCoders/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6466821?v=3", 
+        "repos_url": "https://api.github.com/orgs/CoquiCoders/repos", 
+        "login": "CoquiCoders", 
+        "id": 6466821, 
+        "hooks_url": "https://api.github.com/orgs/CoquiCoders/hooks"
+    }
+]

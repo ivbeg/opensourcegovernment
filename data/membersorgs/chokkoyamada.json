@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CyberAgent/issues", 
+        "members_url": "https://api.github.com/orgs/CyberAgent/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CyberAgent/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CyberAgent", 
+        "events_url": "https://api.github.com/orgs/CyberAgent/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/865695?v=3", 
+        "repos_url": "https://api.github.com/orgs/CyberAgent/repos", 
+        "login": "CyberAgent", 
+        "id": 865695, 
+        "hooks_url": "https://api.github.com/orgs/CyberAgent/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spendingjp-kawaguchi/issues", 
+        "members_url": "https://api.github.com/orgs/spendingjp-kawaguchi/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/spendingjp-kawaguchi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spendingjp-kawaguchi", 
+        "events_url": "https://api.github.com/orgs/spendingjp-kawaguchi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5052551?v=3", 
+        "repos_url": "https://api.github.com/orgs/spendingjp-kawaguchi/repos", 
+        "login": "spendingjp-kawaguchi", 
+        "id": 5052551, 
+        "hooks_url": "https://api.github.com/orgs/spendingjp-kawaguchi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforjapan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforjapan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforjapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforjapan", 
+        "events_url": "https://api.github.com/orgs/codeforjapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5137738?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforjapan/repos", 
+        "login": "codeforjapan", 
+        "id": 5137738, 
+        "hooks_url": "https://api.github.com/orgs/codeforjapan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/backlog-kanban/issues", 
+        "members_url": "https://api.github.com/orgs/backlog-kanban/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/backlog-kanban/public_members{/member}", 
+        "url": "https://api.github.com/orgs/backlog-kanban", 
+        "events_url": "https://api.github.com/orgs/backlog-kanban/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5958670?v=3", 
+        "repos_url": "https://api.github.com/orgs/backlog-kanban/repos", 
+        "login": "backlog-kanban", 
+        "id": 5958670, 
+        "hooks_url": "https://api.github.com/orgs/backlog-kanban/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefornamie/issues", 
+        "members_url": "https://api.github.com/orgs/codefornamie/members{/member}", 
+        "description": "Distributing tablet devices and developing applications for residents of Namie", 
+        "public_members_url": "https://api.github.com/orgs/codefornamie/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefornamie", 
+        "events_url": "https://api.github.com/orgs/codefornamie/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8346307?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefornamie/repos", 
+        "login": "codefornamie", 
+        "id": 8346307, 
+        "hooks_url": "https://api.github.com/orgs/codefornamie/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/koriyamadojo/issues", 
+        "members_url": "https://api.github.com/orgs/koriyamadojo/members{/member}", 
+        "description": "\u6771\u5317TECH\u9053\u5834 \u90e1\u5c71\u9053\u5834\u30009/12\u958b\u8b1b", 
+        "public_members_url": "https://api.github.com/orgs/koriyamadojo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/koriyamadojo", 
+        "events_url": "https://api.github.com/orgs/koriyamadojo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13849833?v=3", 
+        "repos_url": "https://api.github.com/orgs/koriyamadojo/repos", 
+        "login": "koriyamadojo", 
+        "id": 13849833, 
+        "hooks_url": "https://api.github.com/orgs/koriyamadojo/hooks"
+    }
+]

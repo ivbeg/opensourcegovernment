@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/djanderson/following{/other_user}", 
+        "events_url": "https://api.github.com/users/djanderson/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/djanderson/orgs", 
+        "url": "https://api.github.com/users/djanderson", 
+        "gists_url": "https://api.github.com/users/djanderson/gists{/gist_id}", 
+        "html_url": "https://github.com/djanderson", 
+        "subscriptions_url": "https://api.github.com/users/djanderson/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/127909?v=3", 
+        "repos_url": "https://api.github.com/users/djanderson/repos", 
+        "received_events_url": "https://api.github.com/users/djanderson/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/djanderson/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "djanderson", 
+        "type": "User", 
+        "id": 127909, 
+        "followers_url": "https://api.github.com/users/djanderson/followers"
+    }
+]

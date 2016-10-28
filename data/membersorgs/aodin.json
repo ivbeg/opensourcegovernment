@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/colorado-code-for-communities/issues", 
+        "members_url": "https://api.github.com/orgs/colorado-code-for-communities/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/colorado-code-for-communities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/colorado-code-for-communities", 
+        "events_url": "https://api.github.com/orgs/colorado-code-for-communities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3083583?v=3", 
+        "repos_url": "https://api.github.com/orgs/colorado-code-for-communities/repos", 
+        "login": "colorado-code-for-communities", 
+        "id": 3083583, 
+        "hooks_url": "https://api.github.com/orgs/colorado-code-for-communities/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RenoJS/issues", 
+        "members_url": "https://api.github.com/orgs/RenoJS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/RenoJS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RenoJS", 
+        "events_url": "https://api.github.com/orgs/RenoJS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3189342?v=3", 
+        "repos_url": "https://api.github.com/orgs/RenoJS/repos", 
+        "login": "RenoJS", 
+        "id": 3189342, 
+        "hooks_url": "https://api.github.com/orgs/RenoJS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gSchool/issues", 
+        "members_url": "https://api.github.com/orgs/gSchool/members{/member}", 
+        "description": "Home of all the Galvanize Full Stack repositories", 
+        "public_members_url": "https://api.github.com/orgs/gSchool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gSchool", 
+        "events_url": "https://api.github.com/orgs/gSchool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3484345?v=3", 
+        "repos_url": "https://api.github.com/orgs/gSchool/repos", 
+        "login": "gSchool", 
+        "id": 3484345, 
+        "hooks_url": "https://api.github.com/orgs/gSchool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SpaceAppsReno/issues", 
+        "members_url": "https://api.github.com/orgs/SpaceAppsReno/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SpaceAppsReno/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SpaceAppsReno", 
+        "events_url": "https://api.github.com/orgs/SpaceAppsReno/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4206951?v=3", 
+        "repos_url": "https://api.github.com/orgs/SpaceAppsReno/repos", 
+        "login": "SpaceAppsReno", 
+        "id": 4206951, 
+        "hooks_url": "https://api.github.com/orgs/SpaceAppsReno/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hack4reno/issues", 
+        "members_url": "https://api.github.com/orgs/hack4reno/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hack4reno/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hack4reno", 
+        "events_url": "https://api.github.com/orgs/hack4reno/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5384339?v=3", 
+        "repos_url": "https://api.github.com/orgs/hack4reno/repos", 
+        "login": "hack4reno", 
+        "id": 5384339, 
+        "hooks_url": "https://api.github.com/orgs/hack4reno/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefordenver/issues", 
+        "members_url": "https://api.github.com/orgs/codefordenver/members{/member}", 
+        "description": "Code For America's Denver Brigade", 
+        "public_members_url": "https://api.github.com/orgs/codefordenver/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordenver", 
+        "events_url": "https://api.github.com/orgs/codefordenver/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7472092?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordenver/repos", 
+        "login": "codefordenver", 
+        "id": 7472092, 
+        "hooks_url": "https://api.github.com/orgs/codefordenver/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/srgresearch/issues", 
+        "members_url": "https://api.github.com/orgs/srgresearch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/srgresearch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/srgresearch", 
+        "events_url": "https://api.github.com/orgs/srgresearch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7492127?v=3", 
+        "repos_url": "https://api.github.com/orgs/srgresearch/repos", 
+        "login": "srgresearch", 
+        "id": 7492127, 
+        "hooks_url": "https://api.github.com/orgs/srgresearch/hooks"
+    }
+]

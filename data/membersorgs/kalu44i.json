@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/metricinsights/issues", 
+        "members_url": "https://api.github.com/orgs/metricinsights/members{/member}", 
+        "description": "Bridging the last mile between Business Intelligence and Big Data", 
+        "public_members_url": "https://api.github.com/orgs/metricinsights/public_members{/member}", 
+        "url": "https://api.github.com/orgs/metricinsights", 
+        "events_url": "https://api.github.com/orgs/metricinsights/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10223783?v=3", 
+        "repos_url": "https://api.github.com/orgs/metricinsights/repos", 
+        "login": "metricinsights", 
+        "id": 10223783, 
+        "hooks_url": "https://api.github.com/orgs/metricinsights/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-government-ua/issues", 
+        "members_url": "https://api.github.com/orgs/e-government-ua/members{/member}", 
+        "description": "Non Commercial social-governmental startup for fighting with corruption in Ukraine", 
+        "public_members_url": "https://api.github.com/orgs/e-government-ua/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-government-ua", 
+        "events_url": "https://api.github.com/orgs/e-government-ua/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11369419?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-government-ua/repos", 
+        "login": "e-government-ua", 
+        "id": 11369419, 
+        "hooks_url": "https://api.github.com/orgs/e-government-ua/hooks"
+    }
+]

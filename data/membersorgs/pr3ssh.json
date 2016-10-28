@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openkratio/issues", 
+        "members_url": "https://api.github.com/orgs/openkratio/members{/member}", 
+        "description": "OpenGov & OpenData Organization", 
+        "public_members_url": "https://api.github.com/orgs/openkratio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkratio", 
+        "events_url": "https://api.github.com/orgs/openkratio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2310256?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkratio/repos", 
+        "login": "openkratio", 
+        "id": 2310256, 
+        "hooks_url": "https://api.github.com/orgs/openkratio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/enredacoop/issues", 
+        "members_url": "https://api.github.com/orgs/enredacoop/members{/member}", 
+        "description": "Tecnolog\u00eda para la Transformaci\u00f3n Social", 
+        "public_members_url": "https://api.github.com/orgs/enredacoop/public_members{/member}", 
+        "url": "https://api.github.com/orgs/enredacoop", 
+        "events_url": "https://api.github.com/orgs/enredacoop/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2478544?v=3", 
+        "repos_url": "https://api.github.com/orgs/enredacoop/repos", 
+        "login": "enredacoop", 
+        "id": 2478544, 
+        "hooks_url": "https://api.github.com/orgs/enredacoop/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Som-Energia/issues", 
+        "members_url": "https://api.github.com/orgs/Som-Energia/members{/member}", 
+        "description": "Green Energy Cooperative", 
+        "public_members_url": "https://api.github.com/orgs/Som-Energia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Som-Energia", 
+        "events_url": "https://api.github.com/orgs/Som-Energia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4158995?v=3", 
+        "repos_url": "https://api.github.com/orgs/Som-Energia/repos", 
+        "login": "Som-Energia", 
+        "id": 4158995, 
+        "hooks_url": "https://api.github.com/orgs/Som-Energia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CIECODE-Madrid/issues", 
+        "members_url": "https://api.github.com/orgs/CIECODE-Madrid/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CIECODE-Madrid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CIECODE-Madrid", 
+        "events_url": "https://api.github.com/orgs/CIECODE-Madrid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13982103?v=3", 
+        "repos_url": "https://api.github.com/orgs/CIECODE-Madrid/repos", 
+        "login": "CIECODE-Madrid", 
+        "id": 13982103, 
+        "hooks_url": "https://api.github.com/orgs/CIECODE-Madrid/hooks"
+    }
+]

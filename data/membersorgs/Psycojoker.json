@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nurpa/issues", 
+        "members_url": "https://api.github.com/orgs/nurpa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nurpa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nurpa", 
+        "events_url": "https://api.github.com/orgs/nurpa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1142690?v=3", 
+        "repos_url": "https://api.github.com/orgs/nurpa/repos", 
+        "login": "nurpa", 
+        "id": 1142690, 
+        "hooks_url": "https://api.github.com/orgs/nurpa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openknowledgebe/issues", 
+        "members_url": "https://api.github.com/orgs/openknowledgebe/members{/member}", 
+        "description": "An umbrella organization for Open Knowledge in Belgium", 
+        "public_members_url": "https://api.github.com/orgs/openknowledgebe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openknowledgebe", 
+        "events_url": "https://api.github.com/orgs/openknowledgebe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1188392?v=3", 
+        "repos_url": "https://api.github.com/orgs/openknowledgebe/repos", 
+        "login": "openknowledgebe", 
+        "id": 1188392, 
+        "hooks_url": "https://api.github.com/orgs/openknowledgebe/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RMLL/issues", 
+        "members_url": "https://api.github.com/orgs/RMLL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/RMLL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RMLL", 
+        "events_url": "https://api.github.com/orgs/RMLL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2895047?v=3", 
+        "repos_url": "https://api.github.com/orgs/RMLL/repos", 
+        "login": "RMLL", 
+        "id": 2895047, 
+        "hooks_url": "https://api.github.com/orgs/RMLL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Neutrinet/issues", 
+        "members_url": "https://api.github.com/orgs/Neutrinet/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Neutrinet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Neutrinet", 
+        "events_url": "https://api.github.com/orgs/Neutrinet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5545466?v=3", 
+        "repos_url": "https://api.github.com/orgs/Neutrinet/repos", 
+        "login": "Neutrinet", 
+        "id": 5545466, 
+        "hooks_url": "https://api.github.com/orgs/Neutrinet/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/YunoHost-Apps/issues", 
+        "members_url": "https://api.github.com/orgs/YunoHost-Apps/members{/member}", 
+        "description": "Organisation to ease managing YunoHost Apps development https://list.yunohost.org/cgi-bin/mailman/listinfo/apps", 
+        "public_members_url": "https://api.github.com/orgs/YunoHost-Apps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/YunoHost-Apps", 
+        "events_url": "https://api.github.com/orgs/YunoHost-Apps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18501020?v=3", 
+        "repos_url": "https://api.github.com/orgs/YunoHost-Apps/repos", 
+        "login": "YunoHost-Apps", 
+        "id": 18501020, 
+        "hooks_url": "https://api.github.com/orgs/YunoHost-Apps/hooks"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForBoulder/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForBoulder/members{/member}", 
+        "description": "Boulder's Code for America Brigade. Join us to work on digital projects to benefit our community! All are welcome.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForBoulder/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForBoulder", 
+        "events_url": "https://api.github.com/orgs/CodeForBoulder/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6794815?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForBoulder/repos", 
+        "login": "CodeForBoulder", 
+        "id": 6794815, 
+        "hooks_url": "https://api.github.com/orgs/CodeForBoulder/hooks"
+    }
+]

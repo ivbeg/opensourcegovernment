@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kbase/issues", 
+        "members_url": "https://api.github.com/orgs/kbase/members{/member}", 
+        "description": "The Department of Energy Systems Biology Knowledgebase", 
+        "public_members_url": "https://api.github.com/orgs/kbase/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kbase", 
+        "events_url": "https://api.github.com/orgs/kbase/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1263946?v=3", 
+        "repos_url": "https://api.github.com/orgs/kbase/repos", 
+        "login": "kbase", 
+        "id": 1263946, 
+        "hooks_url": "https://api.github.com/orgs/kbase/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SEEDtk/issues", 
+        "members_url": "https://api.github.com/orgs/SEEDtk/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SEEDtk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SEEDtk", 
+        "events_url": "https://api.github.com/orgs/SEEDtk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10731612?v=3", 
+        "repos_url": "https://api.github.com/orgs/SEEDtk/repos", 
+        "login": "SEEDtk", 
+        "id": 10731612, 
+        "hooks_url": "https://api.github.com/orgs/SEEDtk/hooks"
+    }
+]

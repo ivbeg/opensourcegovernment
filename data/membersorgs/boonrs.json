@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/EpochFail/issues", 
+        "members_url": "https://api.github.com/orgs/EpochFail/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EpochFail/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpochFail", 
+        "events_url": "https://api.github.com/orgs/EpochFail/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/319640?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpochFail/repos", 
+        "login": "EpochFail", 
+        "id": 319640, 
+        "hooks_url": "https://api.github.com/orgs/EpochFail/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforanchorage/issues", 
+        "members_url": "https://api.github.com/orgs/codeforanchorage/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforanchorage/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforanchorage", 
+        "events_url": "https://api.github.com/orgs/codeforanchorage/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3999742?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforanchorage/repos", 
+        "login": "codeforanchorage", 
+        "id": 3999742, 
+        "hooks_url": "https://api.github.com/orgs/codeforanchorage/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/anchorageprogramming/issues", 
+        "members_url": "https://api.github.com/orgs/anchorageprogramming/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/anchorageprogramming/public_members{/member}", 
+        "url": "https://api.github.com/orgs/anchorageprogramming", 
+        "events_url": "https://api.github.com/orgs/anchorageprogramming/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4240998?v=3", 
+        "repos_url": "https://api.github.com/orgs/anchorageprogramming/repos", 
+        "login": "anchorageprogramming", 
+        "id": 4240998, 
+        "hooks_url": "https://api.github.com/orgs/anchorageprogramming/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/akruby/issues", 
+        "members_url": "https://api.github.com/orgs/akruby/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/akruby/public_members{/member}", 
+        "url": "https://api.github.com/orgs/akruby", 
+        "events_url": "https://api.github.com/orgs/akruby/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5016847?v=3", 
+        "repos_url": "https://api.github.com/orgs/akruby/repos", 
+        "login": "akruby", 
+        "id": 5016847, 
+        "hooks_url": "https://api.github.com/orgs/akruby/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bocha-neighbors/issues", 
+        "members_url": "https://api.github.com/orgs/bocha-neighbors/members{/member}", 
+        "description": "BoCHA is a neighborhood association based not on a shared geography, but on the shared experience of living in community.", 
+        "public_members_url": "https://api.github.com/orgs/bocha-neighbors/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bocha-neighbors", 
+        "events_url": "https://api.github.com/orgs/bocha-neighbors/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15992808?v=3", 
+        "repos_url": "https://api.github.com/orgs/bocha-neighbors/repos", 
+        "login": "bocha-neighbors", 
+        "id": 15992808, 
+        "hooks_url": "https://api.github.com/orgs/bocha-neighbors/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/boulder-food-rescue/issues", 
+        "members_url": "https://api.github.com/orgs/boulder-food-rescue/members{/member}", 
+        "description": "Boulder Food Rescue is a non-profit organization whose goal is to create a more just and less wasteful food system. ", 
+        "public_members_url": "https://api.github.com/orgs/boulder-food-rescue/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boulder-food-rescue", 
+        "events_url": "https://api.github.com/orgs/boulder-food-rescue/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18725077?v=3", 
+        "repos_url": "https://api.github.com/orgs/boulder-food-rescue/repos", 
+        "login": "boulder-food-rescue", 
+        "id": 18725077, 
+        "hooks_url": "https://api.github.com/orgs/boulder-food-rescue/hooks"
+    }
+]

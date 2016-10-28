@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Asthmapolis/issues", 
+        "members_url": "https://api.github.com/orgs/Asthmapolis/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Asthmapolis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Asthmapolis", 
+        "events_url": "https://api.github.com/orgs/Asthmapolis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/926079?v=3", 
+        "repos_url": "https://api.github.com/orgs/Asthmapolis/repos", 
+        "login": "Asthmapolis", 
+        "id": 926079, 
+        "hooks_url": "https://api.github.com/orgs/Asthmapolis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HackingMadison/issues", 
+        "members_url": "https://api.github.com/orgs/HackingMadison/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HackingMadison/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackingMadison", 
+        "events_url": "https://api.github.com/orgs/HackingMadison/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1305747?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackingMadison/repos", 
+        "login": "HackingMadison", 
+        "id": 1305747, 
+        "hooks_url": "https://api.github.com/orgs/HackingMadison/hooks"
+    }
+]

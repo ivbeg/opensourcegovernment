@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/customink/issues", 
+        "members_url": "https://api.github.com/orgs/customink/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/customink/public_members{/member}", 
+        "url": "https://api.github.com/orgs/customink", 
+        "events_url": "https://api.github.com/orgs/customink/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/26394?v=3", 
+        "repos_url": "https://api.github.com/orgs/customink/repos", 
+        "login": "customink", 
+        "id": 26394, 
+        "hooks_url": "https://api.github.com/orgs/customink/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/styletiles/issues", 
+        "members_url": "https://api.github.com/orgs/styletiles/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/styletiles/public_members{/member}", 
+        "url": "https://api.github.com/orgs/styletiles", 
+        "events_url": "https://api.github.com/orgs/styletiles/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1447987?v=3", 
+        "repos_url": "https://api.github.com/orgs/styletiles/repos", 
+        "login": "styletiles", 
+        "id": 1447987, 
+        "hooks_url": "https://api.github.com/orgs/styletiles/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/generalassembly-studio/issues", 
+        "members_url": "https://api.github.com/orgs/generalassembly-studio/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/generalassembly-studio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/generalassembly-studio", 
+        "events_url": "https://api.github.com/orgs/generalassembly-studio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1650043?v=3", 
+        "repos_url": "https://api.github.com/orgs/generalassembly-studio/repos", 
+        "login": "generalassembly-studio", 
+        "id": 1650043, 
+        "hooks_url": "https://api.github.com/orgs/generalassembly-studio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nvite/issues", 
+        "members_url": "https://api.github.com/orgs/nvite/members{/member}", 
+        "description": "We're redesigning and reimagining events!", 
+        "public_members_url": "https://api.github.com/orgs/nvite/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nvite", 
+        "events_url": "https://api.github.com/orgs/nvite/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6842649?v=3", 
+        "repos_url": "https://api.github.com/orgs/nvite/repos", 
+        "login": "nvite", 
+        "id": 6842649, 
+        "hooks_url": "https://api.github.com/orgs/nvite/hooks"
+    }
+]

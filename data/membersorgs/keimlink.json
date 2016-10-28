@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/django-de/issues", 
+        "members_url": "https://api.github.com/orgs/django-de/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/django-de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/django-de", 
+        "events_url": "https://api.github.com/orgs/django-de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/76161?v=3", 
+        "repos_url": "https://api.github.com/orgs/django-de/repos", 
+        "login": "django-de", 
+        "id": 76161, 
+        "hooks_url": "https://api.github.com/orgs/django-de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/transcode-de/issues", 
+        "members_url": "https://api.github.com/orgs/transcode-de/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/transcode-de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/transcode-de", 
+        "events_url": "https://api.github.com/orgs/transcode-de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4316182?v=3", 
+        "repos_url": "https://api.github.com/orgs/transcode-de/repos", 
+        "login": "transcode-de", 
+        "id": 4316182, 
+        "hooks_url": "https://api.github.com/orgs/transcode-de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforLeipzig/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforLeipzig/members{/member}", 
+        "description": "Open Data f\u00fcr Leipzig", 
+        "public_members_url": "https://api.github.com/orgs/CodeforLeipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforLeipzig", 
+        "events_url": "https://api.github.com/orgs/CodeforLeipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7286986?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforLeipzig/repos", 
+        "login": "CodeforLeipzig", 
+        "id": 7286986, 
+        "hooks_url": "https://api.github.com/orgs/CodeforLeipzig/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LPUG/issues", 
+        "members_url": "https://api.github.com/orgs/LPUG/members{/member}", 
+        "description": "Leipzig Python User Group", 
+        "public_members_url": "https://api.github.com/orgs/LPUG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LPUG", 
+        "events_url": "https://api.github.com/orgs/LPUG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14012793?v=3", 
+        "repos_url": "https://api.github.com/orgs/LPUG/repos", 
+        "login": "LPUG", 
+        "id": 14012793, 
+        "hooks_url": "https://api.github.com/orgs/LPUG/hooks"
+    }
+]

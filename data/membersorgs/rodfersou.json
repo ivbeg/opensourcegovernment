@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/plone/issues", 
+        "members_url": "https://api.github.com/orgs/plone/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/plone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plone", 
+        "events_url": "https://api.github.com/orgs/plone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/72034?v=3", 
+        "repos_url": "https://api.github.com/orgs/plone/repos", 
+        "login": "plone", 
+        "id": 72034, 
+        "hooks_url": "https://api.github.com/orgs/plone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/collective/issues", 
+        "members_url": "https://api.github.com/orgs/collective/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/collective/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collective", 
+        "events_url": "https://api.github.com/orgs/collective/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/362867?v=3", 
+        "repos_url": "https://api.github.com/orgs/collective/repos", 
+        "login": "collective", 
+        "id": 362867, 
+        "hooks_url": "https://api.github.com/orgs/collective/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/plonegovbr/issues", 
+        "members_url": "https://api.github.com/orgs/plonegovbr/members{/member}", 
+        "description": "Comunidade Plone no Governo Brasileiro", 
+        "public_members_url": "https://api.github.com/orgs/plonegovbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plonegovbr", 
+        "events_url": "https://api.github.com/orgs/plonegovbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1334477?v=3", 
+        "repos_url": "https://api.github.com/orgs/plonegovbr/repos", 
+        "login": "plonegovbr", 
+        "id": 1334477, 
+        "hooks_url": "https://api.github.com/orgs/plonegovbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dev-londrina/issues", 
+        "members_url": "https://api.github.com/orgs/dev-londrina/members{/member}", 
+        "description": "Comunidade de desenvolvedores de Londrina", 
+        "public_members_url": "https://api.github.com/orgs/dev-londrina/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dev-londrina", 
+        "events_url": "https://api.github.com/orgs/dev-londrina/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7703623?v=3", 
+        "repos_url": "https://api.github.com/orgs/dev-londrina/repos", 
+        "login": "dev-londrina", 
+        "id": 7703623, 
+        "hooks_url": "https://api.github.com/orgs/dev-londrina/hooks"
+    }
+]

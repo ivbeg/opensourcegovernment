@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WEC-Sim/issues", 
+        "members_url": "https://api.github.com/orgs/WEC-Sim/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WEC-Sim/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WEC-Sim", 
+        "events_url": "https://api.github.com/orgs/WEC-Sim/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7662103?v=3", 
+        "repos_url": "https://api.github.com/orgs/WEC-Sim/repos", 
+        "login": "WEC-Sim", 
+        "id": 7662103, 
+        "hooks_url": "https://api.github.com/orgs/WEC-Sim/hooks"
+    }
+]

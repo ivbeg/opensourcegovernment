@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thrive-refugee/issues", 
+        "members_url": "https://api.github.com/orgs/thrive-refugee/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/thrive-refugee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thrive-refugee", 
+        "events_url": "https://api.github.com/orgs/thrive-refugee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2660908?v=3", 
+        "repos_url": "https://api.github.com/orgs/thrive-refugee/repos", 
+        "login": "thrive-refugee", 
+        "id": 2660908, 
+        "hooks_url": "https://api.github.com/orgs/thrive-refugee/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Etison/issues", 
+        "members_url": "https://api.github.com/orgs/Etison/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Etison/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Etison", 
+        "events_url": "https://api.github.com/orgs/Etison/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6333171?v=3", 
+        "repos_url": "https://api.github.com/orgs/Etison/repos", 
+        "login": "Etison", 
+        "id": 6333171, 
+        "hooks_url": "https://api.github.com/orgs/Etison/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GamedevGR/issues", 
+        "members_url": "https://api.github.com/orgs/GamedevGR/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GamedevGR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GamedevGR", 
+        "events_url": "https://api.github.com/orgs/GamedevGR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10036857?v=3", 
+        "repos_url": "https://api.github.com/orgs/GamedevGR/repos", 
+        "login": "GamedevGR", 
+        "id": 10036857, 
+        "hooks_url": "https://api.github.com/orgs/GamedevGR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/votestakes/issues", 
+        "members_url": "https://api.github.com/orgs/votestakes/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/votestakes/public_members{/member}", 
+        "url": "https://api.github.com/orgs/votestakes", 
+        "events_url": "https://api.github.com/orgs/votestakes/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15176651?v=3", 
+        "repos_url": "https://api.github.com/orgs/votestakes/repos", 
+        "login": "votestakes", 
+        "id": 15176651, 
+        "hooks_url": "https://api.github.com/orgs/votestakes/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/citizenlabsgr/issues", 
+        "members_url": "https://api.github.com/orgs/citizenlabsgr/members{/member}", 
+        "description": "Promoting Openness, Participation, And Efficiency In Municipal Governments And Our Communities", 
+        "public_members_url": "https://api.github.com/orgs/citizenlabsgr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/citizenlabsgr", 
+        "events_url": "https://api.github.com/orgs/citizenlabsgr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19910774?v=3", 
+        "repos_url": "https://api.github.com/orgs/citizenlabsgr/repos", 
+        "login": "citizenlabsgr", 
+        "id": 19910774, 
+        "hooks_url": "https://api.github.com/orgs/citizenlabsgr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kcards/issues", 
+        "members_url": "https://api.github.com/orgs/kcards/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/kcards/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kcards", 
+        "events_url": "https://api.github.com/orgs/kcards/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22580724?v=3", 
+        "repos_url": "https://api.github.com/orgs/kcards/repos", 
+        "login": "kcards", 
+        "id": 22580724, 
+        "hooks_url": "https://api.github.com/orgs/kcards/hooks"
+    }
+]

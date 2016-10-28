@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/phxdata/issues", 
+        "members_url": "https://api.github.com/orgs/phxdata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/phxdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/phxdata", 
+        "events_url": "https://api.github.com/orgs/phxdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/497850?v=3", 
+        "repos_url": "https://api.github.com/orgs/phxdata/repos", 
+        "login": "phxdata", 
+        "id": 497850, 
+        "hooks_url": "https://api.github.com/orgs/phxdata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforbtv/issues", 
+        "members_url": "https://api.github.com/orgs/codeforbtv/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforbtv/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforbtv", 
+        "events_url": "https://api.github.com/orgs/codeforbtv/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3893216?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforbtv/repos", 
+        "login": "codeforbtv", 
+        "id": 3893216, 
+        "hooks_url": "https://api.github.com/orgs/codeforbtv/hooks"
+    }
+]

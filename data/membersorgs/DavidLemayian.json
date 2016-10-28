@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HacksHackersAfrica/issues", 
+        "members_url": "https://api.github.com/orgs/HacksHackersAfrica/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HacksHackersAfrica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HacksHackersAfrica", 
+        "events_url": "https://api.github.com/orgs/HacksHackersAfrica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2099075?v=3", 
+        "repos_url": "https://api.github.com/orgs/HacksHackersAfrica/repos", 
+        "login": "HacksHackersAfrica", 
+        "id": 2099075, 
+        "hooks_url": "https://api.github.com/orgs/HacksHackersAfrica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForAfrica/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForAfrica/members{/member}", 
+        "description": "Africa\u2019s Largest Civic Technology + Data Journalism Initiative", 
+        "public_members_url": "https://api.github.com/orgs/CodeForAfrica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForAfrica", 
+        "events_url": "https://api.github.com/orgs/CodeForAfrica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2786364?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForAfrica/repos", 
+        "login": "CodeForAfrica", 
+        "id": 2786364, 
+        "hooks_url": "https://api.github.com/orgs/CodeForAfrica/hooks"
+    }
+]

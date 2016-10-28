@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Bellingham/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Bellingham/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/City-of-Bellingham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Bellingham", 
+        "events_url": "https://api.github.com/orgs/City-of-Bellingham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/741679?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Bellingham/repos", 
+        "login": "City-of-Bellingham", 
+        "id": 741679, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Bellingham/hooks"
+    }
+]

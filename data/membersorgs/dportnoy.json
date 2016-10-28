@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HHS/issues", 
+        "members_url": "https://api.github.com/orgs/HHS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HHS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HHS", 
+        "events_url": "https://api.github.com/orgs/HHS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1470878?v=3", 
+        "repos_url": "https://api.github.com/orgs/HHS/repos", 
+        "login": "HHS", 
+        "id": 1470878, 
+        "hooks_url": "https://api.github.com/orgs/HHS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HHSIDEAlab/issues", 
+        "members_url": "https://api.github.com/orgs/HHSIDEAlab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HHSIDEAlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HHSIDEAlab", 
+        "events_url": "https://api.github.com/orgs/HHSIDEAlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5348654?v=3", 
+        "repos_url": "https://api.github.com/orgs/HHSIDEAlab/repos", 
+        "login": "HHSIDEAlab", 
+        "id": 5348654, 
+        "hooks_url": "https://api.github.com/orgs/HHSIDEAlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/demand-driven-open-data/issues", 
+        "members_url": "https://api.github.com/orgs/demand-driven-open-data/members{/member}", 
+        "description": "Tools and methods that provide a systematic, ongoing and transparent mechanism to tell data owners what's most valuable to you", 
+        "public_members_url": "https://api.github.com/orgs/demand-driven-open-data/public_members{/member}", 
+        "url": "https://api.github.com/orgs/demand-driven-open-data", 
+        "events_url": "https://api.github.com/orgs/demand-driven-open-data/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10577268?v=3", 
+        "repos_url": "https://api.github.com/orgs/demand-driven-open-data/repos", 
+        "login": "demand-driven-open-data", 
+        "id": 10577268, 
+        "hooks_url": "https://api.github.com/orgs/demand-driven-open-data/hooks"
+    }
+]

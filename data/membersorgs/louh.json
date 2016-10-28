@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapzen/issues", 
+        "members_url": "https://api.github.com/orgs/mapzen/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapzen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapzen", 
+        "events_url": "https://api.github.com/orgs/mapzen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5435747?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapzen/repos", 
+        "login": "mapzen", 
+        "id": 5435747, 
+        "hooks_url": "https://api.github.com/orgs/mapzen/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/streetmix/issues", 
+        "members_url": "https://api.github.com/orgs/streetmix/members{/member}", 
+        "description": "Streetmix R&D. The Streetmix application codebase is at https://github.com/codeforamerica/streetmix/", 
+        "public_members_url": "https://api.github.com/orgs/streetmix/public_members{/member}", 
+        "url": "https://api.github.com/orgs/streetmix", 
+        "events_url": "https://api.github.com/orgs/streetmix/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6877271?v=3", 
+        "repos_url": "https://api.github.com/orgs/streetmix/repos", 
+        "login": "streetmix", 
+        "id": 6877271, 
+        "hooks_url": "https://api.github.com/orgs/streetmix/hooks"
+    }
+]

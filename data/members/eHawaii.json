@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/coreyrothwell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/coreyrothwell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/coreyrothwell/orgs", 
+        "url": "https://api.github.com/users/coreyrothwell", 
+        "gists_url": "https://api.github.com/users/coreyrothwell/gists{/gist_id}", 
+        "html_url": "https://github.com/coreyrothwell", 
+        "subscriptions_url": "https://api.github.com/users/coreyrothwell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1972238?v=3", 
+        "repos_url": "https://api.github.com/users/coreyrothwell/repos", 
+        "received_events_url": "https://api.github.com/users/coreyrothwell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/coreyrothwell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "coreyrothwell", 
+        "type": "User", 
+        "id": 1972238, 
+        "followers_url": "https://api.github.com/users/coreyrothwell/followers"
+    }
+]

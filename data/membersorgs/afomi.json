@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opentecture/issues", 
+        "members_url": "https://api.github.com/orgs/opentecture/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opentecture/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentecture", 
+        "events_url": "https://api.github.com/orgs/opentecture/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1291123?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentecture/repos", 
+        "login": "opentecture", 
+        "id": 1291123, 
+        "hooks_url": "https://api.github.com/orgs/opentecture/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civicmakers/issues", 
+        "members_url": "https://api.github.com/orgs/civicmakers/members{/member}", 
+        "description": "Talent, tools and knowledge for public good projects", 
+        "public_members_url": "https://api.github.com/orgs/civicmakers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civicmakers", 
+        "events_url": "https://api.github.com/orgs/civicmakers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7856223?v=3", 
+        "repos_url": "https://api.github.com/orgs/civicmakers/repos", 
+        "login": "civicmakers", 
+        "id": 7856223, 
+        "hooks_url": "https://api.github.com/orgs/civicmakers/hooks"
+    }
+]

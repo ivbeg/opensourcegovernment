@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/plone/issues", 
+        "members_url": "https://api.github.com/orgs/plone/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/plone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plone", 
+        "events_url": "https://api.github.com/orgs/plone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/72034?v=3", 
+        "repos_url": "https://api.github.com/orgs/plone/repos", 
+        "login": "plone", 
+        "id": 72034, 
+        "hooks_url": "https://api.github.com/orgs/plone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dojo-se/issues", 
+        "members_url": "https://api.github.com/orgs/dojo-se/members{/member}", 
+        "description": "Coding Dojo Sergipe", 
+        "public_members_url": "https://api.github.com/orgs/dojo-se/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dojo-se", 
+        "events_url": "https://api.github.com/orgs/dojo-se/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/352081?v=3", 
+        "repos_url": "https://api.github.com/orgs/dojo-se/repos", 
+        "login": "dojo-se", 
+        "id": 352081, 
+        "hooks_url": "https://api.github.com/orgs/dojo-se/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pythonbrasil/issues", 
+        "members_url": "https://api.github.com/orgs/pythonbrasil/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pythonbrasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pythonbrasil", 
+        "events_url": "https://api.github.com/orgs/pythonbrasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/916137?v=3", 
+        "repos_url": "https://api.github.com/orgs/pythonbrasil/repos", 
+        "login": "pythonbrasil", 
+        "id": 916137, 
+        "hooks_url": "https://api.github.com/orgs/pythonbrasil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/plonegovbr/issues", 
+        "members_url": "https://api.github.com/orgs/plonegovbr/members{/member}", 
+        "description": "Comunidade Plone no Governo Brasileiro", 
+        "public_members_url": "https://api.github.com/orgs/plonegovbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plonegovbr", 
+        "events_url": "https://api.github.com/orgs/plonegovbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1334477?v=3", 
+        "repos_url": "https://api.github.com/orgs/plonegovbr/repos", 
+        "login": "plonegovbr", 
+        "id": 1334477, 
+        "hooks_url": "https://api.github.com/orgs/plonegovbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/clips-tk/issues", 
+        "members_url": "https://api.github.com/orgs/clips-tk/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/clips-tk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/clips-tk", 
+        "events_url": "https://api.github.com/orgs/clips-tk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3447819?v=3", 
+        "repos_url": "https://api.github.com/orgs/clips-tk/repos", 
+        "login": "clips-tk", 
+        "id": 3447819, 
+        "hooks_url": "https://api.github.com/orgs/clips-tk/hooks"
+    }
+]

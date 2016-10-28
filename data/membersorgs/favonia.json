@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/clf/issues", 
+        "members_url": "https://api.github.com/orgs/clf/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/clf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/clf", 
+        "events_url": "https://api.github.com/orgs/clf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1102546?v=3", 
+        "repos_url": "https://api.github.com/orgs/clf/repos", 
+        "login": "clf", 
+        "id": 1102546, 
+        "hooks_url": "https://api.github.com/orgs/clf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }
+]

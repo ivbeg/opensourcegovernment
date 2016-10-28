@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/RDFLib/issues", 
+        "members_url": "https://api.github.com/orgs/RDFLib/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/RDFLib/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RDFLib", 
+        "events_url": "https://api.github.com/orgs/RDFLib/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1401847?v=3", 
+        "repos_url": "https://api.github.com/orgs/RDFLib/repos", 
+        "login": "RDFLib", 
+        "id": 1401847, 
+        "hooks_url": "https://api.github.com/orgs/RDFLib/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LibraryOfCongress/issues", 
+        "members_url": "https://api.github.com/orgs/LibraryOfCongress/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LibraryOfCongress/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LibraryOfCongress", 
+        "events_url": "https://api.github.com/orgs/LibraryOfCongress/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2070730?v=3", 
+        "repos_url": "https://api.github.com/orgs/LibraryOfCongress/repos", 
+        "login": "LibraryOfCongress", 
+        "id": 2070730, 
+        "hooks_url": "https://api.github.com/orgs/LibraryOfCongress/hooks"
+    }
+]

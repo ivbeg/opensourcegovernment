@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/IcaliaLabs/issues", 
+        "members_url": "https://api.github.com/orgs/IcaliaLabs/members{/member}", 
+        "description": "We guide our clients through an agile process, staying ahead of their competition and leveraging opportunities with digital products.", 
+        "public_members_url": "https://api.github.com/orgs/IcaliaLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IcaliaLabs", 
+        "events_url": "https://api.github.com/orgs/IcaliaLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2523244?v=3", 
+        "repos_url": "https://api.github.com/orgs/IcaliaLabs/repos", 
+        "login": "IcaliaLabs", 
+        "id": 2523244, 
+        "hooks_url": "https://api.github.com/orgs/IcaliaLabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMexico/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMexico/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMexico", 
+        "events_url": "https://api.github.com/orgs/CodeandoMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2940113?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMexico/repos", 
+        "login": "CodeandoMexico", 
+        "id": 2940113, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMexico/hooks"
+    }
+]

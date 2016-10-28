@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/flipdot/issues", 
+        "members_url": "https://api.github.com/orgs/flipdot/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/flipdot/public_members{/member}", 
+        "url": "https://api.github.com/orgs/flipdot", 
+        "events_url": "https://api.github.com/orgs/flipdot/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4430121?v=3", 
+        "repos_url": "https://api.github.com/orgs/flipdot/repos", 
+        "login": "flipdot", 
+        "id": 4430121, 
+        "hooks_url": "https://api.github.com/orgs/flipdot/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/freifunkks/issues", 
+        "members_url": "https://api.github.com/orgs/freifunkks/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/freifunkks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/freifunkks", 
+        "events_url": "https://api.github.com/orgs/freifunkks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10740412?v=3", 
+        "repos_url": "https://api.github.com/orgs/freifunkks/repos", 
+        "login": "freifunkks", 
+        "id": 10740412, 
+        "hooks_url": "https://api.github.com/orgs/freifunkks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SFNKassel/issues", 
+        "members_url": "https://api.github.com/orgs/SFNKassel/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SFNKassel/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SFNKassel", 
+        "events_url": "https://api.github.com/orgs/SFNKassel/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13178116?v=3", 
+        "repos_url": "https://api.github.com/orgs/SFNKassel/repos", 
+        "login": "SFNKassel", 
+        "id": 13178116, 
+        "hooks_url": "https://api.github.com/orgs/SFNKassel/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EspIt/issues", 
+        "members_url": "https://api.github.com/orgs/EspIt/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EspIt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EspIt", 
+        "events_url": "https://api.github.com/orgs/EspIt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15720086?v=3", 
+        "repos_url": "https://api.github.com/orgs/EspIt/repos", 
+        "login": "EspIt", 
+        "id": 15720086, 
+        "hooks_url": "https://api.github.com/orgs/EspIt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/soundlocate/issues", 
+        "members_url": "https://api.github.com/orgs/soundlocate/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/soundlocate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/soundlocate", 
+        "events_url": "https://api.github.com/orgs/soundlocate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19615341?v=3", 
+        "repos_url": "https://api.github.com/orgs/soundlocate/repos", 
+        "login": "soundlocate", 
+        "id": 19615341, 
+        "hooks_url": "https://api.github.com/orgs/soundlocate/hooks"
+    }
+]

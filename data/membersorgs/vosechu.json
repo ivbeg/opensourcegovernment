@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/projectdx/issues", 
+        "members_url": "https://api.github.com/orgs/projectdx/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/projectdx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/projectdx", 
+        "events_url": "https://api.github.com/orgs/projectdx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8335?v=3", 
+        "repos_url": "https://api.github.com/orgs/projectdx/repos", 
+        "login": "projectdx", 
+        "id": 8335, 
+        "hooks_url": "https://api.github.com/orgs/projectdx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/stumpsyn/issues", 
+        "members_url": "https://api.github.com/orgs/stumpsyn/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/stumpsyn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/stumpsyn", 
+        "events_url": "https://api.github.com/orgs/stumpsyn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1251380?v=3", 
+        "repos_url": "https://api.github.com/orgs/stumpsyn/repos", 
+        "login": "stumpsyn", 
+        "id": 1251380, 
+        "hooks_url": "https://api.github.com/orgs/stumpsyn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pdxruby/issues", 
+        "members_url": "https://api.github.com/orgs/pdxruby/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pdxruby/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pdxruby", 
+        "events_url": "https://api.github.com/orgs/pdxruby/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1828264?v=3", 
+        "repos_url": "https://api.github.com/orgs/pdxruby/repos", 
+        "login": "pdxruby", 
+        "id": 1828264, 
+        "hooks_url": "https://api.github.com/orgs/pdxruby/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/renewablefunding/issues", 
+        "members_url": "https://api.github.com/orgs/renewablefunding/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/renewablefunding/public_members{/member}", 
+        "url": "https://api.github.com/orgs/renewablefunding", 
+        "events_url": "https://api.github.com/orgs/renewablefunding/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4131219?v=3", 
+        "repos_url": "https://api.github.com/orgs/renewablefunding/repos", 
+        "login": "renewablefunding", 
+        "id": 4131219, 
+        "hooks_url": "https://api.github.com/orgs/renewablefunding/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thegrokery/issues", 
+        "members_url": "https://api.github.com/orgs/thegrokery/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/thegrokery/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thegrokery", 
+        "events_url": "https://api.github.com/orgs/thegrokery/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5093952?v=3", 
+        "repos_url": "https://api.github.com/orgs/thegrokery/repos", 
+        "login": "thegrokery", 
+        "id": 5093952, 
+        "hooks_url": "https://api.github.com/orgs/thegrokery/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hatsnpants/issues", 
+        "members_url": "https://api.github.com/orgs/hatsnpants/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hatsnpants/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hatsnpants", 
+        "events_url": "https://api.github.com/orgs/hatsnpants/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5356167?v=3", 
+        "repos_url": "https://api.github.com/orgs/hatsnpants/repos", 
+        "login": "hatsnpants", 
+        "id": 5356167, 
+        "hooks_url": "https://api.github.com/orgs/hatsnpants/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPortland/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPortland/members{/member}", 
+        "description": "Portland's Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPortland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPortland", 
+        "events_url": "https://api.github.com/orgs/CodeForPortland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6692606?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPortland/repos", 
+        "login": "CodeForPortland", 
+        "id": 6692606, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPortland/hooks"
+    }
+]

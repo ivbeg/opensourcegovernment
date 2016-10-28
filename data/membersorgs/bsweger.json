@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/issues", 
+        "members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NationalDayOfCivicHacking", 
+        "events_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4041034?v=3", 
+        "repos_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/repos", 
+        "login": "NationalDayOfCivicHacking", 
+        "id": 4041034, 
+        "hooks_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforwesternmass/issues", 
+        "members_url": "https://api.github.com/orgs/hackforwesternmass/members{/member}", 
+        "description": "Local folks solving local problems", 
+        "public_members_url": "https://api.github.com/orgs/hackforwesternmass/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforwesternmass", 
+        "events_url": "https://api.github.com/orgs/hackforwesternmass/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4368653?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforwesternmass/repos", 
+        "login": "hackforwesternmass", 
+        "id": 4368653, 
+        "hooks_url": "https://api.github.com/orgs/hackforwesternmass/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }
+]

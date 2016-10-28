@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SNUCHIC/issues", 
+        "members_url": "https://api.github.com/orgs/SNUCHIC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SNUCHIC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SNUCHIC", 
+        "events_url": "https://api.github.com/orgs/SNUCHIC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1401706?v=3", 
+        "repos_url": "https://api.github.com/orgs/SNUCHIC/repos", 
+        "login": "SNUCHIC", 
+        "id": 1401706, 
+        "hooks_url": "https://api.github.com/orgs/SNUCHIC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/listinc/issues", 
+        "members_url": "https://api.github.com/orgs/listinc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/listinc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/listinc", 
+        "events_url": "https://api.github.com/orgs/listinc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9426993?v=3", 
+        "repos_url": "https://api.github.com/orgs/listinc/repos", 
+        "login": "listinc", 
+        "id": 9426993, 
+        "hooks_url": "https://api.github.com/orgs/listinc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okkr/issues", 
+        "members_url": "https://api.github.com/orgs/okkr/members{/member}", 
+        "description": "A Local Group of Open Knowledge in Korea, Republic of", 
+        "public_members_url": "https://api.github.com/orgs/okkr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okkr", 
+        "events_url": "https://api.github.com/orgs/okkr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13691531?v=3", 
+        "repos_url": "https://api.github.com/orgs/okkr/repos", 
+        "login": "okkr", 
+        "id": 13691531, 
+        "hooks_url": "https://api.github.com/orgs/okkr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tipplrio/issues", 
+        "members_url": "https://api.github.com/orgs/tipplrio/members{/member}", 
+        "description": "Keep your pub updated.", 
+        "public_members_url": "https://api.github.com/orgs/tipplrio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tipplrio", 
+        "events_url": "https://api.github.com/orgs/tipplrio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15321384?v=3", 
+        "repos_url": "https://api.github.com/orgs/tipplrio/repos", 
+        "login": "tipplrio", 
+        "id": 15321384, 
+        "hooks_url": "https://api.github.com/orgs/tipplrio/hooks"
+    }
+]

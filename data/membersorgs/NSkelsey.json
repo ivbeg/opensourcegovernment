@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wikimediadc/issues", 
+        "members_url": "https://api.github.com/orgs/wikimediadc/members{/member}", 
+        "description": "The official Wikimedia chapter of the Washington, DC area.", 
+        "public_members_url": "https://api.github.com/orgs/wikimediadc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wikimediadc", 
+        "events_url": "https://api.github.com/orgs/wikimediadc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1284092?v=3", 
+        "repos_url": "https://api.github.com/orgs/wikimediadc/repos", 
+        "login": "wikimediadc", 
+        "id": 1284092, 
+        "hooks_url": "https://api.github.com/orgs/wikimediadc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/statedecoded/issues", 
+        "members_url": "https://api.github.com/orgs/statedecoded/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/statedecoded/public_members{/member}", 
+        "url": "https://api.github.com/orgs/statedecoded", 
+        "events_url": "https://api.github.com/orgs/statedecoded/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3639174?v=3", 
+        "repos_url": "https://api.github.com/orgs/statedecoded/repos", 
+        "login": "statedecoded", 
+        "id": 3639174, 
+        "hooks_url": "https://api.github.com/orgs/statedecoded/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/soapboxsys/issues", 
+        "members_url": "https://api.github.com/orgs/soapboxsys/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/soapboxsys/public_members{/member}", 
+        "url": "https://api.github.com/orgs/soapboxsys", 
+        "events_url": "https://api.github.com/orgs/soapboxsys/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10508223?v=3", 
+        "repos_url": "https://api.github.com/orgs/soapboxsys/repos", 
+        "login": "soapboxsys", 
+        "id": 10508223, 
+        "hooks_url": "https://api.github.com/orgs/soapboxsys/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PointCoin/issues", 
+        "members_url": "https://api.github.com/orgs/PointCoin/members{/member}", 
+        "description": "An imaginary CryptoCurrency made for UVA's bitcoin class.", 
+        "public_members_url": "https://api.github.com/orgs/PointCoin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PointCoin", 
+        "events_url": "https://api.github.com/orgs/PointCoin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10779660?v=3", 
+        "repos_url": "https://api.github.com/orgs/PointCoin/repos", 
+        "login": "PointCoin", 
+        "id": 10779660, 
+        "hooks_url": "https://api.github.com/orgs/PointCoin/hooks"
+    }
+]

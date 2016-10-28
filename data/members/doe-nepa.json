@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/JJediny/following{/other_user}", 
+        "events_url": "https://api.github.com/users/JJediny/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/JJediny/orgs", 
+        "url": "https://api.github.com/users/JJediny", 
+        "gists_url": "https://api.github.com/users/JJediny/gists{/gist_id}", 
+        "html_url": "https://github.com/JJediny", 
+        "subscriptions_url": "https://api.github.com/users/JJediny/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6350035?v=3", 
+        "repos_url": "https://api.github.com/users/JJediny/repos", 
+        "received_events_url": "https://api.github.com/users/JJediny/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/JJediny/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "JJediny", 
+        "type": "User", 
+        "id": 6350035, 
+        "followers_url": "https://api.github.com/users/JJediny/followers"
+    }
+]

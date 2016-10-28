@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dinkbit/issues", 
+        "members_url": "https://api.github.com/orgs/dinkbit/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dinkbit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dinkbit", 
+        "events_url": "https://api.github.com/orgs/dinkbit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1818128?v=3", 
+        "repos_url": "https://api.github.com/orgs/dinkbit/repos", 
+        "login": "dinkbit", 
+        "id": 1818128, 
+        "hooks_url": "https://api.github.com/orgs/dinkbit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/allegro-project/issues", 
+        "members_url": "https://api.github.com/orgs/allegro-project/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/allegro-project/public_members{/member}", 
+        "url": "https://api.github.com/orgs/allegro-project", 
+        "events_url": "https://api.github.com/orgs/allegro-project/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5109775?v=3", 
+        "repos_url": "https://api.github.com/orgs/allegro-project/repos", 
+        "login": "allegro-project", 
+        "id": 5109775, 
+        "hooks_url": "https://api.github.com/orgs/allegro-project/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }
+]

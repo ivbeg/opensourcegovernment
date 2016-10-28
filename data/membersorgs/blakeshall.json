@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ArtAround/issues", 
+        "members_url": "https://api.github.com/orgs/ArtAround/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ArtAround/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ArtAround", 
+        "events_url": "https://api.github.com/orgs/ArtAround/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/391469?v=3", 
+        "repos_url": "https://api.github.com/orgs/ArtAround/repos", 
+        "login": "ArtAround", 
+        "id": 391469, 
+        "hooks_url": "https://api.github.com/orgs/ArtAround/hooks"
+    }
+]

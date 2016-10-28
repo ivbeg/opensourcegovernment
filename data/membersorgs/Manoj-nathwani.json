@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/networklocum/issues", 
+        "members_url": "https://api.github.com/orgs/networklocum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/networklocum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/networklocum", 
+        "events_url": "https://api.github.com/orgs/networklocum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2683222?v=3", 
+        "repos_url": "https://api.github.com/orgs/networklocum/repos", 
+        "login": "networklocum", 
+        "id": 2683222, 
+        "hooks_url": "https://api.github.com/orgs/networklocum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-UK/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-UK/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-UK", 
+        "events_url": "https://api.github.com/orgs/DataKind-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7648747?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-UK/repos", 
+        "login": "DataKind-UK", 
+        "id": 7648747, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-UK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BanterVentures/issues", 
+        "members_url": "https://api.github.com/orgs/BanterVentures/members{/member}", 
+        "description": "A satire venture capital firm built by @man0jn and @viralpickaxe", 
+        "public_members_url": "https://api.github.com/orgs/BanterVentures/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BanterVentures", 
+        "events_url": "https://api.github.com/orgs/BanterVentures/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12154370?v=3", 
+        "repos_url": "https://api.github.com/orgs/BanterVentures/repos", 
+        "login": "BanterVentures", 
+        "id": 12154370, 
+        "hooks_url": "https://api.github.com/orgs/BanterVentures/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BanterHack/issues", 
+        "members_url": "https://api.github.com/orgs/BanterHack/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BanterHack/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BanterHack", 
+        "events_url": "https://api.github.com/orgs/BanterHack/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15379849?v=3", 
+        "repos_url": "https://api.github.com/orgs/BanterHack/repos", 
+        "login": "BanterHack", 
+        "id": 15379849, 
+        "hooks_url": "https://api.github.com/orgs/BanterHack/hooks"
+    }
+]

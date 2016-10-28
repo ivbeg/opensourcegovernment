@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hiscom/issues", 
+        "members_url": "https://api.github.com/orgs/hiscom/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hiscom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hiscom", 
+        "events_url": "https://api.github.com/orgs/hiscom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9815301?v=3", 
+        "repos_url": "https://api.github.com/orgs/hiscom/repos", 
+        "login": "hiscom", 
+        "id": 9815301, 
+        "hooks_url": "https://api.github.com/orgs/hiscom/hooks"
+    }
+]

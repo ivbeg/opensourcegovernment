@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/scala/issues", 
+        "members_url": "https://api.github.com/orgs/scala/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/scala/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scala", 
+        "events_url": "https://api.github.com/orgs/scala/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/57059?v=3", 
+        "repos_url": "https://api.github.com/orgs/scala/repos", 
+        "login": "scala", 
+        "id": 57059, 
+        "hooks_url": "https://api.github.com/orgs/scala/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lsug/issues", 
+        "members_url": "https://api.github.com/orgs/lsug/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lsug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lsug", 
+        "events_url": "https://api.github.com/orgs/lsug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380373?v=3", 
+        "repos_url": "https://api.github.com/orgs/lsug/repos", 
+        "login": "lsug", 
+        "id": 1380373, 
+        "hooks_url": "https://api.github.com/orgs/lsug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hmrc/issues", 
+        "members_url": "https://api.github.com/orgs/hmrc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hmrc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hmrc", 
+        "events_url": "https://api.github.com/orgs/hmrc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5755339?v=3", 
+        "repos_url": "https://api.github.com/orgs/hmrc/repos", 
+        "login": "hmrc", 
+        "id": 5755339, 
+        "hooks_url": "https://api.github.com/orgs/hmrc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scalafx/issues", 
+        "members_url": "https://api.github.com/orgs/scalafx/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/scalafx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scalafx", 
+        "events_url": "https://api.github.com/orgs/scalafx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5809764?v=3", 
+        "repos_url": "https://api.github.com/orgs/scalafx/repos", 
+        "login": "scalafx", 
+        "id": 5809764, 
+        "hooks_url": "https://api.github.com/orgs/scalafx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scala-swing/issues", 
+        "members_url": "https://api.github.com/orgs/scala-swing/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/scala-swing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scala-swing", 
+        "events_url": "https://api.github.com/orgs/scala-swing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7385903?v=3", 
+        "repos_url": "https://api.github.com/orgs/scala-swing/repos", 
+        "login": "scala-swing", 
+        "id": 7385903, 
+        "hooks_url": "https://api.github.com/orgs/scala-swing/hooks"
+    }
+]

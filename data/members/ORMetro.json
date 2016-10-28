@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/lilymetro/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lilymetro/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lilymetro/orgs", 
+        "url": "https://api.github.com/users/lilymetro", 
+        "gists_url": "https://api.github.com/users/lilymetro/gists{/gist_id}", 
+        "html_url": "https://github.com/lilymetro", 
+        "subscriptions_url": "https://api.github.com/users/lilymetro/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5596818?v=3", 
+        "repos_url": "https://api.github.com/users/lilymetro/repos", 
+        "received_events_url": "https://api.github.com/users/lilymetro/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lilymetro/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lilymetro", 
+        "type": "User", 
+        "id": 5596818, 
+        "followers_url": "https://api.github.com/users/lilymetro/followers"
+    }
+]

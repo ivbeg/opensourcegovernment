@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/shownotes/issues", 
+        "members_url": "https://api.github.com/orgs/shownotes/members{/member}", 
+        "description": "Die kollaborative Plattform f\u00fcr Sendungsnotizen", 
+        "public_members_url": "https://api.github.com/orgs/shownotes/public_members{/member}", 
+        "url": "https://api.github.com/orgs/shownotes", 
+        "events_url": "https://api.github.com/orgs/shownotes/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2675322?v=3", 
+        "repos_url": "https://api.github.com/orgs/shownotes/repos", 
+        "login": "shownotes", 
+        "id": 2675322, 
+        "hooks_url": "https://api.github.com/orgs/shownotes/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GeoKnow/issues", 
+        "members_url": "https://api.github.com/orgs/GeoKnow/members{/member}", 
+        "description": "Making the Web an Exploratory Space for Geospatial Data", 
+        "public_members_url": "https://api.github.com/orgs/GeoKnow/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeoKnow", 
+        "events_url": "https://api.github.com/orgs/GeoKnow/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3647550?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeoKnow/repos", 
+        "login": "GeoKnow", 
+        "id": 3647550, 
+        "hooks_url": "https://api.github.com/orgs/GeoKnow/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/famous-project/issues", 
+        "members_url": "https://api.github.com/orgs/famous-project/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/famous-project/public_members{/member}", 
+        "url": "https://api.github.com/orgs/famous-project", 
+        "events_url": "https://api.github.com/orgs/famous-project/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5759492?v=3", 
+        "repos_url": "https://api.github.com/orgs/famous-project/repos", 
+        "login": "famous-project", 
+        "id": 5759492, 
+        "hooks_url": "https://api.github.com/orgs/famous-project/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EtherApp/issues", 
+        "members_url": "https://api.github.com/orgs/EtherApp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EtherApp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EtherApp", 
+        "events_url": "https://api.github.com/orgs/EtherApp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6018314?v=3", 
+        "repos_url": "https://api.github.com/orgs/EtherApp/repos", 
+        "login": "EtherApp", 
+        "id": 6018314, 
+        "hooks_url": "https://api.github.com/orgs/EtherApp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforLeipzig/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforLeipzig/members{/member}", 
+        "description": "Open Data f\u00fcr Leipzig", 
+        "public_members_url": "https://api.github.com/orgs/CodeforLeipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforLeipzig", 
+        "events_url": "https://api.github.com/orgs/CodeforLeipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7286986?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforLeipzig/repos", 
+        "login": "CodeforLeipzig", 
+        "id": 7286986, 
+        "hooks_url": "https://api.github.com/orgs/CodeforLeipzig/hooks"
+    }
+]

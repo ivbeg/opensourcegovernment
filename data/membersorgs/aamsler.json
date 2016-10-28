@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ogdch/issues", 
+        "members_url": "https://api.github.com/orgs/ogdch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ogdch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ogdch", 
+        "events_url": "https://api.github.com/orgs/ogdch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5366043?v=3", 
+        "repos_url": "https://api.github.com/orgs/ogdch/repos", 
+        "login": "ogdch", 
+        "id": 5366043, 
+        "hooks_url": "https://api.github.com/orgs/ogdch/hooks"
+    }
+]

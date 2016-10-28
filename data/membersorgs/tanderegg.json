@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/neworganizing/issues", 
+        "members_url": "https://api.github.com/orgs/neworganizing/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/neworganizing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/neworganizing", 
+        "events_url": "https://api.github.com/orgs/neworganizing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/52116?v=3", 
+        "repos_url": "https://api.github.com/orgs/neworganizing/repos", 
+        "login": "neworganizing", 
+        "id": 52116, 
+        "hooks_url": "https://api.github.com/orgs/neworganizing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cfpb/issues", 
+        "members_url": "https://api.github.com/orgs/cfpb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cfpb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cfpb", 
+        "events_url": "https://api.github.com/orgs/cfpb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1071563?v=3", 
+        "repos_url": "https://api.github.com/orgs/cfpb/repos", 
+        "login": "cfpb", 
+        "id": 1071563, 
+        "hooks_url": "https://api.github.com/orgs/cfpb/hooks"
+    }
+]

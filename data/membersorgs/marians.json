@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/KoelnAPI/issues", 
+        "members_url": "https://api.github.com/orgs/KoelnAPI/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/KoelnAPI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/KoelnAPI", 
+        "events_url": "https://api.github.com/orgs/KoelnAPI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5716567?v=3", 
+        "repos_url": "https://api.github.com/orgs/KoelnAPI/repos", 
+        "login": "KoelnAPI", 
+        "id": 5716567, 
+        "hooks_url": "https://api.github.com/orgs/KoelnAPI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/giantswarm/issues", 
+        "members_url": "https://api.github.com/orgs/giantswarm/members{/member}", 
+        "description": "Simple Microservice Infrastructure, built for developers. ", 
+        "public_members_url": "https://api.github.com/orgs/giantswarm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/giantswarm", 
+        "events_url": "https://api.github.com/orgs/giantswarm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7556340?v=3", 
+        "repos_url": "https://api.github.com/orgs/giantswarm/repos", 
+        "login": "giantswarm", 
+        "id": 7556340, 
+        "hooks_url": "https://api.github.com/orgs/giantswarm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cx-base/issues", 
+        "members_url": "https://api.github.com/orgs/cx-base/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cx-base/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cx-base", 
+        "events_url": "https://api.github.com/orgs/cx-base/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17383292?v=3", 
+        "repos_url": "https://api.github.com/orgs/cx-base/repos", 
+        "login": "cx-base", 
+        "id": 17383292, 
+        "hooks_url": "https://api.github.com/orgs/cx-base/hooks"
+    }
+]

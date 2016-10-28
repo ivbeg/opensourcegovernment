@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HIIT/issues", 
+        "members_url": "https://api.github.com/orgs/HIIT/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HIIT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HIIT", 
+        "events_url": "https://api.github.com/orgs/HIIT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/909687?v=3", 
+        "repos_url": "https://api.github.com/orgs/HIIT/repos", 
+        "login": "HIIT", 
+        "id": 909687, 
+        "hooks_url": "https://api.github.com/orgs/HIIT/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okffi/issues", 
+        "members_url": "https://api.github.com/orgs/okffi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okffi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okffi", 
+        "events_url": "https://api.github.com/orgs/okffi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1327578?v=3", 
+        "repos_url": "https://api.github.com/orgs/okffi/repos", 
+        "login": "okffi", 
+        "id": 1327578, 
+        "hooks_url": "https://api.github.com/orgs/okffi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/apisuomi/issues", 
+        "members_url": "https://api.github.com/orgs/apisuomi/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/apisuomi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apisuomi", 
+        "events_url": "https://api.github.com/orgs/apisuomi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8290564?v=3", 
+        "repos_url": "https://api.github.com/orgs/apisuomi/repos", 
+        "login": "apisuomi", 
+        "id": 8290564, 
+        "hooks_url": "https://api.github.com/orgs/apisuomi/hooks"
+    }
+]

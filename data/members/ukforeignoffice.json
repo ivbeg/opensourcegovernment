@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/zoeabryant/following{/other_user}", 
+        "events_url": "https://api.github.com/users/zoeabryant/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/zoeabryant/orgs", 
+        "url": "https://api.github.com/users/zoeabryant", 
+        "gists_url": "https://api.github.com/users/zoeabryant/gists{/gist_id}", 
+        "html_url": "https://github.com/zoeabryant", 
+        "subscriptions_url": "https://api.github.com/users/zoeabryant/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5781504?v=3", 
+        "repos_url": "https://api.github.com/users/zoeabryant/repos", 
+        "received_events_url": "https://api.github.com/users/zoeabryant/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/zoeabryant/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "zoeabryant", 
+        "type": "User", 
+        "id": 5781504, 
+        "followers_url": "https://api.github.com/users/zoeabryant/followers"
+    }
+]

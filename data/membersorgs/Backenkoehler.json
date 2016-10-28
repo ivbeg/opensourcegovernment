@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeformuenster/issues", 
+        "members_url": "https://api.github.com/orgs/codeformuenster/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeformuenster/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeformuenster", 
+        "events_url": "https://api.github.com/orgs/codeformuenster/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6464842?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeformuenster/repos", 
+        "login": "codeformuenster", 
+        "id": 6464842, 
+        "hooks_url": "https://api.github.com/orgs/codeformuenster/hooks"
+    }
+]

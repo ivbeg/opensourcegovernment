@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rirug/issues", 
+        "members_url": "https://api.github.com/orgs/rirug/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rirug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rirug", 
+        "events_url": "https://api.github.com/orgs/rirug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/40611?v=3", 
+        "repos_url": "https://api.github.com/orgs/rirug/repos", 
+        "login": "rirug", 
+        "id": 40611, 
+        "hooks_url": "https://api.github.com/orgs/rirug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeisland/issues", 
+        "members_url": "https://api.github.com/orgs/codeisland/members{/member}", 
+        "description": "RI Code for America Brigade. Civic apps focused on the cities and state of RI.", 
+        "public_members_url": "https://api.github.com/orgs/codeisland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeisland", 
+        "events_url": "https://api.github.com/orgs/codeisland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6508208?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeisland/repos", 
+        "login": "codeisland", 
+        "id": 6508208, 
+        "hooks_url": "https://api.github.com/orgs/codeisland/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/citizen-cyberscience-centre/issues", 
+        "members_url": "https://api.github.com/orgs/citizen-cyberscience-centre/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/citizen-cyberscience-centre/public_members{/member}", 
+        "url": "https://api.github.com/orgs/citizen-cyberscience-centre", 
+        "events_url": "https://api.github.com/orgs/citizen-cyberscience-centre/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/606470?v=3", 
+        "repos_url": "https://api.github.com/orgs/citizen-cyberscience-centre/repos", 
+        "login": "citizen-cyberscience-centre", 
+        "id": 606470, 
+        "hooks_url": "https://api.github.com/orgs/citizen-cyberscience-centre/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PyBossa/issues", 
+        "members_url": "https://api.github.com/orgs/PyBossa/members{/member}", 
+        "description": "The ultimate crowdsourcing framework to analyze or enrich data that can't be processed by machines alone.", 
+        "public_members_url": "https://api.github.com/orgs/PyBossa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PyBossa", 
+        "events_url": "https://api.github.com/orgs/PyBossa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1447625?v=3", 
+        "repos_url": "https://api.github.com/orgs/PyBossa/repos", 
+        "login": "PyBossa", 
+        "id": 1447625, 
+        "hooks_url": "https://api.github.com/orgs/PyBossa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CERNSummerWebfest/issues", 
+        "members_url": "https://api.github.com/orgs/CERNSummerWebfest/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CERNSummerWebfest/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CERNSummerWebfest", 
+        "events_url": "https://api.github.com/orgs/CERNSummerWebfest/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2093707?v=3", 
+        "repos_url": "https://api.github.com/orgs/CERNSummerWebfest/repos", 
+        "login": "CERNSummerWebfest", 
+        "id": 2093707, 
+        "hooks_url": "https://api.github.com/orgs/CERNSummerWebfest/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ForestWatchers/issues", 
+        "members_url": "https://api.github.com/orgs/ForestWatchers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ForestWatchers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ForestWatchers", 
+        "events_url": "https://api.github.com/orgs/ForestWatchers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2149579?v=3", 
+        "repos_url": "https://api.github.com/orgs/ForestWatchers/repos", 
+        "login": "ForestWatchers", 
+        "id": 2149579, 
+        "hooks_url": "https://api.github.com/orgs/ForestWatchers/hooks"
+    }
+]

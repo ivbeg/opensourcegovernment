@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforhuntsville/issues", 
+        "members_url": "https://api.github.com/orgs/codeforhuntsville/members{/member}", 
+        "description": "Code for America Brigade for Huntsville", 
+        "public_members_url": "https://api.github.com/orgs/codeforhuntsville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforhuntsville", 
+        "events_url": "https://api.github.com/orgs/codeforhuntsville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11465332?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforhuntsville/repos", 
+        "login": "codeforhuntsville", 
+        "id": 11465332, 
+        "hooks_url": "https://api.github.com/orgs/codeforhuntsville/hooks"
+    }
+]

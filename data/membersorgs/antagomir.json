@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/louhos/issues", 
+        "members_url": "https://api.github.com/orgs/louhos/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/louhos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/louhos", 
+        "events_url": "https://api.github.com/orgs/louhos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1228310?v=3", 
+        "repos_url": "https://api.github.com/orgs/louhos/repos", 
+        "login": "louhos", 
+        "id": 1228310, 
+        "hooks_url": "https://api.github.com/orgs/louhos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/avoindata/issues", 
+        "members_url": "https://api.github.com/orgs/avoindata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/avoindata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/avoindata", 
+        "events_url": "https://api.github.com/orgs/avoindata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1564759?v=3", 
+        "repos_url": "https://api.github.com/orgs/avoindata/repos", 
+        "login": "avoindata", 
+        "id": 1564759, 
+        "hooks_url": "https://api.github.com/orgs/avoindata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/microbiome/issues", 
+        "members_url": "https://api.github.com/orgs/microbiome/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/microbiome/public_members{/member}", 
+        "url": "https://api.github.com/orgs/microbiome", 
+        "events_url": "https://api.github.com/orgs/microbiome/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2109574?v=3", 
+        "repos_url": "https://api.github.com/orgs/microbiome/repos", 
+        "login": "microbiome", 
+        "id": 2109574, 
+        "hooks_url": "https://api.github.com/orgs/microbiome/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okffi-science/issues", 
+        "members_url": "https://api.github.com/orgs/okffi-science/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okffi-science/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okffi-science", 
+        "events_url": "https://api.github.com/orgs/okffi-science/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4182803?v=3", 
+        "repos_url": "https://api.github.com/orgs/okffi-science/repos", 
+        "login": "okffi-science", 
+        "id": 4182803, 
+        "hooks_url": "https://api.github.com/orgs/okffi-science/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rOpenGov/issues", 
+        "members_url": "https://api.github.com/orgs/rOpenGov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/rOpenGov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rOpenGov", 
+        "events_url": "https://api.github.com/orgs/rOpenGov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5463092?v=3", 
+        "repos_url": "https://api.github.com/orgs/rOpenGov/repos", 
+        "login": "rOpenGov", 
+        "id": 5463092, 
+        "hooks_url": "https://api.github.com/orgs/rOpenGov/hooks"
+    }
+]

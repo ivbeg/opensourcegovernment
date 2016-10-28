@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SciTools/issues", 
+        "members_url": "https://api.github.com/orgs/SciTools/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SciTools/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SciTools", 
+        "events_url": "https://api.github.com/orgs/SciTools/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1391487?v=3", 
+        "repos_url": "https://api.github.com/orgs/SciTools/repos", 
+        "login": "SciTools", 
+        "id": 1391487, 
+        "hooks_url": "https://api.github.com/orgs/SciTools/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OGCMetOceanDWG/issues", 
+        "members_url": "https://api.github.com/orgs/OGCMetOceanDWG/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OGCMetOceanDWG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OGCMetOceanDWG", 
+        "events_url": "https://api.github.com/orgs/OGCMetOceanDWG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4416931?v=3", 
+        "repos_url": "https://api.github.com/orgs/OGCMetOceanDWG/repos", 
+        "login": "OGCMetOceanDWG", 
+        "id": 4416931, 
+        "hooks_url": "https://api.github.com/orgs/OGCMetOceanDWG/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osgeouk/issues", 
+        "members_url": "https://api.github.com/orgs/osgeouk/members{/member}", 
+        "description": "Open Source Geospatial Foundation UK Chapter", 
+        "public_members_url": "https://api.github.com/orgs/osgeouk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osgeouk", 
+        "events_url": "https://api.github.com/orgs/osgeouk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6522607?v=3", 
+        "repos_url": "https://api.github.com/orgs/osgeouk/repos", 
+        "login": "osgeouk", 
+        "id": 6522607, 
+        "hooks_url": "https://api.github.com/orgs/osgeouk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opencdms/issues", 
+        "members_url": "https://api.github.com/orgs/opencdms/members{/member}", 
+        "description": "Open Climate Data Management System", 
+        "public_members_url": "https://api.github.com/orgs/opencdms/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opencdms", 
+        "events_url": "https://api.github.com/orgs/opencdms/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11801051?v=3", 
+        "repos_url": "https://api.github.com/orgs/opencdms/repos", 
+        "login": "opencdms", 
+        "id": 11801051, 
+        "hooks_url": "https://api.github.com/orgs/opencdms/hooks"
+    }
+]

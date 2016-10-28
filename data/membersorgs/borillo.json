@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/universitatjaumei/issues", 
+        "members_url": "https://api.github.com/orgs/universitatjaumei/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/universitatjaumei/public_members{/member}", 
+        "url": "https://api.github.com/orgs/universitatjaumei", 
+        "events_url": "https://api.github.com/orgs/universitatjaumei/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1648566?v=3", 
+        "repos_url": "https://api.github.com/orgs/universitatjaumei/repos", 
+        "login": "universitatjaumei", 
+        "id": 1648566, 
+        "hooks_url": "https://api.github.com/orgs/universitatjaumei/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/instructormatters/issues", 
+        "members_url": "https://api.github.com/orgs/instructormatters/members{/member}", 
+        "description": "A set of opinionated courses from experts.", 
+        "public_members_url": "https://api.github.com/orgs/instructormatters/public_members{/member}", 
+        "url": "https://api.github.com/orgs/instructormatters", 
+        "events_url": "https://api.github.com/orgs/instructormatters/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2316319?v=3", 
+        "repos_url": "https://api.github.com/orgs/instructormatters/repos", 
+        "login": "instructormatters", 
+        "id": 2316319, 
+        "hooks_url": "https://api.github.com/orgs/instructormatters/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ctt-gob-es/issues", 
+        "members_url": "https://api.github.com/orgs/ctt-gob-es/members{/member}", 
+        "description": "CTT es el instrumento para favorecer la reutilizaci\u00f3n de soluciones por las Administraciones P\u00fablicas espa\u00f1olas. ", 
+        "public_members_url": "https://api.github.com/orgs/ctt-gob-es/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ctt-gob-es", 
+        "events_url": "https://api.github.com/orgs/ctt-gob-es/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5801430?v=3", 
+        "repos_url": "https://api.github.com/orgs/ctt-gob-es/repos", 
+        "login": "ctt-gob-es", 
+        "id": 5801430, 
+        "hooks_url": "https://api.github.com/orgs/ctt-gob-es/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/devscola/issues", 
+        "members_url": "https://api.github.com/orgs/devscola/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/devscola/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devscola", 
+        "events_url": "https://api.github.com/orgs/devscola/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6756717?v=3", 
+        "repos_url": "https://api.github.com/orgs/devscola/repos", 
+        "login": "devscola", 
+        "id": 6756717, 
+        "hooks_url": "https://api.github.com/orgs/devscola/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/agileatwork/issues", 
+        "members_url": "https://api.github.com/orgs/agileatwork/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/agileatwork/public_members{/member}", 
+        "url": "https://api.github.com/orgs/agileatwork", 
+        "events_url": "https://api.github.com/orgs/agileatwork/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9869127?v=3", 
+        "repos_url": "https://api.github.com/orgs/agileatwork/repos", 
+        "login": "agileatwork", 
+        "id": 9869127, 
+        "hooks_url": "https://api.github.com/orgs/agileatwork/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-admin/issues", 
+        "members_url": "https://api.github.com/orgs/e-admin/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/e-admin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-admin", 
+        "events_url": "https://api.github.com/orgs/e-admin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9886348?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-admin/repos", 
+        "login": "e-admin", 
+        "id": 9886348, 
+        "hooks_url": "https://api.github.com/orgs/e-admin/hooks"
+    }
+]

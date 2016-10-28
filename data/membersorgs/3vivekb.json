@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforsanjose/issues", 
+        "members_url": "https://api.github.com/orgs/codeforsanjose/members{/member}", 
+        "description": "Code for America Brigade in San Jose", 
+        "public_members_url": "https://api.github.com/orgs/codeforsanjose/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforsanjose", 
+        "events_url": "https://api.github.com/orgs/codeforsanjose/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6627417?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforsanjose/repos", 
+        "login": "codeforsanjose", 
+        "id": 6627417, 
+        "hooks_url": "https://api.github.com/orgs/codeforsanjose/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caciviclab/issues", 
+        "members_url": "https://api.github.com/orgs/caciviclab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caciviclab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caciviclab", 
+        "events_url": "https://api.github.com/orgs/caciviclab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9602455?v=3", 
+        "repos_url": "https://api.github.com/orgs/caciviclab/repos", 
+        "login": "caciviclab", 
+        "id": 9602455, 
+        "hooks_url": "https://api.github.com/orgs/caciviclab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/csj-analytics/issues", 
+        "members_url": "https://api.github.com/orgs/csj-analytics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/csj-analytics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/csj-analytics", 
+        "events_url": "https://api.github.com/orgs/csj-analytics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15949095?v=3", 
+        "repos_url": "https://api.github.com/orgs/csj-analytics/repos", 
+        "login": "csj-analytics", 
+        "id": 15949095, 
+        "hooks_url": "https://api.github.com/orgs/csj-analytics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/vta/issues", 
+        "members_url": "https://api.github.com/orgs/vta/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/vta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vta", 
+        "events_url": "https://api.github.com/orgs/vta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17463388?v=3", 
+        "repos_url": "https://api.github.com/orgs/vta/repos", 
+        "login": "vta", 
+        "id": 17463388, 
+        "hooks_url": "https://api.github.com/orgs/vta/hooks"
+    }
+]

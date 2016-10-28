@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hasadna/issues", 
+        "members_url": "https://api.github.com/orgs/hasadna/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hasadna/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hasadna", 
+        "events_url": "https://api.github.com/orgs/hasadna/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/503639?v=3", 
+        "repos_url": "https://api.github.com/orgs/hasadna/repos", 
+        "login": "hasadna", 
+        "id": 503639, 
+        "hooks_url": "https://api.github.com/orgs/hasadna/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rounds/issues", 
+        "members_url": "https://api.github.com/orgs/rounds/members{/member}", 
+        "description": "Rounds is a fun group video chat app for iOS and Android.", 
+        "public_members_url": "https://api.github.com/orgs/rounds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rounds", 
+        "events_url": "https://api.github.com/orgs/rounds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3406523?v=3", 
+        "repos_url": "https://api.github.com/orgs/rounds/repos", 
+        "login": "rounds", 
+        "id": 3406523, 
+        "hooks_url": "https://api.github.com/orgs/rounds/hooks"
+    }
+]

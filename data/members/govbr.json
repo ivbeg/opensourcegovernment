@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/caduvieira/following{/other_user}", 
+        "events_url": "https://api.github.com/users/caduvieira/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/caduvieira/orgs", 
+        "url": "https://api.github.com/users/caduvieira", 
+        "gists_url": "https://api.github.com/users/caduvieira/gists{/gist_id}", 
+        "html_url": "https://github.com/caduvieira", 
+        "subscriptions_url": "https://api.github.com/users/caduvieira/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3831408?v=3", 
+        "repos_url": "https://api.github.com/users/caduvieira/repos", 
+        "received_events_url": "https://api.github.com/users/caduvieira/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/caduvieira/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "caduvieira", 
+        "type": "User", 
+        "id": 3831408, 
+        "followers_url": "https://api.github.com/users/caduvieira/followers"
+    }
+]

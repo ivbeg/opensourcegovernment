@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/npp/issues", 
+        "members_url": "https://api.github.com/orgs/npp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/npp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/npp", 
+        "events_url": "https://api.github.com/orgs/npp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/759457?v=3", 
+        "repos_url": "https://api.github.com/orgs/npp/repos", 
+        "login": "npp", 
+        "id": 759457, 
+        "hooks_url": "https://api.github.com/orgs/npp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforwesternmass/issues", 
+        "members_url": "https://api.github.com/orgs/hackforwesternmass/members{/member}", 
+        "description": "Local folks solving local problems", 
+        "public_members_url": "https://api.github.com/orgs/hackforwesternmass/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforwesternmass", 
+        "events_url": "https://api.github.com/orgs/hackforwesternmass/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4368653?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforwesternmass/repos", 
+        "login": "hackforwesternmass", 
+        "id": 4368653, 
+        "hooks_url": "https://api.github.com/orgs/hackforwesternmass/hooks"
+    }
+]

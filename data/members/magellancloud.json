@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/devoid/following{/other_user}", 
+        "events_url": "https://api.github.com/users/devoid/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/devoid/orgs", 
+        "url": "https://api.github.com/users/devoid", 
+        "gists_url": "https://api.github.com/users/devoid/gists{/gist_id}", 
+        "html_url": "https://github.com/devoid", 
+        "subscriptions_url": "https://api.github.com/users/devoid/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/581597?v=3", 
+        "repos_url": "https://api.github.com/users/devoid/repos", 
+        "received_events_url": "https://api.github.com/users/devoid/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/devoid/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "devoid", 
+        "type": "User", 
+        "id": 581597, 
+        "followers_url": "https://api.github.com/users/devoid/followers"
+    }
+]

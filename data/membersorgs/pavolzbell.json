@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/otvorenesudy/issues", 
+        "members_url": "https://api.github.com/orgs/otvorenesudy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/otvorenesudy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/otvorenesudy", 
+        "events_url": "https://api.github.com/orgs/otvorenesudy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2652701?v=3", 
+        "repos_url": "https://api.github.com/orgs/otvorenesudy/repos", 
+        "login": "otvorenesudy", 
+        "id": 2652701, 
+        "hooks_url": "https://api.github.com/orgs/otvorenesudy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/perconik/issues", 
+        "members_url": "https://api.github.com/orgs/perconik/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/perconik/public_members{/member}", 
+        "url": "https://api.github.com/orgs/perconik", 
+        "events_url": "https://api.github.com/orgs/perconik/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5597514?v=3", 
+        "repos_url": "https://api.github.com/orgs/perconik/repos", 
+        "login": "perconik", 
+        "id": 5597514, 
+        "hooks_url": "https://api.github.com/orgs/perconik/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AskalotCQA/issues", 
+        "members_url": "https://api.github.com/orgs/AskalotCQA/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AskalotCQA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AskalotCQA", 
+        "events_url": "https://api.github.com/orgs/AskalotCQA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6631406?v=3", 
+        "repos_url": "https://api.github.com/orgs/AskalotCQA/repos", 
+        "login": "AskalotCQA", 
+        "id": 6631406, 
+        "hooks_url": "https://api.github.com/orgs/AskalotCQA/hooks"
+    }
+]

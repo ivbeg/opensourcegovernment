@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/GouveaHeitor/following{/other_user}", 
+        "events_url": "https://api.github.com/users/GouveaHeitor/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/GouveaHeitor/orgs", 
+        "url": "https://api.github.com/users/GouveaHeitor", 
+        "gists_url": "https://api.github.com/users/GouveaHeitor/gists{/gist_id}", 
+        "html_url": "https://github.com/GouveaHeitor", 
+        "subscriptions_url": "https://api.github.com/users/GouveaHeitor/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10741284?v=3", 
+        "repos_url": "https://api.github.com/users/GouveaHeitor/repos", 
+        "received_events_url": "https://api.github.com/users/GouveaHeitor/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/GouveaHeitor/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "GouveaHeitor", 
+        "type": "User", 
+        "id": 10741284, 
+        "followers_url": "https://api.github.com/users/GouveaHeitor/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/lvitals/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lvitals/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lvitals/orgs", 
+        "url": "https://api.github.com/users/lvitals", 
+        "gists_url": "https://api.github.com/users/lvitals/gists{/gist_id}", 
+        "html_url": "https://github.com/lvitals", 
+        "subscriptions_url": "https://api.github.com/users/lvitals/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2145794?v=3", 
+        "repos_url": "https://api.github.com/users/lvitals/repos", 
+        "received_events_url": "https://api.github.com/users/lvitals/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lvitals/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lvitals", 
+        "type": "User", 
+        "id": 2145794, 
+        "followers_url": "https://api.github.com/users/lvitals/followers"
+    }
+]

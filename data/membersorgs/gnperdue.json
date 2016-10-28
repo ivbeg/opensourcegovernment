@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GENIEMC/issues", 
+        "members_url": "https://api.github.com/orgs/GENIEMC/members{/member}", 
+        "description": "This is an unofficial repository for the GENIE event generator.", 
+        "public_members_url": "https://api.github.com/orgs/GENIEMC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GENIEMC", 
+        "events_url": "https://api.github.com/orgs/GENIEMC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6772762?v=3", 
+        "repos_url": "https://api.github.com/orgs/GENIEMC/repos", 
+        "login": "GENIEMC", 
+        "id": 6772762, 
+        "hooks_url": "https://api.github.com/orgs/GENIEMC/hooks"
+    }
+]

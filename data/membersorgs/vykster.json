@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rails-girls-summer-of-code/issues", 
+        "members_url": "https://api.github.com/orgs/rails-girls-summer-of-code/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rails-girls-summer-of-code/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rails-girls-summer-of-code", 
+        "events_url": "https://api.github.com/orgs/rails-girls-summer-of-code/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4704447?v=3", 
+        "repos_url": "https://api.github.com/orgs/rails-girls-summer-of-code/repos", 
+        "login": "rails-girls-summer-of-code", 
+        "id": 4704447, 
+        "hooks_url": "https://api.github.com/orgs/rails-girls-summer-of-code/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dysania/issues", 
+        "members_url": "https://api.github.com/orgs/dysania/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dysania/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dysania", 
+        "events_url": "https://api.github.com/orgs/dysania/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4822192?v=3", 
+        "repos_url": "https://api.github.com/orgs/dysania/repos", 
+        "login": "dysania", 
+        "id": 4822192, 
+        "hooks_url": "https://api.github.com/orgs/dysania/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforla/issues", 
+        "members_url": "https://api.github.com/orgs/hackforla/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hackforla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforla", 
+        "events_url": "https://api.github.com/orgs/hackforla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11635254?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforla/repos", 
+        "login": "hackforla", 
+        "id": 11635254, 
+        "hooks_url": "https://api.github.com/orgs/hackforla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CAHealthData/issues", 
+        "members_url": "https://api.github.com/orgs/CAHealthData/members{/member}", 
+        "description": "Building a bridge to local communities with California\u2019s health data", 
+        "public_members_url": "https://api.github.com/orgs/CAHealthData/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CAHealthData", 
+        "events_url": "https://api.github.com/orgs/CAHealthData/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13501573?v=3", 
+        "repos_url": "https://api.github.com/orgs/CAHealthData/repos", 
+        "login": "CAHealthData", 
+        "id": 13501573, 
+        "hooks_url": "https://api.github.com/orgs/CAHealthData/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/compilerla/issues", 
+        "members_url": "https://api.github.com/orgs/compilerla/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/compilerla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/compilerla", 
+        "events_url": "https://api.github.com/orgs/compilerla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13874321?v=3", 
+        "repos_url": "https://api.github.com/orgs/compilerla/repos", 
+        "login": "compilerla", 
+        "id": 13874321, 
+        "hooks_url": "https://api.github.com/orgs/compilerla/hooks"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ONA/issues", 
+        "members_url": "https://api.github.com/orgs/ONA/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ONA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ONA", 
+        "events_url": "https://api.github.com/orgs/ONA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/459745?v=3", 
+        "repos_url": "https://api.github.com/orgs/ONA/repos", 
+        "login": "ONA", 
+        "id": 459745, 
+        "hooks_url": "https://api.github.com/orgs/ONA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datakind/issues", 
+        "members_url": "https://api.github.com/orgs/datakind/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/datakind/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datakind", 
+        "events_url": "https://api.github.com/orgs/datakind/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1133243?v=3", 
+        "repos_url": "https://api.github.com/orgs/datakind/repos", 
+        "login": "datakind", 
+        "id": 1133243, 
+        "hooks_url": "https://api.github.com/orgs/datakind/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openhatch/issues", 
+        "members_url": "https://api.github.com/orgs/openhatch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openhatch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openhatch", 
+        "events_url": "https://api.github.com/orgs/openhatch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1191811?v=3", 
+        "repos_url": "https://api.github.com/orgs/openhatch/repos", 
+        "login": "openhatch", 
+        "id": 1191811, 
+        "hooks_url": "https://api.github.com/orgs/openhatch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/edx/issues", 
+        "members_url": "https://api.github.com/orgs/edx/members{/member}", 
+        "description": "The Open edX platform is open-source code that powers http://edx.org", 
+        "public_members_url": "https://api.github.com/orgs/edx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/edx", 
+        "events_url": "https://api.github.com/orgs/edx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3179841?v=3", 
+        "repos_url": "https://api.github.com/orgs/edx/repos", 
+        "login": "edx", 
+        "id": 3179841, 
+        "hooks_url": "https://api.github.com/orgs/edx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CenterForOpenScience/issues", 
+        "members_url": "https://api.github.com/orgs/CenterForOpenScience/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CenterForOpenScience/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CenterForOpenScience", 
+        "events_url": "https://api.github.com/orgs/CenterForOpenScience/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3344584?v=3", 
+        "repos_url": "https://api.github.com/orgs/CenterForOpenScience/repos", 
+        "login": "CenterForOpenScience", 
+        "id": 3344584, 
+        "hooks_url": "https://api.github.com/orgs/CenterForOpenScience/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opensourcedesign/issues", 
+        "members_url": "https://api.github.com/orgs/opensourcedesign/members{/member}", 
+        "description": "Bringing together designers and open source projects, join us on IRC #opensourcedesign", 
+        "public_members_url": "https://api.github.com/orgs/opensourcedesign/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opensourcedesign", 
+        "events_url": "https://api.github.com/orgs/opensourcedesign/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4183553?v=3", 
+        "repos_url": "https://api.github.com/orgs/opensourcedesign/repos", 
+        "login": "opensourcedesign", 
+        "id": 4183553, 
+        "hooks_url": "https://api.github.com/orgs/opensourcedesign/hooks"
+    }
+]

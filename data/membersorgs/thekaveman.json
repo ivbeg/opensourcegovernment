@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityofSantaMonica/issues", 
+        "members_url": "https://api.github.com/orgs/CityofSantaMonica/members{/member}", 
+        "description": "Open Source and Open Data from the City of Santa Monica, CA", 
+        "public_members_url": "https://api.github.com/orgs/CityofSantaMonica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityofSantaMonica", 
+        "events_url": "https://api.github.com/orgs/CityofSantaMonica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5742493?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityofSantaMonica/repos", 
+        "login": "CityofSantaMonica", 
+        "id": 5742493, 
+        "hooks_url": "https://api.github.com/orgs/CityofSantaMonica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/YouthTechProgram/issues", 
+        "members_url": "https://api.github.com/orgs/YouthTechProgram/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/YouthTechProgram/public_members{/member}", 
+        "url": "https://api.github.com/orgs/YouthTechProgram", 
+        "events_url": "https://api.github.com/orgs/YouthTechProgram/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7456650?v=3", 
+        "repos_url": "https://api.github.com/orgs/YouthTechProgram/repos", 
+        "login": "YouthTechProgram", 
+        "id": 7456650, 
+        "hooks_url": "https://api.github.com/orgs/YouthTechProgram/hooks"
+    }
+]

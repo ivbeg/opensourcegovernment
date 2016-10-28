@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/rhattersley/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rhattersley/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rhattersley/orgs", 
+        "url": "https://api.github.com/users/rhattersley", 
+        "gists_url": "https://api.github.com/users/rhattersley/gists{/gist_id}", 
+        "html_url": "https://github.com/rhattersley", 
+        "subscriptions_url": "https://api.github.com/users/rhattersley/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/917914?v=3", 
+        "repos_url": "https://api.github.com/users/rhattersley/repos", 
+        "received_events_url": "https://api.github.com/users/rhattersley/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rhattersley/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rhattersley", 
+        "type": "User", 
+        "id": 917914, 
+        "followers_url": "https://api.github.com/users/rhattersley/followers"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/localgovernment/issues", 
+        "members_url": "https://api.github.com/orgs/localgovernment/members{/member}", 
+        "description": "Open Source Software developed by Local Government in New Zealand", 
+        "public_members_url": "https://api.github.com/orgs/localgovernment/public_members{/member}", 
+        "url": "https://api.github.com/orgs/localgovernment", 
+        "events_url": "https://api.github.com/orgs/localgovernment/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6659376?v=3", 
+        "repos_url": "https://api.github.com/orgs/localgovernment/repos", 
+        "login": "localgovernment", 
+        "id": 6659376, 
+        "hooks_url": "https://api.github.com/orgs/localgovernment/hooks"
+    }
+]

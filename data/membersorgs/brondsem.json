@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/apache/issues", 
+        "members_url": "https://api.github.com/orgs/apache/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/apache/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apache", 
+        "events_url": "https://api.github.com/orgs/apache/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=3", 
+        "repos_url": "https://api.github.com/orgs/apache/repos", 
+        "login": "apache", 
+        "id": 47359, 
+        "hooks_url": "https://api.github.com/orgs/apache/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thrive-refugee/issues", 
+        "members_url": "https://api.github.com/orgs/thrive-refugee/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/thrive-refugee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thrive-refugee", 
+        "events_url": "https://api.github.com/orgs/thrive-refugee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2660908?v=3", 
+        "repos_url": "https://api.github.com/orgs/thrive-refugee/repos", 
+        "login": "thrive-refugee", 
+        "id": 2660908, 
+        "hooks_url": "https://api.github.com/orgs/thrive-refugee/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SourceForge/issues", 
+        "members_url": "https://api.github.com/orgs/SourceForge/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SourceForge/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SourceForge", 
+        "events_url": "https://api.github.com/orgs/SourceForge/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5940809?v=3", 
+        "repos_url": "https://api.github.com/orgs/SourceForge/repos", 
+        "login": "SourceForge", 
+        "id": 5940809, 
+        "hooks_url": "https://api.github.com/orgs/SourceForge/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/switchboardpy/issues", 
+        "members_url": "https://api.github.com/orgs/switchboardpy/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/switchboardpy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/switchboardpy", 
+        "events_url": "https://api.github.com/orgs/switchboardpy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10028618?v=3", 
+        "repos_url": "https://api.github.com/orgs/switchboardpy/repos", 
+        "login": "switchboardpy", 
+        "id": 10028618, 
+        "hooks_url": "https://api.github.com/orgs/switchboardpy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/deafhhs/issues", 
+        "members_url": "https://api.github.com/orgs/deafhhs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/deafhhs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/deafhhs", 
+        "events_url": "https://api.github.com/orgs/deafhhs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15271018?v=3", 
+        "repos_url": "https://api.github.com/orgs/deafhhs/repos", 
+        "login": "deafhhs", 
+        "id": 15271018, 
+        "hooks_url": "https://api.github.com/orgs/deafhhs/hooks"
+    }
+]

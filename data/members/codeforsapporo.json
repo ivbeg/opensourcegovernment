@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/kwnd/following{/other_user}", 
+        "events_url": "https://api.github.com/users/kwnd/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/kwnd/orgs", 
+        "url": "https://api.github.com/users/kwnd", 
+        "gists_url": "https://api.github.com/users/kwnd/gists{/gist_id}", 
+        "html_url": "https://github.com/kwnd", 
+        "subscriptions_url": "https://api.github.com/users/kwnd/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3857742?v=3", 
+        "repos_url": "https://api.github.com/users/kwnd/repos", 
+        "received_events_url": "https://api.github.com/users/kwnd/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/kwnd/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "kwnd", 
+        "type": "User", 
+        "id": 3857742, 
+        "followers_url": "https://api.github.com/users/kwnd/followers"
+    }
+]

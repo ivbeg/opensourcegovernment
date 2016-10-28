@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ottawaruby/issues", 
+        "members_url": "https://api.github.com/orgs/ottawaruby/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ottawaruby/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ottawaruby", 
+        "events_url": "https://api.github.com/orgs/ottawaruby/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/753620?v=3", 
+        "repos_url": "https://api.github.com/orgs/ottawaruby/repos", 
+        "login": "ottawaruby", 
+        "id": 753620, 
+        "hooks_url": "https://api.github.com/orgs/ottawaruby/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/python-ottawa/issues", 
+        "members_url": "https://api.github.com/orgs/python-ottawa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/python-ottawa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/python-ottawa", 
+        "events_url": "https://api.github.com/orgs/python-ottawa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2241405?v=3", 
+        "repos_url": "https://api.github.com/orgs/python-ottawa/repos", 
+        "login": "python-ottawa", 
+        "id": 2241405, 
+        "hooks_url": "https://api.github.com/orgs/python-ottawa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-data/issues", 
+        "members_url": "https://api.github.com/orgs/open-data/members{/member}", 
+        "description": "open.canada.ca provides one-stop access to Government of Canada data and information", 
+        "public_members_url": "https://api.github.com/orgs/open-data/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-data", 
+        "events_url": "https://api.github.com/orgs/open-data/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2651841?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-data/repos", 
+        "login": "open-data", 
+        "id": 2651841, 
+        "hooks_url": "https://api.github.com/orgs/open-data/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/boxkite/issues", 
+        "members_url": "https://api.github.com/orgs/boxkite/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/boxkite/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boxkite", 
+        "events_url": "https://api.github.com/orgs/boxkite/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3051026?v=3", 
+        "repos_url": "https://api.github.com/orgs/boxkite/repos", 
+        "login": "boxkite", 
+        "id": 3051026, 
+        "hooks_url": "https://api.github.com/orgs/boxkite/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/catalog-ng/issues", 
+        "members_url": "https://api.github.com/orgs/catalog-ng/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/catalog-ng/public_members{/member}", 
+        "url": "https://api.github.com/orgs/catalog-ng", 
+        "events_url": "https://api.github.com/orgs/catalog-ng/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5311576?v=3", 
+        "repos_url": "https://api.github.com/orgs/catalog-ng/repos", 
+        "login": "catalog-ng", 
+        "id": 5311576, 
+        "hooks_url": "https://api.github.com/orgs/catalog-ng/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datacats/issues", 
+        "members_url": "https://api.github.com/orgs/datacats/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/datacats/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datacats", 
+        "events_url": "https://api.github.com/orgs/datacats/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12352628?v=3", 
+        "repos_url": "https://api.github.com/orgs/datacats/repos", 
+        "login": "datacats", 
+        "id": 12352628, 
+        "hooks_url": "https://api.github.com/orgs/datacats/hooks"
+    }
+]

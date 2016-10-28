@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CultureLabs/issues", 
+        "members_url": "https://api.github.com/orgs/CultureLabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CultureLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CultureLabs", 
+        "events_url": "https://api.github.com/orgs/CultureLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3342076?v=3", 
+        "repos_url": "https://api.github.com/orgs/CultureLabs/repos", 
+        "login": "CultureLabs", 
+        "id": 3342076, 
+        "hooks_url": "https://api.github.com/orgs/CultureLabs/hooks"
+    }
+]

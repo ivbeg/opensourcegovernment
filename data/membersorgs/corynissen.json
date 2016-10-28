@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/smartchicago/issues", 
+        "members_url": "https://api.github.com/orgs/smartchicago/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smartchicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smartchicago", 
+        "events_url": "https://api.github.com/orgs/smartchicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
+        "repos_url": "https://api.github.com/orgs/smartchicago/repos", 
+        "login": "smartchicago", 
+        "id": 2008099, 
+        "hooks_url": "https://api.github.com/orgs/smartchicago/hooks"
+    }
+]

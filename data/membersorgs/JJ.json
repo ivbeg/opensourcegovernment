@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openkratio/issues", 
+        "members_url": "https://api.github.com/orgs/openkratio/members{/member}", 
+        "description": "OpenGov & OpenData Organization", 
+        "public_members_url": "https://api.github.com/orgs/openkratio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkratio", 
+        "events_url": "https://api.github.com/orgs/openkratio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2310256?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkratio/repos", 
+        "login": "openkratio", 
+        "id": 2310256, 
+        "hooks_url": "https://api.github.com/orgs/openkratio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CANUBE/issues", 
+        "members_url": "https://api.github.com/orgs/CANUBE/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CANUBE/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CANUBE", 
+        "events_url": "https://api.github.com/orgs/CANUBE/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3839808?v=3", 
+        "repos_url": "https://api.github.com/orgs/CANUBE/repos", 
+        "login": "CANUBE", 
+        "id": 3839808, 
+        "hooks_url": "https://api.github.com/orgs/CANUBE/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MusesProject/issues", 
+        "members_url": "https://api.github.com/orgs/MusesProject/members{/member}", 
+        "description": "Muses project is funded by the EU", 
+        "public_members_url": "https://api.github.com/orgs/MusesProject/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MusesProject", 
+        "events_url": "https://api.github.com/orgs/MusesProject/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6651546?v=3", 
+        "repos_url": "https://api.github.com/orgs/MusesProject/repos", 
+        "login": "MusesProject", 
+        "id": 6651546, 
+        "hooks_url": "https://api.github.com/orgs/MusesProject/hooks"
+    }
+]

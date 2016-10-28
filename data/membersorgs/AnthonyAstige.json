@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforeauclaire/issues", 
+        "members_url": "https://api.github.com/orgs/codeforeauclaire/members{/member}", 
+        "description": "Code for America brigade hacking on civic engagement and open data opportunities in Eau Claire, Wisconsin and the greater Chippewa Valley.", 
+        "public_members_url": "https://api.github.com/orgs/codeforeauclaire/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforeauclaire", 
+        "events_url": "https://api.github.com/orgs/codeforeauclaire/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985225?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforeauclaire/repos", 
+        "login": "codeforeauclaire", 
+        "id": 14985225, 
+        "hooks_url": "https://api.github.com/orgs/codeforeauclaire/hooks"
+    }
+]

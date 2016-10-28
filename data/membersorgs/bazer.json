@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Riksarkivet/issues", 
+        "members_url": "https://api.github.com/orgs/Riksarkivet/members{/member}", 
+        "description": "National Archives of Sweden", 
+        "public_members_url": "https://api.github.com/orgs/Riksarkivet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Riksarkivet", 
+        "events_url": "https://api.github.com/orgs/Riksarkivet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6963128?v=3", 
+        "repos_url": "https://api.github.com/orgs/Riksarkivet/repos", 
+        "login": "Riksarkivet", 
+        "id": 6963128, 
+        "hooks_url": "https://api.github.com/orgs/Riksarkivet/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/VagNuAB/issues", 
+        "members_url": "https://api.github.com/orgs/VagNuAB/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/VagNuAB/public_members{/member}", 
+        "url": "https://api.github.com/orgs/VagNuAB", 
+        "events_url": "https://api.github.com/orgs/VagNuAB/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22471181?v=3", 
+        "repos_url": "https://api.github.com/orgs/VagNuAB/repos", 
+        "login": "VagNuAB", 
+        "id": 22471181, 
+        "hooks_url": "https://api.github.com/orgs/VagNuAB/hooks"
+    }
+]

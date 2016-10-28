@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/anselmbradford/following{/other_user}", 
+        "events_url": "https://api.github.com/users/anselmbradford/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/anselmbradford/orgs", 
+        "url": "https://api.github.com/users/anselmbradford", 
+        "gists_url": "https://api.github.com/users/anselmbradford/gists{/gist_id}", 
+        "html_url": "https://github.com/anselmbradford", 
+        "subscriptions_url": "https://api.github.com/users/anselmbradford/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/704760?v=3", 
+        "repos_url": "https://api.github.com/users/anselmbradford/repos", 
+        "received_events_url": "https://api.github.com/users/anselmbradford/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/anselmbradford/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "anselmbradford", 
+        "type": "User", 
+        "id": 704760, 
+        "followers_url": "https://api.github.com/users/anselmbradford/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/sanmateocounty/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sanmateocounty/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sanmateocounty/orgs", 
+        "url": "https://api.github.com/users/sanmateocounty", 
+        "gists_url": "https://api.github.com/users/sanmateocounty/gists{/gist_id}", 
+        "html_url": "https://github.com/sanmateocounty", 
+        "subscriptions_url": "https://api.github.com/users/sanmateocounty/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5170653?v=3", 
+        "repos_url": "https://api.github.com/users/sanmateocounty/repos", 
+        "received_events_url": "https://api.github.com/users/sanmateocounty/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sanmateocounty/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sanmateocounty", 
+        "type": "User", 
+        "id": 5170653, 
+        "followers_url": "https://api.github.com/users/sanmateocounty/followers"
+    }
+]

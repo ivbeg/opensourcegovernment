@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/duckduckgo/issues", 
+        "members_url": "https://api.github.com/orgs/duckduckgo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/duckduckgo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/duckduckgo", 
+        "events_url": "https://api.github.com/orgs/duckduckgo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/342708?v=3", 
+        "repos_url": "https://api.github.com/orgs/duckduckgo/repos", 
+        "login": "duckduckgo", 
+        "id": 342708, 
+        "hooks_url": "https://api.github.com/orgs/duckduckgo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityOfPhiladelphia/issues", 
+        "members_url": "https://api.github.com/orgs/CityOfPhiladelphia/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CityOfPhiladelphia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityOfPhiladelphia", 
+        "events_url": "https://api.github.com/orgs/CityOfPhiladelphia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2641050?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityOfPhiladelphia/repos", 
+        "login": "CityOfPhiladelphia", 
+        "id": 2641050, 
+        "hooks_url": "https://api.github.com/orgs/CityOfPhiladelphia/hooks"
+    }
+]

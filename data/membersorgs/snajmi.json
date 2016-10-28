@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Honolulu/issues", 
+        "members_url": "https://api.github.com/orgs/Honolulu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Honolulu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Honolulu", 
+        "events_url": "https://api.github.com/orgs/Honolulu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1817426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Honolulu/repos", 
+        "login": "Honolulu", 
+        "id": 1817426, 
+        "hooks_url": "https://api.github.com/orgs/Honolulu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/issues", 
+        "members_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs", 
+        "events_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1840792?v=3", 
+        "repos_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/repos", 
+        "login": "women-who-code-sf-frontend-devs", 
+        "id": 1840792, 
+        "hooks_url": "https://api.github.com/orgs/women-who-code-sf-frontend-devs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforpakistan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforpakistan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforpakistan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforpakistan", 
+        "events_url": "https://api.github.com/orgs/codeforpakistan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4421892?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforpakistan/repos", 
+        "login": "codeforpakistan", 
+        "id": 4421892, 
+        "hooks_url": "https://api.github.com/orgs/codeforpakistan/hooks"
+    }
+]

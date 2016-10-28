@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/langri-sha/following{/other_user}", 
+        "events_url": "https://api.github.com/users/langri-sha/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/langri-sha/orgs", 
+        "url": "https://api.github.com/users/langri-sha", 
+        "gists_url": "https://api.github.com/users/langri-sha/gists{/gist_id}", 
+        "html_url": "https://github.com/langri-sha", 
+        "subscriptions_url": "https://api.github.com/users/langri-sha/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/77084?v=3", 
+        "repos_url": "https://api.github.com/users/langri-sha/repos", 
+        "received_events_url": "https://api.github.com/users/langri-sha/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/langri-sha/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "langri-sha", 
+        "type": "User", 
+        "id": 77084, 
+        "followers_url": "https://api.github.com/users/langri-sha/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/schlos/following{/other_user}", 
+        "events_url": "https://api.github.com/users/schlos/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/schlos/orgs", 
+        "url": "https://api.github.com/users/schlos", 
+        "gists_url": "https://api.github.com/users/schlos/gists{/gist_id}", 
+        "html_url": "https://github.com/schlos", 
+        "subscriptions_url": "https://api.github.com/users/schlos/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1014134?v=3", 
+        "repos_url": "https://api.github.com/users/schlos/repos", 
+        "received_events_url": "https://api.github.com/users/schlos/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/schlos/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "schlos", 
+        "type": "User", 
+        "id": 1014134, 
+        "followers_url": "https://api.github.com/users/schlos/followers"
+    }
+]

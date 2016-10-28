@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/exquery/issues", 
+        "members_url": "https://api.github.com/orgs/exquery/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/exquery/public_members{/member}", 
+        "url": "https://api.github.com/orgs/exquery", 
+        "events_url": "https://api.github.com/orgs/exquery/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1739771?v=3", 
+        "repos_url": "https://api.github.com/orgs/exquery/repos", 
+        "login": "exquery", 
+        "id": 1739771, 
+        "hooks_url": "https://api.github.com/orgs/exquery/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/digital-preservation/issues", 
+        "members_url": "https://api.github.com/orgs/digital-preservation/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/digital-preservation/public_members{/member}", 
+        "url": "https://api.github.com/orgs/digital-preservation", 
+        "events_url": "https://api.github.com/orgs/digital-preservation/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1876419?v=3", 
+        "repos_url": "https://api.github.com/orgs/digital-preservation/repos", 
+        "login": "digital-preservation", 
+        "id": 1876419, 
+        "hooks_url": "https://api.github.com/orgs/digital-preservation/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eXist-db/issues", 
+        "members_url": "https://api.github.com/orgs/eXist-db/members{/member}", 
+        "description": "High-performance Native XML Database and Web Application Platform", 
+        "public_members_url": "https://api.github.com/orgs/eXist-db/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eXist-db", 
+        "events_url": "https://api.github.com/orgs/eXist-db/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2393489?v=3", 
+        "repos_url": "https://api.github.com/orgs/eXist-db/repos", 
+        "login": "eXist-db", 
+        "id": 2393489, 
+        "hooks_url": "https://api.github.com/orgs/eXist-db/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eXistSolutions/issues", 
+        "members_url": "https://api.github.com/orgs/eXistSolutions/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/eXistSolutions/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eXistSolutions", 
+        "events_url": "https://api.github.com/orgs/eXistSolutions/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5067353?v=3", 
+        "repos_url": "https://api.github.com/orgs/eXistSolutions/repos", 
+        "login": "eXistSolutions", 
+        "id": 5067353, 
+        "hooks_url": "https://api.github.com/orgs/eXistSolutions/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eXist-book/issues", 
+        "members_url": "https://api.github.com/orgs/eXist-book/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eXist-book/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eXist-book", 
+        "events_url": "https://api.github.com/orgs/eXist-book/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5816597?v=3", 
+        "repos_url": "https://api.github.com/orgs/eXist-book/repos", 
+        "login": "eXist-book", 
+        "id": 5816597, 
+        "hooks_url": "https://api.github.com/orgs/eXist-book/hooks"
+    }
+]

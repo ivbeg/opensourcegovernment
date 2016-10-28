@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/it3s/issues", 
+        "members_url": "https://api.github.com/orgs/it3s/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/it3s/public_members{/member}", 
+        "url": "https://api.github.com/orgs/it3s", 
+        "events_url": "https://api.github.com/orgs/it3s/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/585222?v=3", 
+        "repos_url": "https://api.github.com/orgs/it3s/repos", 
+        "login": "it3s", 
+        "id": 585222, 
+        "hooks_url": "https://api.github.com/orgs/it3s/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okfn-brasil/issues", 
+        "members_url": "https://api.github.com/orgs/okfn-brasil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn-brasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn-brasil", 
+        "events_url": "https://api.github.com/orgs/okfn-brasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1666382?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn-brasil/repos", 
+        "login": "okfn-brasil", 
+        "id": 1666382, 
+        "hooks_url": "https://api.github.com/orgs/okfn-brasil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lem-usp/issues", 
+        "members_url": "https://api.github.com/orgs/lem-usp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/lem-usp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lem-usp", 
+        "events_url": "https://api.github.com/orgs/lem-usp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1873913?v=3", 
+        "repos_url": "https://api.github.com/orgs/lem-usp/repos", 
+        "login": "lem-usp", 
+        "id": 1873913, 
+        "hooks_url": "https://api.github.com/orgs/lem-usp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Agreste/issues", 
+        "members_url": "https://api.github.com/orgs/Agreste/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Agreste/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Agreste", 
+        "events_url": "https://api.github.com/orgs/Agreste/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10746508?v=3", 
+        "repos_url": "https://api.github.com/orgs/Agreste/repos", 
+        "login": "Agreste", 
+        "id": 10746508, 
+        "hooks_url": "https://api.github.com/orgs/Agreste/hooks"
+    }
+]

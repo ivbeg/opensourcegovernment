@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dbflow/issues", 
+        "members_url": "https://api.github.com/orgs/dbflow/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dbflow/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dbflow", 
+        "events_url": "https://api.github.com/orgs/dbflow/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8257604?v=3", 
+        "repos_url": "https://api.github.com/orgs/dbflow/repos", 
+        "login": "dbflow", 
+        "id": 8257604, 
+        "hooks_url": "https://api.github.com/orgs/dbflow/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/git-tw/issues", 
+        "members_url": "https://api.github.com/orgs/git-tw/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/git-tw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/git-tw", 
+        "events_url": "https://api.github.com/orgs/git-tw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12607210?v=3", 
+        "repos_url": "https://api.github.com/orgs/git-tw/repos", 
+        "login": "git-tw", 
+        "id": 12607210, 
+        "hooks_url": "https://api.github.com/orgs/git-tw/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hedisdb/issues", 
+        "members_url": "https://api.github.com/orgs/hedisdb/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hedisdb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hedisdb", 
+        "events_url": "https://api.github.com/orgs/hedisdb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12832509?v=3", 
+        "repos_url": "https://api.github.com/orgs/hedisdb/repos", 
+        "login": "hedisdb", 
+        "id": 12832509, 
+        "hooks_url": "https://api.github.com/orgs/hedisdb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/niucsie/issues", 
+        "members_url": "https://api.github.com/orgs/niucsie/members{/member}", 
+        "description": "\u5148\u5e6b\u7cfb\u4e0a\u958b\u7684GitHub organization\uff0c\u5230\u6642\u5019\u5e0c\u671b\u6709\u5b78\u5f1f\u59b9\u53ef\u4ee5\u6301\u7e8c\u7dad\u8b77", 
+        "public_members_url": "https://api.github.com/orgs/niucsie/public_members{/member}", 
+        "url": "https://api.github.com/orgs/niucsie", 
+        "events_url": "https://api.github.com/orgs/niucsie/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14236383?v=3", 
+        "repos_url": "https://api.github.com/orgs/niucsie/repos", 
+        "login": "niucsie", 
+        "id": 14236383, 
+        "hooks_url": "https://api.github.com/orgs/niucsie/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mitaketw/issues", 
+        "members_url": "https://api.github.com/orgs/mitaketw/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mitaketw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mitaketw", 
+        "events_url": "https://api.github.com/orgs/mitaketw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14839783?v=3", 
+        "repos_url": "https://api.github.com/orgs/mitaketw/repos", 
+        "login": "mitaketw", 
+        "id": 14839783, 
+        "hooks_url": "https://api.github.com/orgs/mitaketw/hooks"
+    }
+]

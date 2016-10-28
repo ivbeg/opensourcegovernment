@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/InternationalTradeAdministration/issues", 
+        "members_url": "https://api.github.com/orgs/InternationalTradeAdministration/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/InternationalTradeAdministration/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InternationalTradeAdministration", 
+        "events_url": "https://api.github.com/orgs/InternationalTradeAdministration/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5047716?v=3", 
+        "repos_url": "https://api.github.com/orgs/InternationalTradeAdministration/repos", 
+        "login": "InternationalTradeAdministration", 
+        "id": 5047716, 
+        "hooks_url": "https://api.github.com/orgs/InternationalTradeAdministration/hooks"
+    }
+]

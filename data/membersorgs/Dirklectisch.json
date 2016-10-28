@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hackdeoverheid/issues", 
+        "members_url": "https://api.github.com/orgs/hackdeoverheid/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackdeoverheid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackdeoverheid", 
+        "events_url": "https://api.github.com/orgs/hackdeoverheid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/585032?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackdeoverheid/repos", 
+        "login": "hackdeoverheid", 
+        "id": 585032, 
+        "hooks_url": "https://api.github.com/orgs/hackdeoverheid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/driebit/issues", 
+        "members_url": "https://api.github.com/orgs/driebit/members{/member}", 
+        "description": "Using the internet for positive impact", 
+        "public_members_url": "https://api.github.com/orgs/driebit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/driebit", 
+        "events_url": "https://api.github.com/orgs/driebit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/649899?v=3", 
+        "repos_url": "https://api.github.com/orgs/driebit/repos", 
+        "login": "driebit", 
+        "id": 649899, 
+        "hooks_url": "https://api.github.com/orgs/driebit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openstate/issues", 
+        "members_url": "https://api.github.com/orgs/openstate/members{/member}", 
+        "description": "Open State Foundation promotes digital transparency by unlocking open data and stimulates development of innovative & creative applications", 
+        "public_members_url": "https://api.github.com/orgs/openstate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openstate", 
+        "events_url": "https://api.github.com/orgs/openstate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/671916?v=3", 
+        "repos_url": "https://api.github.com/orgs/openstate/repos", 
+        "login": "openstate", 
+        "id": 671916, 
+        "hooks_url": "https://api.github.com/orgs/openstate/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Offerti/issues", 
+        "members_url": "https://api.github.com/orgs/Offerti/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Offerti/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Offerti", 
+        "events_url": "https://api.github.com/orgs/Offerti/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2226275?v=3", 
+        "repos_url": "https://api.github.com/orgs/Offerti/repos", 
+        "login": "Offerti", 
+        "id": 2226275, 
+        "hooks_url": "https://api.github.com/orgs/Offerti/hooks"
+    }
+]

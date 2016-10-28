@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/erasme/issues", 
+        "members_url": "https://api.github.com/orgs/erasme/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/erasme/public_members{/member}", 
+        "url": "https://api.github.com/orgs/erasme", 
+        "events_url": "https://api.github.com/orgs/erasme/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/204704?v=3", 
+        "repos_url": "https://api.github.com/orgs/erasme/repos", 
+        "login": "erasme", 
+        "id": 204704, 
+        "hooks_url": "https://api.github.com/orgs/erasme/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ChickenRand/issues", 
+        "members_url": "https://api.github.com/orgs/ChickenRand/members{/member}", 
+        "description": "Amateur research project on the influence of human consciouness on random numbers generation.", 
+        "public_members_url": "https://api.github.com/orgs/ChickenRand/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ChickenRand", 
+        "events_url": "https://api.github.com/orgs/ChickenRand/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7072591?v=3", 
+        "repos_url": "https://api.github.com/orgs/ChickenRand/repos", 
+        "login": "ChickenRand", 
+        "id": 7072591, 
+        "hooks_url": "https://api.github.com/orgs/ChickenRand/hooks"
+    }
+]

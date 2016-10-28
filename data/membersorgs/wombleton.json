@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opennewzealand/issues", 
+        "members_url": "https://api.github.com/orgs/opennewzealand/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opennewzealand/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opennewzealand", 
+        "events_url": "https://api.github.com/orgs/opennewzealand/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/120976?v=3", 
+        "repos_url": "https://api.github.com/orgs/opennewzealand/repos", 
+        "login": "opennewzealand", 
+        "id": 120976, 
+        "hooks_url": "https://api.github.com/orgs/opennewzealand/hooks"
+    }
+]

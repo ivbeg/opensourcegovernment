@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ThoughtWorksInc/issues", 
+        "members_url": "https://api.github.com/orgs/ThoughtWorksInc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ThoughtWorksInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ThoughtWorksInc", 
+        "events_url": "https://api.github.com/orgs/ThoughtWorksInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/168376?v=3", 
+        "repos_url": "https://api.github.com/orgs/ThoughtWorksInc/repos", 
+        "login": "ThoughtWorksInc", 
+        "id": 168376, 
+        "hooks_url": "https://api.github.com/orgs/ThoughtWorksInc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/InsolvencyService/issues", 
+        "members_url": "https://api.github.com/orgs/InsolvencyService/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/InsolvencyService/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InsolvencyService", 
+        "events_url": "https://api.github.com/orgs/InsolvencyService/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5759639?v=3", 
+        "repos_url": "https://api.github.com/orgs/InsolvencyService/repos", 
+        "login": "InsolvencyService", 
+        "id": 5759639, 
+        "hooks_url": "https://api.github.com/orgs/InsolvencyService/hooks"
+    }
+]

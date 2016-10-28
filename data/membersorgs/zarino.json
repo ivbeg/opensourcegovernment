@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DemocracyClub/issues", 
+        "members_url": "https://api.github.com/orgs/DemocracyClub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DemocracyClub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DemocracyClub", 
+        "events_url": "https://api.github.com/orgs/DemocracyClub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6901194?v=3", 
+        "repos_url": "https://api.github.com/orgs/DemocracyClub/repos", 
+        "login": "DemocracyClub", 
+        "id": 6901194, 
+        "hooks_url": "https://api.github.com/orgs/DemocracyClub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Liverpool-UK/issues", 
+        "members_url": "https://api.github.com/orgs/Liverpool-UK/members{/member}", 
+        "description": "What does it mean for a city to have a github account?  Let's find out.", 
+        "public_members_url": "https://api.github.com/orgs/Liverpool-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Liverpool-UK", 
+        "events_url": "https://api.github.com/orgs/Liverpool-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9890060?v=3", 
+        "repos_url": "https://api.github.com/orgs/Liverpool-UK/repos", 
+        "login": "Liverpool-UK", 
+        "id": 9890060, 
+        "hooks_url": "https://api.github.com/orgs/Liverpool-UK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HassleMe/issues", 
+        "members_url": "https://api.github.com/orgs/HassleMe/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HassleMe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HassleMe", 
+        "events_url": "https://api.github.com/orgs/HassleMe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10910597?v=3", 
+        "repos_url": "https://api.github.com/orgs/HassleMe/repos", 
+        "login": "HassleMe", 
+        "id": 10910597, 
+        "hooks_url": "https://api.github.com/orgs/HassleMe/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician/members{/member}", 
+        "description": "Data about every national legislature in the world, freely available for you to use", 
+        "public_members_url": "https://api.github.com/orgs/everypolitician/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician", 
+        "events_url": "https://api.github.com/orgs/everypolitician/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12497298?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician/repos", 
+        "login": "everypolitician", 
+        "id": 12497298, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/liverpoolcodeclub/issues", 
+        "members_url": "https://api.github.com/orgs/liverpoolcodeclub/members{/member}", 
+        "description": "A fun, creative place for kids to build games and learn to code, at Liverpool Central Library. Coming January 2016.", 
+        "public_members_url": "https://api.github.com/orgs/liverpoolcodeclub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/liverpoolcodeclub", 
+        "events_url": "https://api.github.com/orgs/liverpoolcodeclub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15577334?v=3", 
+        "repos_url": "https://api.github.com/orgs/liverpoolcodeclub/repos", 
+        "login": "liverpoolcodeclub", 
+        "id": 15577334, 
+        "hooks_url": "https://api.github.com/orgs/liverpoolcodeclub/hooks"
+    }
+]

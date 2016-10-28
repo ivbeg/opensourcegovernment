@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hcs/issues", 
+        "members_url": "https://api.github.com/orgs/hcs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hcs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hcs", 
+        "events_url": "https://api.github.com/orgs/hcs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/444494?v=3", 
+        "repos_url": "https://api.github.com/orgs/hcs/repos", 
+        "login": "hcs", 
+        "id": 444494, 
+        "hooks_url": "https://api.github.com/orgs/hcs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rest-client/issues", 
+        "members_url": "https://api.github.com/orgs/rest-client/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/rest-client/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rest-client", 
+        "events_url": "https://api.github.com/orgs/rest-client/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2386701?v=3", 
+        "repos_url": "https://api.github.com/orgs/rest-client/repos", 
+        "login": "rest-client", 
+        "id": 2386701, 
+        "hooks_url": "https://api.github.com/orgs/rest-client/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USCIS/issues", 
+        "members_url": "https://api.github.com/orgs/USCIS/members{/member}", 
+        "description": "U.S. Citizenship and Immigration Services", 
+        "public_members_url": "https://api.github.com/orgs/USCIS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USCIS", 
+        "events_url": "https://api.github.com/orgs/USCIS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13646303?v=3", 
+        "repos_url": "https://api.github.com/orgs/USCIS/repos", 
+        "login": "USCIS", 
+        "id": 13646303, 
+        "hooks_url": "https://api.github.com/orgs/USCIS/hooks"
+    }
+]

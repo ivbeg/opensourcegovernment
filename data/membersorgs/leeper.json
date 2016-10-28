@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/IQSS/issues", 
+        "members_url": "https://api.github.com/orgs/IQSS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/IQSS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IQSS", 
+        "events_url": "https://api.github.com/orgs/IQSS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/675237?v=3", 
+        "repos_url": "https://api.github.com/orgs/IQSS/repos", 
+        "login": "IQSS", 
+        "id": 675237, 
+        "hooks_url": "https://api.github.com/orgs/IQSS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ropensci/issues", 
+        "members_url": "https://api.github.com/orgs/ropensci/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ropensci/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ropensci", 
+        "events_url": "https://api.github.com/orgs/ropensci/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=3", 
+        "repos_url": "https://api.github.com/orgs/ropensci/repos", 
+        "login": "ropensci", 
+        "id": 1200269, 
+        "hooks_url": "https://api.github.com/orgs/ropensci/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rOpenHealth/issues", 
+        "members_url": "https://api.github.com/orgs/rOpenHealth/members{/member}", 
+        "description": "A collaborative project to build R tools facilitating access to quantitative healthcare and public health data", 
+        "public_members_url": "https://api.github.com/orgs/rOpenHealth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rOpenHealth", 
+        "events_url": "https://api.github.com/orgs/rOpenHealth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4674386?v=3", 
+        "repos_url": "https://api.github.com/orgs/rOpenHealth/repos", 
+        "login": "rOpenHealth", 
+        "id": 4674386, 
+        "hooks_url": "https://api.github.com/orgs/rOpenHealth/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rOpenGov/issues", 
+        "members_url": "https://api.github.com/orgs/rOpenGov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/rOpenGov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rOpenGov", 
+        "events_url": "https://api.github.com/orgs/rOpenGov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5463092?v=3", 
+        "repos_url": "https://api.github.com/orgs/rOpenGov/repos", 
+        "login": "rOpenGov", 
+        "id": 5463092, 
+        "hooks_url": "https://api.github.com/orgs/rOpenGov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cloudyr/issues", 
+        "members_url": "https://api.github.com/orgs/cloudyr/members{/member}", 
+        "description": "Making R Cloudier!", 
+        "public_members_url": "https://api.github.com/orgs/cloudyr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cloudyr", 
+        "events_url": "https://api.github.com/orgs/cloudyr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10290205?v=3", 
+        "repos_url": "https://api.github.com/orgs/cloudyr/repos", 
+        "login": "cloudyr", 
+        "id": 10290205, 
+        "hooks_url": "https://api.github.com/orgs/cloudyr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ropenscilabs/issues", 
+        "members_url": "https://api.github.com/orgs/ropenscilabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ropenscilabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ropenscilabs", 
+        "events_url": "https://api.github.com/orgs/ropenscilabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16314060?v=3", 
+        "repos_url": "https://api.github.com/orgs/ropenscilabs/repos", 
+        "login": "ropenscilabs", 
+        "id": 16314060, 
+        "hooks_url": "https://api.github.com/orgs/ropenscilabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RL10N/issues", 
+        "members_url": "https://api.github.com/orgs/RL10N/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/RL10N/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RL10N", 
+        "events_url": "https://api.github.com/orgs/RL10N/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17181662?v=3", 
+        "repos_url": "https://api.github.com/orgs/RL10N/repos", 
+        "login": "RL10N", 
+        "id": 17181662, 
+        "hooks_url": "https://api.github.com/orgs/RL10N/hooks"
+    }
+]

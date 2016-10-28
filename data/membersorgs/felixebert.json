@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/UlmApi/issues", 
+        "members_url": "https://api.github.com/orgs/UlmApi/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/UlmApi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UlmApi", 
+        "events_url": "https://api.github.com/orgs/UlmApi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/985867?v=3", 
+        "repos_url": "https://api.github.com/orgs/UlmApi/repos", 
+        "login": "UlmApi", 
+        "id": 985867, 
+        "hooks_url": "https://api.github.com/orgs/UlmApi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ifcore/issues", 
+        "members_url": "https://api.github.com/orgs/ifcore/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ifcore/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ifcore", 
+        "events_url": "https://api.github.com/orgs/ifcore/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1635317?v=3", 
+        "repos_url": "https://api.github.com/orgs/ifcore/repos", 
+        "login": "ifcore", 
+        "id": 1635317, 
+        "hooks_url": "https://api.github.com/orgs/ifcore/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/stadtlandcode/issues", 
+        "members_url": "https://api.github.com/orgs/stadtlandcode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/stadtlandcode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/stadtlandcode", 
+        "events_url": "https://api.github.com/orgs/stadtlandcode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2950633?v=3", 
+        "repos_url": "https://api.github.com/orgs/stadtlandcode/repos", 
+        "login": "stadtlandcode", 
+        "id": 2950633, 
+        "hooks_url": "https://api.github.com/orgs/stadtlandcode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendatalab-de/issues", 
+        "members_url": "https://api.github.com/orgs/opendatalab-de/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opendatalab-de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendatalab-de", 
+        "events_url": "https://api.github.com/orgs/opendatalab-de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4950847?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendatalab-de/repos", 
+        "login": "opendatalab-de", 
+        "id": 4950847, 
+        "hooks_url": "https://api.github.com/orgs/opendatalab-de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendata-heilbronn/issues", 
+        "members_url": "https://api.github.com/orgs/opendata-heilbronn/members{/member}", 
+        "description": "Open Data Enthusiasten in und um Heilbronn ", 
+        "public_members_url": "https://api.github.com/orgs/opendata-heilbronn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendata-heilbronn", 
+        "events_url": "https://api.github.com/orgs/opendata-heilbronn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6741385?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendata-heilbronn/repos", 
+        "login": "opendata-heilbronn", 
+        "id": 6741385, 
+        "hooks_url": "https://api.github.com/orgs/opendata-heilbronn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cc86hn/issues", 
+        "members_url": "https://api.github.com/orgs/cc86hn/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/cc86hn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cc86hn", 
+        "events_url": "https://api.github.com/orgs/cc86hn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6808124?v=3", 
+        "repos_url": "https://api.github.com/orgs/cc86hn/repos", 
+        "login": "cc86hn", 
+        "id": 6808124, 
+        "hooks_url": "https://api.github.com/orgs/cc86hn/hooks"
+    }
+]

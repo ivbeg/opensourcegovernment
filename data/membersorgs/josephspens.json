@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/inrhythm/issues", 
+        "members_url": "https://api.github.com/orgs/inrhythm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/inrhythm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/inrhythm", 
+        "events_url": "https://api.github.com/orgs/inrhythm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3452711?v=3", 
+        "repos_url": "https://api.github.com/orgs/inrhythm/repos", 
+        "login": "inrhythm", 
+        "id": 3452711, 
+        "hooks_url": "https://api.github.com/orgs/inrhythm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spaceappsnyc/issues", 
+        "members_url": "https://api.github.com/orgs/spaceappsnyc/members{/member}", 
+        "description": "The New York City site for the NASA International Space Apps Challenge", 
+        "public_members_url": "https://api.github.com/orgs/spaceappsnyc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spaceappsnyc", 
+        "events_url": "https://api.github.com/orgs/spaceappsnyc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3997704?v=3", 
+        "repos_url": "https://api.github.com/orgs/spaceappsnyc/repos", 
+        "login": "spaceappsnyc", 
+        "id": 3997704, 
+        "hooks_url": "https://api.github.com/orgs/spaceappsnyc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SpaceAdvocates/issues", 
+        "members_url": "https://api.github.com/orgs/SpaceAdvocates/members{/member}", 
+        "description": "Space Advocates is a nonprofit space advocacy organization tasked with promoting space literacy and legislation through citizen engagement", 
+        "public_members_url": "https://api.github.com/orgs/SpaceAdvocates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SpaceAdvocates", 
+        "events_url": "https://api.github.com/orgs/SpaceAdvocates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4292820?v=3", 
+        "repos_url": "https://api.github.com/orgs/SpaceAdvocates/repos", 
+        "login": "SpaceAdvocates", 
+        "id": 4292820, 
+        "hooks_url": "https://api.github.com/orgs/SpaceAdvocates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ScriptEdcurriculum/issues", 
+        "members_url": "https://api.github.com/orgs/ScriptEdcurriculum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ScriptEdcurriculum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ScriptEdcurriculum", 
+        "events_url": "https://api.github.com/orgs/ScriptEdcurriculum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4925390?v=3", 
+        "repos_url": "https://api.github.com/orgs/ScriptEdcurriculum/repos", 
+        "login": "ScriptEdcurriculum", 
+        "id": 4925390, 
+        "hooks_url": "https://api.github.com/orgs/ScriptEdcurriculum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HacktheUniverse/issues", 
+        "members_url": "https://api.github.com/orgs/HacktheUniverse/members{/member}", 
+        "description": "This program is part of BridgeUp: STEM, an AMNH initiative educating youth about cutting edge computing in science research & communication.", 
+        "public_members_url": "https://api.github.com/orgs/HacktheUniverse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HacktheUniverse", 
+        "events_url": "https://api.github.com/orgs/HacktheUniverse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9373468?v=3", 
+        "repos_url": "https://api.github.com/orgs/HacktheUniverse/repos", 
+        "login": "HacktheUniverse", 
+        "id": 9373468, 
+        "hooks_url": "https://api.github.com/orgs/HacktheUniverse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HackTheDinos/issues", 
+        "members_url": "https://api.github.com/orgs/HackTheDinos/members{/member}", 
+        "description": "This program is part of BridgeUp: STEM, an AMNH initiative educating youth about cutting edge computing in science research & communication.", 
+        "public_members_url": "https://api.github.com/orgs/HackTheDinos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackTheDinos", 
+        "events_url": "https://api.github.com/orgs/HackTheDinos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15933153?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackTheDinos/repos", 
+        "login": "HackTheDinos", 
+        "id": 15933153, 
+        "hooks_url": "https://api.github.com/orgs/HackTheDinos/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opengovfoundation/issues", 
+        "members_url": "https://api.github.com/orgs/opengovfoundation/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opengovfoundation/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opengovfoundation", 
+        "events_url": "https://api.github.com/orgs/opengovfoundation/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2090211?v=3", 
+        "repos_url": "https://api.github.com/orgs/opengovfoundation/repos", 
+        "login": "opengovfoundation", 
+        "id": 2090211, 
+        "hooks_url": "https://api.github.com/orgs/opengovfoundation/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/devict/issues", 
+        "members_url": "https://api.github.com/orgs/devict/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/devict/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devict", 
+        "events_url": "https://api.github.com/orgs/devict/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4005632?v=3", 
+        "repos_url": "https://api.github.com/orgs/devict/repos", 
+        "login": "devict", 
+        "id": 4005632, 
+        "hooks_url": "https://api.github.com/orgs/devict/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/StartupWichita/issues", 
+        "members_url": "https://api.github.com/orgs/StartupWichita/members{/member}", 
+        "description": "Bringing connections and collisions to the entrepreneur, startup, and tech communities in Wichita, Kansas.", 
+        "public_members_url": "https://api.github.com/orgs/StartupWichita/public_members{/member}", 
+        "url": "https://api.github.com/orgs/StartupWichita", 
+        "events_url": "https://api.github.com/orgs/StartupWichita/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11721785?v=3", 
+        "repos_url": "https://api.github.com/orgs/StartupWichita/repos", 
+        "login": "StartupWichita", 
+        "id": 11721785, 
+        "hooks_url": "https://api.github.com/orgs/StartupWichita/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openwichita/issues", 
+        "members_url": "https://api.github.com/orgs/openwichita/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openwichita/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openwichita", 
+        "events_url": "https://api.github.com/orgs/openwichita/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12169903?v=3", 
+        "repos_url": "https://api.github.com/orgs/openwichita/repos", 
+        "login": "openwichita", 
+        "id": 12169903, 
+        "hooks_url": "https://api.github.com/orgs/openwichita/hooks"
+    }
+]

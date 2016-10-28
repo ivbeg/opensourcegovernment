@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NMML/issues", 
+        "members_url": "https://api.github.com/orgs/NMML/members{/member}", 
+        "description": "Marine Mammal Laboratory science developers at the NOAA Fisheries Alaska Fisheries Science Center in Seattle, WA", 
+        "public_members_url": "https://api.github.com/orgs/NMML/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NMML", 
+        "events_url": "https://api.github.com/orgs/NMML/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/872044?v=3", 
+        "repos_url": "https://api.github.com/orgs/NMML/repos", 
+        "login": "NMML", 
+        "id": 872044, 
+        "hooks_url": "https://api.github.com/orgs/NMML/hooks"
+    }
+]

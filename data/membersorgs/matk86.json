@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/materialsproject/issues", 
+        "members_url": "https://api.github.com/orgs/materialsproject/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/materialsproject/public_members{/member}", 
+        "url": "https://api.github.com/orgs/materialsproject", 
+        "events_url": "https://api.github.com/orgs/materialsproject/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/867057?v=3", 
+        "repos_url": "https://api.github.com/orgs/materialsproject/repos", 
+        "login": "materialsproject", 
+        "id": 867057, 
+        "hooks_url": "https://api.github.com/orgs/materialsproject/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/henniggroup/issues", 
+        "members_url": "https://api.github.com/orgs/henniggroup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/henniggroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/henniggroup", 
+        "events_url": "https://api.github.com/orgs/henniggroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7331257?v=3", 
+        "repos_url": "https://api.github.com/orgs/henniggroup/repos", 
+        "login": "henniggroup", 
+        "id": 7331257, 
+        "hooks_url": "https://api.github.com/orgs/henniggroup/hooks"
+    }
+]

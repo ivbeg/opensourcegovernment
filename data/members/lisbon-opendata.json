@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ricardomestre/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ricardomestre/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ricardomestre/orgs", 
+        "url": "https://api.github.com/users/ricardomestre", 
+        "gists_url": "https://api.github.com/users/ricardomestre/gists{/gist_id}", 
+        "html_url": "https://github.com/ricardomestre", 
+        "subscriptions_url": "https://api.github.com/users/ricardomestre/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1016701?v=3", 
+        "repos_url": "https://api.github.com/users/ricardomestre/repos", 
+        "received_events_url": "https://api.github.com/users/ricardomestre/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ricardomestre/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ricardomestre", 
+        "type": "User", 
+        "id": 1016701, 
+        "followers_url": "https://api.github.com/users/ricardomestre/followers"
+    }
+]

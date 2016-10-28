@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ColumbiaDevs/issues", 
+        "members_url": "https://api.github.com/orgs/ColumbiaDevs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ColumbiaDevs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ColumbiaDevs", 
+        "events_url": "https://api.github.com/orgs/ColumbiaDevs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/346237?v=3", 
+        "repos_url": "https://api.github.com/orgs/ColumbiaDevs/repos", 
+        "login": "ColumbiaDevs", 
+        "id": 346237, 
+        "hooks_url": "https://api.github.com/orgs/ColumbiaDevs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DCPython/issues", 
+        "members_url": "https://api.github.com/orgs/DCPython/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DCPython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCPython", 
+        "events_url": "https://api.github.com/orgs/DCPython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/468152?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCPython/repos", 
+        "login": "DCPython", 
+        "id": 468152, 
+        "hooks_url": "https://api.github.com/orgs/DCPython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ncbi/issues", 
+        "members_url": "https://api.github.com/orgs/ncbi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ncbi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ncbi", 
+        "events_url": "https://api.github.com/orgs/ncbi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3812119?v=3", 
+        "repos_url": "https://api.github.com/orgs/ncbi/repos", 
+        "login": "ncbi", 
+        "id": 3812119, 
+        "hooks_url": "https://api.github.com/orgs/ncbi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackseq/issues", 
+        "members_url": "https://api.github.com/orgs/hackseq/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hackseq/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackseq", 
+        "events_url": "https://api.github.com/orgs/hackseq/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17745135?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackseq/repos", 
+        "login": "hackseq", 
+        "id": 17745135, 
+        "hooks_url": "https://api.github.com/orgs/hackseq/hooks"
+    }
+]

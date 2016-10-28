@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/axiom-data-science/issues", 
+        "members_url": "https://api.github.com/orgs/axiom-data-science/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/axiom-data-science/public_members{/member}", 
+        "url": "https://api.github.com/orgs/axiom-data-science", 
+        "events_url": "https://api.github.com/orgs/axiom-data-science/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1138896?v=3", 
+        "repos_url": "https://api.github.com/orgs/axiom-data-science/repos", 
+        "login": "axiom-data-science", 
+        "id": 1138896, 
+        "hooks_url": "https://api.github.com/orgs/axiom-data-science/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geopython/issues", 
+        "members_url": "https://api.github.com/orgs/geopython/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/geopython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geopython", 
+        "events_url": "https://api.github.com/orgs/geopython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1855122?v=3", 
+        "repos_url": "https://api.github.com/orgs/geopython/repos", 
+        "login": "geopython", 
+        "id": 1855122, 
+        "hooks_url": "https://api.github.com/orgs/geopython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ioos/issues", 
+        "members_url": "https://api.github.com/orgs/ioos/members{/member}", 
+        "description": "Technical documentation and software supporting IOOS Data Management and Communications.", 
+        "public_members_url": "https://api.github.com/orgs/ioos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ioos", 
+        "events_url": "https://api.github.com/orgs/ioos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313832?v=3", 
+        "repos_url": "https://api.github.com/orgs/ioos/repos", 
+        "login": "ioos", 
+        "id": 5313832, 
+        "hooks_url": "https://api.github.com/orgs/ioos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sci-wms/issues", 
+        "members_url": "https://api.github.com/orgs/sci-wms/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/sci-wms/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sci-wms", 
+        "events_url": "https://api.github.com/orgs/sci-wms/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11201121?v=3", 
+        "repos_url": "https://api.github.com/orgs/sci-wms/repos", 
+        "login": "sci-wms", 
+        "id": 11201121, 
+        "hooks_url": "https://api.github.com/orgs/sci-wms/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/conda-forge/issues", 
+        "members_url": "https://api.github.com/orgs/conda-forge/members{/member}", 
+        "description": "A community led collection of recipes, build infrastructure and distributions for the conda package manager.", 
+        "public_members_url": "https://api.github.com/orgs/conda-forge/public_members{/member}", 
+        "url": "https://api.github.com/orgs/conda-forge", 
+        "events_url": "https://api.github.com/orgs/conda-forge/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11897326?v=3", 
+        "repos_url": "https://api.github.com/orgs/conda-forge/repos", 
+        "login": "conda-forge", 
+        "id": 11897326, 
+        "hooks_url": "https://api.github.com/orgs/conda-forge/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SECOORA/issues", 
+        "members_url": "https://api.github.com/orgs/SECOORA/members{/member}", 
+        "description": "Southeast Coastal Ocean Observing Regional Association", 
+        "public_members_url": "https://api.github.com/orgs/SECOORA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SECOORA", 
+        "events_url": "https://api.github.com/orgs/SECOORA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13785263?v=3", 
+        "repos_url": "https://api.github.com/orgs/SECOORA/repos", 
+        "login": "SECOORA", 
+        "id": 13785263, 
+        "hooks_url": "https://api.github.com/orgs/SECOORA/hooks"
+    }
+]

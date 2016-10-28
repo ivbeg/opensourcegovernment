@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pwyf/issues", 
+        "members_url": "https://api.github.com/orgs/pwyf/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pwyf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pwyf", 
+        "events_url": "https://api.github.com/orgs/pwyf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4498311?v=3", 
+        "repos_url": "https://api.github.com/orgs/pwyf/repos", 
+        "login": "pwyf", 
+        "id": 4498311, 
+        "hooks_url": "https://api.github.com/orgs/pwyf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NRGI/issues", 
+        "members_url": "https://api.github.com/orgs/NRGI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NRGI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NRGI", 
+        "events_url": "https://api.github.com/orgs/NRGI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8878228?v=3", 
+        "repos_url": "https://api.github.com/orgs/NRGI/repos", 
+        "login": "NRGI", 
+        "id": 8878228, 
+        "hooks_url": "https://api.github.com/orgs/NRGI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/procurement-analytics/issues", 
+        "members_url": "https://api.github.com/orgs/procurement-analytics/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/procurement-analytics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/procurement-analytics", 
+        "events_url": "https://api.github.com/orgs/procurement-analytics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13034762?v=3", 
+        "repos_url": "https://api.github.com/orgs/procurement-analytics/repos", 
+        "login": "procurement-analytics", 
+        "id": 13034762, 
+        "hooks_url": "https://api.github.com/orgs/procurement-analytics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/16iacc/issues", 
+        "members_url": "https://api.github.com/orgs/16iacc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/16iacc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/16iacc", 
+        "events_url": "https://api.github.com/orgs/16iacc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14086192?v=3", 
+        "repos_url": "https://api.github.com/orgs/16iacc/repos", 
+        "login": "16iacc", 
+        "id": 14086192, 
+        "hooks_url": "https://api.github.com/orgs/16iacc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BD-IATI/issues", 
+        "members_url": "https://api.github.com/orgs/BD-IATI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BD-IATI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BD-IATI", 
+        "events_url": "https://api.github.com/orgs/BD-IATI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16133107?v=3", 
+        "repos_url": "https://api.github.com/orgs/BD-IATI/repos", 
+        "login": "BD-IATI", 
+        "id": 16133107, 
+        "hooks_url": "https://api.github.com/orgs/BD-IATI/hooks"
+    }
+]

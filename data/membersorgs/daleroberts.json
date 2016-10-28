@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GeoscienceAustralia/issues", 
+        "members_url": "https://api.github.com/orgs/GeoscienceAustralia/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GeoscienceAustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeoscienceAustralia", 
+        "events_url": "https://api.github.com/orgs/GeoscienceAustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4704285?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeoscienceAustralia/repos", 
+        "login": "GeoscienceAustralia", 
+        "id": 4704285, 
+        "hooks_url": "https://api.github.com/orgs/GeoscienceAustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AustralianNationalUniversity/issues", 
+        "members_url": "https://api.github.com/orgs/AustralianNationalUniversity/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/AustralianNationalUniversity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AustralianNationalUniversity", 
+        "events_url": "https://api.github.com/orgs/AustralianNationalUniversity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5193614?v=3", 
+        "repos_url": "https://api.github.com/orgs/AustralianNationalUniversity/repos", 
+        "login": "AustralianNationalUniversity", 
+        "id": 5193614, 
+        "hooks_url": "https://api.github.com/orgs/AustralianNationalUniversity/hooks"
+    }
+]

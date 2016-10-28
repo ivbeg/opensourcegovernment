@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kartverket/issues", 
+        "members_url": "https://api.github.com/orgs/kartverket/members{/member}", 
+        "description": "The Norwegian Mapping Authority", 
+        "public_members_url": "https://api.github.com/orgs/kartverket/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kartverket", 
+        "events_url": "https://api.github.com/orgs/kartverket/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2970101?v=3", 
+        "repos_url": "https://api.github.com/orgs/kartverket/repos", 
+        "login": "kartverket", 
+        "id": 2970101, 
+        "hooks_url": "https://api.github.com/orgs/kartverket/hooks"
+    }
+]

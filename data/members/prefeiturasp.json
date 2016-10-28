@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/campagnucci/following{/other_user}", 
+        "events_url": "https://api.github.com/users/campagnucci/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/campagnucci/orgs", 
+        "url": "https://api.github.com/users/campagnucci", 
+        "gists_url": "https://api.github.com/users/campagnucci/gists{/gist_id}", 
+        "html_url": "https://github.com/campagnucci", 
+        "subscriptions_url": "https://api.github.com/users/campagnucci/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2335525?v=3", 
+        "repos_url": "https://api.github.com/users/campagnucci/repos", 
+        "received_events_url": "https://api.github.com/users/campagnucci/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/campagnucci/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "campagnucci", 
+        "type": "User", 
+        "id": 2335525, 
+        "followers_url": "https://api.github.com/users/campagnucci/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/PableraShow/following{/other_user}", 
+        "events_url": "https://api.github.com/users/PableraShow/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/PableraShow/orgs", 
+        "url": "https://api.github.com/users/PableraShow", 
+        "gists_url": "https://api.github.com/users/PableraShow/gists{/gist_id}", 
+        "html_url": "https://github.com/PableraShow", 
+        "subscriptions_url": "https://api.github.com/users/PableraShow/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2662484?v=3", 
+        "repos_url": "https://api.github.com/users/PableraShow/repos", 
+        "received_events_url": "https://api.github.com/users/PableraShow/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/PableraShow/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "PableraShow", 
+        "type": "User", 
+        "id": 2662484, 
+        "followers_url": "https://api.github.com/users/PableraShow/followers"
+    }
+]

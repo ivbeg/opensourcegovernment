@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/prefeiturasp/issues", 
+        "members_url": "https://api.github.com/orgs/prefeiturasp/members{/member}", 
+        "description": "Prefeitura Municipal de S\u00e3o Paulo", 
+        "public_members_url": "https://api.github.com/orgs/prefeiturasp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/prefeiturasp", 
+        "events_url": "https://api.github.com/orgs/prefeiturasp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7144299?v=3", 
+        "repos_url": "https://api.github.com/orgs/prefeiturasp/repos", 
+        "login": "prefeiturasp", 
+        "id": 7144299, 
+        "hooks_url": "https://api.github.com/orgs/prefeiturasp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WeMakeInternet/issues", 
+        "members_url": "https://api.github.com/orgs/WeMakeInternet/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WeMakeInternet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WeMakeInternet", 
+        "events_url": "https://api.github.com/orgs/WeMakeInternet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7798040?v=3", 
+        "repos_url": "https://api.github.com/orgs/WeMakeInternet/repos", 
+        "login": "WeMakeInternet", 
+        "id": 7798040, 
+        "hooks_url": "https://api.github.com/orgs/WeMakeInternet/hooks"
+    }
+]

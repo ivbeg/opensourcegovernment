@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ParamountVentures/issues", 
+        "members_url": "https://api.github.com/orgs/ParamountVentures/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ParamountVentures/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ParamountVentures", 
+        "events_url": "https://api.github.com/orgs/ParamountVentures/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6595282?v=3", 
+        "repos_url": "https://api.github.com/orgs/ParamountVentures/repos", 
+        "login": "ParamountVentures", 
+        "id": 6595282, 
+        "hooks_url": "https://api.github.com/orgs/ParamountVentures/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openglasgow/issues", 
+        "members_url": "https://api.github.com/orgs/openglasgow/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openglasgow/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openglasgow", 
+        "events_url": "https://api.github.com/orgs/openglasgow/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8038197?v=3", 
+        "repos_url": "https://api.github.com/orgs/openglasgow/repos", 
+        "login": "openglasgow", 
+        "id": 8038197, 
+        "hooks_url": "https://api.github.com/orgs/openglasgow/hooks"
+    }
+]

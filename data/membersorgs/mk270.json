@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataprotocols/issues", 
+        "members_url": "https://api.github.com/orgs/dataprotocols/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataprotocols/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprotocols", 
+        "events_url": "https://api.github.com/orgs/dataprotocols/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2647475?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprotocols/repos", 
+        "login": "dataprotocols", 
+        "id": 2647475, 
+        "hooks_url": "https://api.github.com/orgs/dataprotocols/hooks"
+    }
+]

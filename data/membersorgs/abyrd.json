@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opentripplanner/issues", 
+        "members_url": "https://api.github.com/orgs/opentripplanner/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opentripplanner/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentripplanner", 
+        "events_url": "https://api.github.com/orgs/opentripplanner/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3007066?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentripplanner/repos", 
+        "login": "opentripplanner", 
+        "id": 3007066, 
+        "hooks_url": "https://api.github.com/orgs/opentripplanner/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTransport/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTransport/members{/member}", 
+        "description": "The Open Transport Working Group's github organization", 
+        "public_members_url": "https://api.github.com/orgs/OpenTransport/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTransport", 
+        "events_url": "https://api.github.com/orgs/OpenTransport/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3233948?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTransport/repos", 
+        "login": "OpenTransport", 
+        "id": 3233948, 
+        "hooks_url": "https://api.github.com/orgs/OpenTransport/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/conveyal/issues", 
+        "members_url": "https://api.github.com/orgs/conveyal/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/conveyal/public_members{/member}", 
+        "url": "https://api.github.com/orgs/conveyal", 
+        "events_url": "https://api.github.com/orgs/conveyal/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3592637?v=3", 
+        "repos_url": "https://api.github.com/orgs/conveyal/repos", 
+        "login": "conveyal", 
+        "id": 3592637, 
+        "hooks_url": "https://api.github.com/orgs/conveyal/hooks"
+    }
+]

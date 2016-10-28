@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenRuhr/issues", 
+        "members_url": "https://api.github.com/orgs/OpenRuhr/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenRuhr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenRuhr", 
+        "events_url": "https://api.github.com/orgs/OpenRuhr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4332445?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenRuhr/repos", 
+        "login": "OpenRuhr", 
+        "id": 4332445, 
+        "hooks_url": "https://api.github.com/orgs/OpenRuhr/hooks"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityBuildingTools/issues", 
+        "members_url": "https://api.github.com/orgs/CityBuildingTools/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CityBuildingTools/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityBuildingTools", 
+        "events_url": "https://api.github.com/orgs/CityBuildingTools/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3220760?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityBuildingTools/repos", 
+        "login": "CityBuildingTools", 
+        "id": 3220760, 
+        "hooks_url": "https://api.github.com/orgs/CityBuildingTools/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osmlab/issues", 
+        "members_url": "https://api.github.com/orgs/osmlab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/osmlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osmlab", 
+        "events_url": "https://api.github.com/orgs/osmlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3856374?v=3", 
+        "repos_url": "https://api.github.com/orgs/osmlab/repos", 
+        "login": "osmlab", 
+        "id": 3856374, 
+        "hooks_url": "https://api.github.com/orgs/osmlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapzen/issues", 
+        "members_url": "https://api.github.com/orgs/mapzen/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapzen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapzen", 
+        "events_url": "https://api.github.com/orgs/mapzen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5435747?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapzen/repos", 
+        "login": "mapzen", 
+        "id": 5435747, 
+        "hooks_url": "https://api.github.com/orgs/mapzen/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/streetmix/issues", 
+        "members_url": "https://api.github.com/orgs/streetmix/members{/member}", 
+        "description": "Streetmix R&D. The Streetmix application codebase is at https://github.com/codeforamerica/streetmix/", 
+        "public_members_url": "https://api.github.com/orgs/streetmix/public_members{/member}", 
+        "url": "https://api.github.com/orgs/streetmix", 
+        "events_url": "https://api.github.com/orgs/streetmix/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6877271?v=3", 
+        "repos_url": "https://api.github.com/orgs/streetmix/repos", 
+        "login": "streetmix", 
+        "id": 6877271, 
+        "hooks_url": "https://api.github.com/orgs/streetmix/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/transitland/issues", 
+        "members_url": "https://api.github.com/orgs/transitland/members{/member}", 
+        "description": "An open source project sponsored by Mapzen.", 
+        "public_members_url": "https://api.github.com/orgs/transitland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/transitland", 
+        "events_url": "https://api.github.com/orgs/transitland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9141652?v=3", 
+        "repos_url": "https://api.github.com/orgs/transitland/repos", 
+        "login": "transitland", 
+        "id": 9141652, 
+        "hooks_url": "https://api.github.com/orgs/transitland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/valhalla/issues", 
+        "members_url": "https://api.github.com/orgs/valhalla/members{/member}", 
+        "description": "Open Source Routing Engine and Libraries sponsored by Mapzen.", 
+        "public_members_url": "https://api.github.com/orgs/valhalla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/valhalla", 
+        "events_url": "https://api.github.com/orgs/valhalla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10232331?v=3", 
+        "repos_url": "https://api.github.com/orgs/valhalla/repos", 
+        "login": "valhalla", 
+        "id": 10232331, 
+        "hooks_url": "https://api.github.com/orgs/valhalla/hooks"
+    }
+]

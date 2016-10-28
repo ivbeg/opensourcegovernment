@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bearing/issues", 
+        "members_url": "https://api.github.com/orgs/bearing/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bearing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bearing", 
+        "events_url": "https://api.github.com/orgs/bearing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1179817?v=3", 
+        "repos_url": "https://api.github.com/orgs/bearing/repos", 
+        "login": "bearing", 
+        "id": 1179817, 
+        "hooks_url": "https://api.github.com/orgs/bearing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lbl-anp/issues", 
+        "members_url": "https://api.github.com/orgs/lbl-anp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/lbl-anp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lbl-anp", 
+        "events_url": "https://api.github.com/orgs/lbl-anp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2237126?v=3", 
+        "repos_url": "https://api.github.com/orgs/lbl-anp/repos", 
+        "login": "lbl-anp", 
+        "id": 2237126, 
+        "hooks_url": "https://api.github.com/orgs/lbl-anp/hooks"
+    }
+]

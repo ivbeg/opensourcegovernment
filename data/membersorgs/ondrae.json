@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforkansascity/issues", 
+        "members_url": "https://api.github.com/orgs/codeforkansascity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforkansascity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforkansascity", 
+        "events_url": "https://api.github.com/orgs/codeforkansascity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5272305?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforkansascity/repos", 
+        "login": "codeforkansascity", 
+        "id": 5272305, 
+        "hooks_url": "https://api.github.com/orgs/codeforkansascity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Code-for-All/issues", 
+        "members_url": "https://api.github.com/orgs/Code-for-All/members{/member}", 
+        "description": "Connecting the global civic Code For movement", 
+        "public_members_url": "https://api.github.com/orgs/Code-for-All/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code-for-All", 
+        "events_url": "https://api.github.com/orgs/Code-for-All/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8158643?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code-for-All/repos", 
+        "login": "Code-for-All", 
+        "id": 8158643, 
+        "hooks_url": "https://api.github.com/orgs/Code-for-All/hooks"
+    }
+]

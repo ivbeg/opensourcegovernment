@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/shirschi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/shirschi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/shirschi/orgs", 
+        "url": "https://api.github.com/users/shirschi", 
+        "gists_url": "https://api.github.com/users/shirschi/gists{/gist_id}", 
+        "html_url": "https://github.com/shirschi", 
+        "subscriptions_url": "https://api.github.com/users/shirschi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7747691?v=3", 
+        "repos_url": "https://api.github.com/users/shirschi/repos", 
+        "received_events_url": "https://api.github.com/users/shirschi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/shirschi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "shirschi", 
+        "type": "User", 
+        "id": 7747691, 
+        "followers_url": "https://api.github.com/users/shirschi/followers"
+    }
+]

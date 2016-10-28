@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/thacker/issues", 
+        "members_url": "https://api.github.com/orgs/thacker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/thacker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thacker", 
+        "events_url": "https://api.github.com/orgs/thacker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/494319?v=3", 
+        "repos_url": "https://api.github.com/orgs/thacker/repos", 
+        "login": "thacker", 
+        "id": 494319, 
+        "hooks_url": "https://api.github.com/orgs/thacker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/fesl/issues", 
+        "members_url": "https://api.github.com/orgs/fesl/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/fesl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/fesl", 
+        "events_url": "https://api.github.com/orgs/fesl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1512917?v=3", 
+        "repos_url": "https://api.github.com/orgs/fesl/repos", 
+        "login": "fesl", 
+        "id": 1512917, 
+        "hooks_url": "https://api.github.com/orgs/fesl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okfn-brasil/issues", 
+        "members_url": "https://api.github.com/orgs/okfn-brasil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn-brasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn-brasil", 
+        "events_url": "https://api.github.com/orgs/okfn-brasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1666382?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn-brasil/repos", 
+        "login": "okfn-brasil", 
+        "id": 1666382, 
+        "hooks_url": "https://api.github.com/orgs/okfn-brasil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataviz/issues", 
+        "members_url": "https://api.github.com/orgs/dataviz/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dataviz/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataviz", 
+        "events_url": "https://api.github.com/orgs/dataviz/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3286762?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataviz/repos", 
+        "login": "dataviz", 
+        "id": 3286762, 
+        "hooks_url": "https://api.github.com/orgs/dataviz/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opentrials/issues", 
+        "members_url": "https://api.github.com/orgs/opentrials/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opentrials/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentrials", 
+        "events_url": "https://api.github.com/orgs/opentrials/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13900836?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentrials/repos", 
+        "login": "opentrials", 
+        "id": 13900836, 
+        "hooks_url": "https://api.github.com/orgs/opentrials/hooks"
+    }
+]

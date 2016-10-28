@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nasa-gibs/issues", 
+        "members_url": "https://api.github.com/orgs/nasa-gibs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nasa-gibs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nasa-gibs", 
+        "events_url": "https://api.github.com/orgs/nasa-gibs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6089130?v=3", 
+        "repos_url": "https://api.github.com/orgs/nasa-gibs/repos", 
+        "login": "nasa-gibs", 
+        "id": 6089130, 
+        "hooks_url": "https://api.github.com/orgs/nasa-gibs/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/daisy/issues", 
+        "members_url": "https://api.github.com/orgs/daisy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/daisy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/daisy", 
+        "events_url": "https://api.github.com/orgs/daisy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/757383?v=3", 
+        "repos_url": "https://api.github.com/orgs/daisy/repos", 
+        "login": "daisy", 
+        "id": 757383, 
+        "hooks_url": "https://api.github.com/orgs/daisy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/snaekobbi/issues", 
+        "members_url": "https://api.github.com/orgs/snaekobbi/members{/member}", 
+        "description": "The DAISY members MTM, SBS, NLB, Nota, Celia and Dedicon, who are collaborating on the Braille in DAISY Pipeline 2 project.", 
+        "public_members_url": "https://api.github.com/orgs/snaekobbi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/snaekobbi", 
+        "events_url": "https://api.github.com/orgs/snaekobbi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8028190?v=3", 
+        "repos_url": "https://api.github.com/orgs/snaekobbi/repos", 
+        "login": "snaekobbi", 
+        "id": 8028190, 
+        "hooks_url": "https://api.github.com/orgs/snaekobbi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mtmse/issues", 
+        "members_url": "https://api.github.com/orgs/mtmse/members{/member}", 
+        "description": "Swedish Agency for Accessible Media. Our mandate is to ensure that all persons with reading impairments can access literature and papers.", 
+        "public_members_url": "https://api.github.com/orgs/mtmse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mtmse", 
+        "events_url": "https://api.github.com/orgs/mtmse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9605602?v=3", 
+        "repos_url": "https://api.github.com/orgs/mtmse/repos", 
+        "login": "mtmse", 
+        "id": 9605602, 
+        "hooks_url": "https://api.github.com/orgs/mtmse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/braillespecs/issues", 
+        "members_url": "https://api.github.com/orgs/braillespecs/members{/member}", 
+        "description": "Provides a collection of braille related specifications", 
+        "public_members_url": "https://api.github.com/orgs/braillespecs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/braillespecs", 
+        "events_url": "https://api.github.com/orgs/braillespecs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10736410?v=3", 
+        "repos_url": "https://api.github.com/orgs/braillespecs/repos", 
+        "login": "braillespecs", 
+        "id": 10736410, 
+        "hooks_url": "https://api.github.com/orgs/braillespecs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/brailleapps/issues", 
+        "members_url": "https://api.github.com/orgs/brailleapps/members{/member}", 
+        "description": "Provides open source braille applications for a global community", 
+        "public_members_url": "https://api.github.com/orgs/brailleapps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/brailleapps", 
+        "events_url": "https://api.github.com/orgs/brailleapps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17319536?v=3", 
+        "repos_url": "https://api.github.com/orgs/brailleapps/repos", 
+        "login": "brailleapps", 
+        "id": 17319536, 
+        "hooks_url": "https://api.github.com/orgs/brailleapps/hooks"
+    }
+]

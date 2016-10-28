@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4HR/issues", 
+        "members_url": "https://api.github.com/orgs/Code4HR/members{/member}", 
+        "description": "We meet: http://meetup.code4hr.org, Working Tasks: http://tasks.code4hr.org, Slack: http://chat.code4hr.org", 
+        "public_members_url": "https://api.github.com/orgs/Code4HR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4HR", 
+        "events_url": "https://api.github.com/orgs/Code4HR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1490563?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4HR/repos", 
+        "login": "Code4HR", 
+        "id": 1490563, 
+        "hooks_url": "https://api.github.com/orgs/Code4HR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/maptime/issues", 
+        "members_url": "https://api.github.com/orgs/maptime/members{/member}", 
+        "description": "Start here: http://github.com/maptime/", 
+        "public_members_url": "https://api.github.com/orgs/maptime/public_members{/member}", 
+        "url": "https://api.github.com/orgs/maptime", 
+        "events_url": "https://api.github.com/orgs/maptime/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4994222?v=3", 
+        "repos_url": "https://api.github.com/orgs/maptime/repos", 
+        "login": "maptime", 
+        "id": 4994222, 
+        "hooks_url": "https://api.github.com/orgs/maptime/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenRouting/issues", 
+        "members_url": "https://api.github.com/orgs/OpenRouting/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OpenRouting/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenRouting", 
+        "events_url": "https://api.github.com/orgs/OpenRouting/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7926089?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenRouting/repos", 
+        "login": "OpenRouting", 
+        "id": 7926089, 
+        "hooks_url": "https://api.github.com/orgs/OpenRouting/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opentraildata/issues", 
+        "members_url": "https://api.github.com/orgs/opentraildata/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opentraildata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentraildata", 
+        "events_url": "https://api.github.com/orgs/opentraildata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8183511?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentraildata/repos", 
+        "login": "opentraildata", 
+        "id": 8183511, 
+        "hooks_url": "https://api.github.com/orgs/opentraildata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gisinc/issues", 
+        "members_url": "https://api.github.com/orgs/gisinc/members{/member}", 
+        "description": "Creating insight through location technology.", 
+        "public_members_url": "https://api.github.com/orgs/gisinc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gisinc", 
+        "events_url": "https://api.github.com/orgs/gisinc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8331171?v=3", 
+        "repos_url": "https://api.github.com/orgs/gisinc/repos", 
+        "login": "gisinc", 
+        "id": 8331171, 
+        "hooks_url": "https://api.github.com/orgs/gisinc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/paidmappers/issues", 
+        "members_url": "https://api.github.com/orgs/paidmappers/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/paidmappers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/paidmappers", 
+        "events_url": "https://api.github.com/orgs/paidmappers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13559687?v=3", 
+        "repos_url": "https://api.github.com/orgs/paidmappers/repos", 
+        "login": "paidmappers", 
+        "id": 13559687, 
+        "hooks_url": "https://api.github.com/orgs/paidmappers/hooks"
+    }
+]

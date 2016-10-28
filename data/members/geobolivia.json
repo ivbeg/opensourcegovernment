@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/severo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/severo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/severo/orgs", 
+        "url": "https://api.github.com/users/severo", 
+        "gists_url": "https://api.github.com/users/severo/gists{/gist_id}", 
+        "html_url": "https://github.com/severo", 
+        "subscriptions_url": "https://api.github.com/users/severo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1676121?v=3", 
+        "repos_url": "https://api.github.com/users/severo/repos", 
+        "received_events_url": "https://api.github.com/users/severo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/severo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "severo", 
+        "type": "User", 
+        "id": 1676121, 
+        "followers_url": "https://api.github.com/users/severo/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/sivadmp/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sivadmp/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sivadmp/orgs", 
+        "url": "https://api.github.com/users/sivadmp", 
+        "gists_url": "https://api.github.com/users/sivadmp/gists{/gist_id}", 
+        "html_url": "https://github.com/sivadmp", 
+        "subscriptions_url": "https://api.github.com/users/sivadmp/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2774606?v=3", 
+        "repos_url": "https://api.github.com/users/sivadmp/repos", 
+        "received_events_url": "https://api.github.com/users/sivadmp/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sivadmp/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sivadmp", 
+        "type": "User", 
+        "id": 2774606, 
+        "followers_url": "https://api.github.com/users/sivadmp/followers"
+    }
+]

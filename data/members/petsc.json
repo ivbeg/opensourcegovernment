@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jedbrown/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jedbrown/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jedbrown/orgs", 
+        "url": "https://api.github.com/users/jedbrown", 
+        "gists_url": "https://api.github.com/users/jedbrown/gists{/gist_id}", 
+        "html_url": "https://github.com/jedbrown", 
+        "subscriptions_url": "https://api.github.com/users/jedbrown/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3303?v=3", 
+        "repos_url": "https://api.github.com/users/jedbrown/repos", 
+        "received_events_url": "https://api.github.com/users/jedbrown/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jedbrown/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jedbrown", 
+        "type": "User", 
+        "id": 3303, 
+        "followers_url": "https://api.github.com/users/jedbrown/followers"
+    }
+]

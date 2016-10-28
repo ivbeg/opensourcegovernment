@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/VersaHQ/issues", 
+        "members_url": "https://api.github.com/orgs/VersaHQ/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/VersaHQ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/VersaHQ", 
+        "events_url": "https://api.github.com/orgs/VersaHQ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1691543?v=3", 
+        "repos_url": "https://api.github.com/orgs/VersaHQ/repos", 
+        "login": "VersaHQ", 
+        "id": 1691543, 
+        "hooks_url": "https://api.github.com/orgs/VersaHQ/hooks"
+    }
+]

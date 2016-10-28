@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Shopify/issues", 
+        "members_url": "https://api.github.com/orgs/Shopify/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Shopify/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Shopify", 
+        "events_url": "https://api.github.com/orgs/Shopify/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8085?v=3", 
+        "repos_url": "https://api.github.com/orgs/Shopify/repos", 
+        "login": "Shopify", 
+        "id": 8085, 
+        "hooks_url": "https://api.github.com/orgs/Shopify/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/batmanjs/issues", 
+        "members_url": "https://api.github.com/orgs/batmanjs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/batmanjs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/batmanjs", 
+        "events_url": "https://api.github.com/orgs/batmanjs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4632733?v=3", 
+        "repos_url": "https://api.github.com/orgs/batmanjs/repos", 
+        "login": "batmanjs", 
+        "id": 4632733, 
+        "hooks_url": "https://api.github.com/orgs/batmanjs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EpicGames/issues", 
+        "members_url": "https://api.github.com/orgs/EpicGames/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EpicGames/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpicGames", 
+        "events_url": "https://api.github.com/orgs/EpicGames/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6615685?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpicGames/repos", 
+        "login": "EpicGames", 
+        "id": 6615685, 
+        "hooks_url": "https://api.github.com/orgs/EpicGames/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/deptofdefense/issues", 
+        "members_url": "https://api.github.com/orgs/deptofdefense/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/deptofdefense/public_members{/member}", 
+        "url": "https://api.github.com/orgs/deptofdefense", 
+        "events_url": "https://api.github.com/orgs/deptofdefense/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13172082?v=3", 
+        "repos_url": "https://api.github.com/orgs/deptofdefense/repos", 
+        "login": "deptofdefense", 
+        "id": 13172082, 
+        "hooks_url": "https://api.github.com/orgs/deptofdefense/hooks"
+    }
+]

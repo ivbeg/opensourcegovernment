@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/collective/issues", 
+        "members_url": "https://api.github.com/orgs/collective/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/collective/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collective", 
+        "events_url": "https://api.github.com/orgs/collective/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/362867?v=3", 
+        "repos_url": "https://api.github.com/orgs/collective/repos", 
+        "login": "collective", 
+        "id": 362867, 
+        "hooks_url": "https://api.github.com/orgs/collective/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/plonegovbr/issues", 
+        "members_url": "https://api.github.com/orgs/plonegovbr/members{/member}", 
+        "description": "Comunidade Plone no Governo Brasileiro", 
+        "public_members_url": "https://api.github.com/orgs/plonegovbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plonegovbr", 
+        "events_url": "https://api.github.com/orgs/plonegovbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1334477?v=3", 
+        "repos_url": "https://api.github.com/orgs/plonegovbr/repos", 
+        "login": "plonegovbr", 
+        "id": 1334477, 
+        "hooks_url": "https://api.github.com/orgs/plonegovbr/hooks"
+    }
+]

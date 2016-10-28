@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/MN-Script-Team/issues", 
+        "members_url": "https://api.github.com/orgs/MN-Script-Team/members{/member}", 
+        "description": "A bunch of workers and staff with tech experience, getting together to make our eligibility systems better!", 
+        "public_members_url": "https://api.github.com/orgs/MN-Script-Team/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MN-Script-Team", 
+        "events_url": "https://api.github.com/orgs/MN-Script-Team/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8225944?v=3", 
+        "repos_url": "https://api.github.com/orgs/MN-Script-Team/repos", 
+        "login": "MN-Script-Team", 
+        "id": 8225944, 
+        "hooks_url": "https://api.github.com/orgs/MN-Script-Team/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpInc/issues", 
+        "members_url": "https://api.github.com/orgs/OpInc/members{/member}", 
+        "description": "We improve the technology used by human services professionals.", 
+        "public_members_url": "https://api.github.com/orgs/OpInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpInc", 
+        "events_url": "https://api.github.com/orgs/OpInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14959260?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpInc/repos", 
+        "login": "OpInc", 
+        "id": 14959260, 
+        "hooks_url": "https://api.github.com/orgs/OpInc/hooks"
+    }
+]

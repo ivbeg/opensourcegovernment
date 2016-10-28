@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforchange/issues", 
+        "members_url": "https://api.github.com/orgs/hackforchange/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackforchange/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforchange", 
+        "events_url": "https://api.github.com/orgs/hackforchange/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/829908?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforchange/repos", 
+        "login": "hackforchange", 
+        "id": 829908, 
+        "hooks_url": "https://api.github.com/orgs/hackforchange/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/monum/issues", 
+        "members_url": "https://api.github.com/orgs/monum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/monum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/monum", 
+        "events_url": "https://api.github.com/orgs/monum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2132462?v=3", 
+        "repos_url": "https://api.github.com/orgs/monum/repos", 
+        "login": "monum", 
+        "id": 2132462, 
+        "hooks_url": "https://api.github.com/orgs/monum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforboston/issues", 
+        "members_url": "https://api.github.com/orgs/codeforboston/members{/member}", 
+        "description": "Improving civic life and social good in Greater Boston.", 
+        "public_members_url": "https://api.github.com/orgs/codeforboston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforboston", 
+        "events_url": "https://api.github.com/orgs/codeforboston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2533182?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforboston/repos", 
+        "login": "codeforboston", 
+        "id": 2533182, 
+        "hooks_url": "https://api.github.com/orgs/codeforboston/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/leaflet-extras/issues", 
+        "members_url": "https://api.github.com/orgs/leaflet-extras/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/leaflet-extras/public_members{/member}", 
+        "url": "https://api.github.com/orgs/leaflet-extras", 
+        "events_url": "https://api.github.com/orgs/leaflet-extras/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3613260?v=3", 
+        "repos_url": "https://api.github.com/orgs/leaflet-extras/repos", 
+        "login": "leaflet-extras", 
+        "id": 3613260, 
+        "hooks_url": "https://api.github.com/orgs/leaflet-extras/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityOfBoston/issues", 
+        "members_url": "https://api.github.com/orgs/CityOfBoston/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CityOfBoston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityOfBoston", 
+        "events_url": "https://api.github.com/orgs/CityOfBoston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4692291?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityOfBoston/repos", 
+        "login": "CityOfBoston", 
+        "id": 4692291, 
+        "hooks_url": "https://api.github.com/orgs/CityOfBoston/hooks"
+    }
+]

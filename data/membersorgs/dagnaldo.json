@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ibamacsr/issues", 
+        "members_url": "https://api.github.com/orgs/ibamacsr/members{/member}", 
+        "description": "Coordena\u00e7\u00e3o Geral de Monitoramento Ambiental", 
+        "public_members_url": "https://api.github.com/orgs/ibamacsr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ibamacsr", 
+        "events_url": "https://api.github.com/orgs/ibamacsr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3985219?v=3", 
+        "repos_url": "https://api.github.com/orgs/ibamacsr/repos", 
+        "login": "ibamacsr", 
+        "id": 3985219, 
+        "hooks_url": "https://api.github.com/orgs/ibamacsr/hooks"
+    }
+]

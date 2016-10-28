@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/prodest/issues", 
+        "members_url": "https://api.github.com/orgs/prodest/members{/member}", 
+        "description": "Instituto de Tecnologia da Informa\u00e7\u00e3o e Comunica\u00e7\u00e3o do Esp\u00edrito Santo", 
+        "public_members_url": "https://api.github.com/orgs/prodest/public_members{/member}", 
+        "url": "https://api.github.com/orgs/prodest", 
+        "events_url": "https://api.github.com/orgs/prodest/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12850787?v=3", 
+        "repos_url": "https://api.github.com/orgs/prodest/repos", 
+        "login": "prodest", 
+        "id": 12850787, 
+        "hooks_url": "https://api.github.com/orgs/prodest/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/coop-code/issues", 
+        "members_url": "https://api.github.com/orgs/coop-code/members{/member}", 
+        "description": "A set of repositories to train and improve highly demanded skills in IT market.", 
+        "public_members_url": "https://api.github.com/orgs/coop-code/public_members{/member}", 
+        "url": "https://api.github.com/orgs/coop-code", 
+        "events_url": "https://api.github.com/orgs/coop-code/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21267701?v=3", 
+        "repos_url": "https://api.github.com/orgs/coop-code/repos", 
+        "login": "coop-code", 
+        "id": 21267701, 
+        "hooks_url": "https://api.github.com/orgs/coop-code/hooks"
+    }
+]

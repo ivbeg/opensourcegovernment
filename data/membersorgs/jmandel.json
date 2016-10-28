@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/chb/issues", 
+        "members_url": "https://api.github.com/orgs/chb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/chb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/chb", 
+        "events_url": "https://api.github.com/orgs/chb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/56440?v=3", 
+        "repos_url": "https://api.github.com/orgs/chb/repos", 
+        "login": "chb", 
+        "id": 56440, 
+        "hooks_url": "https://api.github.com/orgs/chb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/blue-button/issues", 
+        "members_url": "https://api.github.com/orgs/blue-button/members{/member}", 
+        "description": "Helping all Americans get access to their health data.", 
+        "public_members_url": "https://api.github.com/orgs/blue-button/public_members{/member}", 
+        "url": "https://api.github.com/orgs/blue-button", 
+        "events_url": "https://api.github.com/orgs/blue-button/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2185424?v=3", 
+        "repos_url": "https://api.github.com/orgs/blue-button/repos", 
+        "login": "blue-button", 
+        "id": 2185424, 
+        "hooks_url": "https://api.github.com/orgs/blue-button/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/smart-on-fhir/issues", 
+        "members_url": "https://api.github.com/orgs/smart-on-fhir/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smart-on-fhir/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smart-on-fhir", 
+        "events_url": "https://api.github.com/orgs/smart-on-fhir/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7401080?v=3", 
+        "repos_url": "https://api.github.com/orgs/smart-on-fhir/repos", 
+        "login": "smart-on-fhir", 
+        "id": 7401080, 
+        "hooks_url": "https://api.github.com/orgs/smart-on-fhir/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cds-hooks/issues", 
+        "members_url": "https://api.github.com/orgs/cds-hooks/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cds-hooks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cds-hooks", 
+        "events_url": "https://api.github.com/orgs/cds-hooks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16686252?v=3", 
+        "repos_url": "https://api.github.com/orgs/cds-hooks/repos", 
+        "login": "cds-hooks", 
+        "id": 16686252, 
+        "hooks_url": "https://api.github.com/orgs/cds-hooks/hooks"
+    }
+]

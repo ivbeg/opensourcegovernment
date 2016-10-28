@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/BostonRedevelop/issues", 
+        "members_url": "https://api.github.com/orgs/BostonRedevelop/members{/member}", 
+        "description": "Boston's planning and economic development agency. Building Boston's future, respecting Boston's past.", 
+        "public_members_url": "https://api.github.com/orgs/BostonRedevelop/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BostonRedevelop", 
+        "events_url": "https://api.github.com/orgs/BostonRedevelop/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7881539?v=3", 
+        "repos_url": "https://api.github.com/orgs/BostonRedevelop/repos", 
+        "login": "BostonRedevelop", 
+        "id": 7881539, 
+        "hooks_url": "https://api.github.com/orgs/BostonRedevelop/hooks"
+    }
+]

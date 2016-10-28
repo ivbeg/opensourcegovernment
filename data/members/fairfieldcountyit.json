@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/stemendrew/following{/other_user}", 
+        "events_url": "https://api.github.com/users/stemendrew/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/stemendrew/orgs", 
+        "url": "https://api.github.com/users/stemendrew", 
+        "gists_url": "https://api.github.com/users/stemendrew/gists{/gist_id}", 
+        "html_url": "https://github.com/stemendrew", 
+        "subscriptions_url": "https://api.github.com/users/stemendrew/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3424516?v=3", 
+        "repos_url": "https://api.github.com/users/stemendrew/repos", 
+        "received_events_url": "https://api.github.com/users/stemendrew/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/stemendrew/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "stemendrew", 
+        "type": "User", 
+        "id": 3424516, 
+        "followers_url": "https://api.github.com/users/stemendrew/followers"
+    }
+]

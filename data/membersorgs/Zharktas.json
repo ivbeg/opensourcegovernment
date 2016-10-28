@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ckan/issues", 
+        "members_url": "https://api.github.com/orgs/ckan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ckan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ckan", 
+        "events_url": "https://api.github.com/orgs/ckan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1630326?v=3", 
+        "repos_url": "https://api.github.com/orgs/ckan/repos", 
+        "login": "ckan", 
+        "id": 1630326, 
+        "hooks_url": "https://api.github.com/orgs/ckan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Pervasive/issues", 
+        "members_url": "https://api.github.com/orgs/Pervasive/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Pervasive/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Pervasive", 
+        "events_url": "https://api.github.com/orgs/Pervasive/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4188627?v=3", 
+        "repos_url": "https://api.github.com/orgs/Pervasive/repos", 
+        "login": "Pervasive", 
+        "id": 4188627, 
+        "hooks_url": "https://api.github.com/orgs/Pervasive/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gofore/issues", 
+        "members_url": "https://api.github.com/orgs/gofore/members{/member}", 
+        "description": "Awesome time ahead", 
+        "public_members_url": "https://api.github.com/orgs/gofore/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gofore", 
+        "events_url": "https://api.github.com/orgs/gofore/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5469341?v=3", 
+        "repos_url": "https://api.github.com/orgs/gofore/repos", 
+        "login": "gofore", 
+        "id": 5469341, 
+        "hooks_url": "https://api.github.com/orgs/gofore/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/issues", 
+        "members_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/public_members{/member}", 
+        "url": "https://api.github.com/orgs/yhteentoimivuuspalvelut", 
+        "events_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5754411?v=3", 
+        "repos_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/repos", 
+        "login": "yhteentoimivuuspalvelut", 
+        "id": 5754411, 
+        "hooks_url": "https://api.github.com/orgs/yhteentoimivuuspalvelut/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/koodiklinikka/issues", 
+        "members_url": "https://api.github.com/orgs/koodiklinikka/members{/member}", 
+        "description": "Koodiklinikka on kaikille avoin softakehitykseen keskittynyt yhteis\u00f6 harrastajille ja ammattilaisille.", 
+        "public_members_url": "https://api.github.com/orgs/koodiklinikka/public_members{/member}", 
+        "url": "https://api.github.com/orgs/koodiklinikka", 
+        "events_url": "https://api.github.com/orgs/koodiklinikka/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10520119?v=3", 
+        "repos_url": "https://api.github.com/orgs/koodiklinikka/repos", 
+        "login": "koodiklinikka", 
+        "id": 10520119, 
+        "hooks_url": "https://api.github.com/orgs/koodiklinikka/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/vrk-kpa/issues", 
+        "members_url": "https://api.github.com/orgs/vrk-kpa/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/vrk-kpa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vrk-kpa", 
+        "events_url": "https://api.github.com/orgs/vrk-kpa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11345641?v=3", 
+        "repos_url": "https://api.github.com/orgs/vrk-kpa/repos", 
+        "login": "vrk-kpa", 
+        "id": 11345641, 
+        "hooks_url": "https://api.github.com/orgs/vrk-kpa/hooks"
+    }
+]

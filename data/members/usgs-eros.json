@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/davidvhill/following{/other_user}", 
+        "events_url": "https://api.github.com/users/davidvhill/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/davidvhill/orgs", 
+        "url": "https://api.github.com/users/davidvhill", 
+        "gists_url": "https://api.github.com/users/davidvhill/gists{/gist_id}", 
+        "html_url": "https://github.com/davidvhill", 
+        "subscriptions_url": "https://api.github.com/users/davidvhill/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12154564?v=3", 
+        "repos_url": "https://api.github.com/users/davidvhill/repos", 
+        "received_events_url": "https://api.github.com/users/davidvhill/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/davidvhill/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "davidvhill", 
+        "type": "User", 
+        "id": 12154564, 
+        "followers_url": "https://api.github.com/users/davidvhill/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ronaldddilley/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ronaldddilley/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ronaldddilley/orgs", 
+        "url": "https://api.github.com/users/ronaldddilley", 
+        "gists_url": "https://api.github.com/users/ronaldddilley/gists{/gist_id}", 
+        "html_url": "https://github.com/ronaldddilley", 
+        "subscriptions_url": "https://api.github.com/users/ronaldddilley/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12140146?v=3", 
+        "repos_url": "https://api.github.com/users/ronaldddilley/repos", 
+        "received_events_url": "https://api.github.com/users/ronaldddilley/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ronaldddilley/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ronaldddilley", 
+        "type": "User", 
+        "id": 12140146, 
+        "followers_url": "https://api.github.com/users/ronaldddilley/followers"
+    }
+]

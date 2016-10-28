@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/archaeogeek/following{/other_user}", 
+        "events_url": "https://api.github.com/users/archaeogeek/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/archaeogeek/orgs", 
+        "url": "https://api.github.com/users/archaeogeek", 
+        "gists_url": "https://api.github.com/users/archaeogeek/gists{/gist_id}", 
+        "html_url": "https://github.com/archaeogeek", 
+        "subscriptions_url": "https://api.github.com/users/archaeogeek/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1544849?v=3", 
+        "repos_url": "https://api.github.com/users/archaeogeek/repos", 
+        "received_events_url": "https://api.github.com/users/archaeogeek/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/archaeogeek/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "archaeogeek", 
+        "type": "User", 
+        "id": 1544849, 
+        "followers_url": "https://api.github.com/users/archaeogeek/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/isedwards/following{/other_user}", 
+        "events_url": "https://api.github.com/users/isedwards/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/isedwards/orgs", 
+        "url": "https://api.github.com/users/isedwards", 
+        "gists_url": "https://api.github.com/users/isedwards/gists{/gist_id}", 
+        "html_url": "https://github.com/isedwards", 
+        "subscriptions_url": "https://api.github.com/users/isedwards/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2097922?v=3", 
+        "repos_url": "https://api.github.com/users/isedwards/repos", 
+        "received_events_url": "https://api.github.com/users/isedwards/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/isedwards/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "isedwards", 
+        "type": "User", 
+        "id": 2097922, 
+        "followers_url": "https://api.github.com/users/isedwards/followers"
+    }
+]

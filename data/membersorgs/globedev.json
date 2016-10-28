@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/globegit/issues", 
+        "members_url": "https://api.github.com/orgs/globegit/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/globegit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/globegit", 
+        "events_url": "https://api.github.com/orgs/globegit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/129701?v=3", 
+        "repos_url": "https://api.github.com/orgs/globegit/repos", 
+        "login": "globegit", 
+        "id": 129701, 
+        "hooks_url": "https://api.github.com/orgs/globegit/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/angerelle/following{/other_user}", 
+        "events_url": "https://api.github.com/users/angerelle/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/angerelle/orgs", 
+        "url": "https://api.github.com/users/angerelle", 
+        "gists_url": "https://api.github.com/users/angerelle/gists{/gist_id}", 
+        "html_url": "https://github.com/angerelle", 
+        "subscriptions_url": "https://api.github.com/users/angerelle/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/873683?v=3", 
+        "repos_url": "https://api.github.com/users/angerelle/repos", 
+        "received_events_url": "https://api.github.com/users/angerelle/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/angerelle/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "angerelle", 
+        "type": "User", 
+        "id": 873683, 
+        "followers_url": "https://api.github.com/users/angerelle/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/msaunby/following{/other_user}", 
+        "events_url": "https://api.github.com/users/msaunby/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/msaunby/orgs", 
+        "url": "https://api.github.com/users/msaunby", 
+        "gists_url": "https://api.github.com/users/msaunby/gists{/gist_id}", 
+        "html_url": "https://github.com/msaunby", 
+        "subscriptions_url": "https://api.github.com/users/msaunby/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/848911?v=3", 
+        "repos_url": "https://api.github.com/users/msaunby/repos", 
+        "received_events_url": "https://api.github.com/users/msaunby/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/msaunby/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "msaunby", 
+        "type": "User", 
+        "id": 848911, 
+        "followers_url": "https://api.github.com/users/msaunby/followers"
+    }
+]

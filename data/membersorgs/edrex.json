@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/camlistore/issues", 
+        "members_url": "https://api.github.com/orgs/camlistore/members{/member}", 
+        "description": "your personal storage system for life", 
+        "public_members_url": "https://api.github.com/orgs/camlistore/public_members{/member}", 
+        "url": "https://api.github.com/orgs/camlistore", 
+        "events_url": "https://api.github.com/orgs/camlistore/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/546165?v=3", 
+        "repos_url": "https://api.github.com/orgs/camlistore/repos", 
+        "login": "camlistore", 
+        "id": 546165, 
+        "hooks_url": "https://api.github.com/orgs/camlistore/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PDXHub/issues", 
+        "members_url": "https://api.github.com/orgs/PDXHub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PDXHub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PDXHub", 
+        "events_url": "https://api.github.com/orgs/PDXHub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/633334?v=3", 
+        "repos_url": "https://api.github.com/orgs/PDXHub/repos", 
+        "login": "PDXHub", 
+        "id": 633334, 
+        "hooks_url": "https://api.github.com/orgs/PDXHub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/activate/issues", 
+        "members_url": "https://api.github.com/orgs/activate/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/activate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/activate", 
+        "events_url": "https://api.github.com/orgs/activate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1158780?v=3", 
+        "repos_url": "https://api.github.com/orgs/activate/repos", 
+        "login": "activate", 
+        "id": 1158780, 
+        "hooks_url": "https://api.github.com/orgs/activate/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Sixgill/issues", 
+        "members_url": "https://api.github.com/orgs/Sixgill/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Sixgill/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Sixgill", 
+        "events_url": "https://api.github.com/orgs/Sixgill/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18385243?v=3", 
+        "repos_url": "https://api.github.com/orgs/Sixgill/repos", 
+        "login": "Sixgill", 
+        "id": 18385243, 
+        "hooks_url": "https://api.github.com/orgs/Sixgill/hooks"
+    }
+]

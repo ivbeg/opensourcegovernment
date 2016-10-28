@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/londonhackspace/issues", 
+        "members_url": "https://api.github.com/orgs/londonhackspace/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/londonhackspace/public_members{/member}", 
+        "url": "https://api.github.com/orgs/londonhackspace", 
+        "events_url": "https://api.github.com/orgs/londonhackspace/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/228837?v=3", 
+        "repos_url": "https://api.github.com/orgs/londonhackspace/repos", 
+        "login": "londonhackspace", 
+        "id": 228837, 
+        "hooks_url": "https://api.github.com/orgs/londonhackspace/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/alphagov/issues", 
+        "members_url": "https://api.github.com/orgs/alphagov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/alphagov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alphagov", 
+        "events_url": "https://api.github.com/orgs/alphagov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/596977?v=3", 
+        "repos_url": "https://api.github.com/orgs/alphagov/repos", 
+        "login": "alphagov", 
+        "id": 596977, 
+        "hooks_url": "https://api.github.com/orgs/alphagov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/emfcamp/issues", 
+        "members_url": "https://api.github.com/orgs/emfcamp/members{/member}", 
+        "description": "A weekend of geekery in an internet-connected field.", 
+        "public_members_url": "https://api.github.com/orgs/emfcamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/emfcamp", 
+        "events_url": "https://api.github.com/orgs/emfcamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1022392?v=3", 
+        "repos_url": "https://api.github.com/orgs/emfcamp/repos", 
+        "login": "emfcamp", 
+        "id": 1022392, 
+        "hooks_url": "https://api.github.com/orgs/emfcamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pubstandards/issues", 
+        "members_url": "https://api.github.com/orgs/pubstandards/members{/member}", 
+        "description": "Resources for Pub Standards groups.", 
+        "public_members_url": "https://api.github.com/orgs/pubstandards/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pubstandards", 
+        "events_url": "https://api.github.com/orgs/pubstandards/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7117218?v=3", 
+        "repos_url": "https://api.github.com/orgs/pubstandards/repos", 
+        "login": "pubstandards", 
+        "id": 7117218, 
+        "hooks_url": "https://api.github.com/orgs/pubstandards/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HackingMadison/issues", 
+        "members_url": "https://api.github.com/orgs/HackingMadison/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HackingMadison/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackingMadison", 
+        "events_url": "https://api.github.com/orgs/HackingMadison/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1305747?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackingMadison/repos", 
+        "login": "HackingMadison", 
+        "id": 1305747, 
+        "hooks_url": "https://api.github.com/orgs/HackingMadison/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bustlelabs/issues", 
+        "members_url": "https://api.github.com/orgs/bustlelabs/members{/member}", 
+        "description": "Open source projects and forks from the Bustle engineering team.", 
+        "public_members_url": "https://api.github.com/orgs/bustlelabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bustlelabs", 
+        "events_url": "https://api.github.com/orgs/bustlelabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2198187?v=3", 
+        "repos_url": "https://api.github.com/orgs/bustlelabs/repos", 
+        "login": "bustlelabs", 
+        "id": 2198187, 
+        "hooks_url": "https://api.github.com/orgs/bustlelabs/hooks"
+    }
+]

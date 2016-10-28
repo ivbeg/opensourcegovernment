@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/atepoorthuis/following{/other_user}", 
+        "events_url": "https://api.github.com/users/atepoorthuis/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/atepoorthuis/orgs", 
+        "url": "https://api.github.com/users/atepoorthuis", 
+        "gists_url": "https://api.github.com/users/atepoorthuis/gists{/gist_id}", 
+        "html_url": "https://github.com/atepoorthuis", 
+        "subscriptions_url": "https://api.github.com/users/atepoorthuis/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1752727?v=3", 
+        "repos_url": "https://api.github.com/users/atepoorthuis/repos", 
+        "received_events_url": "https://api.github.com/users/atepoorthuis/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/atepoorthuis/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "atepoorthuis", 
+        "type": "User", 
+        "id": 1752727, 
+        "followers_url": "https://api.github.com/users/atepoorthuis/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/bretwalker/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bretwalker/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bretwalker/orgs", 
+        "url": "https://api.github.com/users/bretwalker", 
+        "gists_url": "https://api.github.com/users/bretwalker/gists{/gist_id}", 
+        "html_url": "https://github.com/bretwalker", 
+        "subscriptions_url": "https://api.github.com/users/bretwalker/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/181698?v=3", 
+        "repos_url": "https://api.github.com/users/bretwalker/repos", 
+        "received_events_url": "https://api.github.com/users/bretwalker/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bretwalker/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bretwalker", 
+        "type": "User", 
+        "id": 181698, 
+        "followers_url": "https://api.github.com/users/bretwalker/followers"
+    }
+]

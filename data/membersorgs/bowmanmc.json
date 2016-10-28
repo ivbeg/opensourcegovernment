@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordayton/issues", 
+        "members_url": "https://api.github.com/orgs/codefordayton/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codefordayton/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordayton", 
+        "events_url": "https://api.github.com/orgs/codefordayton/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6026408?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordayton/repos", 
+        "login": "codefordayton", 
+        "id": 6026408, 
+        "hooks_url": "https://api.github.com/orgs/codefordayton/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/nmpeterson/following{/other_user}", 
+        "events_url": "https://api.github.com/users/nmpeterson/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/nmpeterson/orgs", 
+        "url": "https://api.github.com/users/nmpeterson", 
+        "gists_url": "https://api.github.com/users/nmpeterson/gists{/gist_id}", 
+        "html_url": "https://github.com/nmpeterson", 
+        "subscriptions_url": "https://api.github.com/users/nmpeterson/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4383272?v=3", 
+        "repos_url": "https://api.github.com/users/nmpeterson/repos", 
+        "received_events_url": "https://api.github.com/users/nmpeterson/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/nmpeterson/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "nmpeterson", 
+        "type": "User", 
+        "id": 4383272, 
+        "followers_url": "https://api.github.com/users/nmpeterson/followers"
+    }
+]

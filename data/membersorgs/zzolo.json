@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/FreeGeekTwinCities/issues", 
+        "members_url": "https://api.github.com/orgs/FreeGeekTwinCities/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/FreeGeekTwinCities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FreeGeekTwinCities", 
+        "events_url": "https://api.github.com/orgs/FreeGeekTwinCities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/359859?v=3", 
+        "repos_url": "https://api.github.com/orgs/FreeGeekTwinCities/repos", 
+        "login": "FreeGeekTwinCities", 
+        "id": 359859, 
+        "hooks_url": "https://api.github.com/orgs/FreeGeekTwinCities/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CivComs/issues", 
+        "members_url": "https://api.github.com/orgs/CivComs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CivComs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CivComs", 
+        "events_url": "https://api.github.com/orgs/CivComs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/778329?v=3", 
+        "repos_url": "https://api.github.com/orgs/CivComs/repos", 
+        "login": "CivComs", 
+        "id": 778329, 
+        "hooks_url": "https://api.github.com/orgs/CivComs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MinnPost/issues", 
+        "members_url": "https://api.github.com/orgs/MinnPost/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/MinnPost/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MinnPost", 
+        "events_url": "https://api.github.com/orgs/MinnPost/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085124?v=3", 
+        "repos_url": "https://api.github.com/orgs/MinnPost/repos", 
+        "login": "MinnPost", 
+        "id": 1085124, 
+        "hooks_url": "https://api.github.com/orgs/MinnPost/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTwinCities/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTwinCities/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OpenTwinCities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTwinCities", 
+        "events_url": "https://api.github.com/orgs/OpenTwinCities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2691793?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTwinCities/repos", 
+        "login": "OpenTwinCities", 
+        "id": 2691793, 
+        "hooks_url": "https://api.github.com/orgs/OpenTwinCities/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lumiere-lighting/issues", 
+        "members_url": "https://api.github.com/orgs/lumiere-lighting/members{/member}", 
+        "description": "Community controlled lighting.", 
+        "public_members_url": "https://api.github.com/orgs/lumiere-lighting/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lumiere-lighting", 
+        "events_url": "https://api.github.com/orgs/lumiere-lighting/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9094762?v=3", 
+        "repos_url": "https://api.github.com/orgs/lumiere-lighting/repos", 
+        "login": "lumiere-lighting", 
+        "id": 9094762, 
+        "hooks_url": "https://api.github.com/orgs/lumiere-lighting/hooks"
+    }
+]

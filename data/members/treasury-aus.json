@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/gordjw/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gordjw/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gordjw/orgs", 
+        "url": "https://api.github.com/users/gordjw", 
+        "gists_url": "https://api.github.com/users/gordjw/gists{/gist_id}", 
+        "html_url": "https://github.com/gordjw", 
+        "subscriptions_url": "https://api.github.com/users/gordjw/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1028531?v=3", 
+        "repos_url": "https://api.github.com/users/gordjw/repos", 
+        "received_events_url": "https://api.github.com/users/gordjw/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gordjw/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gordjw", 
+        "type": "User", 
+        "id": 1028531, 
+        "followers_url": "https://api.github.com/users/gordjw/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/zedzedzed/following{/other_user}", 
+        "events_url": "https://api.github.com/users/zedzedzed/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/zedzedzed/orgs", 
+        "url": "https://api.github.com/users/zedzedzed", 
+        "gists_url": "https://api.github.com/users/zedzedzed/gists{/gist_id}", 
+        "html_url": "https://github.com/zedzedzed", 
+        "subscriptions_url": "https://api.github.com/users/zedzedzed/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4811527?v=3", 
+        "repos_url": "https://api.github.com/users/zedzedzed/repos", 
+        "received_events_url": "https://api.github.com/users/zedzedzed/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/zedzedzed/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "zedzedzed", 
+        "type": "User", 
+        "id": 4811527, 
+        "followers_url": "https://api.github.com/users/zedzedzed/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/UV-CDAT/issues", 
+        "members_url": "https://api.github.com/orgs/UV-CDAT/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/UV-CDAT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UV-CDAT", 
+        "events_url": "https://api.github.com/orgs/UV-CDAT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2781444?v=3", 
+        "repos_url": "https://api.github.com/orgs/UV-CDAT/repos", 
+        "login": "UV-CDAT", 
+        "id": 2781444, 
+        "hooks_url": "https://api.github.com/orgs/UV-CDAT/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenGeoscience/issues", 
+        "members_url": "https://api.github.com/orgs/OpenGeoscience/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenGeoscience/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenGeoscience", 
+        "events_url": "https://api.github.com/orgs/OpenGeoscience/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3434706?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenGeoscience/repos", 
+        "login": "OpenGeoscience", 
+        "id": 3434706, 
+        "hooks_url": "https://api.github.com/orgs/OpenGeoscience/hooks"
+    }
+]

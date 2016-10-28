@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/github/issues", 
+        "members_url": "https://api.github.com/orgs/github/members{/member}", 
+        "description": "How people build software.", 
+        "public_members_url": "https://api.github.com/orgs/github/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github", 
+        "events_url": "https://api.github.com/orgs/github/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=3", 
+        "repos_url": "https://api.github.com/orgs/github/repos", 
+        "login": "github", 
+        "id": 9919, 
+        "hooks_url": "https://api.github.com/orgs/github/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/websages/issues", 
+        "members_url": "https://api.github.com/orgs/websages/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/websages/public_members{/member}", 
+        "url": "https://api.github.com/orgs/websages", 
+        "events_url": "https://api.github.com/orgs/websages/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/532584?v=3", 
+        "repos_url": "https://api.github.com/orgs/websages/repos", 
+        "login": "websages", 
+        "id": 532584, 
+        "hooks_url": "https://api.github.com/orgs/websages/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LexLadiesCode/issues", 
+        "members_url": "https://api.github.com/orgs/LexLadiesCode/members{/member}", 
+        "description": "All-ladies coding club based in Lexington, Kentucky.", 
+        "public_members_url": "https://api.github.com/orgs/LexLadiesCode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LexLadiesCode", 
+        "events_url": "https://api.github.com/orgs/LexLadiesCode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7451352?v=3", 
+        "repos_url": "https://api.github.com/orgs/LexLadiesCode/repos", 
+        "login": "LexLadiesCode", 
+        "id": 7451352, 
+        "hooks_url": "https://api.github.com/orgs/LexLadiesCode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/github-beta/issues", 
+        "members_url": "https://api.github.com/orgs/github-beta/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/github-beta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github-beta", 
+        "events_url": "https://api.github.com/orgs/github-beta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7704921?v=3", 
+        "repos_url": "https://api.github.com/orgs/github-beta/repos", 
+        "login": "github-beta", 
+        "id": 7704921, 
+        "hooks_url": "https://api.github.com/orgs/github-beta/hooks"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordc/issues", 
+        "members_url": "https://api.github.com/orgs/codefordc/members{/member}", 
+        "description": "Code for DC is an all volunteer organization that creates tools, information, and experiences that serve the District. ", 
+        "public_members_url": "https://api.github.com/orgs/codefordc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordc", 
+        "events_url": "https://api.github.com/orgs/codefordc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordc/repos", 
+        "login": "codefordc", 
+        "id": 2768897, 
+        "hooks_url": "https://api.github.com/orgs/codefordc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/department-of-veterans-affairs/issues", 
+        "members_url": "https://api.github.com/orgs/department-of-veterans-affairs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/department-of-veterans-affairs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/department-of-veterans-affairs", 
+        "events_url": "https://api.github.com/orgs/department-of-veterans-affairs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5421563?v=3", 
+        "repos_url": "https://api.github.com/orgs/department-of-veterans-affairs/repos", 
+        "login": "department-of-veterans-affairs", 
+        "id": 5421563, 
+        "hooks_url": "https://api.github.com/orgs/department-of-veterans-affairs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DCActionforChildren/issues", 
+        "members_url": "https://api.github.com/orgs/DCActionforChildren/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DCActionforChildren/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCActionforChildren", 
+        "events_url": "https://api.github.com/orgs/DCActionforChildren/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7659571?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCActionforChildren/repos", 
+        "login": "DCActionforChildren", 
+        "id": 7659571, 
+        "hooks_url": "https://api.github.com/orgs/DCActionforChildren/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DCgov/issues", 
+        "members_url": "https://api.github.com/orgs/DCgov/members{/member}", 
+        "description": "This is a pilot project of OCTO.  If your team or agency wants to learn more please email opensource@dc.gov.", 
+        "public_members_url": "https://api.github.com/orgs/DCgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCgov", 
+        "events_url": "https://api.github.com/orgs/DCgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13023164?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCgov/repos", 
+        "login": "DCgov", 
+        "id": 13023164, 
+        "hooks_url": "https://api.github.com/orgs/DCgov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/issues", 
+        "members_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JHU-DataViz-Summer16", 
+        "events_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19698512?v=3", 
+        "repos_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/repos", 
+        "login": "JHU-DataViz-Summer16", 
+        "id": 19698512, 
+        "hooks_url": "https://api.github.com/orgs/JHU-DataViz-Summer16/hooks"
+    }
+]

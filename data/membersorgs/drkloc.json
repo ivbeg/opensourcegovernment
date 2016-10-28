@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nuams/issues", 
+        "members_url": "https://api.github.com/orgs/nuams/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nuams/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nuams", 
+        "events_url": "https://api.github.com/orgs/nuams/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1872578?v=3", 
+        "repos_url": "https://api.github.com/orgs/nuams/repos", 
+        "login": "nuams", 
+        "id": 1872578, 
+        "hooks_url": "https://api.github.com/orgs/nuams/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NuCivic/issues", 
+        "members_url": "https://api.github.com/orgs/NuCivic/members{/member}", 
+        "description": "Open civic solutions", 
+        "public_members_url": "https://api.github.com/orgs/NuCivic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NuCivic", 
+        "events_url": "https://api.github.com/orgs/NuCivic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7472183?v=3", 
+        "repos_url": "https://api.github.com/orgs/NuCivic/repos", 
+        "login": "NuCivic", 
+        "id": 7472183, 
+        "hooks_url": "https://api.github.com/orgs/NuCivic/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/quincecatorce/issues", 
+        "members_url": "https://api.github.com/orgs/quincecatorce/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/quincecatorce/public_members{/member}", 
+        "url": "https://api.github.com/orgs/quincecatorce", 
+        "events_url": "https://api.github.com/orgs/quincecatorce/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15837373?v=3", 
+        "repos_url": "https://api.github.com/orgs/quincecatorce/repos", 
+        "login": "quincecatorce", 
+        "id": 15837373, 
+        "hooks_url": "https://api.github.com/orgs/quincecatorce/hooks"
+    }
+]

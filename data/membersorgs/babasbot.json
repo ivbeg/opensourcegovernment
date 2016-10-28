@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cursame/issues", 
+        "members_url": "https://api.github.com/orgs/cursame/members{/member}", 
+        "description": "Empresa de Software Educativo", 
+        "public_members_url": "https://api.github.com/orgs/cursame/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cursame", 
+        "events_url": "https://api.github.com/orgs/cursame/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10438926?v=3", 
+        "repos_url": "https://api.github.com/orgs/cursame/repos", 
+        "login": "cursame", 
+        "id": 10438926, 
+        "hooks_url": "https://api.github.com/orgs/cursame/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aliada-mx/issues", 
+        "members_url": "https://api.github.com/orgs/aliada-mx/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/aliada-mx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aliada-mx", 
+        "events_url": "https://api.github.com/orgs/aliada-mx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12038139?v=3", 
+        "repos_url": "https://api.github.com/orgs/aliada-mx/repos", 
+        "login": "aliada-mx", 
+        "id": 12038139, 
+        "hooks_url": "https://api.github.com/orgs/aliada-mx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/discomania-fm/issues", 
+        "members_url": "https://api.github.com/orgs/discomania-fm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/discomania-fm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/discomania-fm", 
+        "events_url": "https://api.github.com/orgs/discomania-fm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17130085?v=3", 
+        "repos_url": "https://api.github.com/orgs/discomania-fm/repos", 
+        "login": "discomania-fm", 
+        "id": 17130085, 
+        "hooks_url": "https://api.github.com/orgs/discomania-fm/hooks"
+    }
+]

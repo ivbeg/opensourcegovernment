@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/citizenlabsgr/issues", 
+        "members_url": "https://api.github.com/orgs/citizenlabsgr/members{/member}", 
+        "description": "Promoting Openness, Participation, And Efficiency In Municipal Governments And Our Communities", 
+        "public_members_url": "https://api.github.com/orgs/citizenlabsgr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/citizenlabsgr", 
+        "events_url": "https://api.github.com/orgs/citizenlabsgr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19910774?v=3", 
+        "repos_url": "https://api.github.com/orgs/citizenlabsgr/repos", 
+        "login": "citizenlabsgr", 
+        "id": 19910774, 
+        "hooks_url": "https://api.github.com/orgs/citizenlabsgr/hooks"
+    }
+]

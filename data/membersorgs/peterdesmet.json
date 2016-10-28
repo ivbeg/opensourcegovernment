@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Canadensys/issues", 
+        "members_url": "https://api.github.com/orgs/Canadensys/members{/member}", 
+        "description": "Network of Canadian biological collections", 
+        "public_members_url": "https://api.github.com/orgs/Canadensys/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Canadensys", 
+        "events_url": "https://api.github.com/orgs/Canadensys/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1469762?v=3", 
+        "repos_url": "https://api.github.com/orgs/Canadensys/repos", 
+        "login": "Canadensys", 
+        "id": 1469762, 
+        "hooks_url": "https://api.github.com/orgs/Canadensys/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/inbo/issues", 
+        "members_url": "https://api.github.com/orgs/inbo/members{/member}", 
+        "description": "Open source, data and science initiatives of the Research Institute for Nature and Forest (INBO)", 
+        "public_members_url": "https://api.github.com/orgs/inbo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/inbo", 
+        "events_url": "https://api.github.com/orgs/inbo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2735610?v=3", 
+        "repos_url": "https://api.github.com/orgs/inbo/repos", 
+        "login": "inbo", 
+        "id": 2735610, 
+        "hooks_url": "https://api.github.com/orgs/inbo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Datafable/issues", 
+        "members_url": "https://api.github.com/orgs/Datafable/members{/member}", 
+        "description": "We help you discover the untold stories in your data.", 
+        "public_members_url": "https://api.github.com/orgs/Datafable/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Datafable", 
+        "events_url": "https://api.github.com/orgs/Datafable/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3964984?v=3", 
+        "repos_url": "https://api.github.com/orgs/Datafable/repos", 
+        "login": "Datafable", 
+        "id": 3964984, 
+        "hooks_url": "https://api.github.com/orgs/Datafable/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tdwg/issues", 
+        "members_url": "https://api.github.com/orgs/tdwg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/tdwg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tdwg", 
+        "events_url": "https://api.github.com/orgs/tdwg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5882606?v=3", 
+        "repos_url": "https://api.github.com/orgs/tdwg/repos", 
+        "login": "tdwg", 
+        "id": 5882606, 
+        "hooks_url": "https://api.github.com/orgs/tdwg/hooks"
+    }
+]

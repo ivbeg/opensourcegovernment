@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/devcentral-pnnl/following{/other_user}", 
+        "events_url": "https://api.github.com/users/devcentral-pnnl/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/devcentral-pnnl/orgs", 
+        "url": "https://api.github.com/users/devcentral-pnnl", 
+        "gists_url": "https://api.github.com/users/devcentral-pnnl/gists{/gist_id}", 
+        "html_url": "https://github.com/devcentral-pnnl", 
+        "subscriptions_url": "https://api.github.com/users/devcentral-pnnl/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8882399?v=3", 
+        "repos_url": "https://api.github.com/users/devcentral-pnnl/repos", 
+        "received_events_url": "https://api.github.com/users/devcentral-pnnl/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/devcentral-pnnl/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "devcentral-pnnl", 
+        "type": "User", 
+        "id": 8882399, 
+        "followers_url": "https://api.github.com/users/devcentral-pnnl/followers"
+    }
+]

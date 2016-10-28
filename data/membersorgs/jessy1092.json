@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackfoldr/issues", 
+        "members_url": "https://api.github.com/orgs/hackfoldr/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackfoldr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackfoldr", 
+        "events_url": "https://api.github.com/orgs/hackfoldr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4025727?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackfoldr/repos", 
+        "login": "hackfoldr", 
+        "id": 4025727, 
+        "hooks_url": "https://api.github.com/orgs/hackfoldr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Semantic-Org/issues", 
+        "members_url": "https://api.github.com/orgs/Semantic-Org/members{/member}", 
+        "description": "Semantic Organization", 
+        "public_members_url": "https://api.github.com/orgs/Semantic-Org/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Semantic-Org", 
+        "events_url": "https://api.github.com/orgs/Semantic-Org/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5796209?v=3", 
+        "repos_url": "https://api.github.com/orgs/Semantic-Org/repos", 
+        "login": "Semantic-Org", 
+        "id": 5796209, 
+        "hooks_url": "https://api.github.com/orgs/Semantic-Org/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EasyIME/issues", 
+        "members_url": "https://api.github.com/orgs/EasyIME/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EasyIME/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EasyIME", 
+        "events_url": "https://api.github.com/orgs/EasyIME/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8572073?v=3", 
+        "repos_url": "https://api.github.com/orgs/EasyIME/repos", 
+        "login": "EasyIME", 
+        "id": 8572073, 
+        "hooks_url": "https://api.github.com/orgs/EasyIME/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/infortrend-openstack/issues", 
+        "members_url": "https://api.github.com/orgs/infortrend-openstack/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/infortrend-openstack/public_members{/member}", 
+        "url": "https://api.github.com/orgs/infortrend-openstack", 
+        "events_url": "https://api.github.com/orgs/infortrend-openstack/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11989528?v=3", 
+        "repos_url": "https://api.github.com/orgs/infortrend-openstack/repos", 
+        "login": "infortrend-openstack", 
+        "id": 11989528, 
+        "hooks_url": "https://api.github.com/orgs/infortrend-openstack/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wowafrica/issues", 
+        "members_url": "https://api.github.com/orgs/wowafrica/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wowafrica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wowafrica", 
+        "events_url": "https://api.github.com/orgs/wowafrica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14961964?v=3", 
+        "repos_url": "https://api.github.com/orgs/wowafrica/repos", 
+        "login": "wowafrica", 
+        "id": 14961964, 
+        "hooks_url": "https://api.github.com/orgs/wowafrica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/25sprout/issues", 
+        "members_url": "https://api.github.com/orgs/25sprout/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/25sprout/public_members{/member}", 
+        "url": "https://api.github.com/orgs/25sprout", 
+        "events_url": "https://api.github.com/orgs/25sprout/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15974103?v=3", 
+        "repos_url": "https://api.github.com/orgs/25sprout/repos", 
+        "login": "25sprout", 
+        "id": 15974103, 
+        "hooks_url": "https://api.github.com/orgs/25sprout/hooks"
+    }
+]

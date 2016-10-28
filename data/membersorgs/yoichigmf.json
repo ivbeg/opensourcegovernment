@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/qgis/issues", 
+        "members_url": "https://api.github.com/orgs/qgis/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/qgis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/qgis", 
+        "events_url": "https://api.github.com/orgs/qgis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/483444?v=3", 
+        "repos_url": "https://api.github.com/orgs/qgis/repos", 
+        "login": "qgis", 
+        "id": 483444, 
+        "hooks_url": "https://api.github.com/orgs/qgis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OSGeo-jp/issues", 
+        "members_url": "https://api.github.com/orgs/OSGeo-jp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OSGeo-jp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OSGeo-jp", 
+        "events_url": "https://api.github.com/orgs/OSGeo-jp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4319920?v=3", 
+        "repos_url": "https://api.github.com/orgs/OSGeo-jp/repos", 
+        "login": "OSGeo-jp", 
+        "id": 4319920, 
+        "hooks_url": "https://api.github.com/orgs/OSGeo-jp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforjapan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforjapan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforjapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforjapan", 
+        "events_url": "https://api.github.com/orgs/codeforjapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5137738?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforjapan/repos", 
+        "login": "codeforjapan", 
+        "id": 5137738, 
+        "hooks_url": "https://api.github.com/orgs/codeforjapan/hooks"
+    }
+]

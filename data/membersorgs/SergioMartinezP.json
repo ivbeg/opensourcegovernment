@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/InfotecMX/issues", 
+        "members_url": "https://api.github.com/orgs/InfotecMX/members{/member}", 
+        "description": "Desarrollos de c\u00f3digo abierto por la GDNPS", 
+        "public_members_url": "https://api.github.com/orgs/InfotecMX/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InfotecMX", 
+        "events_url": "https://api.github.com/orgs/InfotecMX/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8126924?v=3", 
+        "repos_url": "https://api.github.com/orgs/InfotecMX/repos", 
+        "login": "InfotecMX", 
+        "id": 8126924, 
+        "hooks_url": "https://api.github.com/orgs/InfotecMX/hooks"
+    }
+]

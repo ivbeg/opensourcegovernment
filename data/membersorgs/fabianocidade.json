@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pr-snas/issues", 
+        "members_url": "https://api.github.com/orgs/pr-snas/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pr-snas/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pr-snas", 
+        "events_url": "https://api.github.com/orgs/pr-snas/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2789451?v=3", 
+        "repos_url": "https://api.github.com/orgs/pr-snas/repos", 
+        "login": "pr-snas", 
+        "id": 2789451, 
+        "hooks_url": "https://api.github.com/orgs/pr-snas/hooks"
+    }
+]

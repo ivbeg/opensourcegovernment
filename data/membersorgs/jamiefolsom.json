@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/performant-software/issues", 
+        "members_url": "https://api.github.com/orgs/performant-software/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/performant-software/public_members{/member}", 
+        "url": "https://api.github.com/orgs/performant-software", 
+        "events_url": "https://api.github.com/orgs/performant-software/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1360682?v=3", 
+        "repos_url": "https://api.github.com/orgs/performant-software/repos", 
+        "login": "performant-software", 
+        "id": 1360682, 
+        "hooks_url": "https://api.github.com/orgs/performant-software/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hyperstudio/issues", 
+        "members_url": "https://api.github.com/orgs/hyperstudio/members{/member}", 
+        "description": "Digital Humanities Lab at MIT", 
+        "public_members_url": "https://api.github.com/orgs/hyperstudio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hyperstudio", 
+        "events_url": "https://api.github.com/orgs/hyperstudio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1633344?v=3", 
+        "repos_url": "https://api.github.com/orgs/hyperstudio/repos", 
+        "login": "hyperstudio", 
+        "id": 1633344, 
+        "hooks_url": "https://api.github.com/orgs/hyperstudio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openannotation/issues", 
+        "members_url": "https://api.github.com/orgs/openannotation/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openannotation/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openannotation", 
+        "events_url": "https://api.github.com/orgs/openannotation/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3476110?v=3", 
+        "repos_url": "https://api.github.com/orgs/openannotation/repos", 
+        "login": "openannotation", 
+        "id": 3476110, 
+        "hooks_url": "https://api.github.com/orgs/openannotation/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hofstra/issues", 
+        "members_url": "https://api.github.com/orgs/hofstra/members{/member}", 
+        "description": "The Digital (Humanities) Research Center at Hofstra University", 
+        "public_members_url": "https://api.github.com/orgs/hofstra/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hofstra", 
+        "events_url": "https://api.github.com/orgs/hofstra/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8985807?v=3", 
+        "repos_url": "https://api.github.com/orgs/hofstra/repos", 
+        "login": "hofstra", 
+        "id": 8985807, 
+        "hooks_url": "https://api.github.com/orgs/hofstra/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mit-history/issues", 
+        "members_url": "https://api.github.com/orgs/mit-history/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mit-history/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mit-history", 
+        "events_url": "https://api.github.com/orgs/mit-history/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20842510?v=3", 
+        "repos_url": "https://api.github.com/orgs/mit-history/repos", 
+        "login": "mit-history", 
+        "id": 20842510, 
+        "hooks_url": "https://api.github.com/orgs/mit-history/hooks"
+    }
+]

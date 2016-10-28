@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Ericsson/issues", 
+        "members_url": "https://api.github.com/orgs/Ericsson/members{/member}", 
+        "description": "Home for Ericsson's Open Source software", 
+        "public_members_url": "https://api.github.com/orgs/Ericsson/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Ericsson", 
+        "events_url": "https://api.github.com/orgs/Ericsson/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4161311?v=3", 
+        "repos_url": "https://api.github.com/orgs/Ericsson/repos", 
+        "login": "Ericsson", 
+        "id": 4161311, 
+        "hooks_url": "https://api.github.com/orgs/Ericsson/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/magellancloud/issues", 
+        "members_url": "https://api.github.com/orgs/magellancloud/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/magellancloud/public_members{/member}", 
+        "url": "https://api.github.com/orgs/magellancloud", 
+        "events_url": "https://api.github.com/orgs/magellancloud/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4308899?v=3", 
+        "repos_url": "https://api.github.com/orgs/magellancloud/repos", 
+        "login": "magellancloud", 
+        "id": 4308899, 
+        "hooks_url": "https://api.github.com/orgs/magellancloud/hooks"
+    }
+]

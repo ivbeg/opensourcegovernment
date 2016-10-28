@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/schnuerle/following{/other_user}", 
+        "events_url": "https://api.github.com/users/schnuerle/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/schnuerle/orgs", 
+        "url": "https://api.github.com/users/schnuerle", 
+        "gists_url": "https://api.github.com/users/schnuerle/gists{/gist_id}", 
+        "html_url": "https://github.com/schnuerle", 
+        "subscriptions_url": "https://api.github.com/users/schnuerle/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1285077?v=3", 
+        "repos_url": "https://api.github.com/users/schnuerle/repos", 
+        "received_events_url": "https://api.github.com/users/schnuerle/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/schnuerle/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "schnuerle", 
+        "type": "User", 
+        "id": 1285077, 
+        "followers_url": "https://api.github.com/users/schnuerle/followers"
+    }
+]

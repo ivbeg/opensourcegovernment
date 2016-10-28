@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HKCodeCamp/issues", 
+        "members_url": "https://api.github.com/orgs/HKCodeCamp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HKCodeCamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HKCodeCamp", 
+        "events_url": "https://api.github.com/orgs/HKCodeCamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2505558?v=3", 
+        "repos_url": "https://api.github.com/orgs/HKCodeCamp/repos", 
+        "login": "HKCodeCamp", 
+        "id": 2505558, 
+        "hooks_url": "https://api.github.com/orgs/HKCodeCamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }
+]

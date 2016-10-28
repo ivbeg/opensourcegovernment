@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/hagberg/following{/other_user}", 
+        "events_url": "https://api.github.com/users/hagberg/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/hagberg/orgs", 
+        "url": "https://api.github.com/users/hagberg", 
+        "gists_url": "https://api.github.com/users/hagberg/gists{/gist_id}", 
+        "html_url": "https://github.com/hagberg", 
+        "subscriptions_url": "https://api.github.com/users/hagberg/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/187875?v=3", 
+        "repos_url": "https://api.github.com/users/hagberg/repos", 
+        "received_events_url": "https://api.github.com/users/hagberg/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/hagberg/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "hagberg", 
+        "type": "User", 
+        "id": 187875, 
+        "followers_url": "https://api.github.com/users/hagberg/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mfisk/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mfisk/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mfisk/orgs", 
+        "url": "https://api.github.com/users/mfisk", 
+        "gists_url": "https://api.github.com/users/mfisk/gists{/gist_id}", 
+        "html_url": "https://github.com/mfisk", 
+        "subscriptions_url": "https://api.github.com/users/mfisk/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/35728?v=3", 
+        "repos_url": "https://api.github.com/users/mfisk/repos", 
+        "received_events_url": "https://api.github.com/users/mfisk/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mfisk/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mfisk", 
+        "type": "User", 
+        "id": 35728, 
+        "followers_url": "https://api.github.com/users/mfisk/followers"
+    }
+]

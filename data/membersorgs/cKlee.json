@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gbv/issues", 
+        "members_url": "https://api.github.com/orgs/gbv/members{/member}", 
+        "description": "Account der Verbundzentrale des GBV (VZG) f\u00fcr GBV-Projekte", 
+        "public_members_url": "https://api.github.com/orgs/gbv/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gbv", 
+        "events_url": "https://api.github.com/orgs/gbv/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/855076?v=3", 
+        "repos_url": "https://api.github.com/orgs/gbv/repos", 
+        "login": "gbv", 
+        "id": 855076, 
+        "hooks_url": "https://api.github.com/orgs/gbv/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dini-ag-kim/issues", 
+        "members_url": "https://api.github.com/orgs/dini-ag-kim/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dini-ag-kim/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dini-ag-kim", 
+        "events_url": "https://api.github.com/orgs/dini-ag-kim/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4964810?v=3", 
+        "repos_url": "https://api.github.com/orgs/dini-ag-kim/repos", 
+        "login": "dini-ag-kim", 
+        "id": 4964810, 
+        "hooks_url": "https://api.github.com/orgs/dini-ag-kim/hooks"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gcba/issues", 
+        "members_url": "https://api.github.com/orgs/gcba/members{/member}", 
+        "description": "Repositorio oficial del Gobierno de la Ciudad Aut\u00f3noma de Buenos Aires", 
+        "public_members_url": "https://api.github.com/orgs/gcba/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gcba", 
+        "events_url": "https://api.github.com/orgs/gcba/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/913499?v=3", 
+        "repos_url": "https://api.github.com/orgs/gcba/repos", 
+        "login": "gcba", 
+        "id": 913499, 
+        "hooks_url": "https://api.github.com/orgs/gcba/hooks"
+    }
+]

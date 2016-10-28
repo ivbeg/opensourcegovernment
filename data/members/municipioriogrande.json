@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/EquisTango/following{/other_user}", 
+        "events_url": "https://api.github.com/users/EquisTango/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/EquisTango/orgs", 
+        "url": "https://api.github.com/users/EquisTango", 
+        "gists_url": "https://api.github.com/users/EquisTango/gists{/gist_id}", 
+        "html_url": "https://github.com/EquisTango", 
+        "subscriptions_url": "https://api.github.com/users/EquisTango/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5860683?v=3", 
+        "repos_url": "https://api.github.com/users/EquisTango/repos", 
+        "received_events_url": "https://api.github.com/users/EquisTango/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/EquisTango/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "EquisTango", 
+        "type": "User", 
+        "id": 5860683, 
+        "followers_url": "https://api.github.com/users/EquisTango/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/Rezequiel/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Rezequiel/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Rezequiel/orgs", 
+        "url": "https://api.github.com/users/Rezequiel", 
+        "gists_url": "https://api.github.com/users/Rezequiel/gists{/gist_id}", 
+        "html_url": "https://github.com/Rezequiel", 
+        "subscriptions_url": "https://api.github.com/users/Rezequiel/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11818370?v=3", 
+        "repos_url": "https://api.github.com/users/Rezequiel/repos", 
+        "received_events_url": "https://api.github.com/users/Rezequiel/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Rezequiel/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Rezequiel", 
+        "type": "User", 
+        "id": 11818370, 
+        "followers_url": "https://api.github.com/users/Rezequiel/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rinfo/issues", 
+        "members_url": "https://api.github.com/orgs/rinfo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/rinfo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rinfo", 
+        "events_url": "https://api.github.com/orgs/rinfo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/655545?v=3", 
+        "repos_url": "https://api.github.com/orgs/rinfo/repos", 
+        "login": "rinfo", 
+        "id": 655545, 
+        "hooks_url": "https://api.github.com/orgs/rinfo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Avtryck/issues", 
+        "members_url": "https://api.github.com/orgs/Avtryck/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Avtryck/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Avtryck", 
+        "events_url": "https://api.github.com/orgs/Avtryck/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/680059?v=3", 
+        "repos_url": "https://api.github.com/orgs/Avtryck/repos", 
+        "login": "Avtryck", 
+        "id": 680059, 
+        "hooks_url": "https://api.github.com/orgs/Avtryck/hooks"
+    }
+]

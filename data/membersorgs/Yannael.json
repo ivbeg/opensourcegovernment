@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/datasets/issues", 
+        "members_url": "https://api.github.com/orgs/datasets/members{/member}", 
+        "description": "Important, commonly-used datasets in high quality, easy-to-use & open form as data packages", 
+        "public_members_url": "https://api.github.com/orgs/datasets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datasets", 
+        "events_url": "https://api.github.com/orgs/datasets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1643515?v=3", 
+        "repos_url": "https://api.github.com/orgs/datasets/repos", 
+        "login": "datasets", 
+        "id": 1643515, 
+        "hooks_url": "https://api.github.com/orgs/datasets/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BRiDGEIris/issues", 
+        "members_url": "https://api.github.com/orgs/BRiDGEIris/members{/member}", 
+        "description": "BRussels big Data platform for sharing and discovery in clinical GEnomics", 
+        "public_members_url": "https://api.github.com/orgs/BRiDGEIris/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BRiDGEIris", 
+        "events_url": "https://api.github.com/orgs/BRiDGEIris/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12714663?v=3", 
+        "repos_url": "https://api.github.com/orgs/BRiDGEIris/repos", 
+        "login": "BRiDGEIris", 
+        "id": 12714663, 
+        "hooks_url": "https://api.github.com/orgs/BRiDGEIris/hooks"
+    }
+]

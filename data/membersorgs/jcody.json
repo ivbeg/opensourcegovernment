@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sexinfo/issues", 
+        "members_url": "https://api.github.com/orgs/sexinfo/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sexinfo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sexinfo", 
+        "events_url": "https://api.github.com/orgs/sexinfo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/642231?v=3", 
+        "repos_url": "https://api.github.com/orgs/sexinfo/repos", 
+        "login": "sexinfo", 
+        "id": 642231, 
+        "hooks_url": "https://api.github.com/orgs/sexinfo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NUSSOC/issues", 
+        "members_url": "https://api.github.com/orgs/NUSSOC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NUSSOC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NUSSOC", 
+        "events_url": "https://api.github.com/orgs/NUSSOC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1294761?v=3", 
+        "repos_url": "https://api.github.com/orgs/NUSSOC/repos", 
+        "login": "NUSSOC", 
+        "id": 1294761, 
+        "hooks_url": "https://api.github.com/orgs/NUSSOC/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HackJersey/issues", 
+        "members_url": "https://api.github.com/orgs/HackJersey/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HackJersey/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackJersey", 
+        "events_url": "https://api.github.com/orgs/HackJersey/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2815612?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackJersey/repos", 
+        "login": "HackJersey", 
+        "id": 2815612, 
+        "hooks_url": "https://api.github.com/orgs/HackJersey/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForJerseyCity/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForJerseyCity/members{/member}", 
+        "description": "#civictech organization in Jersey City, a Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForJerseyCity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForJerseyCity", 
+        "events_url": "https://api.github.com/orgs/CodeForJerseyCity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6127403?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForJerseyCity/repos", 
+        "login": "CodeForJerseyCity", 
+        "id": 6127403, 
+        "hooks_url": "https://api.github.com/orgs/CodeForJerseyCity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wfplhatch/issues", 
+        "members_url": "https://api.github.com/orgs/wfplhatch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wfplhatch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wfplhatch", 
+        "events_url": "https://api.github.com/orgs/wfplhatch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11272629?v=3", 
+        "repos_url": "https://api.github.com/orgs/wfplhatch/repos", 
+        "login": "wfplhatch", 
+        "id": 11272629, 
+        "hooks_url": "https://api.github.com/orgs/wfplhatch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sasakiassociates/issues", 
+        "members_url": "https://api.github.com/orgs/sasakiassociates/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/sasakiassociates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sasakiassociates", 
+        "events_url": "https://api.github.com/orgs/sasakiassociates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12282458?v=3", 
+        "repos_url": "https://api.github.com/orgs/sasakiassociates/repos", 
+        "login": "sasakiassociates", 
+        "id": 12282458, 
+        "hooks_url": "https://api.github.com/orgs/sasakiassociates/hooks"
+    }
+]

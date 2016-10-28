@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/BillMills/following{/other_user}", 
+        "events_url": "https://api.github.com/users/BillMills/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/BillMills/orgs", 
+        "url": "https://api.github.com/users/BillMills", 
+        "gists_url": "https://api.github.com/users/BillMills/gists{/gist_id}", 
+        "html_url": "https://github.com/BillMills", 
+        "subscriptions_url": "https://api.github.com/users/BillMills/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1896943?v=3", 
+        "repos_url": "https://api.github.com/users/BillMills/repos", 
+        "received_events_url": "https://api.github.com/users/BillMills/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/BillMills/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "BillMills", 
+        "type": "User", 
+        "id": 1896943, 
+        "followers_url": "https://api.github.com/users/BillMills/followers"
+    }
+]

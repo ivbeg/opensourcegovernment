@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Healthway/issues", 
+        "members_url": "https://api.github.com/orgs/Healthway/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Healthway/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Healthway", 
+        "events_url": "https://api.github.com/orgs/Healthway/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2966804?v=3", 
+        "repos_url": "https://api.github.com/orgs/Healthway/repos", 
+        "login": "Healthway", 
+        "id": 2966804, 
+        "hooks_url": "https://api.github.com/orgs/Healthway/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/plugorgau/issues", 
+        "members_url": "https://api.github.com/orgs/plugorgau/members{/member}", 
+        "description": "Perth Linux Users Group", 
+        "public_members_url": "https://api.github.com/orgs/plugorgau/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plugorgau", 
+        "events_url": "https://api.github.com/orgs/plugorgau/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6704726?v=3", 
+        "repos_url": "https://api.github.com/orgs/plugorgau/repos", 
+        "login": "plugorgau", 
+        "id": 6704726, 
+        "hooks_url": "https://api.github.com/orgs/plugorgau/hooks"
+    }
+]

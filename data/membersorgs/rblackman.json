@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CUMTD/issues", 
+        "members_url": "https://api.github.com/orgs/CUMTD/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CUMTD/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CUMTD", 
+        "events_url": "https://api.github.com/orgs/CUMTD/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4162731?v=3", 
+        "repos_url": "https://api.github.com/orgs/CUMTD/repos", 
+        "login": "CUMTD", 
+        "id": 4162731, 
+        "hooks_url": "https://api.github.com/orgs/CUMTD/hooks"
+    }
+]

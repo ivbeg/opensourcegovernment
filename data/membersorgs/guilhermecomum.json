@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gabinetedigital/issues", 
+        "members_url": "https://api.github.com/orgs/gabinetedigital/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gabinetedigital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gabinetedigital", 
+        "events_url": "https://api.github.com/orgs/gabinetedigital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2326605?v=3", 
+        "repos_url": "https://api.github.com/orgs/gabinetedigital/repos", 
+        "login": "gabinetedigital", 
+        "id": 2326605, 
+        "hooks_url": "https://api.github.com/orgs/gabinetedigital/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CasaLiberdade/issues", 
+        "members_url": "https://api.github.com/orgs/CasaLiberdade/members{/member}", 
+        "description": "A shared space, a hackerspace where you can develop your stuff or yourself. ", 
+        "public_members_url": "https://api.github.com/orgs/CasaLiberdade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CasaLiberdade", 
+        "events_url": "https://api.github.com/orgs/CasaLiberdade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6247930?v=3", 
+        "repos_url": "https://api.github.com/orgs/CasaLiberdade/repos", 
+        "login": "CasaLiberdade", 
+        "id": 6247930, 
+        "hooks_url": "https://api.github.com/orgs/CasaLiberdade/hooks"
+    }
+]

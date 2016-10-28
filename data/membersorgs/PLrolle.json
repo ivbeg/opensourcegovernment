@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nanterre/issues", 
+        "members_url": "https://api.github.com/orgs/nanterre/members{/member}", 
+        "description": "Applications citoyennes open source au service de la ville participative", 
+        "public_members_url": "https://api.github.com/orgs/nanterre/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nanterre", 
+        "events_url": "https://api.github.com/orgs/nanterre/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12966566?v=3", 
+        "repos_url": "https://api.github.com/orgs/nanterre/repos", 
+        "login": "nanterre", 
+        "id": 12966566, 
+        "hooks_url": "https://api.github.com/orgs/nanterre/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenSourcePolitics/issues", 
+        "members_url": "https://api.github.com/orgs/OpenSourcePolitics/members{/member}", 
+        "description": "Join the conversation on Gitter   http://j.mp/chatENosp / Rejoignez la conversation sur Gitter : http://j.mp/chatFRosp", 
+        "public_members_url": "https://api.github.com/orgs/OpenSourcePolitics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenSourcePolitics", 
+        "events_url": "https://api.github.com/orgs/OpenSourcePolitics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13050143?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenSourcePolitics/repos", 
+        "login": "OpenSourcePolitics", 
+        "id": 13050143, 
+        "hooks_url": "https://api.github.com/orgs/OpenSourcePolitics/hooks"
+    }
+]

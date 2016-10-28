@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/FNSKtZH/issues", 
+        "members_url": "https://api.github.com/orgs/FNSKtZH/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/FNSKtZH/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FNSKtZH", 
+        "events_url": "https://api.github.com/orgs/FNSKtZH/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6028478?v=3", 
+        "repos_url": "https://api.github.com/orgs/FNSKtZH/repos", 
+        "login": "FNSKtZH", 
+        "id": 6028478, 
+        "hooks_url": "https://api.github.com/orgs/FNSKtZH/hooks"
+    }
+]

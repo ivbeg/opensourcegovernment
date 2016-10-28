@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/monum/issues", 
+        "members_url": "https://api.github.com/orgs/monum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/monum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/monum", 
+        "events_url": "https://api.github.com/orgs/monum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2132462?v=3", 
+        "repos_url": "https://api.github.com/orgs/monum/repos", 
+        "login": "monum", 
+        "id": 2132462, 
+        "hooks_url": "https://api.github.com/orgs/monum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityOfBoston/issues", 
+        "members_url": "https://api.github.com/orgs/CityOfBoston/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CityOfBoston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityOfBoston", 
+        "events_url": "https://api.github.com/orgs/CityOfBoston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4692291?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityOfBoston/repos", 
+        "login": "CityOfBoston", 
+        "id": 4692291, 
+        "hooks_url": "https://api.github.com/orgs/CityOfBoston/hooks"
+    }
+]

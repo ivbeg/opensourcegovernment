@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ndkv/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ndkv/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ndkv/orgs", 
+        "url": "https://api.github.com/users/ndkv", 
+        "gists_url": "https://api.github.com/users/ndkv/gists{/gist_id}", 
+        "html_url": "https://github.com/ndkv", 
+        "subscriptions_url": "https://api.github.com/users/ndkv/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/778666?v=3", 
+        "repos_url": "https://api.github.com/users/ndkv/repos", 
+        "received_events_url": "https://api.github.com/users/ndkv/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ndkv/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ndkv", 
+        "type": "User", 
+        "id": 778666, 
+        "followers_url": "https://api.github.com/users/ndkv/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/thijsbrentjens/following{/other_user}", 
+        "events_url": "https://api.github.com/users/thijsbrentjens/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/thijsbrentjens/orgs", 
+        "url": "https://api.github.com/users/thijsbrentjens", 
+        "gists_url": "https://api.github.com/users/thijsbrentjens/gists{/gist_id}", 
+        "html_url": "https://github.com/thijsbrentjens", 
+        "subscriptions_url": "https://api.github.com/users/thijsbrentjens/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1172941?v=3", 
+        "repos_url": "https://api.github.com/users/thijsbrentjens/repos", 
+        "received_events_url": "https://api.github.com/users/thijsbrentjens/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/thijsbrentjens/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "thijsbrentjens", 
+        "type": "User", 
+        "id": 1172941, 
+        "followers_url": "https://api.github.com/users/thijsbrentjens/followers"
+    }
+]

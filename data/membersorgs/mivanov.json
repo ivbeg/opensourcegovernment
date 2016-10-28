@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/localwiki/issues", 
+        "members_url": "https://api.github.com/orgs/localwiki/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/localwiki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/localwiki", 
+        "events_url": "https://api.github.com/orgs/localwiki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/601152?v=3", 
+        "repos_url": "https://api.github.com/orgs/localwiki/repos", 
+        "login": "localwiki", 
+        "id": 601152, 
+        "hooks_url": "https://api.github.com/orgs/localwiki/hooks"
+    }
+]

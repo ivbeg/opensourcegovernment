@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforboston/issues", 
+        "members_url": "https://api.github.com/orgs/codeforboston/members{/member}", 
+        "description": "Improving civic life and social good in Greater Boston.", 
+        "public_members_url": "https://api.github.com/orgs/codeforboston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforboston", 
+        "events_url": "https://api.github.com/orgs/codeforboston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2533182?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforboston/repos", 
+        "login": "codeforboston", 
+        "id": 2533182, 
+        "hooks_url": "https://api.github.com/orgs/codeforboston/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/maptime/issues", 
+        "members_url": "https://api.github.com/orgs/maptime/members{/member}", 
+        "description": "Start here: http://github.com/maptime/", 
+        "public_members_url": "https://api.github.com/orgs/maptime/public_members{/member}", 
+        "url": "https://api.github.com/orgs/maptime", 
+        "events_url": "https://api.github.com/orgs/maptime/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4994222?v=3", 
+        "repos_url": "https://api.github.com/orgs/maptime/repos", 
+        "login": "maptime", 
+        "id": 4994222, 
+        "hooks_url": "https://api.github.com/orgs/maptime/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/maptimeBoston/issues", 
+        "members_url": "https://api.github.com/orgs/maptimeBoston/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/maptimeBoston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/maptimeBoston", 
+        "events_url": "https://api.github.com/orgs/maptimeBoston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7799408?v=3", 
+        "repos_url": "https://api.github.com/orgs/maptimeBoston/repos", 
+        "login": "maptimeBoston", 
+        "id": 7799408, 
+        "hooks_url": "https://api.github.com/orgs/maptimeBoston/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geopandas/issues", 
+        "members_url": "https://api.github.com/orgs/geopandas/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/geopandas/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geopandas", 
+        "events_url": "https://api.github.com/orgs/geopandas/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8130715?v=3", 
+        "repos_url": "https://api.github.com/orgs/geopandas/repos", 
+        "login": "geopandas", 
+        "id": 8130715, 
+        "hooks_url": "https://api.github.com/orgs/geopandas/hooks"
+    }
+]

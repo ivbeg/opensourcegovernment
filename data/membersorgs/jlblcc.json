@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/arcticlcc/issues", 
+        "members_url": "https://api.github.com/orgs/arcticlcc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/arcticlcc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/arcticlcc", 
+        "events_url": "https://api.github.com/orgs/arcticlcc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1707496?v=3", 
+        "repos_url": "https://api.github.com/orgs/arcticlcc/repos", 
+        "login": "arcticlcc", 
+        "id": 1707496, 
+        "hooks_url": "https://api.github.com/orgs/arcticlcc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/adiwg/issues", 
+        "members_url": "https://api.github.com/orgs/adiwg/members{/member}", 
+        "description": "Working on methods to efficiently integrate and share data", 
+        "public_members_url": "https://api.github.com/orgs/adiwg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/adiwg", 
+        "events_url": "https://api.github.com/orgs/adiwg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6182167?v=3", 
+        "repos_url": "https://api.github.com/orgs/adiwg/repos", 
+        "login": "adiwg", 
+        "id": 6182167, 
+        "hooks_url": "https://api.github.com/orgs/adiwg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USFWS/issues", 
+        "members_url": "https://api.github.com/orgs/USFWS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/USFWS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USFWS", 
+        "events_url": "https://api.github.com/orgs/USFWS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7990587?v=3", 
+        "repos_url": "https://api.github.com/orgs/USFWS/repos", 
+        "login": "USFWS", 
+        "id": 7990587, 
+        "hooks_url": "https://api.github.com/orgs/USFWS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/northern-latitudes/issues", 
+        "members_url": "https://api.github.com/orgs/northern-latitudes/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/northern-latitudes/public_members{/member}", 
+        "url": "https://api.github.com/orgs/northern-latitudes", 
+        "events_url": "https://api.github.com/orgs/northern-latitudes/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17934101?v=3", 
+        "repos_url": "https://api.github.com/orgs/northern-latitudes/repos", 
+        "login": "northern-latitudes", 
+        "id": 17934101, 
+        "hooks_url": "https://api.github.com/orgs/northern-latitudes/hooks"
+    }
+]

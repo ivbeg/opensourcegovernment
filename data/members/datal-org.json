@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/avdata99/following{/other_user}", 
+        "events_url": "https://api.github.com/users/avdata99/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/avdata99/orgs", 
+        "url": "https://api.github.com/users/avdata99", 
+        "gists_url": "https://api.github.com/users/avdata99/gists{/gist_id}", 
+        "html_url": "https://github.com/avdata99", 
+        "subscriptions_url": "https://api.github.com/users/avdata99/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3237309?v=3", 
+        "repos_url": "https://api.github.com/users/avdata99/repos", 
+        "received_events_url": "https://api.github.com/users/avdata99/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/avdata99/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "avdata99", 
+        "type": "User", 
+        "id": 3237309, 
+        "followers_url": "https://api.github.com/users/avdata99/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/javierpajaro/following{/other_user}", 
+        "events_url": "https://api.github.com/users/javierpajaro/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/javierpajaro/orgs", 
+        "url": "https://api.github.com/users/javierpajaro", 
+        "gists_url": "https://api.github.com/users/javierpajaro/gists{/gist_id}", 
+        "html_url": "https://github.com/javierpajaro", 
+        "subscriptions_url": "https://api.github.com/users/javierpajaro/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/765718?v=3", 
+        "repos_url": "https://api.github.com/users/javierpajaro/repos", 
+        "received_events_url": "https://api.github.com/users/javierpajaro/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/javierpajaro/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "javierpajaro", 
+        "type": "User", 
+        "id": 765718, 
+        "followers_url": "https://api.github.com/users/javierpajaro/followers"
+    }
+]

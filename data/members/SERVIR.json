@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/SERVIRglobal/following{/other_user}", 
+        "events_url": "https://api.github.com/users/SERVIRglobal/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/SERVIRglobal/orgs", 
+        "url": "https://api.github.com/users/SERVIRglobal", 
+        "gists_url": "https://api.github.com/users/SERVIRglobal/gists{/gist_id}", 
+        "html_url": "https://github.com/SERVIRglobal", 
+        "subscriptions_url": "https://api.github.com/users/SERVIRglobal/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8172497?v=3", 
+        "repos_url": "https://api.github.com/users/SERVIRglobal/repos", 
+        "received_events_url": "https://api.github.com/users/SERVIRglobal/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/SERVIRglobal/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "SERVIRglobal", 
+        "type": "User", 
+        "id": 8172497, 
+        "followers_url": "https://api.github.com/users/SERVIRglobal/followers"
+    }
+]

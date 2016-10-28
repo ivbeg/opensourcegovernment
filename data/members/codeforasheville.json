@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/daveism/following{/other_user}", 
+        "events_url": "https://api.github.com/users/daveism/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/daveism/orgs", 
+        "url": "https://api.github.com/users/daveism", 
+        "gists_url": "https://api.github.com/users/daveism/gists{/gist_id}", 
+        "html_url": "https://github.com/daveism", 
+        "subscriptions_url": "https://api.github.com/users/daveism/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1017468?v=3", 
+        "repos_url": "https://api.github.com/users/daveism/repos", 
+        "received_events_url": "https://api.github.com/users/daveism/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/daveism/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "daveism", 
+        "type": "User", 
+        "id": 1017468, 
+        "followers_url": "https://api.github.com/users/daveism/followers"
+    }
+]

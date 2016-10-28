@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPhilly/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPhilly/members{/member}", 
+        "description": "Philly's civic hacking brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPhilly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPhilly", 
+        "events_url": "https://api.github.com/orgs/CodeForPhilly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1451716?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPhilly/repos", 
+        "login": "CodeForPhilly", 
+        "id": 1451716, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPhilly/hooks"
+    }
+]

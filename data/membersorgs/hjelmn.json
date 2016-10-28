@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hpc/issues", 
+        "members_url": "https://api.github.com/orgs/hpc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hpc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hpc", 
+        "events_url": "https://api.github.com/orgs/hpc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/957578?v=3", 
+        "repos_url": "https://api.github.com/orgs/hpc/repos", 
+        "login": "hpc", 
+        "id": 957578, 
+        "hooks_url": "https://api.github.com/orgs/hpc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/libusbx/issues", 
+        "members_url": "https://api.github.com/orgs/libusbx/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/libusbx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/libusbx", 
+        "events_url": "https://api.github.com/orgs/libusbx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926515?v=3", 
+        "repos_url": "https://api.github.com/orgs/libusbx/repos", 
+        "login": "libusbx", 
+        "id": 1926515, 
+        "hooks_url": "https://api.github.com/orgs/libusbx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-mpi/issues", 
+        "members_url": "https://api.github.com/orgs/open-mpi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/open-mpi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-mpi", 
+        "events_url": "https://api.github.com/orgs/open-mpi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2165682?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-mpi/repos", 
+        "login": "open-mpi", 
+        "id": 2165682, 
+        "hooks_url": "https://api.github.com/orgs/open-mpi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/libusb/issues", 
+        "members_url": "https://api.github.com/orgs/libusb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/libusb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/libusb", 
+        "events_url": "https://api.github.com/orgs/libusb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4439549?v=3", 
+        "repos_url": "https://api.github.com/orgs/libusb/repos", 
+        "login": "libusb", 
+        "id": 4439549, 
+        "hooks_url": "https://api.github.com/orgs/libusb/hooks"
+    }
+]

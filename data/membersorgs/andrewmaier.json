@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civicquarterly/issues", 
+        "members_url": "https://api.github.com/orgs/civicquarterly/members{/member}", 
+        "description": "A publication about transforming government with digital tools & design thinking.", 
+        "public_members_url": "https://api.github.com/orgs/civicquarterly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civicquarterly", 
+        "events_url": "https://api.github.com/orgs/civicquarterly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8052825?v=3", 
+        "repos_url": "https://api.github.com/orgs/civicquarterly/repos", 
+        "login": "civicquarterly", 
+        "id": 8052825, 
+        "hooks_url": "https://api.github.com/orgs/civicquarterly/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/grischard/following{/other_user}", 
+        "events_url": "https://api.github.com/users/grischard/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/grischard/orgs", 
+        "url": "https://api.github.com/users/grischard", 
+        "gists_url": "https://api.github.com/users/grischard/gists{/gist_id}", 
+        "html_url": "https://github.com/grischard", 
+        "subscriptions_url": "https://api.github.com/users/grischard/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1556567?v=3", 
+        "repos_url": "https://api.github.com/users/grischard/repos", 
+        "received_events_url": "https://api.github.com/users/grischard/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/grischard/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "grischard", 
+        "type": "User", 
+        "id": 1556567, 
+        "followers_url": "https://api.github.com/users/grischard/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/petzlux/following{/other_user}", 
+        "events_url": "https://api.github.com/users/petzlux/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/petzlux/orgs", 
+        "url": "https://api.github.com/users/petzlux", 
+        "gists_url": "https://api.github.com/users/petzlux/gists{/gist_id}", 
+        "html_url": "https://github.com/petzlux", 
+        "subscriptions_url": "https://api.github.com/users/petzlux/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2540428?v=3", 
+        "repos_url": "https://api.github.com/users/petzlux/repos", 
+        "received_events_url": "https://api.github.com/users/petzlux/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/petzlux/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "petzlux", 
+        "type": "User", 
+        "id": 2540428, 
+        "followers_url": "https://api.github.com/users/petzlux/followers"
+    }
+]

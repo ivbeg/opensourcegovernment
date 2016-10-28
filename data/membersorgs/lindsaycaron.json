@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/activate/issues", 
+        "members_url": "https://api.github.com/orgs/activate/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/activate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/activate", 
+        "events_url": "https://api.github.com/orgs/activate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1158780?v=3", 
+        "repos_url": "https://api.github.com/orgs/activate/repos", 
+        "login": "activate", 
+        "id": 1158780, 
+        "hooks_url": "https://api.github.com/orgs/activate/hooks"
+    }
+]

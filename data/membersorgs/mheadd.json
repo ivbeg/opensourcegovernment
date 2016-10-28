@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hack4reno2011/issues", 
+        "members_url": "https://api.github.com/orgs/hack4reno2011/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hack4reno2011/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hack4reno2011", 
+        "events_url": "https://api.github.com/orgs/hack4reno2011/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1020828?v=3", 
+        "repos_url": "https://api.github.com/orgs/hack4reno2011/repos", 
+        "login": "hack4reno2011", 
+        "id": 1020828, 
+        "hooks_url": "https://api.github.com/orgs/hack4reno2011/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPhilly/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPhilly/members{/member}", 
+        "description": "Philly's civic hacking brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPhilly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPhilly", 
+        "events_url": "https://api.github.com/orgs/CodeForPhilly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1451716?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPhilly/repos", 
+        "login": "CodeForPhilly", 
+        "id": 1451716, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPhilly/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/issues", 
+        "members_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CfABrigadeSanFrancisco", 
+        "events_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1452096?v=3", 
+        "repos_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/repos", 
+        "login": "CfABrigadeSanFrancisco", 
+        "id": 1452096, 
+        "hooks_url": "https://api.github.com/orgs/CfABrigadeSanFrancisco/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-data-standards/issues", 
+        "members_url": "https://api.github.com/orgs/open-data-standards/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/open-data-standards/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-data-standards", 
+        "events_url": "https://api.github.com/orgs/open-data-standards/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2591067?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-data-standards/repos", 
+        "login": "open-data-standards", 
+        "id": 2591067, 
+        "hooks_url": "https://api.github.com/orgs/open-data-standards/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/summer-of-open-source/issues", 
+        "members_url": "https://api.github.com/orgs/summer-of-open-source/members{/member}", 
+        "description": "We're a fellowship program pairing GDI students with mentors to work on open source projects.", 
+        "public_members_url": "https://api.github.com/orgs/summer-of-open-source/public_members{/member}", 
+        "url": "https://api.github.com/orgs/summer-of-open-source", 
+        "events_url": "https://api.github.com/orgs/summer-of-open-source/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7675041?v=3", 
+        "repos_url": "https://api.github.com/orgs/summer-of-open-source/repos", 
+        "login": "summer-of-open-source", 
+        "id": 7675041, 
+        "hooks_url": "https://api.github.com/orgs/summer-of-open-source/hooks"
+    }
+]

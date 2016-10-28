@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/andyhull/following{/other_user}", 
+        "events_url": "https://api.github.com/users/andyhull/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/andyhull/orgs", 
+        "url": "https://api.github.com/users/andyhull", 
+        "gists_url": "https://api.github.com/users/andyhull/gists{/gist_id}", 
+        "html_url": "https://github.com/andyhull", 
+        "subscriptions_url": "https://api.github.com/users/andyhull/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/613334?v=3", 
+        "repos_url": "https://api.github.com/users/andyhull/repos", 
+        "received_events_url": "https://api.github.com/users/andyhull/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/andyhull/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "andyhull", 
+        "type": "User", 
+        "id": 613334, 
+        "followers_url": "https://api.github.com/users/andyhull/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ttmp/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ttmp/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ttmp/orgs", 
+        "url": "https://api.github.com/users/ttmp", 
+        "gists_url": "https://api.github.com/users/ttmp/gists{/gist_id}", 
+        "html_url": "https://github.com/ttmp", 
+        "subscriptions_url": "https://api.github.com/users/ttmp/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/858545?v=3", 
+        "repos_url": "https://api.github.com/users/ttmp/repos", 
+        "received_events_url": "https://api.github.com/users/ttmp/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ttmp/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ttmp", 
+        "type": "User", 
+        "id": 858545, 
+        "followers_url": "https://api.github.com/users/ttmp/followers"
+    }
+]

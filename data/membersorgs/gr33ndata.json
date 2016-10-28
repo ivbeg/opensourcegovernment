@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openfootball/issues", 
+        "members_url": "https://api.github.com/orgs/openfootball/members{/member}", 
+        "description": "Open Public Domain Football Data - Incl. The Free World Football Almanac", 
+        "public_members_url": "https://api.github.com/orgs/openfootball/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openfootball", 
+        "events_url": "https://api.github.com/orgs/openfootball/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4477026?v=3", 
+        "repos_url": "https://api.github.com/orgs/openfootball/repos", 
+        "login": "openfootball", 
+        "id": 4477026, 
+        "hooks_url": "https://api.github.com/orgs/openfootball/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OKFEgypt/issues", 
+        "members_url": "https://api.github.com/orgs/OKFEgypt/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OKFEgypt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OKFEgypt", 
+        "events_url": "https://api.github.com/orgs/OKFEgypt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5731928?v=3", 
+        "repos_url": "https://api.github.com/orgs/OKFEgypt/repos", 
+        "login": "OKFEgypt", 
+        "id": 5731928, 
+        "hooks_url": "https://api.github.com/orgs/OKFEgypt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Pyeg/issues", 
+        "members_url": "https://api.github.com/orgs/Pyeg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Pyeg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Pyeg", 
+        "events_url": "https://api.github.com/orgs/Pyeg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6231836?v=3", 
+        "repos_url": "https://api.github.com/orgs/Pyeg/repos", 
+        "login": "Pyeg", 
+        "id": 6231836, 
+        "hooks_url": "https://api.github.com/orgs/Pyeg/hooks"
+    }
+]

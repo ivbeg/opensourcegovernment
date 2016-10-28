@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/coi-gov-pl/issues", 
+        "members_url": "https://api.github.com/orgs/coi-gov-pl/members{/member}", 
+        "description": "Public profile for open-source projects of Center for Information Technology", 
+        "public_members_url": "https://api.github.com/orgs/coi-gov-pl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/coi-gov-pl", 
+        "events_url": "https://api.github.com/orgs/coi-gov-pl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7711115?v=3", 
+        "repos_url": "https://api.github.com/orgs/coi-gov-pl/repos", 
+        "login": "coi-gov-pl", 
+        "id": 7711115, 
+        "hooks_url": "https://api.github.com/orgs/coi-gov-pl/hooks"
+    }
+]

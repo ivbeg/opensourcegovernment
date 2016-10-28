@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/educloudalliance/issues", 
+        "members_url": "https://api.github.com/orgs/educloudalliance/members{/member}", 
+        "description": "Jointly create shared community-driven distribution channel for cloud technology based services and teaching material in Education", 
+        "public_members_url": "https://api.github.com/orgs/educloudalliance/public_members{/member}", 
+        "url": "https://api.github.com/orgs/educloudalliance", 
+        "events_url": "https://api.github.com/orgs/educloudalliance/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6926874?v=3", 
+        "repos_url": "https://api.github.com/orgs/educloudalliance/repos", 
+        "login": "educloudalliance", 
+        "id": 6926874, 
+        "hooks_url": "https://api.github.com/orgs/educloudalliance/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/apinf/issues", 
+        "members_url": "https://api.github.com/orgs/apinf/members{/member}", 
+        "description": "API New Factory project working with API management solutions", 
+        "public_members_url": "https://api.github.com/orgs/apinf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apinf", 
+        "events_url": "https://api.github.com/orgs/apinf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9882661?v=3", 
+        "repos_url": "https://api.github.com/orgs/apinf/repos", 
+        "login": "apinf", 
+        "id": 9882661, 
+        "hooks_url": "https://api.github.com/orgs/apinf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/comicweb/issues", 
+        "members_url": "https://api.github.com/orgs/comicweb/members{/member}", 
+        "description": "Resource for open source tools for creating, reading and publishing comics in digital era. Connecting people who love comics!", 
+        "public_members_url": "https://api.github.com/orgs/comicweb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/comicweb", 
+        "events_url": "https://api.github.com/orgs/comicweb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11676056?v=3", 
+        "repos_url": "https://api.github.com/orgs/comicweb/repos", 
+        "login": "comicweb", 
+        "id": 11676056, 
+        "hooks_url": "https://api.github.com/orgs/comicweb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/javascript-finland/issues", 
+        "members_url": "https://api.github.com/orgs/javascript-finland/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/javascript-finland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/javascript-finland", 
+        "events_url": "https://api.github.com/orgs/javascript-finland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11705459?v=3", 
+        "repos_url": "https://api.github.com/orgs/javascript-finland/repos", 
+        "login": "javascript-finland", 
+        "id": 11705459, 
+        "hooks_url": "https://api.github.com/orgs/javascript-finland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Digipalvelutehdas/issues", 
+        "members_url": "https://api.github.com/orgs/Digipalvelutehdas/members{/member}", 
+        "description": "Kansallista palveluarkkitehtuuria hy\u00f6dynt\u00e4vi\u00e4 ja t\u00e4ydent\u00e4vi\u00e4 digitaalisia palveluita", 
+        "public_members_url": "https://api.github.com/orgs/Digipalvelutehdas/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Digipalvelutehdas", 
+        "events_url": "https://api.github.com/orgs/Digipalvelutehdas/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12421888?v=3", 
+        "repos_url": "https://api.github.com/orgs/Digipalvelutehdas/repos", 
+        "login": "Digipalvelutehdas", 
+        "id": 12421888, 
+        "hooks_url": "https://api.github.com/orgs/Digipalvelutehdas/hooks"
+    }
+]

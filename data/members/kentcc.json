@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/wellhairy/following{/other_user}", 
+        "events_url": "https://api.github.com/users/wellhairy/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/wellhairy/orgs", 
+        "url": "https://api.github.com/users/wellhairy", 
+        "gists_url": "https://api.github.com/users/wellhairy/gists{/gist_id}", 
+        "html_url": "https://github.com/wellhairy", 
+        "subscriptions_url": "https://api.github.com/users/wellhairy/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4819317?v=3", 
+        "repos_url": "https://api.github.com/users/wellhairy/repos", 
+        "received_events_url": "https://api.github.com/users/wellhairy/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/wellhairy/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "wellhairy", 
+        "type": "User", 
+        "id": 4819317, 
+        "followers_url": "https://api.github.com/users/wellhairy/followers"
+    }
+]

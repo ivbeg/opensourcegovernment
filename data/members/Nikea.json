@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sameera2004/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sameera2004/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sameera2004/orgs", 
+        "url": "https://api.github.com/users/sameera2004", 
+        "gists_url": "https://api.github.com/users/sameera2004/gists{/gist_id}", 
+        "html_url": "https://github.com/sameera2004", 
+        "subscriptions_url": "https://api.github.com/users/sameera2004/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5701652?v=3", 
+        "repos_url": "https://api.github.com/users/sameera2004/repos", 
+        "received_events_url": "https://api.github.com/users/sameera2004/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sameera2004/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sameera2004", 
+        "type": "User", 
+        "id": 5701652, 
+        "followers_url": "https://api.github.com/users/sameera2004/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/tacaswell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tacaswell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tacaswell/orgs", 
+        "url": "https://api.github.com/users/tacaswell", 
+        "gists_url": "https://api.github.com/users/tacaswell/gists{/gist_id}", 
+        "html_url": "https://github.com/tacaswell", 
+        "subscriptions_url": "https://api.github.com/users/tacaswell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/199813?v=3", 
+        "repos_url": "https://api.github.com/users/tacaswell/repos", 
+        "received_events_url": "https://api.github.com/users/tacaswell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tacaswell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tacaswell", 
+        "type": "User", 
+        "id": 199813, 
+        "followers_url": "https://api.github.com/users/tacaswell/followers"
+    }
+]

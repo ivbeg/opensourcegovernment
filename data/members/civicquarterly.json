@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/andrewmaier/following{/other_user}", 
+        "events_url": "https://api.github.com/users/andrewmaier/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/andrewmaier/orgs", 
+        "url": "https://api.github.com/users/andrewmaier", 
+        "gists_url": "https://api.github.com/users/andrewmaier/gists{/gist_id}", 
+        "html_url": "https://github.com/andrewmaier", 
+        "subscriptions_url": "https://api.github.com/users/andrewmaier/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2970?v=3", 
+        "repos_url": "https://api.github.com/users/andrewmaier/repos", 
+        "received_events_url": "https://api.github.com/users/andrewmaier/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/andrewmaier/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "andrewmaier", 
+        "type": "User", 
+        "id": 2970, 
+        "followers_url": "https://api.github.com/users/andrewmaier/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/jeremiak/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jeremiak/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jeremiak/orgs", 
+        "url": "https://api.github.com/users/jeremiak", 
+        "gists_url": "https://api.github.com/users/jeremiak/gists{/gist_id}", 
+        "html_url": "https://github.com/jeremiak", 
+        "subscriptions_url": "https://api.github.com/users/jeremiak/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/780941?v=3", 
+        "repos_url": "https://api.github.com/users/jeremiak/repos", 
+        "received_events_url": "https://api.github.com/users/jeremiak/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jeremiak/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jeremiak", 
+        "type": "User", 
+        "id": 780941, 
+        "followers_url": "https://api.github.com/users/jeremiak/followers"
+    }
+]

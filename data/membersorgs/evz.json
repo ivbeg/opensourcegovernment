@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opengovernment/issues", 
+        "members_url": "https://api.github.com/orgs/opengovernment/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opengovernment/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opengovernment", 
+        "events_url": "https://api.github.com/orgs/opengovernment/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/224213?v=3", 
+        "repos_url": "https://api.github.com/orgs/opengovernment/repos", 
+        "login": "opengovernment", 
+        "id": 224213, 
+        "hooks_url": "https://api.github.com/orgs/opengovernment/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-city/issues", 
+        "members_url": "https://api.github.com/orgs/open-city/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/open-city/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-city", 
+        "events_url": "https://api.github.com/orgs/open-city/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1361807?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-city/repos", 
+        "login": "open-city", 
+        "id": 1361807, 
+        "hooks_url": "https://api.github.com/orgs/open-city/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datamade/issues", 
+        "members_url": "https://api.github.com/orgs/datamade/members{/member}", 
+        "description": "We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations.", 
+        "public_members_url": "https://api.github.com/orgs/datamade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datamade", 
+        "events_url": "https://api.github.com/orgs/datamade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3723931?v=3", 
+        "repos_url": "https://api.github.com/orgs/datamade/repos", 
+        "login": "datamade", 
+        "id": 3723931, 
+        "hooks_url": "https://api.github.com/orgs/datamade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/security-force-monitor/issues", 
+        "members_url": "https://api.github.com/orgs/security-force-monitor/members{/member}", 
+        "description": "Providing detailed information on the police, military and other security forces around the world.", 
+        "public_members_url": "https://api.github.com/orgs/security-force-monitor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/security-force-monitor", 
+        "events_url": "https://api.github.com/orgs/security-force-monitor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19230973?v=3", 
+        "repos_url": "https://api.github.com/orgs/security-force-monitor/repos", 
+        "login": "security-force-monitor", 
+        "id": 19230973, 
+        "hooks_url": "https://api.github.com/orgs/security-force-monitor/hooks"
+    }
+]

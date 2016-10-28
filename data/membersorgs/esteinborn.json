@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ny/issues", 
+        "members_url": "https://api.github.com/orgs/ny/members{/member}", 
+        "description": "The official GitHub account of New York State Office of IT Services. ", 
+        "public_members_url": "https://api.github.com/orgs/ny/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ny", 
+        "events_url": "https://api.github.com/orgs/ny/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3894610?v=3", 
+        "repos_url": "https://api.github.com/orgs/ny/repos", 
+        "login": "ny", 
+        "id": 3894610, 
+        "hooks_url": "https://api.github.com/orgs/ny/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/issues", 
+        "members_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/members{/member}", 
+        "description": "INF 362 Spring 2014 Semester", 
+        "public_members_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362", 
+        "events_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6300039?v=3", 
+        "repos_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/repos", 
+        "login": "SUNY-Albany-CCI-INF362", 
+        "id": 6300039, 
+        "hooks_url": "https://api.github.com/orgs/SUNY-Albany-CCI-INF362/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/empirejustice/issues", 
+        "members_url": "https://api.github.com/orgs/empirejustice/members{/member}", 
+        "description": "Making the law work for all New Yorkers", 
+        "public_members_url": "https://api.github.com/orgs/empirejustice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/empirejustice", 
+        "events_url": "https://api.github.com/orgs/empirejustice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7833402?v=3", 
+        "repos_url": "https://api.github.com/orgs/empirejustice/repos", 
+        "login": "empirejustice", 
+        "id": 7833402, 
+        "hooks_url": "https://api.github.com/orgs/empirejustice/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NYAG/issues", 
+        "members_url": "https://api.github.com/orgs/NYAG/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NYAG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NYAG", 
+        "events_url": "https://api.github.com/orgs/NYAG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12643902?v=3", 
+        "repos_url": "https://api.github.com/orgs/NYAG/repos", 
+        "login": "NYAG", 
+        "id": 12643902, 
+        "hooks_url": "https://api.github.com/orgs/NYAG/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/supplychainstudies/issues", 
+        "members_url": "https://api.github.com/orgs/supplychainstudies/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/supplychainstudies/public_members{/member}", 
+        "url": "https://api.github.com/orgs/supplychainstudies", 
+        "events_url": "https://api.github.com/orgs/supplychainstudies/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/302351?v=3", 
+        "repos_url": "https://api.github.com/orgs/supplychainstudies/repos", 
+        "login": "supplychainstudies", 
+        "id": 302351, 
+        "hooks_url": "https://api.github.com/orgs/supplychainstudies/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sourcemapinc/issues", 
+        "members_url": "https://api.github.com/orgs/sourcemapinc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sourcemapinc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sourcemapinc", 
+        "events_url": "https://api.github.com/orgs/sourcemapinc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1846836?v=3", 
+        "repos_url": "https://api.github.com/orgs/sourcemapinc/repos", 
+        "login": "sourcemapinc", 
+        "id": 1846836, 
+        "hooks_url": "https://api.github.com/orgs/sourcemapinc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }
+]

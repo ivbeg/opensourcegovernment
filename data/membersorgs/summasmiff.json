@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CirrusMio/issues", 
+        "members_url": "https://api.github.com/orgs/CirrusMio/members{/member}", 
+        "description": "Cloud and IoT Solutions", 
+        "public_members_url": "https://api.github.com/orgs/CirrusMio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CirrusMio", 
+        "events_url": "https://api.github.com/orgs/CirrusMio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1512870?v=3", 
+        "repos_url": "https://api.github.com/orgs/CirrusMio/repos", 
+        "login": "CirrusMio", 
+        "id": 1512870, 
+        "hooks_url": "https://api.github.com/orgs/CirrusMio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LexLadiesCode/issues", 
+        "members_url": "https://api.github.com/orgs/LexLadiesCode/members{/member}", 
+        "description": "All-ladies coding club based in Lexington, Kentucky.", 
+        "public_members_url": "https://api.github.com/orgs/LexLadiesCode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LexLadiesCode", 
+        "events_url": "https://api.github.com/orgs/LexLadiesCode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7451352?v=3", 
+        "repos_url": "https://api.github.com/orgs/LexLadiesCode/repos", 
+        "login": "LexLadiesCode", 
+        "id": 7451352, 
+        "hooks_url": "https://api.github.com/orgs/LexLadiesCode/hooks"
+    }
+]

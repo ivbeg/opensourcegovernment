@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/AtlanticMediaStrategies/issues", 
+        "members_url": "https://api.github.com/orgs/AtlanticMediaStrategies/members{/member}", 
+        "description": "Home base for Atlantic Media Strategies", 
+        "public_members_url": "https://api.github.com/orgs/AtlanticMediaStrategies/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AtlanticMediaStrategies", 
+        "events_url": "https://api.github.com/orgs/AtlanticMediaStrategies/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1568243?v=3", 
+        "repos_url": "https://api.github.com/orgs/AtlanticMediaStrategies/repos", 
+        "login": "AtlanticMediaStrategies", 
+        "id": 1568243, 
+        "hooks_url": "https://api.github.com/orgs/AtlanticMediaStrategies/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Honolulu/issues", 
+        "members_url": "https://api.github.com/orgs/Honolulu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Honolulu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Honolulu", 
+        "events_url": "https://api.github.com/orgs/Honolulu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1817426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Honolulu/repos", 
+        "login": "Honolulu", 
+        "id": 1817426, 
+        "hooks_url": "https://api.github.com/orgs/Honolulu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ohanajs/issues", 
+        "members_url": "https://api.github.com/orgs/ohanajs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ohanajs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ohanajs", 
+        "events_url": "https://api.github.com/orgs/ohanajs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4668002?v=3", 
+        "repos_url": "https://api.github.com/orgs/ohanajs/repos", 
+        "login": "ohanajs", 
+        "id": 4668002, 
+        "hooks_url": "https://api.github.com/orgs/ohanajs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforHawaii/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforHawaii/members{/member}", 
+        "description": "We are civic-minded volunteers interested in using technology and open data to make our local communities better.", 
+        "public_members_url": "https://api.github.com/orgs/CodeforHawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforHawaii", 
+        "events_url": "https://api.github.com/orgs/CodeforHawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6244195?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforHawaii/repos", 
+        "login": "CodeforHawaii", 
+        "id": 6244195, 
+        "hooks_url": "https://api.github.com/orgs/CodeforHawaii/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cascadehnl/issues", 
+        "members_url": "https://api.github.com/orgs/cascadehnl/members{/member}", 
+        "description": "Cascade is a Honolulu meetup group for folks who dig all things CSS", 
+        "public_members_url": "https://api.github.com/orgs/cascadehnl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cascadehnl", 
+        "events_url": "https://api.github.com/orgs/cascadehnl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12081135?v=3", 
+        "repos_url": "https://api.github.com/orgs/cascadehnl/repos", 
+        "login": "cascadehnl", 
+        "id": 12081135, 
+        "hooks_url": "https://api.github.com/orgs/cascadehnl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bikesharehawaii/issues", 
+        "members_url": "https://api.github.com/orgs/bikesharehawaii/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bikesharehawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bikesharehawaii", 
+        "events_url": "https://api.github.com/orgs/bikesharehawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13772966?v=3", 
+        "repos_url": "https://api.github.com/orgs/bikesharehawaii/repos", 
+        "login": "bikesharehawaii", 
+        "id": 13772966, 
+        "hooks_url": "https://api.github.com/orgs/bikesharehawaii/hooks"
+    }
+]

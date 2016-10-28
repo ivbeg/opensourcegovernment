@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/linkedin/issues", 
+        "members_url": "https://api.github.com/orgs/linkedin/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/linkedin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/linkedin", 
+        "events_url": "https://api.github.com/orgs/linkedin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/357098?v=3", 
+        "repos_url": "https://api.github.com/orgs/linkedin/repos", 
+        "login": "linkedin", 
+        "id": 357098, 
+        "hooks_url": "https://api.github.com/orgs/linkedin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hpc/issues", 
+        "members_url": "https://api.github.com/orgs/hpc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hpc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hpc", 
+        "events_url": "https://api.github.com/orgs/hpc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/957578?v=3", 
+        "repos_url": "https://api.github.com/orgs/hpc/repos", 
+        "login": "hpc", 
+        "id": 957578, 
+        "hooks_url": "https://api.github.com/orgs/hpc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scalability-llnl/issues", 
+        "members_url": "https://api.github.com/orgs/scalability-llnl/members{/member}", 
+        "description": "We've moved to https://github.com/llnl. Click the link below to join us there!", 
+        "public_members_url": "https://api.github.com/orgs/scalability-llnl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scalability-llnl", 
+        "events_url": "https://api.github.com/orgs/scalability-llnl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5914720?v=3", 
+        "repos_url": "https://api.github.com/orgs/scalability-llnl/repos", 
+        "login": "scalability-llnl", 
+        "id": 5914720, 
+        "hooks_url": "https://api.github.com/orgs/scalability-llnl/hooks"
+    }
+]

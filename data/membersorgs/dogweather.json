@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/weblaws/issues", 
+        "members_url": "https://api.github.com/orgs/weblaws/members{/member}", 
+        "description": "Law is code, and we're here to open-source it.", 
+        "public_members_url": "https://api.github.com/orgs/weblaws/public_members{/member}", 
+        "url": "https://api.github.com/orgs/weblaws", 
+        "events_url": "https://api.github.com/orgs/weblaws/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1592896?v=3", 
+        "repos_url": "https://api.github.com/orgs/weblaws/repos", 
+        "login": "weblaws", 
+        "id": 1592896, 
+        "hooks_url": "https://api.github.com/orgs/weblaws/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eaternet/issues", 
+        "members_url": "https://api.github.com/orgs/eaternet/members{/member}", 
+        "description": "Look before you eat", 
+        "public_members_url": "https://api.github.com/orgs/eaternet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eaternet", 
+        "events_url": "https://api.github.com/orgs/eaternet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10624333?v=3", 
+        "repos_url": "https://api.github.com/orgs/eaternet/repos", 
+        "login": "eaternet", 
+        "id": 10624333, 
+        "hooks_url": "https://api.github.com/orgs/eaternet/hooks"
+    }
+]

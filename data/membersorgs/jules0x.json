@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GOVTNZ/issues", 
+        "members_url": "https://api.github.com/orgs/GOVTNZ/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GOVTNZ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GOVTNZ", 
+        "events_url": "https://api.github.com/orgs/GOVTNZ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6098288?v=3", 
+        "repos_url": "https://api.github.com/orgs/GOVTNZ/repos", 
+        "login": "GOVTNZ", 
+        "id": 6098288, 
+        "hooks_url": "https://api.github.com/orgs/GOVTNZ/hooks"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hello-base/issues", 
+        "members_url": "https://api.github.com/orgs/hello-base/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hello-base/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hello-base", 
+        "events_url": "https://api.github.com/orgs/hello-base/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/318110?v=3", 
+        "repos_url": "https://api.github.com/orgs/hello-base/repos", 
+        "login": "hello-base", 
+        "id": 318110, 
+        "hooks_url": "https://api.github.com/orgs/hello-base/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DCPython/issues", 
+        "members_url": "https://api.github.com/orgs/DCPython/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DCPython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCPython", 
+        "events_url": "https://api.github.com/orgs/DCPython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/468152?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCPython/repos", 
+        "login": "DCPython", 
+        "id": 468152, 
+        "hooks_url": "https://api.github.com/orgs/DCPython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ArchiveTeam/issues", 
+        "members_url": "https://api.github.com/orgs/ArchiveTeam/members{/member}", 
+        "description": "We Are Going To Rescue Your Shit", 
+        "public_members_url": "https://api.github.com/orgs/ArchiveTeam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ArchiveTeam", 
+        "events_url": "https://api.github.com/orgs/ArchiveTeam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/774774?v=3", 
+        "repos_url": "https://api.github.com/orgs/ArchiveTeam/repos", 
+        "login": "ArchiveTeam", 
+        "id": 774774, 
+        "hooks_url": "https://api.github.com/orgs/ArchiveTeam/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/diveintomark/issues", 
+        "members_url": "https://api.github.com/orgs/diveintomark/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/diveintomark/public_members{/member}", 
+        "url": "https://api.github.com/orgs/diveintomark", 
+        "events_url": "https://api.github.com/orgs/diveintomark/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1103719?v=3", 
+        "repos_url": "https://api.github.com/orgs/diveintomark/repos", 
+        "login": "diveintomark", 
+        "id": 1103719, 
+        "hooks_url": "https://api.github.com/orgs/diveintomark/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kennethreitz-archive/issues", 
+        "members_url": "https://api.github.com/orgs/kennethreitz-archive/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/kennethreitz-archive/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kennethreitz-archive", 
+        "events_url": "https://api.github.com/orgs/kennethreitz-archive/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2083354?v=3", 
+        "repos_url": "https://api.github.com/orgs/kennethreitz-archive/repos", 
+        "login": "kennethreitz-archive", 
+        "id": 2083354, 
+        "hooks_url": "https://api.github.com/orgs/kennethreitz-archive/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/requests/issues", 
+        "members_url": "https://api.github.com/orgs/requests/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/requests/public_members{/member}", 
+        "url": "https://api.github.com/orgs/requests", 
+        "events_url": "https://api.github.com/orgs/requests/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2805331?v=3", 
+        "repos_url": "https://api.github.com/orgs/requests/repos", 
+        "login": "requests", 
+        "id": 2805331, 
+        "hooks_url": "https://api.github.com/orgs/requests/hooks"
+    }
+]

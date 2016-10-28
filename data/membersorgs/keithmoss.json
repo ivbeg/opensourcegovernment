@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Landgate/issues", 
+        "members_url": "https://api.github.com/orgs/Landgate/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Landgate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Landgate", 
+        "events_url": "https://api.github.com/orgs/Landgate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5944363?v=3", 
+        "repos_url": "https://api.github.com/orgs/Landgate/repos", 
+        "login": "Landgate", 
+        "id": 5944363, 
+        "hooks_url": "https://api.github.com/orgs/Landgate/hooks"
+    }
+]

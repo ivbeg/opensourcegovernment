@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/voxmedia/issues", 
+        "members_url": "https://api.github.com/orgs/voxmedia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/voxmedia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/voxmedia", 
+        "events_url": "https://api.github.com/orgs/voxmedia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/316807?v=3", 
+        "repos_url": "https://api.github.com/orgs/voxmedia/repos", 
+        "login": "voxmedia", 
+        "id": 316807, 
+        "hooks_url": "https://api.github.com/orgs/voxmedia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NUKnightLab/issues", 
+        "members_url": "https://api.github.com/orgs/NUKnightLab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NUKnightLab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NUKnightLab", 
+        "events_url": "https://api.github.com/orgs/NUKnightLab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1273909?v=3", 
+        "repos_url": "https://api.github.com/orgs/NUKnightLab/repos", 
+        "login": "NUKnightLab", 
+        "id": 1273909, 
+        "hooks_url": "https://api.github.com/orgs/NUKnightLab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PalmBeachPost/issues", 
+        "members_url": "https://api.github.com/orgs/PalmBeachPost/members{/member}", 
+        "description": "The Palm Beach Post data team", 
+        "public_members_url": "https://api.github.com/orgs/PalmBeachPost/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PalmBeachPost", 
+        "events_url": "https://api.github.com/orgs/PalmBeachPost/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10676422?v=3", 
+        "repos_url": "https://api.github.com/orgs/PalmBeachPost/repos", 
+        "login": "PalmBeachPost", 
+        "id": 10676422, 
+        "hooks_url": "https://api.github.com/orgs/PalmBeachPost/hooks"
+    }
+]

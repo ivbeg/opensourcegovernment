@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hicapacity/issues", 
+        "members_url": "https://api.github.com/orgs/hicapacity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hicapacity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hicapacity", 
+        "events_url": "https://api.github.com/orgs/hicapacity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/717133?v=3", 
+        "repos_url": "https://api.github.com/orgs/hicapacity/repos", 
+        "login": "hicapacity", 
+        "id": 717133, 
+        "hooks_url": "https://api.github.com/orgs/hicapacity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforHawaii/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforHawaii/members{/member}", 
+        "description": "We are civic-minded volunteers interested in using technology and open data to make our local communities better.", 
+        "public_members_url": "https://api.github.com/orgs/CodeforHawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforHawaii", 
+        "events_url": "https://api.github.com/orgs/CodeforHawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6244195?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforHawaii/repos", 
+        "login": "CodeforHawaii", 
+        "id": 6244195, 
+        "hooks_url": "https://api.github.com/orgs/CodeforHawaii/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JumpsuitCommerce/issues", 
+        "members_url": "https://api.github.com/orgs/JumpsuitCommerce/members{/member}", 
+        "description": "Payment solutions now smarter and easier than ever.", 
+        "public_members_url": "https://api.github.com/orgs/JumpsuitCommerce/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JumpsuitCommerce", 
+        "events_url": "https://api.github.com/orgs/JumpsuitCommerce/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17105679?v=3", 
+        "repos_url": "https://api.github.com/orgs/JumpsuitCommerce/repos", 
+        "login": "JumpsuitCommerce", 
+        "id": 17105679, 
+        "hooks_url": "https://api.github.com/orgs/JumpsuitCommerce/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/space-turtles/issues", 
+        "members_url": "https://api.github.com/orgs/space-turtles/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/space-turtles/public_members{/member}", 
+        "url": "https://api.github.com/orgs/space-turtles", 
+        "events_url": "https://api.github.com/orgs/space-turtles/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20868307?v=3", 
+        "repos_url": "https://api.github.com/orgs/space-turtles/repos", 
+        "login": "space-turtles", 
+        "id": 20868307, 
+        "hooks_url": "https://api.github.com/orgs/space-turtles/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/team-lasers-and-potatos/issues", 
+        "members_url": "https://api.github.com/orgs/team-lasers-and-potatos/members{/member}", 
+        "description": "A project team.", 
+        "public_members_url": "https://api.github.com/orgs/team-lasers-and-potatos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/team-lasers-and-potatos", 
+        "events_url": "https://api.github.com/orgs/team-lasers-and-potatos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21112398?v=3", 
+        "repos_url": "https://api.github.com/orgs/team-lasers-and-potatos/repos", 
+        "login": "team-lasers-and-potatos", 
+        "id": 21112398, 
+        "hooks_url": "https://api.github.com/orgs/team-lasers-and-potatos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cats-with-potatos/issues", 
+        "members_url": "https://api.github.com/orgs/cats-with-potatos/members{/member}", 
+        "description": "A project team.", 
+        "public_members_url": "https://api.github.com/orgs/cats-with-potatos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cats-with-potatos", 
+        "events_url": "https://api.github.com/orgs/cats-with-potatos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21112785?v=3", 
+        "repos_url": "https://api.github.com/orgs/cats-with-potatos/repos", 
+        "login": "cats-with-potatos", 
+        "id": 21112785, 
+        "hooks_url": "https://api.github.com/orgs/cats-with-potatos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/turtles-with-lasers/issues", 
+        "members_url": "https://api.github.com/orgs/turtles-with-lasers/members{/member}", 
+        "description": "Team Turtles With Lasers", 
+        "public_members_url": "https://api.github.com/orgs/turtles-with-lasers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/turtles-with-lasers", 
+        "events_url": "https://api.github.com/orgs/turtles-with-lasers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21161629?v=3", 
+        "repos_url": "https://api.github.com/orgs/turtles-with-lasers/repos", 
+        "login": "turtles-with-lasers", 
+        "id": 21161629, 
+        "hooks_url": "https://api.github.com/orgs/turtles-with-lasers/hooks"
+    }
+]

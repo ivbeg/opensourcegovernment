@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/edinburghcouncil/issues", 
+        "members_url": "https://api.github.com/orgs/edinburghcouncil/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/edinburghcouncil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/edinburghcouncil", 
+        "events_url": "https://api.github.com/orgs/edinburghcouncil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5732783?v=3", 
+        "repos_url": "https://api.github.com/orgs/edinburghcouncil/repos", 
+        "login": "edinburghcouncil", 
+        "id": 5732783, 
+        "hooks_url": "https://api.github.com/orgs/edinburghcouncil/hooks"
+    }
+]

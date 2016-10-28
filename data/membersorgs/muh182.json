@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eebhub/issues", 
+        "members_url": "https://api.github.com/orgs/eebhub/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eebhub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eebhub", 
+        "events_url": "https://api.github.com/orgs/eebhub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5015130?v=3", 
+        "repos_url": "https://api.github.com/orgs/eebhub/repos", 
+        "login": "eebhub", 
+        "id": 5015130, 
+        "hooks_url": "https://api.github.com/orgs/eebhub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CITY-at-UMD/issues", 
+        "members_url": "https://api.github.com/orgs/CITY-at-UMD/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CITY-at-UMD/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CITY-at-UMD", 
+        "events_url": "https://api.github.com/orgs/CITY-at-UMD/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5116063?v=3", 
+        "repos_url": "https://api.github.com/orgs/CITY-at-UMD/repos", 
+        "login": "CITY-at-UMD", 
+        "id": 5116063, 
+        "hooks_url": "https://api.github.com/orgs/CITY-at-UMD/hooks"
+    }
+]

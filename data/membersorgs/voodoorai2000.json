@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/PartidoDeInternet/issues", 
+        "members_url": "https://api.github.com/orgs/PartidoDeInternet/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PartidoDeInternet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PartidoDeInternet", 
+        "events_url": "https://api.github.com/orgs/PartidoDeInternet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/40226?v=3", 
+        "repos_url": "https://api.github.com/orgs/PartidoDeInternet/repos", 
+        "login": "PartidoDeInternet", 
+        "id": 40226, 
+        "hooks_url": "https://api.github.com/orgs/PartidoDeInternet/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ProRuby/issues", 
+        "members_url": "https://api.github.com/orgs/ProRuby/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ProRuby/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ProRuby", 
+        "events_url": "https://api.github.com/orgs/ProRuby/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/158933?v=3", 
+        "repos_url": "https://api.github.com/orgs/ProRuby/repos", 
+        "login": "ProRuby", 
+        "id": 158933, 
+        "hooks_url": "https://api.github.com/orgs/ProRuby/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AyuntamientoMadrid/issues", 
+        "members_url": "https://api.github.com/orgs/AyuntamientoMadrid/members{/member}", 
+        "description": "Open developments of the Madrid city government", 
+        "public_members_url": "https://api.github.com/orgs/AyuntamientoMadrid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AyuntamientoMadrid", 
+        "events_url": "https://api.github.com/orgs/AyuntamientoMadrid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13286342?v=3", 
+        "repos_url": "https://api.github.com/orgs/AyuntamientoMadrid/repos", 
+        "login": "AyuntamientoMadrid", 
+        "id": 13286342, 
+        "hooks_url": "https://api.github.com/orgs/AyuntamientoMadrid/hooks"
+    }
+]

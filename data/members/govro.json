@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/palcu/following{/other_user}", 
+        "events_url": "https://api.github.com/users/palcu/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/palcu/orgs", 
+        "url": "https://api.github.com/users/palcu", 
+        "gists_url": "https://api.github.com/users/palcu/gists{/gist_id}", 
+        "html_url": "https://github.com/palcu", 
+        "subscriptions_url": "https://api.github.com/users/palcu/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/772220?v=3", 
+        "repos_url": "https://api.github.com/users/palcu/repos", 
+        "received_events_url": "https://api.github.com/users/palcu/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/palcu/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "palcu", 
+        "type": "User", 
+        "id": 772220, 
+        "followers_url": "https://api.github.com/users/palcu/followers"
+    }
+]

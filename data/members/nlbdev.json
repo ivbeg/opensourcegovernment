@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/josteinaj/following{/other_user}", 
+        "events_url": "https://api.github.com/users/josteinaj/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/josteinaj/orgs", 
+        "url": "https://api.github.com/users/josteinaj", 
+        "gists_url": "https://api.github.com/users/josteinaj/gists{/gist_id}", 
+        "html_url": "https://github.com/josteinaj", 
+        "subscriptions_url": "https://api.github.com/users/josteinaj/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/295481?v=3", 
+        "repos_url": "https://api.github.com/users/josteinaj/repos", 
+        "received_events_url": "https://api.github.com/users/josteinaj/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/josteinaj/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "josteinaj", 
+        "type": "User", 
+        "id": 295481, 
+        "followers_url": "https://api.github.com/users/josteinaj/followers"
+    }
+]

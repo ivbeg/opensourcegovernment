@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pyepics/issues", 
+        "members_url": "https://api.github.com/orgs/pyepics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pyepics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pyepics", 
+        "events_url": "https://api.github.com/orgs/pyepics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/672133?v=3", 
+        "repos_url": "https://api.github.com/orgs/pyepics/repos", 
+        "login": "pyepics", 
+        "id": 672133, 
+        "hooks_url": "https://api.github.com/orgs/pyepics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openwrt-zipit/issues", 
+        "members_url": "https://api.github.com/orgs/openwrt-zipit/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openwrt-zipit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openwrt-zipit", 
+        "events_url": "https://api.github.com/orgs/openwrt-zipit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1904687?v=3", 
+        "repos_url": "https://api.github.com/orgs/openwrt-zipit/repos", 
+        "login": "openwrt-zipit", 
+        "id": 1904687, 
+        "hooks_url": "https://api.github.com/orgs/openwrt-zipit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTechSchool/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTechSchool/members{/member}", 
+        "description": "Educating the public for free!", 
+        "public_members_url": "https://api.github.com/orgs/OpenTechSchool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTechSchool", 
+        "events_url": "https://api.github.com/orgs/OpenTechSchool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1956369?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTechSchool/repos", 
+        "login": "OpenTechSchool", 
+        "id": 1956369, 
+        "hooks_url": "https://api.github.com/orgs/OpenTechSchool/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/anunuclear/issues", 
+        "members_url": "https://api.github.com/orgs/anunuclear/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/anunuclear/public_members{/member}", 
+        "url": "https://api.github.com/orgs/anunuclear", 
+        "events_url": "https://api.github.com/orgs/anunuclear/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2490351?v=3", 
+        "repos_url": "https://api.github.com/orgs/anunuclear/repos", 
+        "login": "anunuclear", 
+        "id": 2490351, 
+        "hooks_url": "https://api.github.com/orgs/anunuclear/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CCHS-Melbourne/issues", 
+        "members_url": "https://api.github.com/orgs/CCHS-Melbourne/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CCHS-Melbourne/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CCHS-Melbourne", 
+        "events_url": "https://api.github.com/orgs/CCHS-Melbourne/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2687853?v=3", 
+        "repos_url": "https://api.github.com/orgs/CCHS-Melbourne/repos", 
+        "login": "CCHS-Melbourne", 
+        "id": 2687853, 
+        "hooks_url": "https://api.github.com/orgs/CCHS-Melbourne/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/plone/issues", 
+        "members_url": "https://api.github.com/orgs/plone/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/plone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/plone", 
+        "events_url": "https://api.github.com/orgs/plone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/72034?v=3", 
+        "repos_url": "https://api.github.com/orgs/plone/repos", 
+        "login": "plone", 
+        "id": 72034, 
+        "hooks_url": "https://api.github.com/orgs/plone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RedTurtle/issues", 
+        "members_url": "https://api.github.com/orgs/RedTurtle/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/RedTurtle/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RedTurtle", 
+        "events_url": "https://api.github.com/orgs/RedTurtle/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1087171?v=3", 
+        "repos_url": "https://api.github.com/orgs/RedTurtle/repos", 
+        "login": "RedTurtle", 
+        "id": 1087171, 
+        "hooks_url": "https://api.github.com/orgs/RedTurtle/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PloneGov-IT/issues", 
+        "members_url": "https://api.github.com/orgs/PloneGov-IT/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PloneGov-IT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PloneGov-IT", 
+        "events_url": "https://api.github.com/orgs/PloneGov-IT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3437079?v=3", 
+        "repos_url": "https://api.github.com/orgs/PloneGov-IT/repos", 
+        "login": "PloneGov-IT", 
+        "id": 3437079, 
+        "hooks_url": "https://api.github.com/orgs/PloneGov-IT/hooks"
+    }
+]

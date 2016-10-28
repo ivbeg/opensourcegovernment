@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/leicesterhackspace/issues", 
+        "members_url": "https://api.github.com/orgs/leicesterhackspace/members{/member}", 
+        "description": "Leicester Hackspace is a non-profit community of makers, run by and for its members, based in Leicester, England.", 
+        "public_members_url": "https://api.github.com/orgs/leicesterhackspace/public_members{/member}", 
+        "url": "https://api.github.com/orgs/leicesterhackspace", 
+        "events_url": "https://api.github.com/orgs/leicesterhackspace/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10037501?v=3", 
+        "repos_url": "https://api.github.com/orgs/leicesterhackspace/repos", 
+        "login": "leicesterhackspace", 
+        "id": 10037501, 
+        "hooks_url": "https://api.github.com/orgs/leicesterhackspace/hooks"
+    }
+]

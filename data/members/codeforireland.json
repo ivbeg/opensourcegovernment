@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/krysus/following{/other_user}", 
+        "events_url": "https://api.github.com/users/krysus/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/krysus/orgs", 
+        "url": "https://api.github.com/users/krysus", 
+        "gists_url": "https://api.github.com/users/krysus/gists{/gist_id}", 
+        "html_url": "https://github.com/krysus", 
+        "subscriptions_url": "https://api.github.com/users/krysus/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6069530?v=3", 
+        "repos_url": "https://api.github.com/users/krysus/repos", 
+        "received_events_url": "https://api.github.com/users/krysus/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/krysus/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "krysus", 
+        "type": "User", 
+        "id": 6069530, 
+        "followers_url": "https://api.github.com/users/krysus/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/philipjmurphy/following{/other_user}", 
+        "events_url": "https://api.github.com/users/philipjmurphy/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/philipjmurphy/orgs", 
+        "url": "https://api.github.com/users/philipjmurphy", 
+        "gists_url": "https://api.github.com/users/philipjmurphy/gists{/gist_id}", 
+        "html_url": "https://github.com/philipjmurphy", 
+        "subscriptions_url": "https://api.github.com/users/philipjmurphy/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1055915?v=3", 
+        "repos_url": "https://api.github.com/users/philipjmurphy/repos", 
+        "received_events_url": "https://api.github.com/users/philipjmurphy/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/philipjmurphy/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "philipjmurphy", 
+        "type": "User", 
+        "id": 1055915, 
+        "followers_url": "https://api.github.com/users/philipjmurphy/followers"
+    }
+]

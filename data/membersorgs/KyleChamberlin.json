@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/KentCommunications/issues", 
+        "members_url": "https://api.github.com/orgs/KentCommunications/members{/member}", 
+        "description": "KCI public Repos", 
+        "public_members_url": "https://api.github.com/orgs/KentCommunications/public_members{/member}", 
+        "url": "https://api.github.com/orgs/KentCommunications", 
+        "events_url": "https://api.github.com/orgs/KentCommunications/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6975577?v=3", 
+        "repos_url": "https://api.github.com/orgs/KentCommunications/repos", 
+        "login": "KentCommunications", 
+        "id": 6975577, 
+        "hooks_url": "https://api.github.com/orgs/KentCommunications/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LearningGitWorkflow/issues", 
+        "members_url": "https://api.github.com/orgs/LearningGitWorkflow/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LearningGitWorkflow/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LearningGitWorkflow", 
+        "events_url": "https://api.github.com/orgs/LearningGitWorkflow/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7027003?v=3", 
+        "repos_url": "https://api.github.com/orgs/LearningGitWorkflow/repos", 
+        "login": "LearningGitWorkflow", 
+        "id": 7027003, 
+        "hooks_url": "https://api.github.com/orgs/LearningGitWorkflow/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AutoItMicro/issues", 
+        "members_url": "https://api.github.com/orgs/AutoItMicro/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AutoItMicro/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AutoItMicro", 
+        "events_url": "https://api.github.com/orgs/AutoItMicro/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8451579?v=3", 
+        "repos_url": "https://api.github.com/orgs/AutoItMicro/repos", 
+        "login": "AutoItMicro", 
+        "id": 8451579, 
+        "hooks_url": "https://api.github.com/orgs/AutoItMicro/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BravoLT/issues", 
+        "members_url": "https://api.github.com/orgs/BravoLT/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/BravoLT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BravoLT", 
+        "events_url": "https://api.github.com/orgs/BravoLT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12234773?v=3", 
+        "repos_url": "https://api.github.com/orgs/BravoLT/repos", 
+        "login": "BravoLT", 
+        "id": 12234773, 
+        "hooks_url": "https://api.github.com/orgs/BravoLT/hooks"
+    }
+]

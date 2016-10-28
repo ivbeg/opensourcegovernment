@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/culanth/issues", 
+        "members_url": "https://api.github.com/orgs/culanth/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/culanth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/culanth", 
+        "events_url": "https://api.github.com/orgs/culanth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2651645?v=3", 
+        "repos_url": "https://api.github.com/orgs/culanth/repos", 
+        "login": "culanth", 
+        "id": 2651645, 
+        "hooks_url": "https://api.github.com/orgs/culanth/hooks"
+    }
+]

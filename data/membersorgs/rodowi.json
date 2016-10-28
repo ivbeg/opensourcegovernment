@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mapbox/issues", 
+        "members_url": "https://api.github.com/orgs/mapbox/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapbox/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapbox", 
+        "events_url": "https://api.github.com/orgs/mapbox/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/600935?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapbox/repos", 
+        "login": "mapbox", 
+        "id": 600935, 
+        "hooks_url": "https://api.github.com/orgs/mapbox/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMexico/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMexico/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMexico", 
+        "events_url": "https://api.github.com/orgs/CodeandoMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2940113?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMexico/repos", 
+        "login": "CodeandoMexico", 
+        "id": 2940113, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMexico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osmlab/issues", 
+        "members_url": "https://api.github.com/orgs/osmlab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/osmlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osmlab", 
+        "events_url": "https://api.github.com/orgs/osmlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3856374?v=3", 
+        "repos_url": "https://api.github.com/orgs/osmlab/repos", 
+        "login": "osmlab", 
+        "id": 3856374, 
+        "hooks_url": "https://api.github.com/orgs/osmlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/procurement-analytics/issues", 
+        "members_url": "https://api.github.com/orgs/procurement-analytics/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/procurement-analytics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/procurement-analytics", 
+        "events_url": "https://api.github.com/orgs/procurement-analytics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13034762?v=3", 
+        "repos_url": "https://api.github.com/orgs/procurement-analytics/repos", 
+        "login": "procurement-analytics", 
+        "id": 13034762, 
+        "hooks_url": "https://api.github.com/orgs/procurement-analytics/hooks"
+    }
+]

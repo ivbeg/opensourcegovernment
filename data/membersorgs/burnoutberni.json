@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Netzfreiheit/issues", 
+        "members_url": "https://api.github.com/orgs/Netzfreiheit/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Netzfreiheit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Netzfreiheit", 
+        "events_url": "https://api.github.com/orgs/Netzfreiheit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4070073?v=3", 
+        "repos_url": "https://api.github.com/orgs/Netzfreiheit/repos", 
+        "login": "Netzfreiheit", 
+        "id": 4070073, 
+        "hooks_url": "https://api.github.com/orgs/Netzfreiheit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/screeninvader/issues", 
+        "members_url": "https://api.github.com/orgs/screeninvader/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/screeninvader/public_members{/member}", 
+        "url": "https://api.github.com/orgs/screeninvader", 
+        "events_url": "https://api.github.com/orgs/screeninvader/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11469760?v=3", 
+        "repos_url": "https://api.github.com/orgs/screeninvader/repos", 
+        "login": "screeninvader", 
+        "id": 11469760, 
+        "hooks_url": "https://api.github.com/orgs/screeninvader/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hack4vdb/issues", 
+        "members_url": "https://api.github.com/orgs/hack4vdb/members{/member}", 
+        "description": "Hier findet sich (hoffentlich) n\u00fctzliche Software, die beim Hackathon f\u00fcr Alexander Van der Bellen von 12. bis 14. August 2016 in Wien entstanden ist.", 
+        "public_members_url": "https://api.github.com/orgs/hack4vdb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hack4vdb", 
+        "events_url": "https://api.github.com/orgs/hack4vdb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20998273?v=3", 
+        "repos_url": "https://api.github.com/orgs/hack4vdb/repos", 
+        "login": "hack4vdb", 
+        "id": 20998273, 
+        "hooks_url": "https://api.github.com/orgs/hack4vdb/hooks"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/camptocamp/issues", 
+        "members_url": "https://api.github.com/orgs/camptocamp/members{/member}", 
+        "description": "Innovative Solutions by Open Source Experts", 
+        "public_members_url": "https://api.github.com/orgs/camptocamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/camptocamp", 
+        "events_url": "https://api.github.com/orgs/camptocamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/28109?v=3", 
+        "repos_url": "https://api.github.com/orgs/camptocamp/repos", 
+        "login": "camptocamp", 
+        "id": 28109, 
+        "hooks_url": "https://api.github.com/orgs/camptocamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openlayers/issues", 
+        "members_url": "https://api.github.com/orgs/openlayers/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openlayers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlayers", 
+        "events_url": "https://api.github.com/orgs/openlayers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/240579?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlayers/repos", 
+        "login": "openlayers", 
+        "id": 240579, 
+        "hooks_url": "https://api.github.com/orgs/openlayers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pgRouting/issues", 
+        "members_url": "https://api.github.com/orgs/pgRouting/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pgRouting/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pgRouting", 
+        "events_url": "https://api.github.com/orgs/pgRouting/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/324933?v=3", 
+        "repos_url": "https://api.github.com/orgs/pgRouting/repos", 
+        "login": "pgRouting", 
+        "id": 324933, 
+        "hooks_url": "https://api.github.com/orgs/pgRouting/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geoext/issues", 
+        "members_url": "https://api.github.com/orgs/geoext/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/geoext/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geoext", 
+        "events_url": "https://api.github.com/orgs/geoext/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/507290?v=3", 
+        "repos_url": "https://api.github.com/orgs/geoext/repos", 
+        "login": "geoext", 
+        "id": 507290, 
+        "hooks_url": "https://api.github.com/orgs/geoext/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geoadmin/issues", 
+        "members_url": "https://api.github.com/orgs/geoadmin/members{/member}", 
+        "description": "Swiss Geoportal", 
+        "public_members_url": "https://api.github.com/orgs/geoadmin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geoadmin", 
+        "events_url": "https://api.github.com/orgs/geoadmin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3369793?v=3", 
+        "repos_url": "https://api.github.com/orgs/geoadmin/repos", 
+        "login": "geoadmin", 
+        "id": 3369793, 
+        "hooks_url": "https://api.github.com/orgs/geoadmin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sitn/issues", 
+        "members_url": "https://api.github.com/orgs/sitn/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sitn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sitn", 
+        "events_url": "https://api.github.com/orgs/sitn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4532493?v=3", 
+        "repos_url": "https://api.github.com/orgs/sitn/repos", 
+        "login": "sitn", 
+        "id": 4532493, 
+        "hooks_url": "https://api.github.com/orgs/sitn/hooks"
+    }
+]

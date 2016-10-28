@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/gsperry/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gsperry/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gsperry/orgs", 
+        "url": "https://api.github.com/users/gsperry", 
+        "gists_url": "https://api.github.com/users/gsperry/gists{/gist_id}", 
+        "html_url": "https://github.com/gsperry", 
+        "subscriptions_url": "https://api.github.com/users/gsperry/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5672968?v=3", 
+        "repos_url": "https://api.github.com/users/gsperry/repos", 
+        "received_events_url": "https://api.github.com/users/gsperry/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gsperry/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gsperry", 
+        "type": "User", 
+        "id": 5672968, 
+        "followers_url": "https://api.github.com/users/gsperry/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/SilverRat/following{/other_user}", 
+        "events_url": "https://api.github.com/users/SilverRat/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/SilverRat/orgs", 
+        "url": "https://api.github.com/users/SilverRat", 
+        "gists_url": "https://api.github.com/users/SilverRat/gists{/gist_id}", 
+        "html_url": "https://github.com/SilverRat", 
+        "subscriptions_url": "https://api.github.com/users/SilverRat/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3181231?v=3", 
+        "repos_url": "https://api.github.com/users/SilverRat/repos", 
+        "received_events_url": "https://api.github.com/users/SilverRat/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/SilverRat/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "SilverRat", 
+        "type": "User", 
+        "id": 3181231, 
+        "followers_url": "https://api.github.com/users/SilverRat/followers"
+    }
+]

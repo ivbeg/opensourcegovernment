@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/goodybag/issues", 
+        "members_url": "https://api.github.com/orgs/goodybag/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/goodybag/public_members{/member}", 
+        "url": "https://api.github.com/orgs/goodybag", 
+        "events_url": "https://api.github.com/orgs/goodybag/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/812185?v=3", 
+        "repos_url": "https://api.github.com/orgs/goodybag/repos", 
+        "login": "goodybag", 
+        "id": 812185, 
+        "hooks_url": "https://api.github.com/orgs/goodybag/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-austin/issues", 
+        "members_url": "https://api.github.com/orgs/open-austin/members{/member}", 
+        "description": "We discuss projects here: https://github.com/open-austin/project-ideas", 
+        "public_members_url": "https://api.github.com/orgs/open-austin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-austin", 
+        "events_url": "https://api.github.com/orgs/open-austin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/970084?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-austin/repos", 
+        "login": "open-austin", 
+        "id": 970084, 
+        "hooks_url": "https://api.github.com/orgs/open-austin/hooks"
+    }
+]

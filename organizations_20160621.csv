@@ -1,0 +1,612 @@
+country,orgname,repos,watchers_count,forks,issues,contributors,size
+Brazil,bacendeinf,0,0,0,0,0,0
+Brazil,camaradosdeputadosoficial,4,6,5,0,5,10413
+Brazil,cislgov,4,0,0,0,5,1356
+Brazil,culturagovbr,30,29,42,101,100,465008
+Brazil,dadosgovbr,10,79,38,17,25,17213
+Brazil,dataprev,6,9,1,0,6,1624
+Brazil,fateczonaleste,0,0,0,0,0,0
+Brazil,gabinetedigital,17,22,10,47,38,75254
+Brazil,govbr,6,20,10,5,18,109519
+Brazil,GovBrasil,1,3,1,0,2,231516
+Brazil,ibamacsr,17,56,15,7,37,140904
+Brazil,InstitutoBenjaminConstant,1,0,0,0,2,36546
+Brazil,interlegis,85,62,52,155,156,90020
+Brazil,justicagovbr,2,1,0,0,3,47042
+Brazil,labhackercd,32,65,16,60,481,262682
+Brazil,lexml,28,8,6,28,63,248727
+Brazil,pensandoodireito,23,42,133,101,106,187671
+Brazil,plonegovbr,26,73,85,109,118,30433
+Brazil,pr-snas,8,22,7,28,45,96330
+Brazil,PrefeituraParnaiba,3,0,1,0,3,263
+Brazil,prefeiturasp,12,68,22,11,29,78615
+Brazil,PROCERGS,18,42,27,45,39,79246
+Brazil,prodest,25,4,17,24,33,58455
+Brazil,secom-tocantins,3,4,2,0,4,197
+Brazil,secultce,1,0,1,0,0,746
+Brazil,SerraWeb,2,3,0,0,2,1060
+Brazil,tisorocaba,5,1,1,0,6,41821
+Brazil,tre-pa,1,0,3,0,1,203
+Brazil,wpgovbr,2,2,0,0,2,18088
+Canada,AAFC-MBB,39,10,21,26,56,2264026
+Canada,abgov,3,5,4,5,5,4751
+Canada,bcdevexchange,19,61,41,68,81,75099
+Canada,BCGov,50,132,72,185,427,357408
+Canada,ca-canada,3,7,1,1,3,292
+Canada,CIHR,0,0,0,0,0,0
+Canada,cityofgreatersudbury,2,1,0,0,2,188
+Canada,cityofottawa,26,9,3,22,42,83929
+Canada,cityofsurrey,23,3,4,42,34,93822
+Canada,cngo,4,0,0,0,4,64
+Canada,ECCC-MSC,1,3,1,0,1,14
+Canada,electionsquebec,1,9,0,0,1,204
+Canada,GeoCanViz,2,4,14,2,7,43534
+Canada,GNWT,1,3,0,0,1,2392
+Canada,goc,0,0,0,0,0,0
+Canada,HIFIS,0,0,0,0,0,0
+Canada,infra-geo-ouverte,5,36,20,18,17,70425
+Canada,MC-MBO-WebPublishingTeam,4,0,4,2,5,612
+Canada,nrc-cnrc,5,17,23,49,10,205751
+Canada,NRCan,1,1,0,0,1,0
+Canada,nsgov,9,9,7,22,14,10117
+Canada,open-data,30,34,73,42,54,444995
+Canada,phac-nml,10,21,4,0,47,243235
+Canada,pwgsc,1,2,0,0,0,92
+Canada,RAMP-PCAR,14,5,4,9,58,1427011
+Canada,RDOQ,2,0,0,0,3,132
+Canada,ServiceCanada,7,0,0,0,8,33182
+Canada,TBS-EACPD,2,0,0,0,3,374
+Canada,thecityofcalgary,1,0,1,0,1,128
+Canada,VilledeMontreal,9,3,5,0,13,18573
+Canada,wet-boew,64,1182,901,658,554,1179322
+Italy,ComuneBologna,2,13,0,0,2,17676
+Italy,Formez,1,3,0,0,2,144
+Italy,PloneGov-IT,45,7,11,5,107,10840
+Italy,RegioneER,3,7,4,3,5,7631
+Panama,IFARHU,2,3,1,1,4,744
+Panama,miambiente,0,0,0,0,0,0
+Lithuania,viesujupirkimutarnyba,4,0,1,0,5,181735
+Lithuania,vilnius,35,88,54,36,76,560920
+The Netherlands,dataoverheid,3,3,2,0,2,15675
+The Netherlands,GemeenteEde,1,0,0,0,1,236
+The Netherlands,gemeentemuseum,1,1,0,1,3,11967
+The Netherlands,Geonovum,38,26,52,216,107,314284
+The Netherlands,IenS-Velsen,5,1,0,0,2,27192
+The Netherlands,MinELenI,5,3,6,2,11,124302
+The Netherlands,Pleio,65,18,14,17,93,212665
+The Netherlands,provinciegroningen,5,0,0,1,7,9071
+The Netherlands,provincieNH,3,0,2,0,6,58666
+The Netherlands,rijksoverheid,1,0,1,0,1,138
+The Netherlands,StichtingHergebruikOverheid,0,0,0,0,0,0
+The Netherlands,TweedeKamer,4,1,1,0,4,682
+The Netherlands,zaanstad,5,2,3,2,9,22375
+France,afimb,22,53,19,10,67,112857
+France,ANSSI-FR,16,594,74,42,36,40430
+France,ApieFrance,1,0,0,0,1,156
+France,communaute-cimi,25,17,9,0,26,150764
+France,DGFiP,1,3,2,8,2,67022
+France,diplomatiegouvfr,11,6,0,0,11,9568
+France,disic,20,125,43,50,38,87775
+France,erasme,36,39,17,3,37,51735
+France,etalab,45,138,69,121,76,760709
+France,nanterre,2,0,0,0,2,385
+France,polewebmaedi,2,0,0,0,2,392
+France,sgmap,71,207,82,316,206,189098
+France,sgmap-agd,13,40,15,16,31,141617
+Peru,imarpe,8,3,0,4,32,162085
+International,IATI,25,74,60,457,109,38862
+International,ogpl,2,2,8,0,5,4509
+Argentina,argob,4,33,10,6,11,28609
+Argentina,cifasis,12,245,55,24,27,50097
+Argentina,conectados-ar,1,0,0,0,0,116
+Argentina,gcba,71,103,52,48,129,1770172
+Argentina,inti-cmnb,2,2,4,0,15,20313
+Argentina,municipioriogrande,1,2,3,0,4,59411
+Bolivia,adsib,4,0,2,2,125,6643
+Bolivia,geobolivia,8,4,16,0,14,7847
+Norway,altinn,4,2,1,0,3,19375
+Norway,difi,59,134,138,223,189,425336
+Norway,dss-web,4,5,4,0,7,123998
+Norway,kartverket,16,72,33,14,36,100886
+Norway,KRD-KOMM-VL,3,2,1,0,6,15059
+Norway,metno,114,94,49,69,241,1199772
+Norway,navikt,14,2,3,0,18,20973
+Norway,nlbdev,11,2,4,94,15,498626
+Norway,rutebanken,4,1,0,0,9,1079
+Norway,ruterno,0,0,0,0,0,0
+Norway,vegvesen,1,0,0,0,2,112
+New Zealand,CanterburyRegionalCouncil,19,3,0,20,29,366772
+New Zealand,DigitalNZ,12,13,19,2,68,13421
+New Zealand,ElectricityAuthority,9,5,7,0,12,260613
+New Zealand,GOVTNZ,12,17,11,3,27,57242
+New Zealand,linz,42,25,9,44,70,80514
+New Zealand,localgovernment,3,4,0,2,3,401
+New Zealand,nz-mbie,6,18,8,0,8,301463
+New Zealand,NZWellingtonCityCouncil,0,0,0,0,0,0
+New Zealand,opcnz,2,10,12,3,11,581
+New Zealand,R9BetterAPIs,2,1,0,1,1,19015
+New Zealand,te-papa,6,3,2,0,9,11703
+Ecuador,inamhi,7,0,0,0,1,21084
+Ecuador,innovacionsnap,4,0,0,11,15,271630
+Ecuador,senescyt,37,1,6,0,342,195556
+Israel,Digital-Israel,0,0,0,0,0,0
+Australia,actesa,0,0,0,0,0,0
+Australia,actgov,1,92,36,1,1,3224
+Australia,agnsw,0,0,0,0,0,0
+Australia,ausdto,40,82,66,106,147,235945
+Australia,australianantarcticdatacentre,10,2,2,8,22,12526
+Australia,bom-radar,3,2,0,0,3,330
+Australia,datagovau,9,11,13,9,29,9889
+Australia,dpipwe,3,0,1,0,5,15394
+Australia,envris,9,4,1,9,12,1033
+Australia,ga-m3dv,3,32,19,95,6,356729
+Australia,gccgisteam,4,14,10,0,8,75558
+Australia,GeoscienceAustralia,70,106,87,240,214,1746558
+Australia,govcms,30,55,38,92,100,107786
+Australia,Healthway,0,0,0,0,0,0
+Australia,hiscom,3,4,0,20,6,2168
+Australia,innovationgovau,11,0,0,0,11,2172
+Australia,Landgate,9,19,7,2,10,3091
+Australia,mcma,0,0,0,0,0,0
+Australia,museumvictoria,10,60,22,21,16,106764
+Australia,nla,30,24,8,32,107,39639
+Australia,nmalabs,0,0,0,0,0,0
+Australia,NSWPlanning,3,2,0,11,11,39482
+Australia,NSWRFS,2,0,3,0,2,18648
+Australia,parksandwildlife,36,8,53,27,92,368974
+Australia,qld-gov-au,26,4,7,15,42,81045
+Australia,srnsw,17,22,10,47,24,311944
+Australia,SSCwebdev,0,0,0,0,0,0
+Australia,SunshineCoastCouncil,1,0,0,0,1,728
+Australia,treasury-aus,19,3,1,7,26,70372
+Australia,victoriangovernment,1,0,1,0,1,0
+Australia,wamuseum,3,0,3,1,6,700
+Singapore,idagds,13,3,3,1,11,1429
+Singapore,moexmen,10,21,28,19,41,65347
+Venezuela,CanaimaGNULinux,38,13,10,32,97,463426
+Venezuela,suscerte,11,2,1,9,14,173338
+U.S. County,anoka-script-team,1,0,1,0,2,546
+U.S. County,ArlingtonCounty,1,1,1,0,1,156
+U.S. County,baltimorecounty,21,14,9,5,25,226461
+U.S. County,bouldercounty,3,0,0,0,3,2403
+U.S. County,CanyonCounty,24,1,2,0,26,6245
+U.S. County,CarverCounty,1,0,0,0,1,160
+U.S. County,donaanacounty,1,3,0,0,1,232
+U.S. County,fairfieldcountyit,1,0,0,0,1,20
+U.S. County,fpdcc,2,0,0,0,3,4272
+U.S. County,HarrisCountyFOA,1,0,0,0,0,11316
+U.S. County,HennepinCountyPublicDefender,4,0,0,2,4,353
+U.S. County,MCLD,7,2,8,29,8,156479
+U.S. County,miamidade,29,31,11,14,67,224767
+U.S. County,pottcountyit,1,1,0,0,1,3236
+U.S. County,saccounty,5,4,19,3,5,4939
+U.S. County,sfcta,22,94,56,59,35,199410
+U.S. County,SJCGIS,22,15,10,16,44,38025
+U.S. County,slo-county-planning-and-building,2,0,0,0,2,2428
+U.S. County,slugis,36,13,22,80,67,199882
+Guatemala,minfingt,3,2,1,3,3,517
+Germany,gbv,91,135,73,274,147,97461
+Germany,hbz,24,26,26,342,63,101025
+Germany,isyfact,10,3,4,12,22,1183
+Germany,lobid,8,38,14,70,18,98287
+U.S. Tribal Nations,coquille-indian-tribe,0,0,0,0,0,0
+U.S. Tribal Nations,osage-nation,0,0,0,0,0,0
+Chile,datal-org,1,19,4,2,13,154619
+Chile,e-gob,50,78,65,53,79,609790
+Denmark,skat,0,0,0,0,0,0
+Belgium,belgianpolice,0,0,0,0,0,0
+Belgium,Fedict,21,44,18,34,39,268449
+Belgium,onroerenderfgoed,49,50,22,122,153,72345
+U.K. Councils,BarnsleyCouncil,1,0,0,0,1,500
+U.K. Councils,BathnesDevelopment,16,4,3,3,23,65231
+U.K. Councils,BracknellForestCouncil,0,0,0,0,0,0
+U.K. Councils,brighton-hove-gov-uk,1,1,0,0,1,876
+U.K. Councils,BristolCityCouncil,2,4,2,0,12,21694
+U.K. Councils,CamdenCouncil,1,0,1,0,1,1715
+U.K. Councils,cityofyork,1,1,1,3,1,83
+U.K. Councils,devoncc,4,0,2,0,4,125
+U.K. Councils,DevonCountyCouncil,4,0,4,0,8,45607
+U.K. Councils,DundeeCityCouncil,2,0,0,0,2,671
+U.K. Councils,east-sussex-county-council,78,20,2,0,78,22651
+U.K. Councils,edinburghcouncil,10,29,15,5,13,20965
+U.K. Councils,gmfrs,1,0,0,0,0,0
+U.K. Councils,GuildfordBC,33,4,1,1,33,11239
+U.K. Councils,HfdsCouncil,1,0,0,0,1,216
+U.K. Councils,kentcc,27,2,0,23,43,857580
+U.K. Councils,LambethCouncil,7,19,0,5,29,118788
+U.K. Councils,lichfield-district-council,7,20,2,0,7,21993
+U.K. Councils,LutonCouncil,3,3,1,0,6,16741
+U.K. Councils,RotherDC,1,0,0,0,1,0
+U.K. Councils,thehighlandcouncil,1,0,0,0,1,184
+U.K. Councils,TraffordCouncil,3,3,2,1,3,4495
+U.K. Councils,warwickshire,15,12,7,1,19,6318
+U.K. Councils,wealden,3,1,0,2,3,530
+U.K. Councils,west-berkshire-council,3,1,1,1,3,1766
+Hong Kong,datagovhk,4,1,0,0,4,988
+Philippines,govph,2,1,0,0,3,35683
+Philippines,igovphil,6,7,17,4,9,4750
+Spain,AyuntamientoMadrid,2,52,23,11,17,8812
+Spain,ctt-gob-es,13,38,28,2,30,2394035
+Catalonia,gencat,1,6,1,0,3,49798
+Ukraine,openprocurement,52,67,151,243,191,21929
+U.K. Central,alphagov,378,3143,1575,472,5290,2269168
+U.K. Central,BEACmodel,1,0,1,0,1,3371
+U.K. Central,cabinetoffice,1,0,0,0,1,5796
+U.K. Central,certuk,3,7,1,1,3,844
+U.K. Central,communitiesuk,3,6,1,1,3,2232
+U.K. Central,companieshouse,18,12,8,18,72,9993
+U.K. Central,datagovuk,50,140,163,133,143,225210
+U.K. Central,decc,34,56,71,19,51,1693016
+U.K. Central,defra,8,14,10,0,15,35842
+U.K. Central,Department-for-Work-and-Pensions,9,7,2,1,69,28909
+U.K. Central,dfid,6,13,10,12,31,153118
+U.K. Central,digital-preservation,9,135,66,70,46,41035
+U.K. Central,directgov-innovate,0,0,0,0,0,0
+U.K. Central,dstl,6,151,36,2,28,93030
+U.K. Central,dvla,30,54,10,1,163,139880
+U.K. Central,EnvHack2,4,0,0,0,6,628
+U.K. Central,EnvironmentAgency,37,13,9,100,117,171162
+U.K. Central,gds-attic,107,337,169,33,756,8769397
+U.K. Central,gds-dead,11,1,3,1,12,24734
+U.K. Central,gds-operations,23,369,199,24,257,8077
+U.K. Central,GovernmentCommunicationsHeadquarters,2,1450,280,72,11,34777
+U.K. Central,guidance-guarantee-programme,34,9,7,15,125,42555
+U.K. Central,hmrc,213,242,514,235,1189,194968
+U.K. Central,insolvencyservice,9,0,1,1,29,155955
+U.K. Central,intellectual-property-office,3,2,0,0,3,2464
+U.K. Central,IQuOD,3,10,10,14,10,2078
+U.K. Central,jncc,6,2,2,59,25,223842
+U.K. Central,JNCC-UK,1,5,3,3,3,1532
+U.K. Central,jules-lsm,1,1,1,0,2,1981
+U.K. Central,LandRegistry,160,49,41,30,822,631786
+U.K. Central,landregistry-ops,39,11,5,9,80,74628
+U.K. Central,lgss,8,4,2,25,11,100761
+U.K. Central,LocalGovDigital,6,14,4,4,13,2187
+U.K. Central,met-office-lab,60,26,25,121,195,300750
+U.K. Central,MetOffice,1,0,1,0,1,172
+U.K. Central,MetOfficeSpaceApps,4,15,1,0,9,8310
+U.K. Central,metomi,4,51,44,219,30,22406
+U.K. Central,ministryofjustice,358,263,146,402,1631,3204222
+U.K. Central,naouk,1,0,0,0,3,3988
+U.K. Central,nationalarchives,54,13,1,18,78,109912
+U.K. Central,OfqualGovUK,1,0,0,0,1,160
+U.K. Central,ONSdigital,87,24,20,29,337,589990
+U.K. Central,openglasgow,9,1,1,1,13,48128
+U.K. Central,osgeouk,2,3,7,0,16,19752
+U.K. Central,scottishgovernment,10,3,2,0,15,8222
+U.K. Central,ukforeignoffice,19,4,6,4,39,27444
+U.K. Central,UKHomeOffice,232,444,220,496,599,182130
+U.K. Central,UKLocation,3,0,0,0,4,444
+U.K. Central,uktradeinvestment,32,3,5,23,58,61834
+U.S. Special District,atlregional,20,23,14,1166,116,658422
+U.S. Special District,AZMAG,10,0,1,18,10,13996
+U.S. Special District,baaqmd,7,1,0,1,7,109464
+U.S. Special District,cleveland-metroparks,49,22,9,42,72,4231309
+U.S. Special District,CMAP-REPOS,7,6,6,8,14,370119
+U.S. Special District,commonwealth-of-puerto-rico,10,82,43,17,21,40031
+U.S. Special District,MetropolitanCouncil,2,0,2,0,2,8588
+U.S. Special District,MetropolitanTransportationCommission,42,46,18,131,75,1687654
+U.S. Special District,portofsandiego,4,6,0,0,8,2271
+U.S. Special District,psrc,31,23,27,210,343,472945
+Finland,Digipalvelutehdas,14,12,8,199,42,33967
+Finland,City-of-Helsinki,52,116,74,407,155,90219
+Finland,finnishtransportagency,9,17,8,5,47,269440
+Finland,Helsingin-kaupungin-tietokeskus,4,8,0,0,4,22664
+Finland,helsinki-city-library,1,16,2,0,2,13033
+Finland,HSLdevcom,35,206,63,92,172,71920
+Finland,Lounaispaikka,7,0,3,3,11,3857
+Finland,lukefi,0,0,0,0,0,0
+Finland,NatLibFi,90,110,46,369,132,2808715
+Finland,nlsfi,3,5,2,0,4,15806
+Finland,vrk-kpa,21,56,12,45,66,110588
+U.S. Federal,18f,542,8989,2590,5067,2940,2996677
+U.S. Federal,adl-aicc,3,11,7,0,0,867
+U.S. Federal,adlnet,45,770,530,195,223,1492671
+U.S. Federal,afrl,0,0,0,0,0,0
+U.S. Federal,arcticlcc,6,3,2,2,6,11601
+U.S. Federal,BBGInnovate,18,37,11,0,37,147903
+U.S. Federal,bfelob,1,1,2,0,3,68438
+U.S. Federal,blue-button,15,212,121,14,34,557578
+U.S. Federal,businessusa,2,8,3,53,2,62256
+U.S. Federal,CA-CST-Library,3,0,0,0,3,140
+U.S. Federal,CA-CST-SII,7,5,5,3,11,33584
+U.S. Federal,ccmc,2,4,0,3,5,231375
+U.S. Federal,cfpb,190,1472,1345,1073,1149,1035819
+U.S. Federal,cmsgov,3,50,27,24,13,41057
+U.S. Federal,commercedataservice,48,39,66,142,96,2238327
+U.S. Federal,commercegov,3,16,15,16,6,743
+U.S. Federal,defense-cyber-crime-center,2,77,6,1,2,5284
+U.S. Federal,demand-driven-open-data,3,25,8,34,2,6691
+U.S. Federal,department-of-veterans-affairs,173,153,100,478,380,7937357
+U.S. Federal,didsr,13,17,7,49,23,470167
+U.S. Federal,EEOC,0,0,0,0,0,0
+U.S. Federal,energyapps,43,3,3,1,44,370260
+U.S. Federal,erdc-cm,54,68,48,195,277,2755113
+U.S. Federal,eregs,6,19,49,65,87,29103
+U.S. Federal,fcc,52,226,152,27,75,1518493
+U.S. Federal,FCCdev,2,1,1,0,2,2350
+U.S. Federal,fda,3,334,100,39,15,17591
+U.S. Federal,Federal-Aviation-Administration,6,5,0,0,7,31676
+U.S. Federal,federaltradecommission,3,2,0,0,3,12444
+U.S. Federal,fedspendingtransparency,12,26,8,38,70,308512
+U.S. Federal,globegit,2,0,0,0,2,160
+U.S. Federal,gopleader,0,0,0,0,0,0
+U.S. Federal,government-services,1,2,2,11,3,222
+U.S. Federal,GreatSmokyMountainsNationalPark,3,0,1,0,3,13615
+U.S. Federal,gsa,180,1630,716,947,517,607886
+U.S. Federal,GSA-Archive,0,0,0,0,0,0
+U.S. Federal,hhs,15,145,65,35,39,181517
+U.S. Federal,HHSDigitalMediaAPIPlatform,10,4,2,0,12,10108
+U.S. Federal,HHSIDEAlab,17,39,18,12,29,131330
+U.S. Federal,historyatstate,17,32,32,23,42,478796
+U.S. Federal,IIP-Design,8,0,3,8,11,2046
+U.S. Federal,IMDProjects,9,0,2,7,10,6039
+U.S. Federal,imls,0,0,0,0,0,0
+U.S. Federal,informaticslab,69,9,30,5,128,1650360
+U.S. Federal,Innovation-Toolkit,1,3,1,2,1,268
+U.S. Federal,internationaltradeadministration,15,9,21,4,14,65160
+U.S. Federal,ioos,71,103,187,429,214,344322
+U.S. Federal,IRSgov,3,30,22,8,8,6626
+U.S. Federal,keplergo,8,17,6,27,47,479322
+U.S. Federal,libraryofcongress,19,206,80,103,82,826107
+U.S. Federal,M-O-S-E-S,7,9,12,3,8,5385
+U.S. Federal,mcc-gov,6,9,6,0,7,2577
+U.S. Federal,missioncommand,3,96,24,7,13,23437
+U.S. Federal,nasa,68,3742,1352,744,181,5013250
+U.S. Federal,nasa-develop,5,43,13,22,18,52635
+U.S. Federal,nasa-gibs,10,272,99,12,39,704007
+U.S. Federal,NASA-rdt,5,1,1,0,8,28031
+U.S. Federal,nasa-tournament-lab,20,148,116,86,38,2007356
+U.S. Federal,nasaworldwind,3,148,60,18,18,149303
+U.S. Federal,NationalGuard,0,0,0,0,0,0
+U.S. Federal,nationalparkservice,47,342,108,560,141,3165544
+U.S. Federal,NCRN,9,6,0,22,9,50000
+U.S. Federal,NeoGeographyToolkit,9,108,49,30,36,288251
+U.S. Federal,nesii,3,1,1,1,4,474
+U.S. Federal,ngds,15,21,28,126,72,202225
+U.S. Federal,nhanes,3,0,0,0,3,256
+U.S. Federal,nidcd,4,0,1,1,4,230044
+U.S. Federal,NIEM,11,26,31,8,28,427833
+U.S. Federal,NMB-Dev,23,0,1,10,25,19512
+U.S. Federal,NMML,18,19,5,4,29,88813
+U.S. Federal,noaa-gfdl,13,47,66,115,63,175665
+U.S. Federal,noaa-ncei-stp,0,0,0,0,0,0
+U.S. Federal,noaa-nws-cpc,6,2,1,3,6,6037
+U.S. Federal,NOAA-ORR-ERD,18,16,25,33,63,220927
+U.S. Federal,ntia,2,3,2,0,3,6840
+U.S. Federal,ombegov,2,24,36,116,8,1516
+U.S. Federal,Open-Sat,8,2,0,0,8,21945
+U.S. Federal,opengovplatform,5,439,126,21,11,827636
+U.S. Federal,ozone-development,42,101,125,346,252,818233
+U.S. Federal,ozoneplatform,12,300,148,15,57,589710
+U.S. Federal,peacecorps,31,86,111,128,157,695211
+U.S. Federal,petsc,1,40,28,1,71,131475
+U.S. Federal,presidential-innovation-fellows,58,220,150,122,185,734682
+U.S. Federal,project-open-data,12,1322,516,164,105,36683
+U.S. Federal,radiofreeasia,11,5,7,18,14,9473
+U.S. Federal,redhawksdr,76,70,115,35,349,195422
+U.S. Federal,regulationsgov,0,0,0,0,0,0
+U.S. Federal,sbstusa,13,3,1,10,16,4081
+U.S. Federal,SelectUSA,7,3,5,0,17,834076
+U.S. Federal,SERVIR,9,0,1,1,9,9881
+U.S. Federal,state-hiu,27,17,38,37,68,360521
+U.S. Federal,sunpy,20,244,219,325,126,218950
+U.S. Federal,US-CBP,2,16,11,23,5,20420
+U.S. Federal,usagov,8,79,40,4,10,36104
+U.S. Federal,usaid,5,24,9,14,11,1074
+U.S. Federal,usajobs,2,10,2,29,7,129409
+U.S. Federal,usasearch,1,0,0,0,0,288
+U.S. Federal,usbr,14,16,10,17,27,119990
+U.S. Federal,uscensusbureau,3,478,135,85,30,64214
+U.S. Federal,uscis,2,1,1,0,2,896
+U.S. Federal,usda,2,35,6,47,5,1002
+U.S. Federal,usda-ars-agil,8,0,1,0,9,21143
+U.S. Federal,USDA-ERS,4,3,1,0,0,459
+U.S. Federal,USDA-FSA,4,1,0,21,5,4250
+U.S. Federal,usda-vs,1,1,1,2,2,9044
+U.S. Federal,usdepartmentoflabor,49,102,51,140,93,486059
+U.S. Federal,USDeptVeteransAffairs,3,8,2,0,3,4380
+U.S. Federal,usds,5,742,201,54,31,58314
+U.S. Federal,usepa,41,132,66,10,86,1370302
+U.S. Federal,USFWS,26,2,2,16,28,369834
+U.S. Federal,usg-scope,1,2,0,1,2,368
+U.S. Federal,USGCRP,13,12,39,99,40,36337
+U.S. Federal,usgpo,6,66,15,11,14,8198
+U.S. Federal,usgs,108,128,427,455,302,3149046
+U.S. Federal,USGS-Astrogeology,31,11,37,12,52,308881
+U.S. Federal,USGS-CIDA,88,149,413,83,370,1790497
+U.S. Federal,usgs-cmg,3,3,13,77,14,18827
+U.S. Federal,usgs-eros,44,105,99,144,88,205987
+U.S. Federal,USGS-OWI,6,2,11,10,11,156253
+U.S. Federal,USGS-R,63,143,281,343,203,3638193
+U.S. Federal,USGS-WiM,46,3,67,131,63,291697
+U.S. Federal,usindianaffairs,1,0,0,0,1,0
+U.S. Federal,usinterior,4,4,0,0,6,434
+U.S. Federal,usnationalarchives,16,218,40,16,40,105387
+U.S. Federal,USPS,1,1,0,0,1,0
+U.S. Federal,USPTO,5,105,39,13,12,48829
+U.S. Federal,usstatedept,79,35,19,194,150,1059551
+U.S. Federal,VHAINNOVATIONS,30,64,47,89,106,3366598
+U.S. Federal,virtual-world-framework,8,134,49,31,53,4703977
+U.S. Federal,visionworkbench,1,221,90,8,25,30674
+U.S. Federal,WFMRDA,5,2,1,1,5,16916
+U.S. Federal,whitehouse,36,4897,1393,337,158,164495
+Poland,coi-gov-pl,4,13,7,31,13,826
+U.S. States,agrc,81,108,60,227,156,1346298
+U.S. States,agrc-widgets,3,0,0,13,6,337
+U.S. States,azgs,23,27,24,29,50,592855
+U.S. States,calsimcallite,3,1,1,61,3,970300
+U.S. States,ccap,7,3,3,0,9,1942
+U.S. States,coloradodemography,10,1,0,0,13,83053
+U.S. States,CTOpenData,0,0,0,0,0,0
+U.S. States,DCGovWeb,0,0,0,0,0,0
+U.S. States,eHawaii,2,0,0,0,4,49795
+U.S. States,FGS-FloridaGeologicalSurvey,1,0,0,0,1,0
+U.S. States,gocodecolorado,2,0,0,0,3,25300
+U.S. States,IDAHO-DOC-NCOMS,0,0,0,0,0,0
+U.S. States,idahofishgame,9,1,1,7,11,129750
+U.S. States,investmentboard,0,0,0,0,0,0
+U.S. States,LADCO,3,6,8,3,5,186133
+U.S. States,LibraryofVA,6,3,0,0,7,16645
+U.S. States,massgov,2,0,0,1,2,30540
+U.S. States,MFWP-GIS,2,0,3,0,4,20221
+U.S. States,mn-script-team,4,23,61,25,40,15001
+U.S. States,nebraskamap,1,0,0,0,0,112
+U.S. States,nelegislature,1,0,0,0,10,47984
+U.S. States,NJOGIS,4,4,2,2,4,5557
+U.S. States,njstatelibrary,8,0,0,0,8,2981
+U.S. States,ny,8,70,32,133,52,144186
+U.S. States,nys-its,1,0,0,0,2,1028
+U.S. States,nysenate,26,281,107,13,88,267991
+U.S. States,oimt,3,0,1,0,6,1660
+U.S. States,okcareertech,1,1,0,0,1,673
+U.S. States,oregonopendata,1,0,0,0,0,0
+U.S. States,ORMetro,1,2,0,0,0,1776
+U.S. States,scdhhs,5,6,8,0,14,2848
+U.S. States,scgeology,8,0,0,3,8,48847
+U.S. States,SLNC-DIMP,4,19,7,1,6,15552
+U.S. States,State-of-Arizona,5,3,2,2,43,122868
+U.S. States,tndidd,1,0,0,0,1,515
+U.S. States,TNRIS,18,30,12,96,36,787597
+U.S. States,twdb,8,11,8,22,23,179467
+U.S. States,TxDOT,6,0,1,1,13,18064
+U.S. States,UtahForestryFireStateLands,2,0,0,0,2,24952
+U.S. States,VDGIF,1,1,0,0,1,0
+U.S. States,Virginia-House-of-Delegates,0,0,0,0,0,0
+U.S. States,vtrans,15,0,3,15,42,361663
+U.S. States,vtrans-rail,8,3,3,36,11,586113
+U.S. States,wadoh,2,0,0,0,2,304
+U.S. States,WisconsinDPI,1,0,0,0,1,328
+U.S. States,wsdot,15,42,35,187,24,94455
+U.S. States,WSDOT-GIS,92,58,28,80,95,35463
+Saudi Arabia,SAS-NCDC,0,0,0,0,0,0
+Sweden,domstol,0,0,0,0,0,0
+Sweden,gbif-sweden,5,6,10,0,7,5020
+Sweden,kungbib,11,6,3,26,27,54648
+Sweden,libris,22,35,6,126,89,48870
+Sweden,lldd,5,0,0,0,8,592
+Sweden,malmostad,37,23,16,102,71,242619
+Sweden,mtmse,5,1,3,0,6,3306
+Sweden,riksarkivet,2,0,0,0,2,198
+Sweden,rinfo,4,13,2,246,22,35763
+Sweden,statens-maritima-museer,1,2,1,0,2,39868
+Sweden,swedishpensionsagency,16,39,14,57,25,20534
+Sweden,The-Municipality-of-Staffanstorp,1,6,2,0,1,1157
+Latvia,CSBLatvia,2,4,0,0,4,813
+Switzerland,alv-ch,36,15,2,12,77,140916
+Switzerland,alv-ch-ansible-roles,1,2,0,1,1,160
+Switzerland,BFS-SHS-MSAS,1,0,0,0,2,22
+Switzerland,dsi-vd,5,1,1,31,9,92218
+Switzerland,FNSKtZH,4,5,1,42,6,149743
+Switzerland,gisktzh,2,0,0,0,2,4954
+Switzerland,ogdch,18,20,19,5,60,6977
+Switzerland,sitn,8,7,19,49,16,286321
+Switzerland,swiss-gov,0,0,0,0,0,0
+U.S. City,austincodeit,9,5,8,5,9,100161
+U.S. City,Baltimore-City-EGIS,1,3,0,0,2,4456
+U.S. City,berkeleypubliclibrary,0,0,0,0,0,0
+U.S. City,BostonRedevelop,2,5,1,0,2,720
+U.S. City,cambridgedata,1,2,0,0,1,144
+U.S. City,cambridgegis,26,54,35,4,31,469817
+U.S. City,chicago,22,828,288,175,83,1272879
+U.S. City,city-of-bellingham,1,1,1,0,1,134
+U.S. City,city-of-bloomington,40,104,87,254,99,317757
+U.S. City,City-of-Raleigh-Public-Utilities,20,1,4,18,35,100024
+U.S. City,cityofasheville,47,52,30,38,68,310855
+U.S. City,CityOfAuburnAL,5,0,0,0,5,250803
+U.S. City,cityofaustin,13,14,5,69,24,24634
+U.S. City,cityofboise,3,0,1,0,3,8091
+U.S. City,CityOfBoston,17,46,11,0,30,57103
+U.S. City,cityofboulder,0,0,0,0,0,0
+U.S. City,cityofburlington,3,1,0,0,2,60147
+U.S. City,cityofchattanooga,3,33,20,1,13,928
+U.S. City,cityoffortworth,5,1,1,2,6,763
+U.S. City,CityOfGreeleyCo,1,0,0,0,1,19395
+U.S. City,cityofnewyork,20,93,38,86,55,376083
+U.S. City,CityOfPhiladelphia,113,278,133,200,249,630163
+U.S. City,cityofportland,1,13,0,5,1,216
+U.S. City,CityofReno,1,2,6,0,4,1482
+U.S. City,CityofSanFrancisco,2,2,2,0,3,323
+U.S. City,CityofSantaMonica,26,91,45,34,70,260028
+U.S. City,cityofsomerville,7,37,13,0,18,36105
+U.S. City,cityofvernonia,2,0,0,0,2,845
+U.S. City,CityOfVirginiaBeach,3,9,4,0,3,4357
+U.S. City,cityofwestsacramento,0,0,0,0,0,0
+U.S. City,CityofYakima,3,1,0,0,3,2804
+U.S. City,cno-opa,14,13,12,0,24,3329
+U.S. City,CORaleigh,41,3,14,69,54,432195
+U.S. City,CUMTD,10,1,0,1,11,231129
+U.S. City,datala,4,15,11,0,5,30979
+U.S. City,dataseattlegov,1,0,0,0,1,124
+U.S. City,DCCouncil,21,27,5,20,22,2957425
+U.S. City,DCgov,32,38,24,77,92,132429
+U.S. City,DenverDev,1,0,2,0,7,19170
+U.S. City,digitalinclusion,2,1,2,8,104,6983
+U.S. City,egovpdx,6,22,3,43,6,3560
+U.S. City,geospatialDENVER,0,0,0,0,0,0
+U.S. City,Honolulu,6,6,2,0,7,34974
+U.S. City,kcmo,1,0,0,0,1,0
+U.S. City,lfucg,16,15,6,20,32,86299
+U.S. City,longbeachinnovationteam,2,2,0,1,2,1978
+U.S. City,LouisvilleMetro,0,0,0,0,0,0
+U.S. City,mnhrc,1,0,1,0,3,347
+U.S. City,monum,7,4,1,18,9,231410
+U.S. City,NYCComptroller,1,40,17,24,11,650952
+U.S. City,nycdot,6,14,6,0,29,252389
+U.S. City,NYCPlanning,6,105,17,8,12,7122
+U.S. City,OpenGovDC,3,1,2,1,5,286
+U.S. City,p2g,1,0,0,0,0,0
+U.S. City,pdxgis,1,0,0,0,2,4940
+U.S. City,PierceCountyWA,0,0,0,0,0,0
+U.S. City,ProBonoDC,1,1,0,1,1,120
+U.S. City,ridertd,0,0,0,0,0,0
+U.S. City,SantaClarita,5,5,1,0,6,12223
+U.S. City,sfbart,0,0,0,0,0,0
+U.S. City,SiloamSprings,5,9,1,0,0,1800
+U.S. City,southbend,2,0,1,0,6,245
+U.S. City,TownOfBrookline,3,0,0,5,3,3313
+U.S. City,tucsonaz,0,0,0,0,0,0
+European Union,europeana,78,121,82,87,275,3130169
+Bulgaria,govbg,1,2,0,0,1,120
+Bulgaria,governmentbg,10,84,24,56,25,14194
+Romania,govro,6,12,6,26,11,3739
+Isle of Man,Isle-Of-Man-Government,2,8,1,0,3,5636
+Estonia,e-gov,13,12,11,56,33,552971
+Estonia,kinnisvara,14,6,7,174,23,25633
+Estonia,MKM-ITAO,4,4,1,45,8,41455
+Estonia,open-eid,33,209,86,21,120,442185
+Estonia,opendata-ee,1,0,0,1,1,8
+Estonia,vvk-ehk,5,745,131,6,5,10213
+Uruguay,uygub,2,3,0,0,2,878
+Egypt,informationtechnologyinstitute,1,0,0,0,0,0
+Mexico,CSB-IG,27,8,16,19,75,607511
+Mexico,DDT-INMEGEN,4,0,1,4,9,18369
+Mexico,inmegen,15,0,5,2,36,81051
+Mexico,profeco,1,0,0,3,1,120
+Mexico,redoaxacadetodos,7,1,3,0,33,28212
+Mexico,mxabierto,80,94,97,610,261,673276
+India,itschool,3,2,1,9,4,24808
+South Africa,eddZA,0,0,0,0,0,0
+Malaysia,pmo2,1,0,0,0,1,0
+U.S. Military and Intelligence,afseo,1,49,2,0,1,3617
+U.S. Military and Intelligence,erdc-itl,1,0,0,0,0,7
+U.S. Military and Intelligence,iadgov,17,270,78,7,34,34773
+U.S. Military and Intelligence,info-sharing-environment,6,29,11,9,8,45413
+U.S. Military and Intelligence,NationalSecurityAgency,5,949,202,18,10,9651
+U.S. Military and Intelligence,ngageoint,64,1358,437,659,383,3936635
+U.S. Military and Intelligence,project-interoperability,2,24,26,11,9,4011
+U.S. Military and Intelligence,screamlab,1,0,0,1,1,168
+U.S. Military and Intelligence,shareandprotect,1,0,0,1,1,112
+U.S. Military and Intelligence,SIMP,85,91,440,166,332,11795
+U.S. Military and Intelligence,usarmyresearchlab,3,4749,1103,28,18,26098
+Colombia,AltaConsejeriaTIC,4,0,2,0,12,76360
+Colombia,evaluon,5,0,1,0,7,60371
+Colombia,idu-bogota,8,14,34,1,13,39562
+Paraguay,mecpy,2,8,1,0,6,11916
+Paraguay,SENATICS,6,8,4,2,13,149947
+Japan,city-of-kobe,4,22,6,2,6,44420
+Japan,codefornamie,12,8,1,6,17,69806
+Japan,gsi-cyberjapan,72,424,405,42,83,291974
+Japan,nhohq,2,5,0,4,6,291
+Japan,nims-library,2,0,1,1,3,374
+Japan,wakayama-pref-org,14,49,30,1,45,201565

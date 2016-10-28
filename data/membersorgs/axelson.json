@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hicapacity/issues", 
+        "members_url": "https://api.github.com/orgs/hicapacity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hicapacity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hicapacity", 
+        "events_url": "https://api.github.com/orgs/hicapacity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/717133?v=3", 
+        "repos_url": "https://api.github.com/orgs/hicapacity/repos", 
+        "login": "hicapacity", 
+        "id": 717133, 
+        "hooks_url": "https://api.github.com/orgs/hicapacity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Honolulu/issues", 
+        "members_url": "https://api.github.com/orgs/Honolulu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Honolulu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Honolulu", 
+        "events_url": "https://api.github.com/orgs/Honolulu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1817426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Honolulu/repos", 
+        "login": "Honolulu", 
+        "id": 1817426, 
+        "hooks_url": "https://api.github.com/orgs/Honolulu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforHawaii/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforHawaii/members{/member}", 
+        "description": "We are civic-minded volunteers interested in using technology and open data to make our local communities better.", 
+        "public_members_url": "https://api.github.com/orgs/CodeforHawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforHawaii", 
+        "events_url": "https://api.github.com/orgs/CodeforHawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6244195?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforHawaii/repos", 
+        "login": "CodeforHawaii", 
+        "id": 6244195, 
+        "hooks_url": "https://api.github.com/orgs/CodeforHawaii/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CSB-IG/issues", 
+        "members_url": "https://api.github.com/orgs/CSB-IG/members{/member}", 
+        "description": "Computational Systems Biology/Integrative Genomics at National Institute of Genomic Medicine - M\u00e9xico", 
+        "public_members_url": "https://api.github.com/orgs/CSB-IG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CSB-IG", 
+        "events_url": "https://api.github.com/orgs/CSB-IG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6653977?v=3", 
+        "repos_url": "https://api.github.com/orgs/CSB-IG/repos", 
+        "login": "CSB-IG", 
+        "id": 6653977, 
+        "hooks_url": "https://api.github.com/orgs/CSB-IG/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DDT-INMEGEN/issues", 
+        "members_url": "https://api.github.com/orgs/DDT-INMEGEN/members{/member}", 
+        "description": "Direcci\u00f3n de Desarrollo Tecnol\u00f3gico @ INMEGEN", 
+        "public_members_url": "https://api.github.com/orgs/DDT-INMEGEN/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DDT-INMEGEN", 
+        "events_url": "https://api.github.com/orgs/DDT-INMEGEN/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7049155?v=3", 
+        "repos_url": "https://api.github.com/orgs/DDT-INMEGEN/repos", 
+        "login": "DDT-INMEGEN", 
+        "id": 7049155, 
+        "hooks_url": "https://api.github.com/orgs/DDT-INMEGEN/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LC3-INMEGEN/issues", 
+        "members_url": "https://api.github.com/orgs/LC3-INMEGEN/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/LC3-INMEGEN/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LC3-INMEGEN", 
+        "events_url": "https://api.github.com/orgs/LC3-INMEGEN/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9954399?v=3", 
+        "repos_url": "https://api.github.com/orgs/LC3-INMEGEN/repos", 
+        "login": "LC3-INMEGEN", 
+        "id": 9954399, 
+        "hooks_url": "https://api.github.com/orgs/LC3-INMEGEN/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CA-Lab/issues", 
+        "members_url": "https://api.github.com/orgs/CA-Lab/members{/member}", 
+        "description": "From simulations to ethnography mining", 
+        "public_members_url": "https://api.github.com/orgs/CA-Lab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CA-Lab", 
+        "events_url": "https://api.github.com/orgs/CA-Lab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10149191?v=3", 
+        "repos_url": "https://api.github.com/orgs/CA-Lab/repos", 
+        "login": "CA-Lab", 
+        "id": 10149191, 
+        "hooks_url": "https://api.github.com/orgs/CA-Lab/hooks"
+    }
+]

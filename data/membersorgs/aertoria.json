@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforkansascity/issues", 
+        "members_url": "https://api.github.com/orgs/codeforkansascity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforkansascity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforkansascity", 
+        "events_url": "https://api.github.com/orgs/codeforkansascity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5272305?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforkansascity/repos", 
+        "login": "codeforkansascity", 
+        "id": 5272305, 
+        "hooks_url": "https://api.github.com/orgs/codeforkansascity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WeLovePizza/issues", 
+        "members_url": "https://api.github.com/orgs/WeLovePizza/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/WeLovePizza/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WeLovePizza", 
+        "events_url": "https://api.github.com/orgs/WeLovePizza/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6295868?v=3", 
+        "repos_url": "https://api.github.com/orgs/WeLovePizza/repos", 
+        "login": "WeLovePizza", 
+        "id": 6295868, 
+        "hooks_url": "https://api.github.com/orgs/WeLovePizza/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Kepler-186F/issues", 
+        "members_url": "https://api.github.com/orgs/Kepler-186F/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Kepler-186F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Kepler-186F", 
+        "events_url": "https://api.github.com/orgs/Kepler-186F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13836473?v=3", 
+        "repos_url": "https://api.github.com/orgs/Kepler-186F/repos", 
+        "login": "Kepler-186F", 
+        "id": 13836473, 
+        "hooks_url": "https://api.github.com/orgs/Kepler-186F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Template-EthanFavoriate/issues", 
+        "members_url": "https://api.github.com/orgs/Template-EthanFavoriate/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Template-EthanFavoriate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Template-EthanFavoriate", 
+        "events_url": "https://api.github.com/orgs/Template-EthanFavoriate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15369832?v=3", 
+        "repos_url": "https://api.github.com/orgs/Template-EthanFavoriate/repos", 
+        "login": "Template-EthanFavoriate", 
+        "id": 15369832, 
+        "hooks_url": "https://api.github.com/orgs/Template-EthanFavoriate/hooks"
+    }
+]

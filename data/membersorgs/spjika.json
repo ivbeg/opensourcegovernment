@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openoakland/issues", 
+        "members_url": "https://api.github.com/orgs/openoakland/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openoakland", 
+        "events_url": "https://api.github.com/orgs/openoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2238933?v=3", 
+        "repos_url": "https://api.github.com/orgs/openoakland/repos", 
+        "login": "openoakland", 
+        "id": 2238933, 
+        "hooks_url": "https://api.github.com/orgs/openoakland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/UrbanStrategies/issues", 
+        "members_url": "https://api.github.com/orgs/UrbanStrategies/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/UrbanStrategies/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UrbanStrategies", 
+        "events_url": "https://api.github.com/orgs/UrbanStrategies/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3084887?v=3", 
+        "repos_url": "https://api.github.com/orgs/UrbanStrategies/repos", 
+        "login": "UrbanStrategies", 
+        "id": 3084887, 
+        "hooks_url": "https://api.github.com/orgs/UrbanStrategies/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/issues", 
+        "members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NationalDayOfCivicHacking", 
+        "events_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4041034?v=3", 
+        "repos_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/repos", 
+        "login": "NationalDayOfCivicHacking", 
+        "id": 4041034, 
+        "hooks_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/hooks"
+    }
+]

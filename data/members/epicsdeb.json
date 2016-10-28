@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mark0n/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mark0n/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mark0n/orgs", 
+        "url": "https://api.github.com/users/mark0n", 
+        "gists_url": "https://api.github.com/users/mark0n/gists{/gist_id}", 
+        "html_url": "https://github.com/mark0n", 
+        "subscriptions_url": "https://api.github.com/users/mark0n/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4429621?v=3", 
+        "repos_url": "https://api.github.com/users/mark0n/repos", 
+        "received_events_url": "https://api.github.com/users/mark0n/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mark0n/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mark0n", 
+        "type": "User", 
+        "id": 4429621, 
+        "followers_url": "https://api.github.com/users/mark0n/followers"
+    }
+]

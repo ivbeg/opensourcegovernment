@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/marshmallow-code/issues", 
+        "members_url": "https://api.github.com/orgs/marshmallow-code/members{/member}", 
+        "description": "Python object serialization and deserialization, lightweight and fluffy", 
+        "public_members_url": "https://api.github.com/orgs/marshmallow-code/public_members{/member}", 
+        "url": "https://api.github.com/orgs/marshmallow-code", 
+        "events_url": "https://api.github.com/orgs/marshmallow-code/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10334301?v=3", 
+        "repos_url": "https://api.github.com/orgs/marshmallow-code/repos", 
+        "login": "marshmallow-code", 
+        "id": 10334301, 
+        "hooks_url": "https://api.github.com/orgs/marshmallow-code/hooks"
+    }
+]

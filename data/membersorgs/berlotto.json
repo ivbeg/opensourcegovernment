@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gabinetedigital/issues", 
+        "members_url": "https://api.github.com/orgs/gabinetedigital/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gabinetedigital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gabinetedigital", 
+        "events_url": "https://api.github.com/orgs/gabinetedigital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2326605?v=3", 
+        "repos_url": "https://api.github.com/orgs/gabinetedigital/repos", 
+        "login": "gabinetedigital", 
+        "id": 2326605, 
+        "hooks_url": "https://api.github.com/orgs/gabinetedigital/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PyTche/issues", 
+        "members_url": "https://api.github.com/orgs/PyTche/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/PyTche/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PyTche", 
+        "events_url": "https://api.github.com/orgs/PyTche/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3049983?v=3", 
+        "repos_url": "https://api.github.com/orgs/PyTche/repos", 
+        "login": "PyTche", 
+        "id": 3049983, 
+        "hooks_url": "https://api.github.com/orgs/PyTche/hooks"
+    }
+]

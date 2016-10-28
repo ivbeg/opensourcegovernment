@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GoSteelProgrammers/issues", 
+        "members_url": "https://api.github.com/orgs/GoSteelProgrammers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GoSteelProgrammers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GoSteelProgrammers", 
+        "events_url": "https://api.github.com/orgs/GoSteelProgrammers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2927680?v=3", 
+        "repos_url": "https://api.github.com/orgs/GoSteelProgrammers/repos", 
+        "login": "GoSteelProgrammers", 
+        "id": 2927680, 
+        "hooks_url": "https://api.github.com/orgs/GoSteelProgrammers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/modcloth-labs/issues", 
+        "members_url": "https://api.github.com/orgs/modcloth-labs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/modcloth-labs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/modcloth-labs", 
+        "events_url": "https://api.github.com/orgs/modcloth-labs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3802930?v=3", 
+        "repos_url": "https://api.github.com/orgs/modcloth-labs/repos", 
+        "login": "modcloth-labs", 
+        "id": 3802930, 
+        "hooks_url": "https://api.github.com/orgs/modcloth-labs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hamfist/issues", 
+        "members_url": "https://api.github.com/orgs/hamfist/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hamfist/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hamfist", 
+        "events_url": "https://api.github.com/orgs/hamfist/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5498243?v=3", 
+        "repos_url": "https://api.github.com/orgs/hamfist/repos", 
+        "login": "hamfist", 
+        "id": 5498243, 
+        "hooks_url": "https://api.github.com/orgs/hamfist/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/globallinks/issues", 
+        "members_url": "https://api.github.com/orgs/globallinks/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/globallinks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/globallinks", 
+        "events_url": "https://api.github.com/orgs/globallinks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9296412?v=3", 
+        "repos_url": "https://api.github.com/orgs/globallinks/repos", 
+        "login": "globallinks", 
+        "id": 9296412, 
+        "hooks_url": "https://api.github.com/orgs/globallinks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/git-duet/issues", 
+        "members_url": "https://api.github.com/orgs/git-duet/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/git-duet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/git-duet", 
+        "events_url": "https://api.github.com/orgs/git-duet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12676999?v=3", 
+        "repos_url": "https://api.github.com/orgs/git-duet/repos", 
+        "login": "git-duet", 
+        "id": 12676999, 
+        "hooks_url": "https://api.github.com/orgs/git-duet/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jeremypage/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jeremypage/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jeremypage/orgs", 
+        "url": "https://api.github.com/users/jeremypage", 
+        "gists_url": "https://api.github.com/users/jeremypage/gists{/gist_id}", 
+        "html_url": "https://github.com/jeremypage", 
+        "subscriptions_url": "https://api.github.com/users/jeremypage/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1789705?v=3", 
+        "repos_url": "https://api.github.com/users/jeremypage/repos", 
+        "received_events_url": "https://api.github.com/users/jeremypage/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jeremypage/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jeremypage", 
+        "type": "User", 
+        "id": 1789705, 
+        "followers_url": "https://api.github.com/users/jeremypage/followers"
+    }
+]

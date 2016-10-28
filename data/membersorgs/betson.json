@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/betterlink/issues", 
+        "members_url": "https://api.github.com/orgs/betterlink/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/betterlink/public_members{/member}", 
+        "url": "https://api.github.com/orgs/betterlink", 
+        "events_url": "https://api.github.com/orgs/betterlink/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5367900?v=3", 
+        "repos_url": "https://api.github.com/orgs/betterlink/repos", 
+        "login": "betterlink", 
+        "id": 5367900, 
+        "hooks_url": "https://api.github.com/orgs/betterlink/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }
+]

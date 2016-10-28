@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/onibushacker/issues", 
+        "members_url": "https://api.github.com/orgs/onibushacker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/onibushacker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/onibushacker", 
+        "events_url": "https://api.github.com/orgs/onibushacker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2708486?v=3", 
+        "repos_url": "https://api.github.com/orgs/onibushacker/repos", 
+        "login": "onibushacker", 
+        "id": 2708486, 
+        "hooks_url": "https://api.github.com/orgs/onibushacker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gdg-br/issues", 
+        "members_url": "https://api.github.com/orgs/gdg-br/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gdg-br/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gdg-br", 
+        "events_url": "https://api.github.com/orgs/gdg-br/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3868519?v=3", 
+        "repos_url": "https://api.github.com/orgs/gdg-br/repos", 
+        "login": "gdg-br", 
+        "id": 3868519, 
+        "hooks_url": "https://api.github.com/orgs/gdg-br/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gdg-sp/issues", 
+        "members_url": "https://api.github.com/orgs/gdg-sp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gdg-sp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gdg-sp", 
+        "events_url": "https://api.github.com/orgs/gdg-sp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4615640?v=3", 
+        "repos_url": "https://api.github.com/orgs/gdg-sp/repos", 
+        "login": "gdg-sp", 
+        "id": 4615640, 
+        "hooks_url": "https://api.github.com/orgs/gdg-sp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/16iacc/issues", 
+        "members_url": "https://api.github.com/orgs/16iacc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/16iacc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/16iacc", 
+        "events_url": "https://api.github.com/orgs/16iacc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14086192?v=3", 
+        "repos_url": "https://api.github.com/orgs/16iacc/repos", 
+        "login": "16iacc", 
+        "id": 14086192, 
+        "hooks_url": "https://api.github.com/orgs/16iacc/hooks"
+    }
+]

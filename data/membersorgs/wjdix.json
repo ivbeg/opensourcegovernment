@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/netracker/issues", 
+        "members_url": "https://api.github.com/orgs/netracker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/netracker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/netracker", 
+        "events_url": "https://api.github.com/orgs/netracker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3248049?v=3", 
+        "repos_url": "https://api.github.com/orgs/netracker/repos", 
+        "login": "netracker", 
+        "id": 3248049, 
+        "hooks_url": "https://api.github.com/orgs/netracker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dev-urandom/issues", 
+        "members_url": "https://api.github.com/orgs/dev-urandom/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dev-urandom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dev-urandom", 
+        "events_url": "https://api.github.com/orgs/dev-urandom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3878160?v=3", 
+        "repos_url": "https://api.github.com/orgs/dev-urandom/repos", 
+        "login": "dev-urandom", 
+        "id": 3878160, 
+        "hooks_url": "https://api.github.com/orgs/dev-urandom/hooks"
+    }
+]

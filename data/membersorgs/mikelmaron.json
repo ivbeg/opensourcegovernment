@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hotosm/issues", 
+        "members_url": "https://api.github.com/orgs/hotosm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hotosm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hotosm", 
+        "events_url": "https://api.github.com/orgs/hotosm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/458752?v=3", 
+        "repos_url": "https://api.github.com/orgs/hotosm/repos", 
+        "login": "hotosm", 
+        "id": 458752, 
+        "hooks_url": "https://api.github.com/orgs/hotosm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bmearth/issues", 
+        "members_url": "https://api.github.com/orgs/bmearth/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bmearth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bmearth", 
+        "events_url": "https://api.github.com/orgs/bmearth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/858656?v=3", 
+        "repos_url": "https://api.github.com/orgs/bmearth/repos", 
+        "login": "bmearth", 
+        "id": 858656, 
+        "hooks_url": "https://api.github.com/orgs/bmearth/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osmlab/issues", 
+        "members_url": "https://api.github.com/orgs/osmlab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/osmlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osmlab", 
+        "events_url": "https://api.github.com/orgs/osmlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3856374?v=3", 
+        "repos_url": "https://api.github.com/orgs/osmlab/repos", 
+        "login": "osmlab", 
+        "id": 3856374, 
+        "hooks_url": "https://api.github.com/orgs/osmlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenHistoricalMap/issues", 
+        "members_url": "https://api.github.com/orgs/OpenHistoricalMap/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenHistoricalMap/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenHistoricalMap", 
+        "events_url": "https://api.github.com/orgs/OpenHistoricalMap/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4163850?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenHistoricalMap/repos", 
+        "login": "OpenHistoricalMap", 
+        "id": 4163850, 
+        "hooks_url": "https://api.github.com/orgs/OpenHistoricalMap/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapkibera/issues", 
+        "members_url": "https://api.github.com/orgs/mapkibera/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mapkibera/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapkibera", 
+        "events_url": "https://api.github.com/orgs/mapkibera/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6606620?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapkibera/repos", 
+        "login": "mapkibera", 
+        "id": 6606620, 
+        "hooks_url": "https://api.github.com/orgs/mapkibera/hooks"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dxw/issues", 
+        "members_url": "https://api.github.com/orgs/dxw/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dxw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dxw", 
+        "events_url": "https://api.github.com/orgs/dxw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/27897?v=3", 
+        "repos_url": "https://api.github.com/orgs/dxw/repos", 
+        "login": "dxw", 
+        "id": 27897, 
+        "hooks_url": "https://api.github.com/orgs/dxw/hooks"
+    }
+]

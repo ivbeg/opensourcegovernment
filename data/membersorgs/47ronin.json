@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opensandiego/issues", 
+        "members_url": "https://api.github.com/orgs/opensandiego/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opensandiego/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opensandiego", 
+        "events_url": "https://api.github.com/orgs/opensandiego/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/363945?v=3", 
+        "repos_url": "https://api.github.com/orgs/opensandiego/repos", 
+        "login": "opensandiego", 
+        "id": 363945, 
+        "hooks_url": "https://api.github.com/orgs/opensandiego/hooks"
+    }
+]

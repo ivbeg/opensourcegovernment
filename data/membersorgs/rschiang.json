@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sitcon-tw/issues", 
+        "members_url": "https://api.github.com/orgs/sitcon-tw/members{/member}", 
+        "description": "Students' Information Technology Conference", 
+        "public_members_url": "https://api.github.com/orgs/sitcon-tw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sitcon-tw", 
+        "events_url": "https://api.github.com/orgs/sitcon-tw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2225517?v=3", 
+        "repos_url": "https://api.github.com/orgs/sitcon-tw/repos", 
+        "login": "sitcon-tw", 
+        "id": 2225517, 
+        "hooks_url": "https://api.github.com/orgs/sitcon-tw/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NTUOSC/issues", 
+        "members_url": "https://api.github.com/orgs/NTUOSC/members{/member}", 
+        "description": "National Taiwan University Open Source Community", 
+        "public_members_url": "https://api.github.com/orgs/NTUOSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NTUOSC", 
+        "events_url": "https://api.github.com/orgs/NTUOSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6293079?v=3", 
+        "repos_url": "https://api.github.com/orgs/NTUOSC/repos", 
+        "login": "NTUOSC", 
+        "id": 6293079, 
+        "hooks_url": "https://api.github.com/orgs/NTUOSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JRF-tw/issues", 
+        "members_url": "https://api.github.com/orgs/JRF-tw/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/JRF-tw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JRF-tw", 
+        "events_url": "https://api.github.com/orgs/JRF-tw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10635289?v=3", 
+        "repos_url": "https://api.github.com/orgs/JRF-tw/repos", 
+        "login": "JRF-tw", 
+        "id": 10635289, 
+        "hooks_url": "https://api.github.com/orgs/JRF-tw/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NTUSA/issues", 
+        "members_url": "https://api.github.com/orgs/NTUSA/members{/member}", 
+        "description": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u5b78\u751f\u6703 (National Taiwan University Student Association, NTUSA)", 
+        "public_members_url": "https://api.github.com/orgs/NTUSA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NTUSA", 
+        "events_url": "https://api.github.com/orgs/NTUSA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18073942?v=3", 
+        "repos_url": "https://api.github.com/orgs/NTUSA/repos", 
+        "login": "NTUSA", 
+        "id": 18073942, 
+        "hooks_url": "https://api.github.com/orgs/NTUSA/hooks"
+    }
+]

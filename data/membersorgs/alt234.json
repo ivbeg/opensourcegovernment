@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/EpochFail/issues", 
+        "members_url": "https://api.github.com/orgs/EpochFail/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EpochFail/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpochFail", 
+        "events_url": "https://api.github.com/orgs/EpochFail/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/319640?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpochFail/repos", 
+        "login": "EpochFail", 
+        "id": 319640, 
+        "hooks_url": "https://api.github.com/orgs/EpochFail/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforanchorage/issues", 
+        "members_url": "https://api.github.com/orgs/codeforanchorage/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforanchorage/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforanchorage", 
+        "events_url": "https://api.github.com/orgs/codeforanchorage/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3999742?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforanchorage/repos", 
+        "login": "codeforanchorage", 
+        "id": 3999742, 
+        "hooks_url": "https://api.github.com/orgs/codeforanchorage/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aboutdotme/issues", 
+        "members_url": "https://api.github.com/orgs/aboutdotme/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/aboutdotme/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aboutdotme", 
+        "events_url": "https://api.github.com/orgs/aboutdotme/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6465264?v=3", 
+        "repos_url": "https://api.github.com/orgs/aboutdotme/repos", 
+        "login": "aboutdotme", 
+        "id": 6465264, 
+        "hooks_url": "https://api.github.com/orgs/aboutdotme/hooks"
+    }
+]

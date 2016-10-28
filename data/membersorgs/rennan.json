@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/thacker/issues", 
+        "members_url": "https://api.github.com/orgs/thacker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/thacker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thacker", 
+        "events_url": "https://api.github.com/orgs/thacker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/494319?v=3", 
+        "repos_url": "https://api.github.com/orgs/thacker/repos", 
+        "login": "thacker", 
+        "id": 494319, 
+        "hooks_url": "https://api.github.com/orgs/thacker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AdviseBrasil/issues", 
+        "members_url": "https://api.github.com/orgs/AdviseBrasil/members{/member}", 
+        "description": "Tecnologia e Inova\u00e7\u00e3o para o mundo Jur\u00eddico", 
+        "public_members_url": "https://api.github.com/orgs/AdviseBrasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AdviseBrasil", 
+        "events_url": "https://api.github.com/orgs/AdviseBrasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13338364?v=3", 
+        "repos_url": "https://api.github.com/orgs/AdviseBrasil/repos", 
+        "login": "AdviseBrasil", 
+        "id": 13338364, 
+        "hooks_url": "https://api.github.com/orgs/AdviseBrasil/hooks"
+    }
+]

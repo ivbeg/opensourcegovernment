@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPortland/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPortland/members{/member}", 
+        "description": "Portland's Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPortland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPortland", 
+        "events_url": "https://api.github.com/orgs/CodeForPortland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6692606?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPortland/repos", 
+        "login": "CodeForPortland", 
+        "id": 6692606, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPortland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pdx-cocoaheads/issues", 
+        "members_url": "https://api.github.com/orgs/pdx-cocoaheads/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pdx-cocoaheads/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pdx-cocoaheads", 
+        "events_url": "https://api.github.com/orgs/pdx-cocoaheads/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10731599?v=3", 
+        "repos_url": "https://api.github.com/orgs/pdx-cocoaheads/repos", 
+        "login": "pdx-cocoaheads", 
+        "id": 10731599, 
+        "hooks_url": "https://api.github.com/orgs/pdx-cocoaheads/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ghost-network/issues", 
+        "members_url": "https://api.github.com/orgs/ghost-network/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ghost-network/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ghost-network", 
+        "events_url": "https://api.github.com/orgs/ghost-network/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10892379?v=3", 
+        "repos_url": "https://api.github.com/orgs/ghost-network/repos", 
+        "login": "ghost-network", 
+        "id": 10892379, 
+        "hooks_url": "https://api.github.com/orgs/ghost-network/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Workhood/issues", 
+        "members_url": "https://api.github.com/orgs/Workhood/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Workhood/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Workhood", 
+        "events_url": "https://api.github.com/orgs/Workhood/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13647241?v=3", 
+        "repos_url": "https://api.github.com/orgs/Workhood/repos", 
+        "login": "Workhood", 
+        "id": 13647241, 
+        "hooks_url": "https://api.github.com/orgs/Workhood/hooks"
+    }
+]

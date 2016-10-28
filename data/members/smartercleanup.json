@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Bilal-io/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Bilal-io/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Bilal-io/orgs", 
+        "url": "https://api.github.com/users/Bilal-io", 
+        "gists_url": "https://api.github.com/users/Bilal-io/gists{/gist_id}", 
+        "html_url": "https://github.com/Bilal-io", 
+        "subscriptions_url": "https://api.github.com/users/Bilal-io/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4480581?v=3", 
+        "repos_url": "https://api.github.com/users/Bilal-io/repos", 
+        "received_events_url": "https://api.github.com/users/Bilal-io/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Bilal-io/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Bilal-io", 
+        "type": "User", 
+        "id": 4480581, 
+        "followers_url": "https://api.github.com/users/Bilal-io/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/LukeSwart/following{/other_user}", 
+        "events_url": "https://api.github.com/users/LukeSwart/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/LukeSwart/orgs", 
+        "url": "https://api.github.com/users/LukeSwart", 
+        "gists_url": "https://api.github.com/users/LukeSwart/gists{/gist_id}", 
+        "html_url": "https://github.com/LukeSwart", 
+        "subscriptions_url": "https://api.github.com/users/LukeSwart/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4207017?v=3", 
+        "repos_url": "https://api.github.com/users/LukeSwart/repos", 
+        "received_events_url": "https://api.github.com/users/LukeSwart/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/LukeSwart/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "LukeSwart", 
+        "type": "User", 
+        "id": 4207017, 
+        "followers_url": "https://api.github.com/users/LukeSwart/followers"
+    }
+]

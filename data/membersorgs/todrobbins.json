@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenSaltLake/issues", 
+        "members_url": "https://api.github.com/orgs/OpenSaltLake/members{/member}", 
+        "description": "A Code for America Brigade serving the greater Salt Lake Area", 
+        "public_members_url": "https://api.github.com/orgs/OpenSaltLake/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenSaltLake", 
+        "events_url": "https://api.github.com/orgs/OpenSaltLake/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2808202?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenSaltLake/repos", 
+        "login": "OpenSaltLake", 
+        "id": 2808202, 
+        "hooks_url": "https://api.github.com/orgs/OpenSaltLake/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenGravestones/issues", 
+        "members_url": "https://api.github.com/orgs/OpenGravestones/members{/member}", 
+        "description": "An open source project to provide open burial data built on open standards.", 
+        "public_members_url": "https://api.github.com/orgs/OpenGravestones/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenGravestones", 
+        "events_url": "https://api.github.com/orgs/OpenGravestones/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7672943?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenGravestones/repos", 
+        "login": "OpenGravestones", 
+        "id": 7672943, 
+        "hooks_url": "https://api.github.com/orgs/OpenGravestones/hooks"
+    }
+]

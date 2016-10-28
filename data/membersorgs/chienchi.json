@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/losalamos/issues", 
+        "members_url": "https://api.github.com/orgs/losalamos/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/losalamos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/losalamos", 
+        "events_url": "https://api.github.com/orgs/losalamos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/585305?v=3", 
+        "repos_url": "https://api.github.com/orgs/losalamos/repos", 
+        "login": "losalamos", 
+        "id": 585305, 
+        "hooks_url": "https://api.github.com/orgs/losalamos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LANL-Bioinformatics/issues", 
+        "members_url": "https://api.github.com/orgs/LANL-Bioinformatics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LANL-Bioinformatics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LANL-Bioinformatics", 
+        "events_url": "https://api.github.com/orgs/LANL-Bioinformatics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5933794?v=3", 
+        "repos_url": "https://api.github.com/orgs/LANL-Bioinformatics/repos", 
+        "login": "LANL-Bioinformatics", 
+        "id": 5933794, 
+        "hooks_url": "https://api.github.com/orgs/LANL-Bioinformatics/hooks"
+    }
+]

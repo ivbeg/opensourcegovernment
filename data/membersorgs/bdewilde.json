@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/chartbeat/issues", 
+        "members_url": "https://api.github.com/orgs/chartbeat/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/chartbeat/public_members{/member}", 
+        "url": "https://api.github.com/orgs/chartbeat", 
+        "events_url": "https://api.github.com/orgs/chartbeat/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/109472?v=3", 
+        "repos_url": "https://api.github.com/orgs/chartbeat/repos", 
+        "login": "chartbeat", 
+        "id": 109472, 
+        "hooks_url": "https://api.github.com/orgs/chartbeat/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datakind/issues", 
+        "members_url": "https://api.github.com/orgs/datakind/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/datakind/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datakind", 
+        "events_url": "https://api.github.com/orgs/datakind/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1133243?v=3", 
+        "repos_url": "https://api.github.com/orgs/datakind/repos", 
+        "login": "datakind", 
+        "id": 1133243, 
+        "hooks_url": "https://api.github.com/orgs/datakind/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/csvsoundsystem/issues", 
+        "members_url": "https://api.github.com/orgs/csvsoundsystem/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/csvsoundsystem/public_members{/member}", 
+        "url": "https://api.github.com/orgs/csvsoundsystem", 
+        "events_url": "https://api.github.com/orgs/csvsoundsystem/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2586284?v=3", 
+        "repos_url": "https://api.github.com/orgs/csvsoundsystem/repos", 
+        "login": "csvsoundsystem", 
+        "id": 2586284, 
+        "hooks_url": "https://api.github.com/orgs/csvsoundsystem/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/chartbeat-labs/issues", 
+        "members_url": "https://api.github.com/orgs/chartbeat-labs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/chartbeat-labs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/chartbeat-labs", 
+        "events_url": "https://api.github.com/orgs/chartbeat-labs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5552574?v=3", 
+        "repos_url": "https://api.github.com/orgs/chartbeat-labs/repos", 
+        "login": "chartbeat-labs", 
+        "id": 5552574, 
+        "hooks_url": "https://api.github.com/orgs/chartbeat-labs/hooks"
+    }
+]

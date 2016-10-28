@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ThoughtWorksInc/issues", 
+        "members_url": "https://api.github.com/orgs/ThoughtWorksInc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ThoughtWorksInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ThoughtWorksInc", 
+        "events_url": "https://api.github.com/orgs/ThoughtWorksInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/168376?v=3", 
+        "repos_url": "https://api.github.com/orgs/ThoughtWorksInc/repos", 
+        "login": "ThoughtWorksInc", 
+        "id": 168376, 
+        "hooks_url": "https://api.github.com/orgs/ThoughtWorksInc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/srobo/issues", 
+        "members_url": "https://api.github.com/orgs/srobo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/srobo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/srobo", 
+        "events_url": "https://api.github.com/orgs/srobo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1078609?v=3", 
+        "repos_url": "https://api.github.com/orgs/srobo/repos", 
+        "login": "srobo", 
+        "id": 1078609, 
+        "hooks_url": "https://api.github.com/orgs/srobo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackmanchester/issues", 
+        "members_url": "https://api.github.com/orgs/hackmanchester/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackmanchester/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackmanchester", 
+        "events_url": "https://api.github.com/orgs/hackmanchester/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1519306?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackmanchester/repos", 
+        "login": "hackmanchester", 
+        "id": 1519306, 
+        "hooks_url": "https://api.github.com/orgs/hackmanchester/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mmucomputing/issues", 
+        "members_url": "https://api.github.com/orgs/mmucomputing/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mmucomputing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mmucomputing", 
+        "events_url": "https://api.github.com/orgs/mmucomputing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5697505?v=3", 
+        "repos_url": "https://api.github.com/orgs/mmucomputing/repos", 
+        "login": "mmucomputing", 
+        "id": 5697505, 
+        "hooks_url": "https://api.github.com/orgs/mmucomputing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/InsolvencyService/issues", 
+        "members_url": "https://api.github.com/orgs/InsolvencyService/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/InsolvencyService/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InsolvencyService", 
+        "events_url": "https://api.github.com/orgs/InsolvencyService/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5759639?v=3", 
+        "repos_url": "https://api.github.com/orgs/InsolvencyService/repos", 
+        "login": "InsolvencyService", 
+        "id": 5759639, 
+        "hooks_url": "https://api.github.com/orgs/InsolvencyService/hooks"
+    }
+]

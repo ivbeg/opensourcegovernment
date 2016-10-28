@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/AlexHilson/following{/other_user}", 
+        "events_url": "https://api.github.com/users/AlexHilson/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/AlexHilson/orgs", 
+        "url": "https://api.github.com/users/AlexHilson", 
+        "gists_url": "https://api.github.com/users/AlexHilson/gists{/gist_id}", 
+        "html_url": "https://github.com/AlexHilson", 
+        "subscriptions_url": "https://api.github.com/users/AlexHilson/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6014104?v=3", 
+        "repos_url": "https://api.github.com/users/AlexHilson/repos", 
+        "received_events_url": "https://api.github.com/users/AlexHilson/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/AlexHilson/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "AlexHilson", 
+        "type": "User", 
+        "id": 6014104, 
+        "followers_url": "https://api.github.com/users/AlexHilson/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/tpowellmeto/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tpowellmeto/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tpowellmeto/orgs", 
+        "url": "https://api.github.com/users/tpowellmeto", 
+        "gists_url": "https://api.github.com/users/tpowellmeto/gists{/gist_id}", 
+        "html_url": "https://github.com/tpowellmeto", 
+        "subscriptions_url": "https://api.github.com/users/tpowellmeto/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10629325?v=3", 
+        "repos_url": "https://api.github.com/users/tpowellmeto/repos", 
+        "received_events_url": "https://api.github.com/users/tpowellmeto/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tpowellmeto/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tpowellmeto", 
+        "type": "User", 
+        "id": 10629325, 
+        "followers_url": "https://api.github.com/users/tpowellmeto/followers"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SalesLoft/issues", 
+        "members_url": "https://api.github.com/orgs/SalesLoft/members{/member}", 
+        "description": "Sales Development Prospecting & Automation", 
+        "public_members_url": "https://api.github.com/orgs/SalesLoft/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SalesLoft", 
+        "events_url": "https://api.github.com/orgs/SalesLoft/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1735249?v=3", 
+        "repos_url": "https://api.github.com/orgs/SalesLoft/repos", 
+        "login": "SalesLoft", 
+        "id": 1735249, 
+        "hooks_url": "https://api.github.com/orgs/SalesLoft/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforatlanta/issues", 
+        "members_url": "https://api.github.com/orgs/codeforatlanta/members{/member}", 
+        "description": "Atlanta's Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/codeforatlanta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforatlanta", 
+        "events_url": "https://api.github.com/orgs/codeforatlanta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5956025?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforatlanta/repos", 
+        "login": "codeforatlanta", 
+        "id": 5956025, 
+        "hooks_url": "https://api.github.com/orgs/codeforatlanta/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DreamforceHackathon/issues", 
+        "members_url": "https://api.github.com/orgs/DreamforceHackathon/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DreamforceHackathon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DreamforceHackathon", 
+        "events_url": "https://api.github.com/orgs/DreamforceHackathon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9138187?v=3", 
+        "repos_url": "https://api.github.com/orgs/DreamforceHackathon/repos", 
+        "login": "DreamforceHackathon", 
+        "id": 9138187, 
+        "hooks_url": "https://api.github.com/orgs/DreamforceHackathon/hooks"
+    }
+]

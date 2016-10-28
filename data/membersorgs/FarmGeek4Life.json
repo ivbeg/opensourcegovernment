@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/issues", 
+        "members_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec", 
+        "events_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6225798?v=3", 
+        "repos_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/repos", 
+        "login": "PNNL-Comp-Mass-Spec", 
+        "id": 6225798, 
+        "hooks_url": "https://api.github.com/orgs/PNNL-Comp-Mass-Spec/hooks"
+    }
+]

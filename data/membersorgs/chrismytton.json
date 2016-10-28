@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openaustralia/issues", 
+        "members_url": "https://api.github.com/orgs/openaustralia/members{/member}", 
+        "description": "Transforming democracy in Australia with wonderful, free civic projects.", 
+        "public_members_url": "https://api.github.com/orgs/openaustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openaustralia", 
+        "events_url": "https://api.github.com/orgs/openaustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/102012?v=3", 
+        "repos_url": "https://api.github.com/orgs/openaustralia/repos", 
+        "login": "openaustralia", 
+        "id": 102012, 
+        "hooks_url": "https://api.github.com/orgs/openaustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ciudadanointeligente/issues", 
+        "members_url": "https://api.github.com/orgs/ciudadanointeligente/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ciudadanointeligente/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ciudadanointeligente", 
+        "events_url": "https://api.github.com/orgs/ciudadanointeligente/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/631035?v=3", 
+        "repos_url": "https://api.github.com/orgs/ciudadanointeligente/repos", 
+        "login": "ciudadanointeligente", 
+        "id": 631035, 
+        "hooks_url": "https://api.github.com/orgs/ciudadanointeligente/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician/members{/member}", 
+        "description": "Data about every national legislature in the world, freely available for you to use", 
+        "public_members_url": "https://api.github.com/orgs/everypolitician/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician", 
+        "events_url": "https://api.github.com/orgs/everypolitician/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12497298?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician/repos", 
+        "login": "everypolitician", 
+        "id": 12497298, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician-scrapers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/everypolitician-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician-scrapers", 
+        "events_url": "https://api.github.com/orgs/everypolitician-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18443033?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician-scrapers/repos", 
+        "login": "everypolitician-scrapers", 
+        "id": 18443033, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician-scrapers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/communityfarm/issues", 
+        "members_url": "https://api.github.com/orgs/communityfarm/members{/member}", 
+        "description": "An unofficial set of tools for working with data from https://www.thecommunityfarm.co.uk/", 
+        "public_members_url": "https://api.github.com/orgs/communityfarm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/communityfarm", 
+        "events_url": "https://api.github.com/orgs/communityfarm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22559293?v=3", 
+        "repos_url": "https://api.github.com/orgs/communityfarm/repos", 
+        "login": "communityfarm", 
+        "id": 22559293, 
+        "hooks_url": "https://api.github.com/orgs/communityfarm/hooks"
+    }
+]

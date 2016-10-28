@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/energyapps/issues", 
+        "members_url": "https://api.github.com/orgs/energyapps/members{/member}", 
+        "description": "The U.S. Department of Energy's Interactive Graphics ", 
+        "public_members_url": "https://api.github.com/orgs/energyapps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/energyapps", 
+        "events_url": "https://api.github.com/orgs/energyapps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5075862?v=3", 
+        "repos_url": "https://api.github.com/orgs/energyapps/repos", 
+        "login": "energyapps", 
+        "id": 5075862, 
+        "hooks_url": "https://api.github.com/orgs/energyapps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pacmet/issues", 
+        "members_url": "https://api.github.com/orgs/pacmet/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pacmet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pacmet", 
+        "events_url": "https://api.github.com/orgs/pacmet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10408103?v=3", 
+        "repos_url": "https://api.github.com/orgs/pacmet/repos", 
+        "login": "pacmet", 
+        "id": 10408103, 
+        "hooks_url": "https://api.github.com/orgs/pacmet/hooks"
+    }
+]

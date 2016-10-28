@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/LaurentGoderre/following{/other_user}", 
+        "events_url": "https://api.github.com/users/LaurentGoderre/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/LaurentGoderre/orgs", 
+        "url": "https://api.github.com/users/LaurentGoderre", 
+        "gists_url": "https://api.github.com/users/LaurentGoderre/gists{/gist_id}", 
+        "html_url": "https://github.com/LaurentGoderre", 
+        "subscriptions_url": "https://api.github.com/users/LaurentGoderre/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1090826?v=3", 
+        "repos_url": "https://api.github.com/users/LaurentGoderre/repos", 
+        "received_events_url": "https://api.github.com/users/LaurentGoderre/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/LaurentGoderre/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "LaurentGoderre", 
+        "type": "User", 
+        "id": 1090826, 
+        "followers_url": "https://api.github.com/users/LaurentGoderre/followers"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/vectores/issues", 
+        "members_url": "https://api.github.com/orgs/vectores/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/vectores/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vectores", 
+        "events_url": "https://api.github.com/orgs/vectores/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2446374?v=3", 
+        "repos_url": "https://api.github.com/orgs/vectores/repos", 
+        "login": "vectores", 
+        "id": 2446374, 
+        "hooks_url": "https://api.github.com/orgs/vectores/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMexico/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMexico/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMexico", 
+        "events_url": "https://api.github.com/orgs/CodeandoMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2940113?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMexico/repos", 
+        "login": "CodeandoMexico", 
+        "id": 2940113, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMexico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GobiernoFacil/issues", 
+        "members_url": "https://api.github.com/orgs/GobiernoFacil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GobiernoFacil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GobiernoFacil", 
+        "events_url": "https://api.github.com/orgs/GobiernoFacil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8125934?v=3", 
+        "repos_url": "https://api.github.com/orgs/GobiernoFacil/repos", 
+        "login": "GobiernoFacil", 
+        "id": 8125934, 
+        "hooks_url": "https://api.github.com/orgs/GobiernoFacil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/INEGIfacil/issues", 
+        "members_url": "https://api.github.com/orgs/INEGIfacil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/INEGIfacil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/INEGIfacil", 
+        "events_url": "https://api.github.com/orgs/INEGIfacil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8126013?v=3", 
+        "repos_url": "https://api.github.com/orgs/INEGIfacil/repos", 
+        "login": "INEGIfacil", 
+        "id": 8126013, 
+        "hooks_url": "https://api.github.com/orgs/INEGIfacil/hooks"
+    }
+]

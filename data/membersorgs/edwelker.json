@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DCPython/issues", 
+        "members_url": "https://api.github.com/orgs/DCPython/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DCPython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCPython", 
+        "events_url": "https://api.github.com/orgs/DCPython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/468152?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCPython/repos", 
+        "login": "DCPython", 
+        "id": 468152, 
+        "hooks_url": "https://api.github.com/orgs/DCPython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/novapython/issues", 
+        "members_url": "https://api.github.com/orgs/novapython/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/novapython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/novapython", 
+        "events_url": "https://api.github.com/orgs/novapython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1406748?v=3", 
+        "repos_url": "https://api.github.com/orgs/novapython/repos", 
+        "login": "novapython", 
+        "id": 1406748, 
+        "hooks_url": "https://api.github.com/orgs/novapython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ncbi/issues", 
+        "members_url": "https://api.github.com/orgs/ncbi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ncbi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ncbi", 
+        "events_url": "https://api.github.com/orgs/ncbi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3812119?v=3", 
+        "repos_url": "https://api.github.com/orgs/ncbi/repos", 
+        "login": "ncbi", 
+        "id": 3812119, 
+        "hooks_url": "https://api.github.com/orgs/ncbi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/programming-training/issues", 
+        "members_url": "https://api.github.com/orgs/programming-training/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/programming-training/public_members{/member}", 
+        "url": "https://api.github.com/orgs/programming-training", 
+        "events_url": "https://api.github.com/orgs/programming-training/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9915540?v=3", 
+        "repos_url": "https://api.github.com/orgs/programming-training/repos", 
+        "login": "programming-training", 
+        "id": 9915540, 
+        "hooks_url": "https://api.github.com/orgs/programming-training/hooks"
+    }
+]

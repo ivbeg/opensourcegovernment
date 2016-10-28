@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/playandbuild/issues", 
+        "members_url": "https://api.github.com/orgs/playandbuild/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/playandbuild/public_members{/member}", 
+        "url": "https://api.github.com/orgs/playandbuild", 
+        "events_url": "https://api.github.com/orgs/playandbuild/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/638019?v=3", 
+        "repos_url": "https://api.github.com/orgs/playandbuild/repos", 
+        "login": "playandbuild", 
+        "id": 638019, 
+        "hooks_url": "https://api.github.com/orgs/playandbuild/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/getupgraded/issues", 
+        "members_url": "https://api.github.com/orgs/getupgraded/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/getupgraded/public_members{/member}", 
+        "url": "https://api.github.com/orgs/getupgraded", 
+        "events_url": "https://api.github.com/orgs/getupgraded/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19697426?v=3", 
+        "repos_url": "https://api.github.com/orgs/getupgraded/repos", 
+        "login": "getupgraded", 
+        "id": 19697426, 
+        "hooks_url": "https://api.github.com/orgs/getupgraded/hooks"
+    }
+]

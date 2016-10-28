@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/DannyMurphy/following{/other_user}", 
+        "events_url": "https://api.github.com/users/DannyMurphy/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/DannyMurphy/orgs", 
+        "url": "https://api.github.com/users/DannyMurphy", 
+        "gists_url": "https://api.github.com/users/DannyMurphy/gists{/gist_id}", 
+        "html_url": "https://github.com/DannyMurphy", 
+        "subscriptions_url": "https://api.github.com/users/DannyMurphy/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1396331?v=3", 
+        "repos_url": "https://api.github.com/users/DannyMurphy/repos", 
+        "received_events_url": "https://api.github.com/users/DannyMurphy/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/DannyMurphy/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "DannyMurphy", 
+        "type": "User", 
+        "id": 1396331, 
+        "followers_url": "https://api.github.com/users/DannyMurphy/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/rowead/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rowead/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rowead/orgs", 
+        "url": "https://api.github.com/users/rowead", 
+        "gists_url": "https://api.github.com/users/rowead/gists{/gist_id}", 
+        "html_url": "https://github.com/rowead", 
+        "subscriptions_url": "https://api.github.com/users/rowead/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4371359?v=3", 
+        "repos_url": "https://api.github.com/users/rowead/repos", 
+        "received_events_url": "https://api.github.com/users/rowead/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rowead/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rowead", 
+        "type": "User", 
+        "id": 4371359, 
+        "followers_url": "https://api.github.com/users/rowead/followers"
+    }
+]

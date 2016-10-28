@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/datakind/issues", 
+        "members_url": "https://api.github.com/orgs/datakind/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/datakind/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datakind", 
+        "events_url": "https://api.github.com/orgs/datakind/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1133243?v=3", 
+        "repos_url": "https://api.github.com/orgs/datakind/repos", 
+        "login": "datakind", 
+        "id": 1133243, 
+        "hooks_url": "https://api.github.com/orgs/datakind/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/twosigma/issues", 
+        "members_url": "https://api.github.com/orgs/twosigma/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/twosigma/public_members{/member}", 
+        "url": "https://api.github.com/orgs/twosigma", 
+        "events_url": "https://api.github.com/orgs/twosigma/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4049181?v=3", 
+        "repos_url": "https://api.github.com/orgs/twosigma/repos", 
+        "login": "twosigma", 
+        "id": 4049181, 
+        "hooks_url": "https://api.github.com/orgs/twosigma/hooks"
+    }
+]

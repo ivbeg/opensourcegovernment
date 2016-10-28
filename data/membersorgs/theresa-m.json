@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pwgsc/issues", 
+        "members_url": "https://api.github.com/orgs/pwgsc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pwgsc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pwgsc", 
+        "events_url": "https://api.github.com/orgs/pwgsc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/507576?v=3", 
+        "repos_url": "https://api.github.com/orgs/pwgsc/repos", 
+        "login": "pwgsc", 
+        "id": 507576, 
+        "hooks_url": "https://api.github.com/orgs/pwgsc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/TeamWhizzard/issues", 
+        "members_url": "https://api.github.com/orgs/TeamWhizzard/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/TeamWhizzard/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TeamWhizzard", 
+        "events_url": "https://api.github.com/orgs/TeamWhizzard/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10734142?v=3", 
+        "repos_url": "https://api.github.com/orgs/TeamWhizzard/repos", 
+        "login": "TeamWhizzard", 
+        "id": 10734142, 
+        "hooks_url": "https://api.github.com/orgs/TeamWhizzard/hooks"
+    }
+]

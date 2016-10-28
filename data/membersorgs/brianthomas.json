@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nasa/issues", 
+        "members_url": "https://api.github.com/orgs/nasa/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nasa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nasa", 
+        "events_url": "https://api.github.com/orgs/nasa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/848102?v=3", 
+        "repos_url": "https://api.github.com/orgs/nasa/repos", 
+        "login": "nasa", 
+        "id": 848102, 
+        "hooks_url": "https://api.github.com/orgs/nasa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/astrodataformat/issues", 
+        "members_url": "https://api.github.com/orgs/astrodataformat/members{/member}", 
+        "description": "Discussions on the future of astronomy data formats", 
+        "public_members_url": "https://api.github.com/orgs/astrodataformat/public_members{/member}", 
+        "url": "https://api.github.com/orgs/astrodataformat", 
+        "events_url": "https://api.github.com/orgs/astrodataformat/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9082085?v=3", 
+        "repos_url": "https://api.github.com/orgs/astrodataformat/repos", 
+        "login": "astrodataformat", 
+        "id": 9082085, 
+        "hooks_url": "https://api.github.com/orgs/astrodataformat/hooks"
+    }
+]

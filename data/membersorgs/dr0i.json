@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/lobid/issues", 
+        "members_url": "https://api.github.com/orgs/lobid/members{/member}", 
+        "description": "linking open bibliographic data", 
+        "public_members_url": "https://api.github.com/orgs/lobid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lobid", 
+        "events_url": "https://api.github.com/orgs/lobid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/756959?v=3", 
+        "repos_url": "https://api.github.com/orgs/lobid/repos", 
+        "login": "lobid", 
+        "id": 756959, 
+        "hooks_url": "https://api.github.com/orgs/lobid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/culturegraph/issues", 
+        "members_url": "https://api.github.com/orgs/culturegraph/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/culturegraph/public_members{/member}", 
+        "url": "https://api.github.com/orgs/culturegraph", 
+        "events_url": "https://api.github.com/orgs/culturegraph/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2182520?v=3", 
+        "repos_url": "https://api.github.com/orgs/culturegraph/repos", 
+        "login": "culturegraph", 
+        "id": 2182520, 
+        "hooks_url": "https://api.github.com/orgs/culturegraph/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dbpedia/issues", 
+        "members_url": "https://api.github.com/orgs/dbpedia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dbpedia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dbpedia", 
+        "events_url": "https://api.github.com/orgs/dbpedia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2864602?v=3", 
+        "repos_url": "https://api.github.com/orgs/dbpedia/repos", 
+        "login": "dbpedia", 
+        "id": 2864602, 
+        "hooks_url": "https://api.github.com/orgs/dbpedia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dini-ag-kim/issues", 
+        "members_url": "https://api.github.com/orgs/dini-ag-kim/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dini-ag-kim/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dini-ag-kim", 
+        "events_url": "https://api.github.com/orgs/dini-ag-kim/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4964810?v=3", 
+        "repos_url": "https://api.github.com/orgs/dini-ag-kim/repos", 
+        "login": "dini-ag-kim", 
+        "id": 4964810, 
+        "hooks_url": "https://api.github.com/orgs/dini-ag-kim/hooks"
+    }
+]

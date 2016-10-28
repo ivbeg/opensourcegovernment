@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kartverket/issues", 
+        "members_url": "https://api.github.com/orgs/kartverket/members{/member}", 
+        "description": "The Norwegian Mapping Authority", 
+        "public_members_url": "https://api.github.com/orgs/kartverket/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kartverket", 
+        "events_url": "https://api.github.com/orgs/kartverket/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2970101?v=3", 
+        "repos_url": "https://api.github.com/orgs/kartverket/repos", 
+        "login": "kartverket", 
+        "id": 2970101, 
+        "hooks_url": "https://api.github.com/orgs/kartverket/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Arkitektum/issues", 
+        "members_url": "https://api.github.com/orgs/Arkitektum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Arkitektum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Arkitektum", 
+        "events_url": "https://api.github.com/orgs/Arkitektum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4640256?v=3", 
+        "repos_url": "https://api.github.com/orgs/Arkitektum/repos", 
+        "login": "Arkitektum", 
+        "id": 4640256, 
+        "hooks_url": "https://api.github.com/orgs/Arkitektum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pur/issues", 
+        "members_url": "https://api.github.com/orgs/pur/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pur/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pur", 
+        "events_url": "https://api.github.com/orgs/pur/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17615490?v=3", 
+        "repos_url": "https://api.github.com/orgs/pur/repos", 
+        "login": "pur", 
+        "id": 17615490, 
+        "hooks_url": "https://api.github.com/orgs/pur/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/flowgig/issues", 
+        "members_url": "https://api.github.com/orgs/flowgig/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/flowgig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/flowgig", 
+        "events_url": "https://api.github.com/orgs/flowgig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19417063?v=3", 
+        "repos_url": "https://api.github.com/orgs/flowgig/repos", 
+        "login": "flowgig", 
+        "id": 19417063, 
+        "hooks_url": "https://api.github.com/orgs/flowgig/hooks"
+    }
+]

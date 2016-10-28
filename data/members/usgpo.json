@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jonquandt/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jonquandt/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jonquandt/orgs", 
+        "url": "https://api.github.com/users/jonquandt", 
+        "gists_url": "https://api.github.com/users/jonquandt/gists{/gist_id}", 
+        "html_url": "https://github.com/jonquandt", 
+        "subscriptions_url": "https://api.github.com/users/jonquandt/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7905226?v=3", 
+        "repos_url": "https://api.github.com/users/jonquandt/repos", 
+        "received_events_url": "https://api.github.com/users/jonquandt/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jonquandt/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jonquandt", 
+        "type": "User", 
+        "id": 7905226, 
+        "followers_url": "https://api.github.com/users/jonquandt/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/llaplant/following{/other_user}", 
+        "events_url": "https://api.github.com/users/llaplant/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/llaplant/orgs", 
+        "url": "https://api.github.com/users/llaplant", 
+        "gists_url": "https://api.github.com/users/llaplant/gists{/gist_id}", 
+        "html_url": "https://github.com/llaplant", 
+        "subscriptions_url": "https://api.github.com/users/llaplant/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11219688?v=3", 
+        "repos_url": "https://api.github.com/users/llaplant/repos", 
+        "received_events_url": "https://api.github.com/users/llaplant/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/llaplant/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "llaplant", 
+        "type": "User", 
+        "id": 11219688, 
+        "followers_url": "https://api.github.com/users/llaplant/followers"
+    }
+]

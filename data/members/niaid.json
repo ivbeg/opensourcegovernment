@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/NIH3Dprint/following{/other_user}", 
+        "events_url": "https://api.github.com/users/NIH3Dprint/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/NIH3Dprint/orgs", 
+        "url": "https://api.github.com/users/NIH3Dprint", 
+        "gists_url": "https://api.github.com/users/NIH3Dprint/gists{/gist_id}", 
+        "html_url": "https://github.com/NIH3Dprint", 
+        "subscriptions_url": "https://api.github.com/users/NIH3Dprint/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11638543?v=3", 
+        "repos_url": "https://api.github.com/users/NIH3Dprint/repos", 
+        "received_events_url": "https://api.github.com/users/NIH3Dprint/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/NIH3Dprint/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "NIH3Dprint", 
+        "type": "User", 
+        "id": 11638543, 
+        "followers_url": "https://api.github.com/users/NIH3Dprint/followers"
+    }
+]

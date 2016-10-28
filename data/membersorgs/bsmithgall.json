@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-city/issues", 
+        "members_url": "https://api.github.com/orgs/open-city/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/open-city/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-city", 
+        "events_url": "https://api.github.com/orgs/open-city/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1361807?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-city/repos", 
+        "login": "open-city", 
+        "id": 1361807, 
+        "hooks_url": "https://api.github.com/orgs/open-city/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CityofPittsburgh/issues", 
+        "members_url": "https://api.github.com/orgs/CityofPittsburgh/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CityofPittsburgh/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityofPittsburgh", 
+        "events_url": "https://api.github.com/orgs/CityofPittsburgh/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15895124?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityofPittsburgh/repos", 
+        "login": "CityofPittsburgh", 
+        "id": 15895124, 
+        "hooks_url": "https://api.github.com/orgs/CityofPittsburgh/hooks"
+    }
+]

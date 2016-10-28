@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openfisca/issues", 
+        "members_url": "https://api.github.com/orgs/openfisca/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openfisca/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openfisca", 
+        "events_url": "https://api.github.com/orgs/openfisca/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1794404?v=3", 
+        "repos_url": "https://api.github.com/orgs/openfisca/repos", 
+        "login": "openfisca", 
+        "id": 1794404, 
+        "hooks_url": "https://api.github.com/orgs/openfisca/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sgmap/issues", 
+        "members_url": "https://api.github.com/orgs/sgmap/members{/member}", 
+        "description": "Incubateur de Services Num\u00e9riques du Secr\u00e9tariat G\u00e9n\u00e9ral pour la Modernisation de l\u2019Action Publique", 
+        "public_members_url": "https://api.github.com/orgs/sgmap/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sgmap", 
+        "events_url": "https://api.github.com/orgs/sgmap/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7874148?v=3", 
+        "repos_url": "https://api.github.com/orgs/sgmap/repos", 
+        "login": "sgmap", 
+        "id": 7874148, 
+        "hooks_url": "https://api.github.com/orgs/sgmap/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/addok/issues", 
+        "members_url": "https://api.github.com/orgs/addok/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/addok/public_members{/member}", 
+        "url": "https://api.github.com/orgs/addok", 
+        "events_url": "https://api.github.com/orgs/addok/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16663622?v=3", 
+        "repos_url": "https://api.github.com/orgs/addok/repos", 
+        "login": "addok", 
+        "id": 16663622, 
+        "hooks_url": "https://api.github.com/orgs/addok/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/inspireteam/issues", 
+        "members_url": "https://api.github.com/orgs/inspireteam/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/inspireteam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/inspireteam", 
+        "events_url": "https://api.github.com/orgs/inspireteam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22120797?v=3", 
+        "repos_url": "https://api.github.com/orgs/inspireteam/repos", 
+        "login": "inspireteam", 
+        "id": 22120797, 
+        "hooks_url": "https://api.github.com/orgs/inspireteam/hooks"
+    }
+]

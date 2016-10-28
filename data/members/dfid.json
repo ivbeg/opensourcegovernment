@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/beaurob/following{/other_user}", 
+        "events_url": "https://api.github.com/users/beaurob/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/beaurob/orgs", 
+        "url": "https://api.github.com/users/beaurob", 
+        "gists_url": "https://api.github.com/users/beaurob/gists{/gist_id}", 
+        "html_url": "https://github.com/beaurob", 
+        "subscriptions_url": "https://api.github.com/users/beaurob/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4699287?v=3", 
+        "repos_url": "https://api.github.com/users/beaurob/repos", 
+        "received_events_url": "https://api.github.com/users/beaurob/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/beaurob/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "beaurob", 
+        "type": "User", 
+        "id": 4699287, 
+        "followers_url": "https://api.github.com/users/beaurob/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/psd/following{/other_user}", 
+        "events_url": "https://api.github.com/users/psd/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/psd/orgs", 
+        "url": "https://api.github.com/users/psd", 
+        "gists_url": "https://api.github.com/users/psd/gists{/gist_id}", 
+        "html_url": "https://github.com/psd", 
+        "subscriptions_url": "https://api.github.com/users/psd/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5833?v=3", 
+        "repos_url": "https://api.github.com/users/psd/repos", 
+        "received_events_url": "https://api.github.com/users/psd/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/psd/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "psd", 
+        "type": "User", 
+        "id": 5833, 
+        "followers_url": "https://api.github.com/users/psd/followers"
+    }
+]

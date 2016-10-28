@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ankidroid/issues", 
+        "members_url": "https://api.github.com/orgs/ankidroid/members{/member}", 
+        "description": "AnkiDroid source code", 
+        "public_members_url": "https://api.github.com/orgs/ankidroid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ankidroid", 
+        "events_url": "https://api.github.com/orgs/ankidroid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3320903?v=3", 
+        "repos_url": "https://api.github.com/orgs/ankidroid/repos", 
+        "login": "ankidroid", 
+        "id": 3320903, 
+        "hooks_url": "https://api.github.com/orgs/ankidroid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforBirmingham/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforBirmingham/members{/member}", 
+        "description": "A group of civic hackers in Birmingham, AL", 
+        "public_members_url": "https://api.github.com/orgs/CodeforBirmingham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforBirmingham", 
+        "events_url": "https://api.github.com/orgs/CodeforBirmingham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6835788?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforBirmingham/repos", 
+        "login": "CodeforBirmingham", 
+        "id": 6835788, 
+        "hooks_url": "https://api.github.com/orgs/CodeforBirmingham/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/QuantGen/issues", 
+        "members_url": "https://api.github.com/orgs/QuantGen/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/QuantGen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/QuantGen", 
+        "events_url": "https://api.github.com/orgs/QuantGen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11443138?v=3", 
+        "repos_url": "https://api.github.com/orgs/QuantGen/repos", 
+        "login": "QuantGen", 
+        "id": 11443138, 
+        "hooks_url": "https://api.github.com/orgs/QuantGen/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/doselect/issues", 
+        "members_url": "https://api.github.com/orgs/doselect/members{/member}", 
+        "description": "DoSelect is a recruitment tool for companies.", 
+        "public_members_url": "https://api.github.com/orgs/doselect/public_members{/member}", 
+        "url": "https://api.github.com/orgs/doselect", 
+        "events_url": "https://api.github.com/orgs/doselect/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9316753?v=3", 
+        "repos_url": "https://api.github.com/orgs/doselect/repos", 
+        "login": "doselect", 
+        "id": 9316753, 
+        "hooks_url": "https://api.github.com/orgs/doselect/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/github/issues", 
+        "members_url": "https://api.github.com/orgs/github/members{/member}", 
+        "description": "How people build software.", 
+        "public_members_url": "https://api.github.com/orgs/github/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github", 
+        "events_url": "https://api.github.com/orgs/github/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9919?v=3", 
+        "repos_url": "https://api.github.com/orgs/github/repos", 
+        "login": "github", 
+        "id": 9919, 
+        "hooks_url": "https://api.github.com/orgs/github/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GoCodeColorado/issues", 
+        "members_url": "https://api.github.com/orgs/GoCodeColorado/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GoCodeColorado/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GoCodeColorado", 
+        "events_url": "https://api.github.com/orgs/GoCodeColorado/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10778292?v=3", 
+        "repos_url": "https://api.github.com/orgs/GoCodeColorado/repos", 
+        "login": "GoCodeColorado", 
+        "id": 10778292, 
+        "hooks_url": "https://api.github.com/orgs/GoCodeColorado/hooks"
+    }
+]

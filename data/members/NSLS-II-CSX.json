@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/stuwilkins/following{/other_user}", 
+        "events_url": "https://api.github.com/users/stuwilkins/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/stuwilkins/orgs", 
+        "url": "https://api.github.com/users/stuwilkins", 
+        "gists_url": "https://api.github.com/users/stuwilkins/gists{/gist_id}", 
+        "html_url": "https://github.com/stuwilkins", 
+        "subscriptions_url": "https://api.github.com/users/stuwilkins/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1297941?v=3", 
+        "repos_url": "https://api.github.com/users/stuwilkins/repos", 
+        "received_events_url": "https://api.github.com/users/stuwilkins/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/stuwilkins/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "stuwilkins", 
+        "type": "User", 
+        "id": 1297941, 
+        "followers_url": "https://api.github.com/users/stuwilkins/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/tacaswell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tacaswell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tacaswell/orgs", 
+        "url": "https://api.github.com/users/tacaswell", 
+        "gists_url": "https://api.github.com/users/tacaswell/gists{/gist_id}", 
+        "html_url": "https://github.com/tacaswell", 
+        "subscriptions_url": "https://api.github.com/users/tacaswell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/199813?v=3", 
+        "repos_url": "https://api.github.com/users/tacaswell/repos", 
+        "received_events_url": "https://api.github.com/users/tacaswell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tacaswell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tacaswell", 
+        "type": "User", 
+        "id": 199813, 
+        "followers_url": "https://api.github.com/users/tacaswell/followers"
+    }
+]

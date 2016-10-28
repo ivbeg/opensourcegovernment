@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/JuliaLang/issues", 
+        "members_url": "https://api.github.com/orgs/JuliaLang/members{/member}", 
+        "description": "A fresh approach to numerical computing", 
+        "public_members_url": "https://api.github.com/orgs/JuliaLang/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JuliaLang", 
+        "events_url": "https://api.github.com/orgs/JuliaLang/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/743164?v=3", 
+        "repos_url": "https://api.github.com/orgs/JuliaLang/repos", 
+        "login": "JuliaLang", 
+        "id": 743164, 
+        "hooks_url": "https://api.github.com/orgs/JuliaLang/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/recursecenter/issues", 
+        "members_url": "https://api.github.com/orgs/recursecenter/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recursecenter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recursecenter", 
+        "events_url": "https://api.github.com/orgs/recursecenter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085202?v=3", 
+        "repos_url": "https://api.github.com/orgs/recursecenter/repos", 
+        "login": "recursecenter", 
+        "id": 1085202, 
+        "hooks_url": "https://api.github.com/orgs/recursecenter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JuliaStats/issues", 
+        "members_url": "https://api.github.com/orgs/JuliaStats/members{/member}", 
+        "description": "Statistics and Machine Learning made easy in Julia", 
+        "public_members_url": "https://api.github.com/orgs/JuliaStats/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JuliaStats", 
+        "events_url": "https://api.github.com/orgs/JuliaStats/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2761531?v=3", 
+        "repos_url": "https://api.github.com/orgs/JuliaStats/repos", 
+        "login": "JuliaStats", 
+        "id": 2761531, 
+        "hooks_url": "https://api.github.com/orgs/JuliaStats/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForBoulder/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForBoulder/members{/member}", 
+        "description": "Boulder's Code for America Brigade. Join us to work on digital projects to benefit our community! All are welcome.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForBoulder/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForBoulder", 
+        "events_url": "https://api.github.com/orgs/CodeForBoulder/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6794815?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForBoulder/repos", 
+        "login": "CodeForBoulder", 
+        "id": 6794815, 
+        "hooks_url": "https://api.github.com/orgs/CodeForBoulder/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JuliaGeo/issues", 
+        "members_url": "https://api.github.com/orgs/JuliaGeo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/JuliaGeo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JuliaGeo", 
+        "events_url": "https://api.github.com/orgs/JuliaGeo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10616454?v=3", 
+        "repos_url": "https://api.github.com/orgs/JuliaGeo/repos", 
+        "login": "JuliaGeo", 
+        "id": 10616454, 
+        "hooks_url": "https://api.github.com/orgs/JuliaGeo/hooks"
+    }
+]

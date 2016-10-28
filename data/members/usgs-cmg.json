@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/kring/following{/other_user}", 
+        "events_url": "https://api.github.com/users/kring/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/kring/orgs", 
+        "url": "https://api.github.com/users/kring", 
+        "gists_url": "https://api.github.com/users/kring/gists{/gist_id}", 
+        "html_url": "https://github.com/kring", 
+        "subscriptions_url": "https://api.github.com/users/kring/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/924374?v=3", 
+        "repos_url": "https://api.github.com/users/kring/repos", 
+        "received_events_url": "https://api.github.com/users/kring/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/kring/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "kring", 
+        "type": "User", 
+        "id": 924374, 
+        "followers_url": "https://api.github.com/users/kring/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ocefpaf/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ocefpaf/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ocefpaf/orgs", 
+        "url": "https://api.github.com/users/ocefpaf", 
+        "gists_url": "https://api.github.com/users/ocefpaf/gists{/gist_id}", 
+        "html_url": "https://github.com/ocefpaf", 
+        "subscriptions_url": "https://api.github.com/users/ocefpaf/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/950575?v=3", 
+        "repos_url": "https://api.github.com/users/ocefpaf/repos", 
+        "received_events_url": "https://api.github.com/users/ocefpaf/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ocefpaf/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ocefpaf", 
+        "type": "User", 
+        "id": 950575, 
+        "followers_url": "https://api.github.com/users/ocefpaf/followers"
+    }
+]

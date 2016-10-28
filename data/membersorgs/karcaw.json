@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/EMSL-MSC/issues", 
+        "members_url": "https://api.github.com/orgs/EMSL-MSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EMSL-MSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EMSL-MSC", 
+        "events_url": "https://api.github.com/orgs/EMSL-MSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1211629?v=3", 
+        "repos_url": "https://api.github.com/orgs/EMSL-MSC/repos", 
+        "login": "EMSL-MSC", 
+        "id": 1211629, 
+        "hooks_url": "https://api.github.com/orgs/EMSL-MSC/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HackBerkeley/issues", 
+        "members_url": "https://api.github.com/orgs/HackBerkeley/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HackBerkeley/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HackBerkeley", 
+        "events_url": "https://api.github.com/orgs/HackBerkeley/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1137473?v=3", 
+        "repos_url": "https://api.github.com/orgs/HackBerkeley/repos", 
+        "login": "HackBerkeley", 
+        "id": 1137473, 
+        "hooks_url": "https://api.github.com/orgs/HackBerkeley/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openoakland/issues", 
+        "members_url": "https://api.github.com/orgs/openoakland/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openoakland", 
+        "events_url": "https://api.github.com/orgs/openoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2238933?v=3", 
+        "repos_url": "https://api.github.com/orgs/openoakland/repos", 
+        "login": "openoakland", 
+        "id": 2238933, 
+        "hooks_url": "https://api.github.com/orgs/openoakland/hooks"
+    }
+]

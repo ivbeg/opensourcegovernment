@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/libris/issues", 
+        "members_url": "https://api.github.com/orgs/libris/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/libris/public_members{/member}", 
+        "url": "https://api.github.com/orgs/libris", 
+        "events_url": "https://api.github.com/orgs/libris/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/525063?v=3", 
+        "repos_url": "https://api.github.com/orgs/libris/repos", 
+        "login": "libris", 
+        "id": 525063, 
+        "hooks_url": "https://api.github.com/orgs/libris/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Kungbib/issues", 
+        "members_url": "https://api.github.com/orgs/Kungbib/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Kungbib/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Kungbib", 
+        "events_url": "https://api.github.com/orgs/Kungbib/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2327570?v=3", 
+        "repos_url": "https://api.github.com/orgs/Kungbib/repos", 
+        "login": "Kungbib", 
+        "id": 2327570, 
+        "hooks_url": "https://api.github.com/orgs/Kungbib/hooks"
+    }
+]

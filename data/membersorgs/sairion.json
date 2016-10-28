@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/teampopong/issues", 
+        "members_url": "https://api.github.com/orgs/teampopong/members{/member}", 
+        "description": "We open politics.", 
+        "public_members_url": "https://api.github.com/orgs/teampopong/public_members{/member}", 
+        "url": "https://api.github.com/orgs/teampopong", 
+        "events_url": "https://api.github.com/orgs/teampopong/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2258984?v=3", 
+        "repos_url": "https://api.github.com/orgs/teampopong/repos", 
+        "login": "teampopong", 
+        "id": 2258984, 
+        "hooks_url": "https://api.github.com/orgs/teampopong/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/reactkr/issues", 
+        "members_url": "https://api.github.com/orgs/reactkr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/reactkr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/reactkr", 
+        "events_url": "https://api.github.com/orgs/reactkr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9114161?v=3", 
+        "repos_url": "https://api.github.com/orgs/reactkr/repos", 
+        "login": "reactkr", 
+        "id": 9114161, 
+        "hooks_url": "https://api.github.com/orgs/reactkr/hooks"
+    }
+]

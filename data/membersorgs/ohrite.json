@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rubycentral/issues", 
+        "members_url": "https://api.github.com/orgs/rubycentral/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rubycentral/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rubycentral", 
+        "events_url": "https://api.github.com/orgs/rubycentral/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/146843?v=3", 
+        "repos_url": "https://api.github.com/orgs/rubycentral/repos", 
+        "login": "rubycentral", 
+        "id": 146843, 
+        "hooks_url": "https://api.github.com/orgs/rubycentral/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/minifast/issues", 
+        "members_url": "https://api.github.com/orgs/minifast/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/minifast/public_members{/member}", 
+        "url": "https://api.github.com/orgs/minifast", 
+        "events_url": "https://api.github.com/orgs/minifast/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3876627?v=3", 
+        "repos_url": "https://api.github.com/orgs/minifast/repos", 
+        "login": "minifast", 
+        "id": 3876627, 
+        "hooks_url": "https://api.github.com/orgs/minifast/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/raedoc/issues", 
+        "members_url": "https://api.github.com/orgs/raedoc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/raedoc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/raedoc", 
+        "events_url": "https://api.github.com/orgs/raedoc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7757437?v=3", 
+        "repos_url": "https://api.github.com/orgs/raedoc/repos", 
+        "login": "raedoc", 
+        "id": 7757437, 
+        "hooks_url": "https://api.github.com/orgs/raedoc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/conference-opportunities/issues", 
+        "members_url": "https://api.github.com/orgs/conference-opportunities/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/conference-opportunities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/conference-opportunities", 
+        "events_url": "https://api.github.com/orgs/conference-opportunities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20713345?v=3", 
+        "repos_url": "https://api.github.com/orgs/conference-opportunities/repos", 
+        "login": "conference-opportunities", 
+        "id": 20713345, 
+        "hooks_url": "https://api.github.com/orgs/conference-opportunities/hooks"
+    }
+]

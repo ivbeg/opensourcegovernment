@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hackerdojo/issues", 
+        "members_url": "https://api.github.com/orgs/hackerdojo/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackerdojo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackerdojo", 
+        "events_url": "https://api.github.com/orgs/hackerdojo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/181972?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackerdojo/repos", 
+        "login": "hackerdojo", 
+        "id": 181972, 
+        "hooks_url": "https://api.github.com/orgs/hackerdojo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/visionworkbench/issues", 
+        "members_url": "https://api.github.com/orgs/visionworkbench/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/visionworkbench/public_members{/member}", 
+        "url": "https://api.github.com/orgs/visionworkbench", 
+        "events_url": "https://api.github.com/orgs/visionworkbench/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/276171?v=3", 
+        "repos_url": "https://api.github.com/orgs/visionworkbench/repos", 
+        "login": "visionworkbench", 
+        "id": 276171, 
+        "hooks_url": "https://api.github.com/orgs/visionworkbench/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NeoGeographyToolkit/issues", 
+        "members_url": "https://api.github.com/orgs/NeoGeographyToolkit/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NeoGeographyToolkit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NeoGeographyToolkit", 
+        "events_url": "https://api.github.com/orgs/NeoGeographyToolkit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/302310?v=3", 
+        "repos_url": "https://api.github.com/orgs/NeoGeographyToolkit/repos", 
+        "login": "NeoGeographyToolkit", 
+        "id": 302310, 
+        "hooks_url": "https://api.github.com/orgs/NeoGeographyToolkit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/devhouse/issues", 
+        "members_url": "https://api.github.com/orgs/devhouse/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/devhouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devhouse", 
+        "events_url": "https://api.github.com/orgs/devhouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1024578?v=3", 
+        "repos_url": "https://api.github.com/orgs/devhouse/repos", 
+        "login": "devhouse", 
+        "id": 1024578, 
+        "hooks_url": "https://api.github.com/orgs/devhouse/hooks"
+    }
+]

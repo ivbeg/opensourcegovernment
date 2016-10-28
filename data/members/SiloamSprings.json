@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dandy341/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dandy341/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dandy341/orgs", 
+        "url": "https://api.github.com/users/dandy341", 
+        "gists_url": "https://api.github.com/users/dandy341/gists{/gist_id}", 
+        "html_url": "https://github.com/dandy341", 
+        "subscriptions_url": "https://api.github.com/users/dandy341/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/381305?v=3", 
+        "repos_url": "https://api.github.com/users/dandy341/repos", 
+        "received_events_url": "https://api.github.com/users/dandy341/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dandy341/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dandy341", 
+        "type": "User", 
+        "id": 381305, 
+        "followers_url": "https://api.github.com/users/dandy341/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/defcon1cs/following{/other_user}", 
+        "events_url": "https://api.github.com/users/defcon1cs/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/defcon1cs/orgs", 
+        "url": "https://api.github.com/users/defcon1cs", 
+        "gists_url": "https://api.github.com/users/defcon1cs/gists{/gist_id}", 
+        "html_url": "https://github.com/defcon1cs", 
+        "subscriptions_url": "https://api.github.com/users/defcon1cs/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/384515?v=3", 
+        "repos_url": "https://api.github.com/users/defcon1cs/repos", 
+        "received_events_url": "https://api.github.com/users/defcon1cs/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/defcon1cs/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "defcon1cs", 
+        "type": "User", 
+        "id": 384515, 
+        "followers_url": "https://api.github.com/users/defcon1cs/followers"
+    }
+]

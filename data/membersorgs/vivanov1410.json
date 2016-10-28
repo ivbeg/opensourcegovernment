@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cityofsurrey/issues", 
+        "members_url": "https://api.github.com/orgs/cityofsurrey/members{/member}", 
+        "description": "The Future Lives Here", 
+        "public_members_url": "https://api.github.com/orgs/cityofsurrey/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cityofsurrey", 
+        "events_url": "https://api.github.com/orgs/cityofsurrey/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1717549?v=3", 
+        "repos_url": "https://api.github.com/orgs/cityofsurrey/repos", 
+        "login": "cityofsurrey", 
+        "id": 1717549, 
+        "hooks_url": "https://api.github.com/orgs/cityofsurrey/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/exilium/issues", 
+        "members_url": "https://api.github.com/orgs/exilium/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/exilium/public_members{/member}", 
+        "url": "https://api.github.com/orgs/exilium", 
+        "events_url": "https://api.github.com/orgs/exilium/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4946552?v=3", 
+        "repos_url": "https://api.github.com/orgs/exilium/repos", 
+        "login": "exilium", 
+        "id": 4946552, 
+        "hooks_url": "https://api.github.com/orgs/exilium/hooks"
+    }
+]

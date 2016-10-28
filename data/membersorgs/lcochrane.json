@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/actgov/issues", 
+        "members_url": "https://api.github.com/orgs/actgov/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/actgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/actgov", 
+        "events_url": "https://api.github.com/orgs/actgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5009292?v=3", 
+        "repos_url": "https://api.github.com/orgs/actgov/repos", 
+        "login": "actgov", 
+        "id": 5009292, 
+        "hooks_url": "https://api.github.com/orgs/actgov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/skepgit/issues", 
+        "members_url": "https://api.github.com/orgs/skepgit/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/skepgit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/skepgit", 
+        "events_url": "https://api.github.com/orgs/skepgit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6278825?v=3", 
+        "repos_url": "https://api.github.com/orgs/skepgit/repos", 
+        "login": "skepgit", 
+        "id": 6278825, 
+        "hooks_url": "https://api.github.com/orgs/skepgit/hooks"
+    }
+]

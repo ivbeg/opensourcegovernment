@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opennewzealand/issues", 
+        "members_url": "https://api.github.com/orgs/opennewzealand/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opennewzealand/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opennewzealand", 
+        "events_url": "https://api.github.com/orgs/opennewzealand/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/120976?v=3", 
+        "repos_url": "https://api.github.com/orgs/opennewzealand/repos", 
+        "login": "opennewzealand", 
+        "id": 120976, 
+        "hooks_url": "https://api.github.com/orgs/opennewzealand/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/koordinates/issues", 
+        "members_url": "https://api.github.com/orgs/koordinates/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/koordinates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/koordinates", 
+        "events_url": "https://api.github.com/orgs/koordinates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/205609?v=3", 
+        "repos_url": "https://api.github.com/orgs/koordinates/repos", 
+        "login": "koordinates", 
+        "id": 205609, 
+        "hooks_url": "https://api.github.com/orgs/koordinates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapnik/issues", 
+        "members_url": "https://api.github.com/orgs/mapnik/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mapnik/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapnik", 
+        "events_url": "https://api.github.com/orgs/mapnik/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/318055?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapnik/repos", 
+        "login": "mapnik", 
+        "id": 318055, 
+        "hooks_url": "https://api.github.com/orgs/mapnik/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ccnz/issues", 
+        "members_url": "https://api.github.com/orgs/ccnz/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ccnz/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ccnz", 
+        "events_url": "https://api.github.com/orgs/ccnz/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/632953?v=3", 
+        "repos_url": "https://api.github.com/orgs/ccnz/repos", 
+        "login": "ccnz", 
+        "id": 632953, 
+        "hooks_url": "https://api.github.com/orgs/ccnz/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OSGeo/issues", 
+        "members_url": "https://api.github.com/orgs/OSGeo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OSGeo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OSGeo", 
+        "events_url": "https://api.github.com/orgs/OSGeo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1058467?v=3", 
+        "repos_url": "https://api.github.com/orgs/OSGeo/repos", 
+        "login": "OSGeo", 
+        "id": 1058467, 
+        "hooks_url": "https://api.github.com/orgs/OSGeo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nzgather/issues", 
+        "members_url": "https://api.github.com/orgs/nzgather/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nzgather/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nzgather", 
+        "events_url": "https://api.github.com/orgs/nzgather/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5465281?v=3", 
+        "repos_url": "https://api.github.com/orgs/nzgather/repos", 
+        "login": "nzgather", 
+        "id": 5465281, 
+        "hooks_url": "https://api.github.com/orgs/nzgather/hooks"
+    }
+]

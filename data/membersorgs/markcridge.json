@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }
+]

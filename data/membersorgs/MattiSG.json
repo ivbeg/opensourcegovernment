@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/agile-france/issues", 
+        "members_url": "https://api.github.com/orgs/agile-france/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/agile-france/public_members{/member}", 
+        "url": "https://api.github.com/orgs/agile-france", 
+        "events_url": "https://api.github.com/orgs/agile-france/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/654488?v=3", 
+        "repos_url": "https://api.github.com/orgs/agile-france/repos", 
+        "login": "agile-france", 
+        "id": 654488, 
+        "hooks_url": "https://api.github.com/orgs/agile-france/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/jssophia/issues", 
+        "members_url": "https://api.github.com/orgs/jssophia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/jssophia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/jssophia", 
+        "events_url": "https://api.github.com/orgs/jssophia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1749487?v=3", 
+        "repos_url": "https://api.github.com/orgs/jssophia/repos", 
+        "login": "jssophia", 
+        "id": 1749487, 
+        "hooks_url": "https://api.github.com/orgs/jssophia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openfisca/issues", 
+        "members_url": "https://api.github.com/orgs/openfisca/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openfisca/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openfisca", 
+        "events_url": "https://api.github.com/orgs/openfisca/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1794404?v=3", 
+        "repos_url": "https://api.github.com/orgs/openfisca/repos", 
+        "login": "openfisca", 
+        "id": 1794404, 
+        "hooks_url": "https://api.github.com/orgs/openfisca/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MESHMD/issues", 
+        "members_url": "https://api.github.com/orgs/MESHMD/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/MESHMD/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MESHMD", 
+        "events_url": "https://api.github.com/orgs/MESHMD/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2472801?v=3", 
+        "repos_url": "https://api.github.com/orgs/MESHMD/repos", 
+        "login": "MESHMD", 
+        "id": 2472801, 
+        "hooks_url": "https://api.github.com/orgs/MESHMD/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/etalab/issues", 
+        "members_url": "https://api.github.com/orgs/etalab/members{/member}", 
+        "description": "Service du Premier ministre en charge de l'ouverture des donn\u00e9es publiques et du gouvernement ouvert", 
+        "public_members_url": "https://api.github.com/orgs/etalab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/etalab", 
+        "events_url": "https://api.github.com/orgs/etalab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313610?v=3", 
+        "repos_url": "https://api.github.com/orgs/etalab/repos", 
+        "login": "etalab", 
+        "id": 5313610, 
+        "hooks_url": "https://api.github.com/orgs/etalab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sgmap/issues", 
+        "members_url": "https://api.github.com/orgs/sgmap/members{/member}", 
+        "description": "Incubateur de Services Num\u00e9riques du Secr\u00e9tariat G\u00e9n\u00e9ral pour la Modernisation de l\u2019Action Publique", 
+        "public_members_url": "https://api.github.com/orgs/sgmap/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sgmap", 
+        "events_url": "https://api.github.com/orgs/sgmap/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7874148?v=3", 
+        "repos_url": "https://api.github.com/orgs/sgmap/repos", 
+        "login": "sgmap", 
+        "id": 7874148, 
+        "hooks_url": "https://api.github.com/orgs/sgmap/hooks"
+    }
+]

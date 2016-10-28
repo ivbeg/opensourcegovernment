@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bcgov/issues", 
+        "members_url": "https://api.github.com/orgs/bcgov/members{/member}", 
+        "description": "Alpha Stage - we're getting ready for BCDevExchange early adopter repos", 
+        "public_members_url": "https://api.github.com/orgs/bcgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bcgov", 
+        "events_url": "https://api.github.com/orgs/bcgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/916280?v=3", 
+        "repos_url": "https://api.github.com/orgs/bcgov/repos", 
+        "login": "bcgov", 
+        "id": 916280, 
+        "hooks_url": "https://api.github.com/orgs/bcgov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }
+]

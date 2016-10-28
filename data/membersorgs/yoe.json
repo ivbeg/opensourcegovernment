@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Fedict/issues", 
+        "members_url": "https://api.github.com/orgs/Fedict/members{/member}", 
+        "description": "Federal Public Service for ICT", 
+        "public_members_url": "https://api.github.com/orgs/Fedict/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Fedict", 
+        "events_url": "https://api.github.com/orgs/Fedict/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5146742?v=3", 
+        "repos_url": "https://api.github.com/orgs/Fedict/repos", 
+        "login": "Fedict", 
+        "id": 5146742, 
+        "hooks_url": "https://api.github.com/orgs/Fedict/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NetworkBlockDevice/issues", 
+        "members_url": "https://api.github.com/orgs/NetworkBlockDevice/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NetworkBlockDevice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NetworkBlockDevice", 
+        "events_url": "https://api.github.com/orgs/NetworkBlockDevice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22271018?v=3", 
+        "repos_url": "https://api.github.com/orgs/NetworkBlockDevice/repos", 
+        "login": "NetworkBlockDevice", 
+        "id": 22271018, 
+        "hooks_url": "https://api.github.com/orgs/NetworkBlockDevice/hooks"
+    }
+]

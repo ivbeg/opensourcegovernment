@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ofa-alumni/issues", 
+        "members_url": "https://api.github.com/orgs/ofa-alumni/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ofa-alumni/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ofa-alumni", 
+        "events_url": "https://api.github.com/orgs/ofa-alumni/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2602336?v=3", 
+        "repos_url": "https://api.github.com/orgs/ofa-alumni/repos", 
+        "login": "ofa-alumni", 
+        "id": 2602336, 
+        "hooks_url": "https://api.github.com/orgs/ofa-alumni/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AnalyticsMediaGroup/issues", 
+        "members_url": "https://api.github.com/orgs/AnalyticsMediaGroup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AnalyticsMediaGroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AnalyticsMediaGroup", 
+        "events_url": "https://api.github.com/orgs/AnalyticsMediaGroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3986915?v=3", 
+        "repos_url": "https://api.github.com/orgs/AnalyticsMediaGroup/repos", 
+        "login": "AnalyticsMediaGroup", 
+        "id": 3986915, 
+        "hooks_url": "https://api.github.com/orgs/AnalyticsMediaGroup/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USCIS/issues", 
+        "members_url": "https://api.github.com/orgs/USCIS/members{/member}", 
+        "description": "U.S. Citizenship and Immigration Services", 
+        "public_members_url": "https://api.github.com/orgs/USCIS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USCIS", 
+        "events_url": "https://api.github.com/orgs/USCIS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13646303?v=3", 
+        "repos_url": "https://api.github.com/orgs/USCIS/repos", 
+        "login": "USCIS", 
+        "id": 13646303, 
+        "hooks_url": "https://api.github.com/orgs/USCIS/hooks"
+    }
+]

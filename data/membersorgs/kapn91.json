@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/influencetech/issues", 
+        "members_url": "https://api.github.com/orgs/influencetech/members{/member}", 
+        "description": "The leader in interactive video experiences.", 
+        "public_members_url": "https://api.github.com/orgs/influencetech/public_members{/member}", 
+        "url": "https://api.github.com/orgs/influencetech", 
+        "events_url": "https://api.github.com/orgs/influencetech/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3343062?v=3", 
+        "repos_url": "https://api.github.com/orgs/influencetech/repos", 
+        "login": "influencetech", 
+        "id": 3343062, 
+        "hooks_url": "https://api.github.com/orgs/influencetech/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GoCodeColorado/issues", 
+        "members_url": "https://api.github.com/orgs/GoCodeColorado/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GoCodeColorado/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GoCodeColorado", 
+        "events_url": "https://api.github.com/orgs/GoCodeColorado/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10778292?v=3", 
+        "repos_url": "https://api.github.com/orgs/GoCodeColorado/repos", 
+        "login": "GoCodeColorado", 
+        "id": 10778292, 
+        "hooks_url": "https://api.github.com/orgs/GoCodeColorado/hooks"
+    }
+]

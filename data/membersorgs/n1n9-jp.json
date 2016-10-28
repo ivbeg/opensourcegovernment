@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforjapan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforjapan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforjapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforjapan", 
+        "events_url": "https://api.github.com/orgs/codeforjapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5137738?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforjapan/repos", 
+        "login": "codeforjapan", 
+        "id": 5137738, 
+        "hooks_url": "https://api.github.com/orgs/codeforjapan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RaceForResilience/issues", 
+        "members_url": "https://api.github.com/orgs/RaceForResilience/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/RaceForResilience/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RaceForResilience", 
+        "events_url": "https://api.github.com/orgs/RaceForResilience/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5963022?v=3", 
+        "repos_url": "https://api.github.com/orgs/RaceForResilience/repos", 
+        "login": "RaceForResilience", 
+        "id": 5963022, 
+        "hooks_url": "https://api.github.com/orgs/RaceForResilience/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ISAC2014-TEAM4/issues", 
+        "members_url": "https://api.github.com/orgs/ISAC2014-TEAM4/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ISAC2014-TEAM4/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ISAC2014-TEAM4", 
+        "events_url": "https://api.github.com/orgs/ISAC2014-TEAM4/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7270203?v=3", 
+        "repos_url": "https://api.github.com/orgs/ISAC2014-TEAM4/repos", 
+        "login": "ISAC2014-TEAM4", 
+        "id": 7270203, 
+        "hooks_url": "https://api.github.com/orgs/ISAC2014-TEAM4/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/visualizing/issues", 
+        "members_url": "https://api.github.com/orgs/visualizing/members{/member}", 
+        "description": "Data Visualization community in Japan", 
+        "public_members_url": "https://api.github.com/orgs/visualizing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/visualizing", 
+        "events_url": "https://api.github.com/orgs/visualizing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8357023?v=3", 
+        "repos_url": "https://api.github.com/orgs/visualizing/repos", 
+        "login": "visualizing", 
+        "id": 8357023, 
+        "hooks_url": "https://api.github.com/orgs/visualizing/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefortokyo/issues", 
+        "members_url": "https://api.github.com/orgs/codefortokyo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codefortokyo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefortokyo", 
+        "events_url": "https://api.github.com/orgs/codefortokyo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10110858?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefortokyo/repos", 
+        "login": "codefortokyo", 
+        "id": 10110858, 
+        "hooks_url": "https://api.github.com/orgs/codefortokyo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataVisualizationJapan/issues", 
+        "members_url": "https://api.github.com/orgs/DataVisualizationJapan/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DataVisualizationJapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataVisualizationJapan", 
+        "events_url": "https://api.github.com/orgs/DataVisualizationJapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10806383?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataVisualizationJapan/repos", 
+        "login": "DataVisualizationJapan", 
+        "id": 10806383, 
+        "hooks_url": "https://api.github.com/orgs/DataVisualizationJapan/hooks"
+    }
+]

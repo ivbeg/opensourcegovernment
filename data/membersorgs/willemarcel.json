@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ibamacsr/issues", 
+        "members_url": "https://api.github.com/orgs/ibamacsr/members{/member}", 
+        "description": "Coordena\u00e7\u00e3o Geral de Monitoramento Ambiental", 
+        "public_members_url": "https://api.github.com/orgs/ibamacsr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ibamacsr", 
+        "events_url": "https://api.github.com/orgs/ibamacsr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3985219?v=3", 
+        "repos_url": "https://api.github.com/orgs/ibamacsr/repos", 
+        "login": "ibamacsr", 
+        "id": 3985219, 
+        "hooks_url": "https://api.github.com/orgs/ibamacsr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osm-ar/issues", 
+        "members_url": "https://api.github.com/orgs/osm-ar/members{/member}", 
+        "description": "Repositorio de la comunidad de OSM argentina.", 
+        "public_members_url": "https://api.github.com/orgs/osm-ar/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osm-ar", 
+        "events_url": "https://api.github.com/orgs/osm-ar/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7290336?v=3", 
+        "repos_url": "https://api.github.com/orgs/osm-ar/repos", 
+        "login": "osm-ar", 
+        "id": 7290336, 
+        "hooks_url": "https://api.github.com/orgs/osm-ar/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OSMBrasil/issues", 
+        "members_url": "https://api.github.com/orgs/OSMBrasil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OSMBrasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OSMBrasil", 
+        "events_url": "https://api.github.com/orgs/OSMBrasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8153643?v=3", 
+        "repos_url": "https://api.github.com/orgs/OSMBrasil/repos", 
+        "login": "OSMBrasil", 
+        "id": 8153643, 
+        "hooks_url": "https://api.github.com/orgs/OSMBrasil/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osm-cwg/issues", 
+        "members_url": "https://api.github.com/orgs/osm-cwg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/osm-cwg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osm-cwg", 
+        "events_url": "https://api.github.com/orgs/osm-cwg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10469130?v=3", 
+        "repos_url": "https://api.github.com/orgs/osm-cwg/repos", 
+        "login": "osm-cwg", 
+        "id": 10469130, 
+        "hooks_url": "https://api.github.com/orgs/osm-cwg/hooks"
+    }
+]

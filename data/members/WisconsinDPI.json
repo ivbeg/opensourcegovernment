@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jknowles/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jknowles/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jknowles/orgs", 
+        "url": "https://api.github.com/users/jknowles", 
+        "gists_url": "https://api.github.com/users/jknowles/gists{/gist_id}", 
+        "html_url": "https://github.com/jknowles", 
+        "subscriptions_url": "https://api.github.com/users/jknowles/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1310474?v=3", 
+        "repos_url": "https://api.github.com/users/jknowles/repos", 
+        "received_events_url": "https://api.github.com/users/jknowles/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jknowles/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jknowles", 
+        "type": "User", 
+        "id": 1310474, 
+        "followers_url": "https://api.github.com/users/jknowles/followers"
+    }
+]

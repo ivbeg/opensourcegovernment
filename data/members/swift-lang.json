@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/hategan/following{/other_user}", 
+        "events_url": "https://api.github.com/users/hategan/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/hategan/orgs", 
+        "url": "https://api.github.com/users/hategan", 
+        "gists_url": "https://api.github.com/users/hategan/gists{/gist_id}", 
+        "html_url": "https://github.com/hategan", 
+        "subscriptions_url": "https://api.github.com/users/hategan/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7749227?v=3", 
+        "repos_url": "https://api.github.com/users/hategan/repos", 
+        "received_events_url": "https://api.github.com/users/hategan/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/hategan/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "hategan", 
+        "type": "User", 
+        "id": 7749227, 
+        "followers_url": "https://api.github.com/users/hategan/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/spagnuolocarmine/following{/other_user}", 
+        "events_url": "https://api.github.com/users/spagnuolocarmine/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/spagnuolocarmine/orgs", 
+        "url": "https://api.github.com/users/spagnuolocarmine", 
+        "gists_url": "https://api.github.com/users/spagnuolocarmine/gists{/gist_id}", 
+        "html_url": "https://github.com/spagnuolocarmine", 
+        "subscriptions_url": "https://api.github.com/users/spagnuolocarmine/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10451219?v=3", 
+        "repos_url": "https://api.github.com/users/spagnuolocarmine/repos", 
+        "received_events_url": "https://api.github.com/users/spagnuolocarmine/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/spagnuolocarmine/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "spagnuolocarmine", 
+        "type": "User", 
+        "id": 10451219, 
+        "followers_url": "https://api.github.com/users/spagnuolocarmine/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/fateczonaleste/issues", 
+        "members_url": "https://api.github.com/orgs/fateczonaleste/members{/member}", 
+        "description": "Faculdade de Tecnologia Zona Leste.", 
+        "public_members_url": "https://api.github.com/orgs/fateczonaleste/public_members{/member}", 
+        "url": "https://api.github.com/orgs/fateczonaleste", 
+        "events_url": "https://api.github.com/orgs/fateczonaleste/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6721378?v=3", 
+        "repos_url": "https://api.github.com/orgs/fateczonaleste/repos", 
+        "login": "fateczonaleste", 
+        "id": 6721378, 
+        "hooks_url": "https://api.github.com/orgs/fateczonaleste/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/issues", 
+        "members_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/members{/member}", 
+        "description": "Escola T\u00e9cnica Estadual de Guaianazes", 
+        "public_members_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ETEC-de-Guaianazes", 
+        "events_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11151038?v=3", 
+        "repos_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/repos", 
+        "login": "ETEC-de-Guaianazes", 
+        "id": 11151038, 
+        "hooks_url": "https://api.github.com/orgs/ETEC-de-Guaianazes/hooks"
+    }
+]

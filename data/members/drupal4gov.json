@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sutch/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sutch/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sutch/orgs", 
+        "url": "https://api.github.com/users/sutch", 
+        "gists_url": "https://api.github.com/users/sutch/gists{/gist_id}", 
+        "html_url": "https://github.com/sutch", 
+        "subscriptions_url": "https://api.github.com/users/sutch/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/28124?v=3", 
+        "repos_url": "https://api.github.com/users/sutch/repos", 
+        "received_events_url": "https://api.github.com/users/sutch/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sutch/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sutch", 
+        "type": "User", 
+        "id": 28124, 
+        "followers_url": "https://api.github.com/users/sutch/followers"
+    }
+]

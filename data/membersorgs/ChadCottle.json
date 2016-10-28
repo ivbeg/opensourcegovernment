@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/lfucg/issues", 
+        "members_url": "https://api.github.com/orgs/lfucg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lfucg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lfucg", 
+        "events_url": "https://api.github.com/orgs/lfucg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5739571?v=3", 
+        "repos_url": "https://api.github.com/orgs/lfucg/repos", 
+        "login": "lfucg", 
+        "id": 5739571, 
+        "hooks_url": "https://api.github.com/orgs/lfucg/hooks"
+    }
+]

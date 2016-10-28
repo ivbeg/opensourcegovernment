@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/konstin/following{/other_user}", 
+        "events_url": "https://api.github.com/users/konstin/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/konstin/orgs", 
+        "url": "https://api.github.com/users/konstin", 
+        "gists_url": "https://api.github.com/users/konstin/gists{/gist_id}", 
+        "html_url": "https://github.com/konstin", 
+        "subscriptions_url": "https://api.github.com/users/konstin/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6826232?v=3", 
+        "repos_url": "https://api.github.com/users/konstin/repos", 
+        "received_events_url": "https://api.github.com/users/konstin/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/konstin/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "konstin", 
+        "type": "User", 
+        "id": 6826232, 
+        "followers_url": "https://api.github.com/users/konstin/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/saerdnaer/following{/other_user}", 
+        "events_url": "https://api.github.com/users/saerdnaer/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/saerdnaer/orgs", 
+        "url": "https://api.github.com/users/saerdnaer", 
+        "gists_url": "https://api.github.com/users/saerdnaer/gists{/gist_id}", 
+        "html_url": "https://github.com/saerdnaer", 
+        "subscriptions_url": "https://api.github.com/users/saerdnaer/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/40266?v=3", 
+        "repos_url": "https://api.github.com/users/saerdnaer/repos", 
+        "received_events_url": "https://api.github.com/users/saerdnaer/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/saerdnaer/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "saerdnaer", 
+        "type": "User", 
+        "id": 40266, 
+        "followers_url": "https://api.github.com/users/saerdnaer/followers"
+    }
+]

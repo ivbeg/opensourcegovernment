@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforchange/issues", 
+        "members_url": "https://api.github.com/orgs/hackforchange/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackforchange/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforchange", 
+        "events_url": "https://api.github.com/orgs/hackforchange/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/829908?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforchange/repos", 
+        "login": "hackforchange", 
+        "id": 829908, 
+        "hooks_url": "https://api.github.com/orgs/hackforchange/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/voxel/issues", 
+        "members_url": "https://api.github.com/orgs/voxel/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/voxel/public_members{/member}", 
+        "url": "https://api.github.com/orgs/voxel", 
+        "events_url": "https://api.github.com/orgs/voxel/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4636888?v=3", 
+        "repos_url": "https://api.github.com/orgs/voxel/repos", 
+        "login": "voxel", 
+        "id": 4636888, 
+        "hooks_url": "https://api.github.com/orgs/voxel/hooks"
+    }
+]

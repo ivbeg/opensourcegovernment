@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/boost/issues", 
+        "members_url": "https://api.github.com/orgs/boost/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/boost/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boost", 
+        "events_url": "https://api.github.com/orgs/boost/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20521?v=3", 
+        "repos_url": "https://api.github.com/orgs/boost/repos", 
+        "login": "boost", 
+        "id": 20521, 
+        "hooks_url": "https://api.github.com/orgs/boost/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DigitalNZ/issues", 
+        "members_url": "https://api.github.com/orgs/DigitalNZ/members{/member}", 
+        "description": "We connect together millions of digital items to make them more useful. Our Supplejack aggregation technology is available to all.", 
+        "public_members_url": "https://api.github.com/orgs/DigitalNZ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DigitalNZ", 
+        "events_url": "https://api.github.com/orgs/DigitalNZ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/93386?v=3", 
+        "repos_url": "https://api.github.com/orgs/DigitalNZ/repos", 
+        "login": "DigitalNZ", 
+        "id": 93386, 
+        "hooks_url": "https://api.github.com/orgs/DigitalNZ/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/taxikick/issues", 
+        "members_url": "https://api.github.com/orgs/taxikick/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/taxikick/public_members{/member}", 
+        "url": "https://api.github.com/orgs/taxikick", 
+        "events_url": "https://api.github.com/orgs/taxikick/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11000497?v=3", 
+        "repos_url": "https://api.github.com/orgs/taxikick/repos", 
+        "login": "taxikick", 
+        "id": 11000497, 
+        "hooks_url": "https://api.github.com/orgs/taxikick/hooks"
+    }
+]

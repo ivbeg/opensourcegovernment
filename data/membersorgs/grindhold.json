@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlab-aux/issues", 
+        "members_url": "https://api.github.com/orgs/openlab-aux/members{/member}", 
+        "description": "Deutschlands erster Hackerspace mit Fu\u00dfbodenheizung in der Wand", 
+        "public_members_url": "https://api.github.com/orgs/openlab-aux/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlab-aux", 
+        "events_url": "https://api.github.com/orgs/openlab-aux/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3979750?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlab-aux/repos", 
+        "login": "openlab-aux", 
+        "id": 3979750, 
+        "hooks_url": "https://api.github.com/orgs/openlab-aux/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OParl/issues", 
+        "members_url": "https://api.github.com/orgs/OParl/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OParl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OParl", 
+        "events_url": "https://api.github.com/orgs/OParl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4183815?v=3", 
+        "repos_url": "https://api.github.com/orgs/OParl/repos", 
+        "login": "OParl", 
+        "id": 4183815, 
+        "hooks_url": "https://api.github.com/orgs/OParl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/skarphed/issues", 
+        "members_url": "https://api.github.com/orgs/skarphed/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/skarphed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/skarphed", 
+        "events_url": "https://api.github.com/orgs/skarphed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5300990?v=3", 
+        "repos_url": "https://api.github.com/orgs/skarphed/repos", 
+        "login": "skarphed", 
+        "id": 5300990, 
+        "hooks_url": "https://api.github.com/orgs/skarphed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/torservers/issues", 
+        "members_url": "https://api.github.com/orgs/torservers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/torservers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/torservers", 
+        "events_url": "https://api.github.com/orgs/torservers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5863873?v=3", 
+        "repos_url": "https://api.github.com/orgs/torservers/repos", 
+        "login": "torservers", 
+        "id": 5863873, 
+        "hooks_url": "https://api.github.com/orgs/torservers/hooks"
+    }
+]

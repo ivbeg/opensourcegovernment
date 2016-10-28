@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dr0i/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dr0i/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dr0i/orgs", 
+        "url": "https://api.github.com/users/dr0i", 
+        "gists_url": "https://api.github.com/users/dr0i/gists{/gist_id}", 
+        "html_url": "https://github.com/dr0i", 
+        "subscriptions_url": "https://api.github.com/users/dr0i/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/944023?v=3", 
+        "repos_url": "https://api.github.com/users/dr0i/repos", 
+        "received_events_url": "https://api.github.com/users/dr0i/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dr0i/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dr0i", 
+        "type": "User", 
+        "id": 944023, 
+        "followers_url": "https://api.github.com/users/dr0i/followers"
+    }
+]

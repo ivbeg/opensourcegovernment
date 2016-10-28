@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordayton/issues", 
+        "members_url": "https://api.github.com/orgs/codefordayton/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codefordayton/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordayton", 
+        "events_url": "https://api.github.com/orgs/codefordayton/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6026408?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordayton/repos", 
+        "login": "codefordayton", 
+        "id": 6026408, 
+        "hooks_url": "https://api.github.com/orgs/codefordayton/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/collider/issues", 
+        "members_url": "https://api.github.com/orgs/collider/members{/member}", 
+        "description": "The Collider Project, an B2B software incubator in Dayton, OH", 
+        "public_members_url": "https://api.github.com/orgs/collider/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collider", 
+        "events_url": "https://api.github.com/orgs/collider/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6315486?v=3", 
+        "repos_url": "https://api.github.com/orgs/collider/repos", 
+        "login": "collider", 
+        "id": 6315486, 
+        "hooks_url": "https://api.github.com/orgs/collider/hooks"
+    }
+]

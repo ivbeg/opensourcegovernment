@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hpc/issues", 
+        "members_url": "https://api.github.com/orgs/hpc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hpc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hpc", 
+        "events_url": "https://api.github.com/orgs/hpc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/957578?v=3", 
+        "repos_url": "https://api.github.com/orgs/hpc/repos", 
+        "login": "hpc", 
+        "id": 957578, 
+        "hooks_url": "https://api.github.com/orgs/hpc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Cray/issues", 
+        "members_url": "https://api.github.com/orgs/Cray/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Cray/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Cray", 
+        "events_url": "https://api.github.com/orgs/Cray/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4663392?v=3", 
+        "repos_url": "https://api.github.com/orgs/Cray/repos", 
+        "login": "Cray", 
+        "id": 4663392, 
+        "hooks_url": "https://api.github.com/orgs/Cray/hooks"
+    }
+]

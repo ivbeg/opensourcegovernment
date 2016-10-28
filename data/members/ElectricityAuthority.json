@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jol1/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jol1/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jol1/orgs", 
+        "url": "https://api.github.com/users/jol1", 
+        "gists_url": "https://api.github.com/users/jol1/gists{/gist_id}", 
+        "html_url": "https://github.com/jol1", 
+        "subscriptions_url": "https://api.github.com/users/jol1/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5514795?v=3", 
+        "repos_url": "https://api.github.com/users/jol1/repos", 
+        "received_events_url": "https://api.github.com/users/jol1/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jol1/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jol1", 
+        "type": "User", 
+        "id": 5514795, 
+        "followers_url": "https://api.github.com/users/jol1/followers"
+    }
+]

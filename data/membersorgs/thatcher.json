@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/LibraryOfCongress/issues", 
+        "members_url": "https://api.github.com/orgs/LibraryOfCongress/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LibraryOfCongress/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LibraryOfCongress", 
+        "events_url": "https://api.github.com/orgs/LibraryOfCongress/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2070730?v=3", 
+        "repos_url": "https://api.github.com/orgs/LibraryOfCongress/repos", 
+        "login": "LibraryOfCongress", 
+        "id": 2070730, 
+        "hooks_url": "https://api.github.com/orgs/LibraryOfCongress/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openseadragon/issues", 
+        "members_url": "https://api.github.com/orgs/openseadragon/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openseadragon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openseadragon", 
+        "events_url": "https://api.github.com/orgs/openseadragon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3392630?v=3", 
+        "repos_url": "https://api.github.com/orgs/openseadragon/repos", 
+        "login": "openseadragon", 
+        "id": 3392630, 
+        "hooks_url": "https://api.github.com/orgs/openseadragon/hooks"
+    }
+]

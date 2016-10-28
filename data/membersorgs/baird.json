@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/redmountainmakers/issues", 
+        "members_url": "https://api.github.com/orgs/redmountainmakers/members{/member}", 
+        "description": "Code repository for Red Mountain Maker projects", 
+        "public_members_url": "https://api.github.com/orgs/redmountainmakers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/redmountainmakers", 
+        "events_url": "https://api.github.com/orgs/redmountainmakers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2450127?v=3", 
+        "repos_url": "https://api.github.com/orgs/redmountainmakers/repos", 
+        "login": "redmountainmakers", 
+        "id": 2450127, 
+        "hooks_url": "https://api.github.com/orgs/redmountainmakers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforBirmingham/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforBirmingham/members{/member}", 
+        "description": "A group of civic hackers in Birmingham, AL", 
+        "public_members_url": "https://api.github.com/orgs/CodeforBirmingham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforBirmingham", 
+        "events_url": "https://api.github.com/orgs/CodeforBirmingham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6835788?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforBirmingham/repos", 
+        "login": "CodeforBirmingham", 
+        "id": 6835788, 
+        "hooks_url": "https://api.github.com/orgs/CodeforBirmingham/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/flaredash/issues", 
+        "members_url": "https://api.github.com/orgs/flaredash/members{/member}", 
+        "description": "Repositories for Flare, a dashboard and management tool for Spark devices.", 
+        "public_members_url": "https://api.github.com/orgs/flaredash/public_members{/member}", 
+        "url": "https://api.github.com/orgs/flaredash", 
+        "events_url": "https://api.github.com/orgs/flaredash/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10483145?v=3", 
+        "repos_url": "https://api.github.com/orgs/flaredash/repos", 
+        "login": "flaredash", 
+        "id": 10483145, 
+        "hooks_url": "https://api.github.com/orgs/flaredash/hooks"
+    }
+]

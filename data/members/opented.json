@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/anderspeders/following{/other_user}", 
+        "events_url": "https://api.github.com/users/anderspeders/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/anderspeders/orgs", 
+        "url": "https://api.github.com/users/anderspeders", 
+        "gists_url": "https://api.github.com/users/anderspeders/gists{/gist_id}", 
+        "html_url": "https://github.com/anderspeders", 
+        "subscriptions_url": "https://api.github.com/users/anderspeders/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1101585?v=3", 
+        "repos_url": "https://api.github.com/users/anderspeders/repos", 
+        "received_events_url": "https://api.github.com/users/anderspeders/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/anderspeders/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "anderspeders", 
+        "type": "User", 
+        "id": 1101585, 
+        "followers_url": "https://api.github.com/users/anderspeders/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/jcassee/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jcassee/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jcassee/orgs", 
+        "url": "https://api.github.com/users/jcassee", 
+        "gists_url": "https://api.github.com/users/jcassee/gists{/gist_id}", 
+        "html_url": "https://github.com/jcassee", 
+        "subscriptions_url": "https://api.github.com/users/jcassee/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20749?v=3", 
+        "repos_url": "https://api.github.com/users/jcassee/repos", 
+        "received_events_url": "https://api.github.com/users/jcassee/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jcassee/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jcassee", 
+        "type": "User", 
+        "id": 20749, 
+        "followers_url": "https://api.github.com/users/jcassee/followers"
+    }
+]

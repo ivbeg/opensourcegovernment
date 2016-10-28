@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/aamsler/following{/other_user}", 
+        "events_url": "https://api.github.com/users/aamsler/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/aamsler/orgs", 
+        "url": "https://api.github.com/users/aamsler", 
+        "gists_url": "https://api.github.com/users/aamsler/gists{/gist_id}", 
+        "html_url": "https://github.com/aamsler", 
+        "subscriptions_url": "https://api.github.com/users/aamsler/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2361017?v=3", 
+        "repos_url": "https://api.github.com/users/aamsler/repos", 
+        "received_events_url": "https://api.github.com/users/aamsler/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/aamsler/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "aamsler", 
+        "type": "User", 
+        "id": 2361017, 
+        "followers_url": "https://api.github.com/users/aamsler/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/metaodi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/metaodi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/metaodi/orgs", 
+        "url": "https://api.github.com/users/metaodi", 
+        "gists_url": "https://api.github.com/users/metaodi/gists{/gist_id}", 
+        "html_url": "https://github.com/metaodi", 
+        "subscriptions_url": "https://api.github.com/users/metaodi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/538415?v=3", 
+        "repos_url": "https://api.github.com/users/metaodi/repos", 
+        "received_events_url": "https://api.github.com/users/metaodi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/metaodi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "metaodi", 
+        "type": "User", 
+        "id": 538415, 
+        "followers_url": "https://api.github.com/users/metaodi/followers"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/joeha480/following{/other_user}", 
+        "events_url": "https://api.github.com/users/joeha480/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/joeha480/orgs", 
+        "url": "https://api.github.com/users/joeha480", 
+        "gists_url": "https://api.github.com/users/joeha480/gists{/gist_id}", 
+        "html_url": "https://github.com/joeha480", 
+        "subscriptions_url": "https://api.github.com/users/joeha480/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4577802?v=3", 
+        "repos_url": "https://api.github.com/users/joeha480/repos", 
+        "received_events_url": "https://api.github.com/users/joeha480/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/joeha480/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "joeha480", 
+        "type": "User", 
+        "id": 4577802, 
+        "followers_url": "https://api.github.com/users/joeha480/followers"
+    }
+]

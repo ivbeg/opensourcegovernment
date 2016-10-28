@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/azavea/issues", 
+        "members_url": "https://api.github.com/orgs/azavea/members{/member}", 
+        "description": "B Corporation that builds geospatial software for civic and social impact", 
+        "public_members_url": "https://api.github.com/orgs/azavea/public_members{/member}", 
+        "url": "https://api.github.com/orgs/azavea", 
+        "events_url": "https://api.github.com/orgs/azavea/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/595231?v=3", 
+        "repos_url": "https://api.github.com/orgs/azavea/repos", 
+        "login": "azavea", 
+        "id": 595231, 
+        "hooks_url": "https://api.github.com/orgs/azavea/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PublicMapping/issues", 
+        "members_url": "https://api.github.com/orgs/PublicMapping/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PublicMapping/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PublicMapping", 
+        "events_url": "https://api.github.com/orgs/PublicMapping/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/941878?v=3", 
+        "repos_url": "https://api.github.com/orgs/PublicMapping/repos", 
+        "login": "PublicMapping", 
+        "id": 941878, 
+        "hooks_url": "https://api.github.com/orgs/PublicMapping/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/smartchicago/issues", 
+        "members_url": "https://api.github.com/orgs/smartchicago/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smartchicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smartchicago", 
+        "events_url": "https://api.github.com/orgs/smartchicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
+        "repos_url": "https://api.github.com/orgs/smartchicago/repos", 
+        "login": "smartchicago", 
+        "id": 2008099, 
+        "hooks_url": "https://api.github.com/orgs/smartchicago/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ezpg/issues", 
+        "members_url": "https://api.github.com/orgs/ezpg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ezpg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ezpg", 
+        "events_url": "https://api.github.com/orgs/ezpg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4006810?v=3", 
+        "repos_url": "https://api.github.com/orgs/ezpg/repos", 
+        "login": "ezpg", 
+        "id": 4006810, 
+        "hooks_url": "https://api.github.com/orgs/ezpg/hooks"
+    }
+]

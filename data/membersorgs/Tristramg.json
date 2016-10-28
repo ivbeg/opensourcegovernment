@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/trainline-eu/issues", 
+        "members_url": "https://api.github.com/orgs/trainline-eu/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/trainline-eu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/trainline-eu", 
+        "events_url": "https://api.github.com/orgs/trainline-eu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/490555?v=3", 
+        "repos_url": "https://api.github.com/orgs/trainline-eu/repos", 
+        "login": "trainline-eu", 
+        "id": 490555, 
+        "hooks_url": "https://api.github.com/orgs/trainline-eu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTransport/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTransport/members{/member}", 
+        "description": "The Open Transport Working Group's github organization", 
+        "public_members_url": "https://api.github.com/orgs/OpenTransport/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTransport", 
+        "events_url": "https://api.github.com/orgs/OpenTransport/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3233948?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTransport/repos", 
+        "login": "OpenTransport", 
+        "id": 3233948, 
+        "hooks_url": "https://api.github.com/orgs/OpenTransport/hooks"
+    }
+]

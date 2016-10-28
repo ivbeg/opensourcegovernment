@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/angularjs-de/issues", 
+        "members_url": "https://api.github.com/orgs/angularjs-de/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/angularjs-de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/angularjs-de", 
+        "events_url": "https://api.github.com/orgs/angularjs-de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4560629?v=3", 
+        "repos_url": "https://api.github.com/orgs/angularjs-de/repos", 
+        "login": "angularjs-de", 
+        "id": 4560629, 
+        "hooks_url": "https://api.github.com/orgs/angularjs-de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/symetics/issues", 
+        "members_url": "https://api.github.com/orgs/symetics/members{/member}", 
+        "description": "We are a team of full-stack web developers focused on AngularJS training and consulting.", 
+        "public_members_url": "https://api.github.com/orgs/symetics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/symetics", 
+        "events_url": "https://api.github.com/orgs/symetics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7486648?v=3", 
+        "repos_url": "https://api.github.com/orgs/symetics/repos", 
+        "login": "symetics", 
+        "id": 7486648, 
+        "hooks_url": "https://api.github.com/orgs/symetics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rails-components/issues", 
+        "members_url": "https://api.github.com/orgs/rails-components/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rails-components/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rails-components", 
+        "events_url": "https://api.github.com/orgs/rails-components/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12198264?v=3", 
+        "repos_url": "https://api.github.com/orgs/rails-components/repos", 
+        "login": "rails-components", 
+        "id": 12198264, 
+        "hooks_url": "https://api.github.com/orgs/rails-components/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforRuhrgebiet/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforRuhrgebiet/members{/member}", 
+        "description": "Wir sind das OK Lab Ruhrgebiet, Teil des Netzwerkes Code for Germany", 
+        "public_members_url": "https://api.github.com/orgs/CodeforRuhrgebiet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforRuhrgebiet", 
+        "events_url": "https://api.github.com/orgs/CodeforRuhrgebiet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17032365?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforRuhrgebiet/repos", 
+        "login": "CodeforRuhrgebiet", 
+        "id": 17032365, 
+        "hooks_url": "https://api.github.com/orgs/CodeforRuhrgebiet/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/classlab/issues", 
+        "members_url": "https://api.github.com/orgs/classlab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/classlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/classlab", 
+        "events_url": "https://api.github.com/orgs/classlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/22771681?v=3", 
+        "repos_url": "https://api.github.com/orgs/classlab/repos", 
+        "login": "classlab", 
+        "id": 22771681, 
+        "hooks_url": "https://api.github.com/orgs/classlab/hooks"
+    }
+]

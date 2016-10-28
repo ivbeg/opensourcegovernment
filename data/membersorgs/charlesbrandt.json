@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Bloomington/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Bloomington/members{/member}", 
+        "description": "Information & Technology Services department", 
+        "public_members_url": "https://api.github.com/orgs/City-of-Bloomington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Bloomington", 
+        "events_url": "https://api.github.com/orgs/City-of-Bloomington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/630302?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Bloomington/repos", 
+        "login": "City-of-Bloomington", 
+        "id": 630302, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Bloomington/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/placematters-decision-lab/issues", 
+        "members_url": "https://api.github.com/orgs/placematters-decision-lab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/placematters-decision-lab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/placematters-decision-lab", 
+        "events_url": "https://api.github.com/orgs/placematters-decision-lab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/534178?v=3", 
+        "repos_url": "https://api.github.com/orgs/placematters-decision-lab/repos", 
+        "login": "placematters-decision-lab", 
+        "id": 534178, 
+        "hooks_url": "https://api.github.com/orgs/placematters-decision-lab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/colorado-code-for-communities/issues", 
+        "members_url": "https://api.github.com/orgs/colorado-code-for-communities/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/colorado-code-for-communities/public_members{/member}", 
+        "url": "https://api.github.com/orgs/colorado-code-for-communities", 
+        "events_url": "https://api.github.com/orgs/colorado-code-for-communities/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3083583?v=3", 
+        "repos_url": "https://api.github.com/orgs/colorado-code-for-communities/repos", 
+        "login": "colorado-code-for-communities", 
+        "id": 3083583, 
+        "hooks_url": "https://api.github.com/orgs/colorado-code-for-communities/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SFMOCI/issues", 
+        "members_url": "https://api.github.com/orgs/SFMOCI/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SFMOCI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SFMOCI", 
+        "events_url": "https://api.github.com/orgs/SFMOCI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5015854?v=3", 
+        "repos_url": "https://api.github.com/orgs/SFMOCI/repos", 
+        "login": "SFMOCI", 
+        "id": 5015854, 
+        "hooks_url": "https://api.github.com/orgs/SFMOCI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataSF/issues", 
+        "members_url": "https://api.github.com/orgs/DataSF/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DataSF/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataSF", 
+        "events_url": "https://api.github.com/orgs/DataSF/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7906949?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataSF/repos", 
+        "login": "DataSF", 
+        "id": 7906949, 
+        "hooks_url": "https://api.github.com/orgs/DataSF/hooks"
+    }
+]

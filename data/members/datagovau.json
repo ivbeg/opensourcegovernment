@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/maxious/following{/other_user}", 
+        "events_url": "https://api.github.com/users/maxious/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/maxious/orgs", 
+        "url": "https://api.github.com/users/maxious", 
+        "gists_url": "https://api.github.com/users/maxious/gists{/gist_id}", 
+        "html_url": "https://github.com/maxious", 
+        "subscriptions_url": "https://api.github.com/users/maxious/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/81432?v=3", 
+        "repos_url": "https://api.github.com/users/maxious/repos", 
+        "received_events_url": "https://api.github.com/users/maxious/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/maxious/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "maxious", 
+        "type": "User", 
+        "id": 81432, 
+        "followers_url": "https://api.github.com/users/maxious/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/Starl3n/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Starl3n/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Starl3n/orgs", 
+        "url": "https://api.github.com/users/Starl3n", 
+        "gists_url": "https://api.github.com/users/Starl3n/gists{/gist_id}", 
+        "html_url": "https://github.com/Starl3n", 
+        "subscriptions_url": "https://api.github.com/users/Starl3n/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9473120?v=3", 
+        "repos_url": "https://api.github.com/users/Starl3n/repos", 
+        "received_events_url": "https://api.github.com/users/Starl3n/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Starl3n/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Starl3n", 
+        "type": "User", 
+        "id": 9473120, 
+        "followers_url": "https://api.github.com/users/Starl3n/followers"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pwgsc/issues", 
+        "members_url": "https://api.github.com/orgs/pwgsc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pwgsc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pwgsc", 
+        "events_url": "https://api.github.com/orgs/pwgsc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/507576?v=3", 
+        "repos_url": "https://api.github.com/orgs/pwgsc/repos", 
+        "login": "pwgsc", 
+        "id": 507576, 
+        "hooks_url": "https://api.github.com/orgs/pwgsc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aegir-project/issues", 
+        "members_url": "https://api.github.com/orgs/aegir-project/members{/member}", 
+        "description": "Drupal hosting and provisioning framework.", 
+        "public_members_url": "https://api.github.com/orgs/aegir-project/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aegir-project", 
+        "events_url": "https://api.github.com/orgs/aegir-project/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7441266?v=3", 
+        "repos_url": "https://api.github.com/orgs/aegir-project/repos", 
+        "login": "aegir-project", 
+        "id": 7441266, 
+        "hooks_url": "https://api.github.com/orgs/aegir-project/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/d8-contrib-modules/issues", 
+        "members_url": "https://api.github.com/orgs/d8-contrib-modules/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/d8-contrib-modules/public_members{/member}", 
+        "url": "https://api.github.com/orgs/d8-contrib-modules", 
+        "events_url": "https://api.github.com/orgs/d8-contrib-modules/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13561676?v=3", 
+        "repos_url": "https://api.github.com/orgs/d8-contrib-modules/repos", 
+        "login": "d8-contrib-modules", 
+        "id": 13561676, 
+        "hooks_url": "https://api.github.com/orgs/d8-contrib-modules/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AegirCoop/issues", 
+        "members_url": "https://api.github.com/orgs/AegirCoop/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AegirCoop/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AegirCoop", 
+        "events_url": "https://api.github.com/orgs/AegirCoop/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16911738?v=3", 
+        "repos_url": "https://api.github.com/orgs/AegirCoop/repos", 
+        "login": "AegirCoop", 
+        "id": 16911738, 
+        "hooks_url": "https://api.github.com/orgs/AegirCoop/hooks"
+    }
+]

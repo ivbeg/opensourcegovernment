@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/allantito/following{/other_user}", 
+        "events_url": "https://api.github.com/users/allantito/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/allantito/orgs", 
+        "url": "https://api.github.com/users/allantito", 
+        "gists_url": "https://api.github.com/users/allantito/gists{/gist_id}", 
+        "html_url": "https://github.com/allantito", 
+        "subscriptions_url": "https://api.github.com/users/allantito/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4120617?v=3", 
+        "repos_url": "https://api.github.com/users/allantito/repos", 
+        "received_events_url": "https://api.github.com/users/allantito/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/allantito/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "allantito", 
+        "type": "User", 
+        "id": 4120617, 
+        "followers_url": "https://api.github.com/users/allantito/followers"
+    }
+]

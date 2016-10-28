@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scraperwiki/issues", 
+        "members_url": "https://api.github.com/orgs/scraperwiki/members{/member}", 
+        "description": "This contains lots of our older projects. New code is at https://github.com/sensiblecodeio", 
+        "public_members_url": "https://api.github.com/orgs/scraperwiki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scraperwiki", 
+        "events_url": "https://api.github.com/orgs/scraperwiki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1050343?v=3", 
+        "repos_url": "https://api.github.com/orgs/scraperwiki/repos", 
+        "login": "scraperwiki", 
+        "id": 1050343, 
+        "hooks_url": "https://api.github.com/orgs/scraperwiki/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-UK/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-UK/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-UK", 
+        "events_url": "https://api.github.com/orgs/DataKind-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7648747?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-UK/repos", 
+        "login": "DataKind-UK", 
+        "id": 7648747, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-UK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pdftables/issues", 
+        "members_url": "https://api.github.com/orgs/pdftables/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pdftables/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pdftables", 
+        "events_url": "https://api.github.com/orgs/pdftables/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11585508?v=3", 
+        "repos_url": "https://api.github.com/orgs/pdftables/repos", 
+        "login": "pdftables", 
+        "id": 11585508, 
+        "hooks_url": "https://api.github.com/orgs/pdftables/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sensiblecodeio/issues", 
+        "members_url": "https://api.github.com/orgs/sensiblecodeio/members{/member}", 
+        "description": " We design and sell products that turn messy information into valuable data. Our older code is over at https://github.com/scraperwiki/", 
+        "public_members_url": "https://api.github.com/orgs/sensiblecodeio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sensiblecodeio", 
+        "events_url": "https://api.github.com/orgs/sensiblecodeio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20358872?v=3", 
+        "repos_url": "https://api.github.com/orgs/sensiblecodeio/repos", 
+        "login": "sensiblecodeio", 
+        "id": 20358872, 
+        "hooks_url": "https://api.github.com/orgs/sensiblecodeio/hooks"
+    }
+]

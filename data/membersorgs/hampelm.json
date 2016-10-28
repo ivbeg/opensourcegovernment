@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/localwiki/issues", 
+        "members_url": "https://api.github.com/orgs/localwiki/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/localwiki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/localwiki", 
+        "events_url": "https://api.github.com/orgs/localwiki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/601152?v=3", 
+        "repos_url": "https://api.github.com/orgs/localwiki/repos", 
+        "login": "localwiki", 
+        "id": 601152, 
+        "hooks_url": "https://api.github.com/orgs/localwiki/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/detroitledger/issues", 
+        "members_url": "https://api.github.com/orgs/detroitledger/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/detroitledger/public_members{/member}", 
+        "url": "https://api.github.com/orgs/detroitledger", 
+        "events_url": "https://api.github.com/orgs/detroitledger/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4762895?v=3", 
+        "repos_url": "https://api.github.com/orgs/detroitledger/repos", 
+        "login": "detroitledger", 
+        "id": 4762895, 
+        "hooks_url": "https://api.github.com/orgs/detroitledger/hooks"
+    }
+]

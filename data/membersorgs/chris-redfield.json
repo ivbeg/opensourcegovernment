@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dadosgovbr/issues", 
+        "members_url": "https://api.github.com/orgs/dadosgovbr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dadosgovbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dadosgovbr", 
+        "events_url": "https://api.github.com/orgs/dadosgovbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1541824?v=3", 
+        "repos_url": "https://api.github.com/orgs/dadosgovbr/repos", 
+        "login": "dadosgovbr", 
+        "id": 1541824, 
+        "hooks_url": "https://api.github.com/orgs/dadosgovbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ThackdayDF/issues", 
+        "members_url": "https://api.github.com/orgs/ThackdayDF/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ThackdayDF/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ThackdayDF", 
+        "events_url": "https://api.github.com/orgs/ThackdayDF/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4195051?v=3", 
+        "repos_url": "https://api.github.com/orgs/ThackdayDF/repos", 
+        "login": "ThackdayDF", 
+        "id": 4195051, 
+        "hooks_url": "https://api.github.com/orgs/ThackdayDF/hooks"
+    }
+]

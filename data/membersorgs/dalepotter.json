@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/IATI/issues", 
+        "members_url": "https://api.github.com/orgs/IATI/members{/member}", 
+        "description": "Repositories maintained by the IATI Secretariat.", 
+        "public_members_url": "https://api.github.com/orgs/IATI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IATI", 
+        "events_url": "https://api.github.com/orgs/IATI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5502974?v=3", 
+        "repos_url": "https://api.github.com/orgs/IATI/repos", 
+        "login": "IATI", 
+        "id": 5502974, 
+        "hooks_url": "https://api.github.com/orgs/IATI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/devinit/issues", 
+        "members_url": "https://api.github.com/orgs/devinit/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/devinit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devinit", 
+        "events_url": "https://api.github.com/orgs/devinit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7460377?v=3", 
+        "repos_url": "https://api.github.com/orgs/devinit/repos", 
+        "login": "devinit", 
+        "id": 7460377, 
+        "hooks_url": "https://api.github.com/orgs/devinit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/upReach/issues", 
+        "members_url": "https://api.github.com/orgs/upReach/members{/member}", 
+        "description": "We support undergraduates from less-privileged backgrounds to realise their career potential", 
+        "public_members_url": "https://api.github.com/orgs/upReach/public_members{/member}", 
+        "url": "https://api.github.com/orgs/upReach", 
+        "events_url": "https://api.github.com/orgs/upReach/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8350314?v=3", 
+        "repos_url": "https://api.github.com/orgs/upReach/repos", 
+        "login": "upReach", 
+        "id": 8350314, 
+        "hooks_url": "https://api.github.com/orgs/upReach/hooks"
+    }
+]

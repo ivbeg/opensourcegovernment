@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ACME-Climate/issues", 
+        "members_url": "https://api.github.com/orgs/ACME-Climate/members{/member}", 
+        "description": "ACME: DOE Lab's Accelerated Climate Modeling for Energy project", 
+        "public_members_url": "https://api.github.com/orgs/ACME-Climate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ACME-Climate", 
+        "events_url": "https://api.github.com/orgs/ACME-Climate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7558558?v=3", 
+        "repos_url": "https://api.github.com/orgs/ACME-Climate/repos", 
+        "login": "ACME-Climate", 
+        "id": 7558558, 
+        "hooks_url": "https://api.github.com/orgs/ACME-Climate/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PARALLELIO/issues", 
+        "members_url": "https://api.github.com/orgs/PARALLELIO/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PARALLELIO/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PARALLELIO", 
+        "events_url": "https://api.github.com/orgs/PARALLELIO/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11465987?v=3", 
+        "repos_url": "https://api.github.com/orgs/PARALLELIO/repos", 
+        "login": "PARALLELIO", 
+        "id": 11465987, 
+        "hooks_url": "https://api.github.com/orgs/PARALLELIO/hooks"
+    }
+]

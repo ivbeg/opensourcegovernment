@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/benbarnett/following{/other_user}", 
+        "events_url": "https://api.github.com/users/benbarnett/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/benbarnett/orgs", 
+        "url": "https://api.github.com/users/benbarnett", 
+        "gists_url": "https://api.github.com/users/benbarnett/gists{/gist_id}", 
+        "html_url": "https://github.com/benbarnett", 
+        "subscriptions_url": "https://api.github.com/users/benbarnett/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/295469?v=3", 
+        "repos_url": "https://api.github.com/users/benbarnett/repos", 
+        "received_events_url": "https://api.github.com/users/benbarnett/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/benbarnett/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "benbarnett", 
+        "type": "User", 
+        "id": 295469, 
+        "followers_url": "https://api.github.com/users/benbarnett/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/benlovell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/benlovell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/benlovell/orgs", 
+        "url": "https://api.github.com/users/benlovell", 
+        "gists_url": "https://api.github.com/users/benlovell/gists{/gist_id}", 
+        "html_url": "https://github.com/benlovell", 
+        "subscriptions_url": "https://api.github.com/users/benlovell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/41963?v=3", 
+        "repos_url": "https://api.github.com/users/benlovell/repos", 
+        "received_events_url": "https://api.github.com/users/benlovell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/benlovell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "benlovell", 
+        "type": "User", 
+        "id": 41963, 
+        "followers_url": "https://api.github.com/users/benlovell/followers"
+    }
+]

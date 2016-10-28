@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bolt/issues", 
+        "members_url": "https://api.github.com/orgs/bolt/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bolt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bolt", 
+        "events_url": "https://api.github.com/orgs/bolt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3869752?v=3", 
+        "repos_url": "https://api.github.com/orgs/bolt/repos", 
+        "login": "bolt", 
+        "id": 3869752, 
+        "hooks_url": "https://api.github.com/orgs/bolt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/europeana/issues", 
+        "members_url": "https://api.github.com/orgs/europeana/members{/member}", 
+        "description": "We're a digital library aggregating collections from Europe's libraries, archives, museums and audio-visual archives.", 
+        "public_members_url": "https://api.github.com/orgs/europeana/public_members{/member}", 
+        "url": "https://api.github.com/orgs/europeana", 
+        "events_url": "https://api.github.com/orgs/europeana/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4570681?v=3", 
+        "repos_url": "https://api.github.com/orgs/europeana/repos", 
+        "login": "europeana", 
+        "id": 4570681, 
+        "hooks_url": "https://api.github.com/orgs/europeana/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Twokings/issues", 
+        "members_url": "https://api.github.com/orgs/Twokings/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Twokings/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Twokings", 
+        "events_url": "https://api.github.com/orgs/Twokings/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5338770?v=3", 
+        "repos_url": "https://api.github.com/orgs/Twokings/repos", 
+        "login": "Twokings", 
+        "id": 5338770, 
+        "hooks_url": "https://api.github.com/orgs/Twokings/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/github-beta/issues", 
+        "members_url": "https://api.github.com/orgs/github-beta/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/github-beta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github-beta", 
+        "events_url": "https://api.github.com/orgs/github-beta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7704921?v=3", 
+        "repos_url": "https://api.github.com/orgs/github-beta/repos", 
+        "login": "github-beta", 
+        "id": 7704921, 
+        "hooks_url": "https://api.github.com/orgs/github-beta/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/chrismajewski/following{/other_user}", 
+        "events_url": "https://api.github.com/users/chrismajewski/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/chrismajewski/orgs", 
+        "url": "https://api.github.com/users/chrismajewski", 
+        "gists_url": "https://api.github.com/users/chrismajewski/gists{/gist_id}", 
+        "html_url": "https://github.com/chrismajewski", 
+        "subscriptions_url": "https://api.github.com/users/chrismajewski/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1154737?v=3", 
+        "repos_url": "https://api.github.com/users/chrismajewski/repos", 
+        "received_events_url": "https://api.github.com/users/chrismajewski/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/chrismajewski/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "chrismajewski", 
+        "type": "User", 
+        "id": 1154737, 
+        "followers_url": "https://api.github.com/users/chrismajewski/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ydagenais/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ydagenais/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ydagenais/orgs", 
+        "url": "https://api.github.com/users/ydagenais", 
+        "gists_url": "https://api.github.com/users/ydagenais/gists{/gist_id}", 
+        "html_url": "https://github.com/ydagenais", 
+        "subscriptions_url": "https://api.github.com/users/ydagenais/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/505515?v=3", 
+        "repos_url": "https://api.github.com/users/ydagenais/repos", 
+        "received_events_url": "https://api.github.com/users/ydagenais/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ydagenais/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ydagenais", 
+        "type": "User", 
+        "id": 505515, 
+        "followers_url": "https://api.github.com/users/ydagenais/followers"
+    }
+]

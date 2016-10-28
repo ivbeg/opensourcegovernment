@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Netflix/issues", 
+        "members_url": "https://api.github.com/orgs/Netflix/members{/member}", 
+        "description": "Netflix Open Source Platform", 
+        "public_members_url": "https://api.github.com/orgs/Netflix/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Netflix", 
+        "events_url": "https://api.github.com/orgs/Netflix/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/913567?v=3", 
+        "repos_url": "https://api.github.com/orgs/Netflix/repos", 
+        "login": "Netflix", 
+        "id": 913567, 
+        "hooks_url": "https://api.github.com/orgs/Netflix/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ctf/issues", 
+        "members_url": "https://api.github.com/orgs/ctf/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ctf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ctf", 
+        "events_url": "https://api.github.com/orgs/ctf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2617624?v=3", 
+        "repos_url": "https://api.github.com/orgs/ctf/repos", 
+        "login": "ctf", 
+        "id": 2617624, 
+        "hooks_url": "https://api.github.com/orgs/ctf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforsanjose/issues", 
+        "members_url": "https://api.github.com/orgs/codeforsanjose/members{/member}", 
+        "description": "Code for America Brigade in San Jose", 
+        "public_members_url": "https://api.github.com/orgs/codeforsanjose/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforsanjose", 
+        "events_url": "https://api.github.com/orgs/codeforsanjose/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6627417?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforsanjose/repos", 
+        "login": "codeforsanjose", 
+        "id": 6627417, 
+        "hooks_url": "https://api.github.com/orgs/codeforsanjose/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/node-forward/issues", 
+        "members_url": "https://api.github.com/orgs/node-forward/members{/member}", 
+        "description": "A broad community effort to improve Node, JavaScript, and their ecosystem through open collaboration", 
+        "public_members_url": "https://api.github.com/orgs/node-forward/public_members{/member}", 
+        "url": "https://api.github.com/orgs/node-forward", 
+        "events_url": "https://api.github.com/orgs/node-forward/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8192112?v=3", 
+        "repos_url": "https://api.github.com/orgs/node-forward/repos", 
+        "login": "node-forward", 
+        "id": 8192112, 
+        "hooks_url": "https://api.github.com/orgs/node-forward/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NetflixUI/issues", 
+        "members_url": "https://api.github.com/orgs/NetflixUI/members{/member}", 
+        "description": "Netflix UI teams", 
+        "public_members_url": "https://api.github.com/orgs/NetflixUI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NetflixUI", 
+        "events_url": "https://api.github.com/orgs/NetflixUI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8696986?v=3", 
+        "repos_url": "https://api.github.com/orgs/NetflixUI/repos", 
+        "login": "NetflixUI", 
+        "id": 8696986, 
+        "hooks_url": "https://api.github.com/orgs/NetflixUI/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforhuntsville/issues", 
+        "members_url": "https://api.github.com/orgs/codeforhuntsville/members{/member}", 
+        "description": "Code for America Brigade for Huntsville", 
+        "public_members_url": "https://api.github.com/orgs/codeforhuntsville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforhuntsville", 
+        "events_url": "https://api.github.com/orgs/codeforhuntsville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11465332?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforhuntsville/repos", 
+        "login": "codeforhuntsville", 
+        "id": 11465332, 
+        "hooks_url": "https://api.github.com/orgs/codeforhuntsville/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codethesouth/issues", 
+        "members_url": "https://api.github.com/orgs/codethesouth/members{/member}", 
+        "description": "Repository for Code the South", 
+        "public_members_url": "https://api.github.com/orgs/codethesouth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codethesouth", 
+        "events_url": "https://api.github.com/orgs/codethesouth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19086949?v=3", 
+        "repos_url": "https://api.github.com/orgs/codethesouth/repos", 
+        "login": "codethesouth", 
+        "id": 19086949, 
+        "hooks_url": "https://api.github.com/orgs/codethesouth/hooks"
+    }
+]

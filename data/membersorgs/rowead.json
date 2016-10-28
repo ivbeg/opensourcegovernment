@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wamuseum/issues", 
+        "members_url": "https://api.github.com/orgs/wamuseum/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/wamuseum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wamuseum", 
+        "events_url": "https://api.github.com/orgs/wamuseum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6541276?v=3", 
+        "repos_url": "https://api.github.com/orgs/wamuseum/repos", 
+        "login": "wamuseum", 
+        "id": 6541276, 
+        "hooks_url": "https://api.github.com/orgs/wamuseum/hooks"
+    }
+]

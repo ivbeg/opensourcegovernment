@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/g0ld2k/following{/other_user}", 
+        "events_url": "https://api.github.com/users/g0ld2k/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/g0ld2k/orgs", 
+        "url": "https://api.github.com/users/g0ld2k", 
+        "gists_url": "https://api.github.com/users/g0ld2k/gists{/gist_id}", 
+        "html_url": "https://github.com/g0ld2k", 
+        "subscriptions_url": "https://api.github.com/users/g0ld2k/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3504814?v=3", 
+        "repos_url": "https://api.github.com/users/g0ld2k/repos", 
+        "received_events_url": "https://api.github.com/users/g0ld2k/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/g0ld2k/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "g0ld2k", 
+        "type": "User", 
+        "id": 3504814, 
+        "followers_url": "https://api.github.com/users/g0ld2k/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/wellsayd/following{/other_user}", 
+        "events_url": "https://api.github.com/users/wellsayd/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/wellsayd/orgs", 
+        "url": "https://api.github.com/users/wellsayd", 
+        "gists_url": "https://api.github.com/users/wellsayd/gists{/gist_id}", 
+        "html_url": "https://github.com/wellsayd", 
+        "subscriptions_url": "https://api.github.com/users/wellsayd/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1047526?v=3", 
+        "repos_url": "https://api.github.com/users/wellsayd/repos", 
+        "received_events_url": "https://api.github.com/users/wellsayd/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/wellsayd/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "wellsayd", 
+        "type": "User", 
+        "id": 1047526, 
+        "followers_url": "https://api.github.com/users/wellsayd/followers"
+    }
+]

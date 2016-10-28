@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rideRTD/issues", 
+        "members_url": "https://api.github.com/orgs/rideRTD/members{/member}", 
+        "description": "RTD (Regional Transportation District) is the primary provider of public transit services in the Denver metro area.", 
+        "public_members_url": "https://api.github.com/orgs/rideRTD/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rideRTD", 
+        "events_url": "https://api.github.com/orgs/rideRTD/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9662645?v=3", 
+        "repos_url": "https://api.github.com/orgs/rideRTD/repos", 
+        "login": "rideRTD", 
+        "id": 9662645, 
+        "hooks_url": "https://api.github.com/orgs/rideRTD/hooks"
+    }
+]

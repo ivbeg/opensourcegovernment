@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dijonkitchen/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dijonkitchen/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dijonkitchen/orgs", 
+        "url": "https://api.github.com/users/dijonkitchen", 
+        "gists_url": "https://api.github.com/users/dijonkitchen/gists{/gist_id}", 
+        "html_url": "https://github.com/dijonkitchen", 
+        "subscriptions_url": "https://api.github.com/users/dijonkitchen/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11434205?v=3", 
+        "repos_url": "https://api.github.com/users/dijonkitchen/repos", 
+        "received_events_url": "https://api.github.com/users/dijonkitchen/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dijonkitchen/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dijonkitchen", 
+        "type": "User", 
+        "id": 11434205, 
+        "followers_url": "https://api.github.com/users/dijonkitchen/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/pflans/following{/other_user}", 
+        "events_url": "https://api.github.com/users/pflans/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/pflans/orgs", 
+        "url": "https://api.github.com/users/pflans", 
+        "gists_url": "https://api.github.com/users/pflans/gists{/gist_id}", 
+        "html_url": "https://github.com/pflans", 
+        "subscriptions_url": "https://api.github.com/users/pflans/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/923620?v=3", 
+        "repos_url": "https://api.github.com/users/pflans/repos", 
+        "received_events_url": "https://api.github.com/users/pflans/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/pflans/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "pflans", 
+        "type": "User", 
+        "id": 923620, 
+        "followers_url": "https://api.github.com/users/pflans/followers"
+    }
+]

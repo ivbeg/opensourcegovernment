@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bcgov/issues", 
+        "members_url": "https://api.github.com/orgs/bcgov/members{/member}", 
+        "description": "Alpha Stage - we're getting ready for BCDevExchange early adopter repos", 
+        "public_members_url": "https://api.github.com/orgs/bcgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bcgov", 
+        "events_url": "https://api.github.com/orgs/bcgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/916280?v=3", 
+        "repos_url": "https://api.github.com/orgs/bcgov/repos", 
+        "login": "bcgov", 
+        "id": 916280, 
+        "hooks_url": "https://api.github.com/orgs/bcgov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SierraSystems/issues", 
+        "members_url": "https://api.github.com/orgs/SierraSystems/members{/member}", 
+        "description": "We are a IT services and management consulting firm offering a full range of advisory, systems integration and managed application services.", 
+        "public_members_url": "https://api.github.com/orgs/SierraSystems/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SierraSystems", 
+        "events_url": "https://api.github.com/orgs/SierraSystems/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10359443?v=3", 
+        "repos_url": "https://api.github.com/orgs/SierraSystems/repos", 
+        "login": "SierraSystems", 
+        "id": 10359443, 
+        "hooks_url": "https://api.github.com/orgs/SierraSystems/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BCDevExchange/issues", 
+        "members_url": "https://api.github.com/orgs/BCDevExchange/members{/member}", 
+        "description": "Hub of activity for our experimental web application, docs & stuff", 
+        "public_members_url": "https://api.github.com/orgs/BCDevExchange/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BCDevExchange", 
+        "events_url": "https://api.github.com/orgs/BCDevExchange/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11184649?v=3", 
+        "repos_url": "https://api.github.com/orgs/BCDevExchange/repos", 
+        "login": "BCDevExchange", 
+        "id": 11184649, 
+        "hooks_url": "https://api.github.com/orgs/BCDevExchange/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BCDevOps/issues", 
+        "members_url": "https://api.github.com/orgs/BCDevOps/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BCDevOps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BCDevOps", 
+        "events_url": "https://api.github.com/orgs/BCDevOps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17069795?v=3", 
+        "repos_url": "https://api.github.com/orgs/BCDevOps/repos", 
+        "login": "BCDevOps", 
+        "id": 17069795, 
+        "hooks_url": "https://api.github.com/orgs/BCDevOps/hooks"
+    }
+]

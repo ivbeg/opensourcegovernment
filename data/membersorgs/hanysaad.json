@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/InformationTechnologyInstitute/issues", 
+        "members_url": "https://api.github.com/orgs/InformationTechnologyInstitute/members{/member}", 
+        "description": "Information Technology Institute (ITI)", 
+        "public_members_url": "https://api.github.com/orgs/InformationTechnologyInstitute/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InformationTechnologyInstitute", 
+        "events_url": "https://api.github.com/orgs/InformationTechnologyInstitute/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11373264?v=3", 
+        "repos_url": "https://api.github.com/orgs/InformationTechnologyInstitute/repos", 
+        "login": "InformationTechnologyInstitute", 
+        "id": 11373264, 
+        "hooks_url": "https://api.github.com/orgs/InformationTechnologyInstitute/hooks"
+    }
+]

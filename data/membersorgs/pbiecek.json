@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rOpenGov/issues", 
+        "members_url": "https://api.github.com/orgs/rOpenGov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/rOpenGov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rOpenGov", 
+        "events_url": "https://api.github.com/orgs/rOpenGov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5463092?v=3", 
+        "repos_url": "https://api.github.com/orgs/rOpenGov/repos", 
+        "login": "rOpenGov", 
+        "id": 5463092, 
+        "hooks_url": "https://api.github.com/orgs/rOpenGov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mi2-warsaw/issues", 
+        "members_url": "https://api.github.com/orgs/mi2-warsaw/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mi2-warsaw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mi2-warsaw", 
+        "events_url": "https://api.github.com/orgs/mi2-warsaw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12463189?v=3", 
+        "repos_url": "https://api.github.com/orgs/mi2-warsaw/repos", 
+        "login": "mi2-warsaw", 
+        "id": 12463189, 
+        "hooks_url": "https://api.github.com/orgs/mi2-warsaw/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BetaAndBit/issues", 
+        "members_url": "https://api.github.com/orgs/BetaAndBit/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BetaAndBit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BetaAndBit", 
+        "events_url": "https://api.github.com/orgs/BetaAndBit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15096776?v=3", 
+        "repos_url": "https://api.github.com/orgs/BetaAndBit/repos", 
+        "login": "BetaAndBit", 
+        "id": 15096776, 
+        "hooks_url": "https://api.github.com/orgs/BetaAndBit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RTCGA/issues", 
+        "members_url": "https://api.github.com/orgs/RTCGA/members{/member}", 
+        "description": "MI^2 Group (https://github.com/mi2-warsaw) factory of R packages containing The Cancer Genome Atlas Project datasets.", 
+        "public_members_url": "https://api.github.com/orgs/RTCGA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RTCGA", 
+        "events_url": "https://api.github.com/orgs/RTCGA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15612915?v=3", 
+        "repos_url": "https://api.github.com/orgs/RTCGA/repos", 
+        "login": "RTCGA", 
+        "id": 15612915, 
+        "hooks_url": "https://api.github.com/orgs/RTCGA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eRum2016/issues", 
+        "members_url": "https://api.github.com/orgs/eRum2016/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eRum2016/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eRum2016", 
+        "events_url": "https://api.github.com/orgs/eRum2016/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18220025?v=3", 
+        "repos_url": "https://api.github.com/orgs/eRum2016/repos", 
+        "login": "eRum2016", 
+        "id": 18220025, 
+        "hooks_url": "https://api.github.com/orgs/eRum2016/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geneticsMiNIng/issues", 
+        "members_url": "https://api.github.com/orgs/geneticsMiNIng/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/geneticsMiNIng/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geneticsMiNIng", 
+        "events_url": "https://api.github.com/orgs/geneticsMiNIng/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18666817?v=3", 
+        "repos_url": "https://api.github.com/orgs/geneticsMiNIng/repos", 
+        "login": "geneticsMiNIng", 
+        "id": 18666817, 
+        "hooks_url": "https://api.github.com/orgs/geneticsMiNIng/hooks"
+    }
+]

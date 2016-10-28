@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/petzlux/following{/other_user}", 
+        "events_url": "https://api.github.com/users/petzlux/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/petzlux/orgs", 
+        "url": "https://api.github.com/users/petzlux", 
+        "gists_url": "https://api.github.com/users/petzlux/gists{/gist_id}", 
+        "html_url": "https://github.com/petzlux", 
+        "subscriptions_url": "https://api.github.com/users/petzlux/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2540428?v=3", 
+        "repos_url": "https://api.github.com/users/petzlux/repos", 
+        "received_events_url": "https://api.github.com/users/petzlux/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/petzlux/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "petzlux", 
+        "type": "User", 
+        "id": 2540428, 
+        "followers_url": "https://api.github.com/users/petzlux/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/sbrunner/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sbrunner/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sbrunner/orgs", 
+        "url": "https://api.github.com/users/sbrunner", 
+        "gists_url": "https://api.github.com/users/sbrunner/gists{/gist_id}", 
+        "html_url": "https://github.com/sbrunner", 
+        "subscriptions_url": "https://api.github.com/users/sbrunner/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/353872?v=3", 
+        "repos_url": "https://api.github.com/users/sbrunner/repos", 
+        "received_events_url": "https://api.github.com/users/sbrunner/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sbrunner/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sbrunner", 
+        "type": "User", 
+        "id": 353872, 
+        "followers_url": "https://api.github.com/users/sbrunner/followers"
+    }
+]

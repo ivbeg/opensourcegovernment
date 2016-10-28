@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/karen-sch/following{/other_user}", 
+        "events_url": "https://api.github.com/users/karen-sch/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/karen-sch/orgs", 
+        "url": "https://api.github.com/users/karen-sch", 
+        "gists_url": "https://api.github.com/users/karen-sch/gists{/gist_id}", 
+        "html_url": "https://github.com/karen-sch", 
+        "subscriptions_url": "https://api.github.com/users/karen-sch/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2584426?v=3", 
+        "repos_url": "https://api.github.com/users/karen-sch/repos", 
+        "received_events_url": "https://api.github.com/users/karen-sch/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/karen-sch/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "karen-sch", 
+        "type": "User", 
+        "id": 2584426, 
+        "followers_url": "https://api.github.com/users/karen-sch/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/weberius/following{/other_user}", 
+        "events_url": "https://api.github.com/users/weberius/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/weberius/orgs", 
+        "url": "https://api.github.com/users/weberius", 
+        "gists_url": "https://api.github.com/users/weberius/gists{/gist_id}", 
+        "html_url": "https://github.com/weberius", 
+        "subscriptions_url": "https://api.github.com/users/weberius/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3819073?v=3", 
+        "repos_url": "https://api.github.com/users/weberius/repos", 
+        "received_events_url": "https://api.github.com/users/weberius/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/weberius/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "weberius", 
+        "type": "User", 
+        "id": 3819073, 
+        "followers_url": "https://api.github.com/users/weberius/followers"
+    }
+]

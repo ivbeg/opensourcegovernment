@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/django-district/issues", 
+        "members_url": "https://api.github.com/orgs/django-district/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/django-district/public_members{/member}", 
+        "url": "https://api.github.com/orgs/django-district", 
+        "events_url": "https://api.github.com/orgs/django-district/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/333520?v=3", 
+        "repos_url": "https://api.github.com/orgs/django-district/repos", 
+        "login": "django-district", 
+        "id": 333520, 
+        "hooks_url": "https://api.github.com/orgs/django-district/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LibraryOfCongress/issues", 
+        "members_url": "https://api.github.com/orgs/LibraryOfCongress/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LibraryOfCongress/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LibraryOfCongress", 
+        "events_url": "https://api.github.com/orgs/LibraryOfCongress/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2070730?v=3", 
+        "repos_url": "https://api.github.com/orgs/LibraryOfCongress/repos", 
+        "login": "LibraryOfCongress", 
+        "id": 2070730, 
+        "hooks_url": "https://api.github.com/orgs/LibraryOfCongress/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/loc-rdc/issues", 
+        "members_url": "https://api.github.com/orgs/loc-rdc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/loc-rdc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/loc-rdc", 
+        "events_url": "https://api.github.com/orgs/loc-rdc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5232761?v=3", 
+        "repos_url": "https://api.github.com/orgs/loc-rdc/repos", 
+        "login": "loc-rdc", 
+        "id": 5232761, 
+        "hooks_url": "https://api.github.com/orgs/loc-rdc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MacSysadmin/issues", 
+        "members_url": "https://api.github.com/orgs/MacSysadmin/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/MacSysadmin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MacSysadmin", 
+        "events_url": "https://api.github.com/orgs/MacSysadmin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12530011?v=3", 
+        "repos_url": "https://api.github.com/orgs/MacSysadmin/repos", 
+        "login": "MacSysadmin", 
+        "id": 12530011, 
+        "hooks_url": "https://api.github.com/orgs/MacSysadmin/hooks"
+    }
+]

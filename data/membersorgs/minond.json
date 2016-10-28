@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenSaltLake/issues", 
+        "members_url": "https://api.github.com/orgs/OpenSaltLake/members{/member}", 
+        "description": "A Code for America Brigade serving the greater Salt Lake Area", 
+        "public_members_url": "https://api.github.com/orgs/OpenSaltLake/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenSaltLake", 
+        "events_url": "https://api.github.com/orgs/OpenSaltLake/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2808202?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenSaltLake/repos", 
+        "login": "OpenSaltLake", 
+        "id": 2808202, 
+        "hooks_url": "https://api.github.com/orgs/OpenSaltLake/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/consumr-project/issues", 
+        "members_url": "https://api.github.com/orgs/consumr-project/members{/member}", 
+        "description": "a crowd sourced platform to help us all learn a little bit more about the things we buy, sell, and consume every day", 
+        "public_members_url": "https://api.github.com/orgs/consumr-project/public_members{/member}", 
+        "url": "https://api.github.com/orgs/consumr-project", 
+        "events_url": "https://api.github.com/orgs/consumr-project/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15334205?v=3", 
+        "repos_url": "https://api.github.com/orgs/consumr-project/repos", 
+        "login": "consumr-project", 
+        "id": 15334205, 
+        "hooks_url": "https://api.github.com/orgs/consumr-project/hooks"
+    }
+]

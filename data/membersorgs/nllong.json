@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NREL-cookbooks/issues", 
+        "members_url": "https://api.github.com/orgs/NREL-cookbooks/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NREL-cookbooks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL-cookbooks", 
+        "events_url": "https://api.github.com/orgs/NREL-cookbooks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2279120?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL-cookbooks/repos", 
+        "login": "NREL-cookbooks", 
+        "id": 2279120, 
+        "hooks_url": "https://api.github.com/orgs/NREL-cookbooks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BlueRival/issues", 
+        "members_url": "https://api.github.com/orgs/BlueRival/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BlueRival/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BlueRival", 
+        "events_url": "https://api.github.com/orgs/BlueRival/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2935030?v=3", 
+        "repos_url": "https://api.github.com/orgs/BlueRival/repos", 
+        "login": "BlueRival", 
+        "id": 2935030, 
+        "hooks_url": "https://api.github.com/orgs/BlueRival/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SEED-platform/issues", 
+        "members_url": "https://api.github.com/orgs/SEED-platform/members{/member}", 
+        "description": "Standard data platform for aggregating and managing building energy performance data", 
+        "public_members_url": "https://api.github.com/orgs/SEED-platform/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SEED-platform", 
+        "events_url": "https://api.github.com/orgs/SEED-platform/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7445100?v=3", 
+        "repos_url": "https://api.github.com/orgs/SEED-platform/repos", 
+        "login": "SEED-platform", 
+        "id": 7445100, 
+        "hooks_url": "https://api.github.com/orgs/SEED-platform/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HoneyPatch/issues", 
+        "members_url": "https://api.github.com/orgs/HoneyPatch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HoneyPatch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HoneyPatch", 
+        "events_url": "https://api.github.com/orgs/HoneyPatch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7646452?v=3", 
+        "repos_url": "https://api.github.com/orgs/HoneyPatch/repos", 
+        "login": "HoneyPatch", 
+        "id": 7646452, 
+        "hooks_url": "https://api.github.com/orgs/HoneyPatch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ASHRAE/issues", 
+        "members_url": "https://api.github.com/orgs/ASHRAE/members{/member}", 
+        "description": "Repos for the American Society of Heating, Refrigerating, and Air-Conditioning Engineers", 
+        "public_members_url": "https://api.github.com/orgs/ASHRAE/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ASHRAE", 
+        "events_url": "https://api.github.com/orgs/ASHRAE/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10697017?v=3", 
+        "repos_url": "https://api.github.com/orgs/ASHRAE/repos", 
+        "login": "ASHRAE", 
+        "id": 10697017, 
+        "hooks_url": "https://api.github.com/orgs/ASHRAE/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BuildingSync/issues", 
+        "members_url": "https://api.github.com/orgs/BuildingSync/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BuildingSync/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BuildingSync", 
+        "events_url": "https://api.github.com/orgs/BuildingSync/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15875715?v=3", 
+        "repos_url": "https://api.github.com/orgs/BuildingSync/repos", 
+        "login": "BuildingSync", 
+        "id": 15875715, 
+        "hooks_url": "https://api.github.com/orgs/BuildingSync/hooks"
+    }
+]

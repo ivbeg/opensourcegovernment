@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bechatman/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bechatman/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bechatman/orgs", 
+        "url": "https://api.github.com/users/bechatman", 
+        "gists_url": "https://api.github.com/users/bechatman/gists{/gist_id}", 
+        "html_url": "https://github.com/bechatman", 
+        "subscriptions_url": "https://api.github.com/users/bechatman/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5533967?v=3", 
+        "repos_url": "https://api.github.com/users/bechatman/repos", 
+        "received_events_url": "https://api.github.com/users/bechatman/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bechatman/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bechatman", 
+        "type": "User", 
+        "id": 5533967, 
+        "followers_url": "https://api.github.com/users/bechatman/followers"
+    }
+]

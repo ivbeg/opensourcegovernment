@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openstate/issues", 
+        "members_url": "https://api.github.com/orgs/openstate/members{/member}", 
+        "description": "Open State Foundation promotes digital transparency by unlocking open data and stimulates development of innovative & creative applications", 
+        "public_members_url": "https://api.github.com/orgs/openstate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openstate", 
+        "events_url": "https://api.github.com/orgs/openstate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/671916?v=3", 
+        "repos_url": "https://api.github.com/orgs/openstate/repos", 
+        "login": "openstate", 
+        "id": 671916, 
+        "hooks_url": "https://api.github.com/orgs/openstate/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/uscki/issues", 
+        "members_url": "https://api.github.com/orgs/uscki/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/uscki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/uscki", 
+        "events_url": "https://api.github.com/orgs/uscki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3260651?v=3", 
+        "repos_url": "https://api.github.com/orgs/uscki/repos", 
+        "login": "uscki", 
+        "id": 3260651, 
+        "hooks_url": "https://api.github.com/orgs/uscki/hooks"
+    }
+]

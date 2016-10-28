@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/globusonline/issues", 
+        "members_url": "https://api.github.com/orgs/globusonline/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/globusonline/public_members{/member}", 
+        "url": "https://api.github.com/orgs/globusonline", 
+        "events_url": "https://api.github.com/orgs/globusonline/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/790754?v=3", 
+        "repos_url": "https://api.github.com/orgs/globusonline/repos", 
+        "login": "globusonline", 
+        "id": 790754, 
+        "hooks_url": "https://api.github.com/orgs/globusonline/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/TryGhost/issues", 
+        "members_url": "https://api.github.com/orgs/TryGhost/members{/member}", 
+        "description": "Professional publishing", 
+        "public_members_url": "https://api.github.com/orgs/TryGhost/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TryGhost", 
+        "events_url": "https://api.github.com/orgs/TryGhost/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2178663?v=3", 
+        "repos_url": "https://api.github.com/orgs/TryGhost/repos", 
+        "login": "TryGhost", 
+        "id": 2178663, 
+        "hooks_url": "https://api.github.com/orgs/TryGhost/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/globus/issues", 
+        "members_url": "https://api.github.com/orgs/globus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/globus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/globus", 
+        "events_url": "https://api.github.com/orgs/globus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6120321?v=3", 
+        "repos_url": "https://api.github.com/orgs/globus/repos", 
+        "login": "globus", 
+        "id": 6120321, 
+        "hooks_url": "https://api.github.com/orgs/globus/hooks"
+    }
+]

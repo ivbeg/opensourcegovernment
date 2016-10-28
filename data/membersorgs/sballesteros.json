@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dataprotocols/issues", 
+        "members_url": "https://api.github.com/orgs/dataprotocols/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataprotocols/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprotocols", 
+        "events_url": "https://api.github.com/orgs/dataprotocols/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2647475?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprotocols/repos", 
+        "login": "dataprotocols", 
+        "id": 2647475, 
+        "hooks_url": "https://api.github.com/orgs/dataprotocols/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scienceai/issues", 
+        "members_url": "https://api.github.com/orgs/scienceai/members{/member}", 
+        "description": "Intelligent science publishing", 
+        "public_members_url": "https://api.github.com/orgs/scienceai/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scienceai", 
+        "events_url": "https://api.github.com/orgs/scienceai/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4432840?v=3", 
+        "repos_url": "https://api.github.com/orgs/scienceai/repos", 
+        "login": "scienceai", 
+        "id": 4432840, 
+        "hooks_url": "https://api.github.com/orgs/scienceai/hooks"
+    }
+]

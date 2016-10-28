@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforHawaii/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforHawaii/members{/member}", 
+        "description": "We are civic-minded volunteers interested in using technology and open data to make our local communities better.", 
+        "public_members_url": "https://api.github.com/orgs/CodeforHawaii/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforHawaii", 
+        "events_url": "https://api.github.com/orgs/CodeforHawaii/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6244195?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforHawaii/repos", 
+        "login": "CodeforHawaii", 
+        "id": 6244195, 
+        "hooks_url": "https://api.github.com/orgs/CodeforHawaii/hooks"
+    }
+]

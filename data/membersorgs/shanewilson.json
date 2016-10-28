@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/capsid/issues", 
+        "members_url": "https://api.github.com/orgs/capsid/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/capsid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/capsid", 
+        "events_url": "https://api.github.com/orgs/capsid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1040560?v=3", 
+        "repos_url": "https://api.github.com/orgs/capsid/repos", 
+        "login": "capsid", 
+        "id": 1040560, 
+        "hooks_url": "https://api.github.com/orgs/capsid/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/icgc-dcc/issues", 
+        "members_url": "https://api.github.com/orgs/icgc-dcc/members{/member}", 
+        "description": "The Data Coordinating Center for the ICGC.org project", 
+        "public_members_url": "https://api.github.com/orgs/icgc-dcc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/icgc-dcc", 
+        "events_url": "https://api.github.com/orgs/icgc-dcc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1508638?v=3", 
+        "repos_url": "https://api.github.com/orgs/icgc-dcc/repos", 
+        "login": "icgc-dcc", 
+        "id": 1508638, 
+        "hooks_url": "https://api.github.com/orgs/icgc-dcc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NCIP/issues", 
+        "members_url": "https://api.github.com/orgs/NCIP/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NCIP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NCIP", 
+        "events_url": "https://api.github.com/orgs/NCIP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2387173?v=3", 
+        "repos_url": "https://api.github.com/orgs/NCIP/repos", 
+        "login": "NCIP", 
+        "id": 2387173, 
+        "hooks_url": "https://api.github.com/orgs/NCIP/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NCI-GDC/issues", 
+        "members_url": "https://api.github.com/orgs/NCI-GDC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NCI-GDC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NCI-GDC", 
+        "events_url": "https://api.github.com/orgs/NCI-GDC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7882952?v=3", 
+        "repos_url": "https://api.github.com/orgs/NCI-GDC/repos", 
+        "login": "NCI-GDC", 
+        "id": 7882952, 
+        "hooks_url": "https://api.github.com/orgs/NCI-GDC/hooks"
+    }
+]

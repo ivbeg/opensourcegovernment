@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sdupd-kmissey/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sdupd-kmissey/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sdupd-kmissey/orgs", 
+        "url": "https://api.github.com/users/sdupd-kmissey", 
+        "gists_url": "https://api.github.com/users/sdupd-kmissey/gists{/gist_id}", 
+        "html_url": "https://github.com/sdupd-kmissey", 
+        "subscriptions_url": "https://api.github.com/users/sdupd-kmissey/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1158892?v=3", 
+        "repos_url": "https://api.github.com/users/sdupd-kmissey/repos", 
+        "received_events_url": "https://api.github.com/users/sdupd-kmissey/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sdupd-kmissey/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sdupd-kmissey", 
+        "type": "User", 
+        "id": 1158892, 
+        "followers_url": "https://api.github.com/users/sdupd-kmissey/followers"
+    }
+]

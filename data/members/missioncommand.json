@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/briscoeej/following{/other_user}", 
+        "events_url": "https://api.github.com/users/briscoeej/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/briscoeej/orgs", 
+        "url": "https://api.github.com/users/briscoeej", 
+        "gists_url": "https://api.github.com/users/briscoeej/gists{/gist_id}", 
+        "html_url": "https://github.com/briscoeej", 
+        "subscriptions_url": "https://api.github.com/users/briscoeej/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5614266?v=3", 
+        "repos_url": "https://api.github.com/users/briscoeej/repos", 
+        "received_events_url": "https://api.github.com/users/briscoeej/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/briscoeej/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "briscoeej", 
+        "type": "User", 
+        "id": 5614266, 
+        "followers_url": "https://api.github.com/users/briscoeej/followers"
+    }
+]

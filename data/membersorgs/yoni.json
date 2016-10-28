@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dropcam/issues", 
+        "members_url": "https://api.github.com/orgs/dropcam/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dropcam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dropcam", 
+        "events_url": "https://api.github.com/orgs/dropcam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/182485?v=3", 
+        "repos_url": "https://api.github.com/orgs/dropcam/repos", 
+        "login": "dropcam", 
+        "id": 182485, 
+        "hooks_url": "https://api.github.com/orgs/dropcam/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nko/issues", 
+        "members_url": "https://api.github.com/orgs/nko/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko", 
+        "events_url": "https://api.github.com/orgs/nko/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/358826?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko/repos", 
+        "login": "nko", 
+        "id": 358826, 
+        "hooks_url": "https://api.github.com/orgs/nko/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ZeroCycle/issues", 
+        "members_url": "https://api.github.com/orgs/ZeroCycle/members{/member}", 
+        "description": "Reducing waste", 
+        "public_members_url": "https://api.github.com/orgs/ZeroCycle/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ZeroCycle", 
+        "events_url": "https://api.github.com/orgs/ZeroCycle/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8095237?v=3", 
+        "repos_url": "https://api.github.com/orgs/ZeroCycle/repos", 
+        "login": "ZeroCycle", 
+        "id": 8095237, 
+        "hooks_url": "https://api.github.com/orgs/ZeroCycle/hooks"
+    }
+]

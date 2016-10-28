@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ZGCZ/issues", 
+        "members_url": "https://api.github.com/orgs/ZGCZ/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ZGCZ/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ZGCZ", 
+        "events_url": "https://api.github.com/orgs/ZGCZ/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6511152?v=3", 
+        "repos_url": "https://api.github.com/orgs/ZGCZ/repos", 
+        "login": "ZGCZ", 
+        "id": 6511152, 
+        "hooks_url": "https://api.github.com/orgs/ZGCZ/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Study-Master/issues", 
+        "members_url": "https://api.github.com/orgs/Study-Master/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Study-Master/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Study-Master", 
+        "events_url": "https://api.github.com/orgs/Study-Master/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6622426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Study-Master/repos", 
+        "login": "Study-Master", 
+        "id": 6622426, 
+        "hooks_url": "https://api.github.com/orgs/Study-Master/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SeSaMe-NUS/issues", 
+        "members_url": "https://api.github.com/orgs/SeSaMe-NUS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SeSaMe-NUS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SeSaMe-NUS", 
+        "events_url": "https://api.github.com/orgs/SeSaMe-NUS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7525271?v=3", 
+        "repos_url": "https://api.github.com/orgs/SeSaMe-NUS/repos", 
+        "login": "SeSaMe-NUS", 
+        "id": 7525271, 
+        "hooks_url": "https://api.github.com/orgs/SeSaMe-NUS/hooks"
+    }
+]

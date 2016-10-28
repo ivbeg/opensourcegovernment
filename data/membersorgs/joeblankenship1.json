@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/clever-crow-consulting/issues", 
+        "members_url": "https://api.github.com/orgs/clever-crow-consulting/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/clever-crow-consulting/public_members{/member}", 
+        "url": "https://api.github.com/orgs/clever-crow-consulting", 
+        "events_url": "https://api.github.com/orgs/clever-crow-consulting/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3809923?v=3", 
+        "repos_url": "https://api.github.com/orgs/clever-crow-consulting/repos", 
+        "login": "clever-crow-consulting", 
+        "id": 3809923, 
+        "hooks_url": "https://api.github.com/orgs/clever-crow-consulting/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code-for-tb/issues", 
+        "members_url": "https://api.github.com/orgs/code-for-tb/members{/member}", 
+        "description": "A Code for America Brigade helping local governments & community organizations use the web better.", 
+        "public_members_url": "https://api.github.com/orgs/code-for-tb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code-for-tb", 
+        "events_url": "https://api.github.com/orgs/code-for-tb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9374504?v=3", 
+        "repos_url": "https://api.github.com/orgs/code-for-tb/repos", 
+        "login": "code-for-tb", 
+        "id": 9374504, 
+        "hooks_url": "https://api.github.com/orgs/code-for-tb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CGRII/issues", 
+        "members_url": "https://api.github.com/orgs/CGRII/members{/member}", 
+        "description": "Dedicated to researching the geographies of cyberspace", 
+        "public_members_url": "https://api.github.com/orgs/CGRII/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CGRII", 
+        "events_url": "https://api.github.com/orgs/CGRII/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11414658?v=3", 
+        "repos_url": "https://api.github.com/orgs/CGRII/repos", 
+        "login": "CGRII", 
+        "id": 11414658, 
+        "hooks_url": "https://api.github.com/orgs/CGRII/hooks"
+    }
+]

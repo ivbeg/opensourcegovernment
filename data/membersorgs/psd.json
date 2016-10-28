@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/solderpad/issues", 
+        "members_url": "https://api.github.com/orgs/solderpad/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/solderpad/public_members{/member}", 
+        "url": "https://api.github.com/orgs/solderpad", 
+        "events_url": "https://api.github.com/orgs/solderpad/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/798393?v=3", 
+        "repos_url": "https://api.github.com/orgs/solderpad/repos", 
+        "login": "solderpad", 
+        "id": 798393, 
+        "hooks_url": "https://api.github.com/orgs/solderpad/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DFID/issues", 
+        "members_url": "https://api.github.com/orgs/DFID/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DFID/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DFID", 
+        "events_url": "https://api.github.com/orgs/DFID/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3063332?v=3", 
+        "repos_url": "https://api.github.com/orgs/DFID/repos", 
+        "login": "DFID", 
+        "id": 3063332, 
+        "hooks_url": "https://api.github.com/orgs/DFID/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gds-attic/issues", 
+        "members_url": "https://api.github.com/orgs/gds-attic/members{/member}", 
+        "description": "GDS projects no longer under active development", 
+        "public_members_url": "https://api.github.com/orgs/gds-attic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gds-attic", 
+        "events_url": "https://api.github.com/orgs/gds-attic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5222827?v=3", 
+        "repos_url": "https://api.github.com/orgs/gds-attic/repos", 
+        "login": "gds-attic", 
+        "id": 5222827, 
+        "hooks_url": "https://api.github.com/orgs/gds-attic/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openregister/issues", 
+        "members_url": "https://api.github.com/orgs/openregister/members{/member}", 
+        "description": "Store data with high integrity, clear ownership and a uniform API", 
+        "public_members_url": "https://api.github.com/orgs/openregister/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openregister", 
+        "events_url": "https://api.github.com/orgs/openregister/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10206003?v=3", 
+        "repos_url": "https://api.github.com/orgs/openregister/repos", 
+        "login": "openregister", 
+        "id": 10206003, 
+        "hooks_url": "https://api.github.com/orgs/openregister/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openhatch/issues", 
+        "members_url": "https://api.github.com/orgs/openhatch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openhatch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openhatch", 
+        "events_url": "https://api.github.com/orgs/openhatch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1191811?v=3", 
+        "repos_url": "https://api.github.com/orgs/openhatch/repos", 
+        "login": "openhatch", 
+        "id": 1191811, 
+        "hooks_url": "https://api.github.com/orgs/openhatch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eregs/issues", 
+        "members_url": "https://api.github.com/orgs/eregs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eregs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eregs", 
+        "events_url": "https://api.github.com/orgs/eregs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4005681?v=3", 
+        "repos_url": "https://api.github.com/orgs/eregs/repos", 
+        "login": "eregs", 
+        "id": 4005681, 
+        "hooks_url": "https://api.github.com/orgs/eregs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/doubleunion/issues", 
+        "members_url": "https://api.github.com/orgs/doubleunion/members{/member}", 
+        "description": "Double Union is a hacker/maker space for women in San Francisco.", 
+        "public_members_url": "https://api.github.com/orgs/doubleunion/public_members{/member}", 
+        "url": "https://api.github.com/orgs/doubleunion", 
+        "events_url": "https://api.github.com/orgs/doubleunion/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4926520?v=3", 
+        "repos_url": "https://api.github.com/orgs/doubleunion/repos", 
+        "login": "doubleunion", 
+        "id": 4926520, 
+        "hooks_url": "https://api.github.com/orgs/doubleunion/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opencontrol/issues", 
+        "members_url": "https://api.github.com/orgs/opencontrol/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opencontrol/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opencontrol", 
+        "events_url": "https://api.github.com/orgs/opencontrol/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15136779?v=3", 
+        "repos_url": "https://api.github.com/orgs/opencontrol/repos", 
+        "login": "opencontrol", 
+        "id": 15136779, 
+        "hooks_url": "https://api.github.com/orgs/opencontrol/hooks"
+    }
+]

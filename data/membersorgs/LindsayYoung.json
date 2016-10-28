@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/usgs/issues", 
+        "members_url": "https://api.github.com/orgs/usgs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/usgs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usgs", 
+        "events_url": "https://api.github.com/orgs/usgs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1091434?v=3", 
+        "repos_url": "https://api.github.com/orgs/usgs/repos", 
+        "login": "usgs", 
+        "id": 1091434, 
+        "hooks_url": "https://api.github.com/orgs/usgs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/neracoos-open/issues", 
+        "members_url": "https://api.github.com/orgs/neracoos-open/members{/member}", 
+        "description": "Northeastern Regional Association of Coastal and Ocean Observing Systems.  Part of US IOOS", 
+        "public_members_url": "https://api.github.com/orgs/neracoos-open/public_members{/member}", 
+        "url": "https://api.github.com/orgs/neracoos-open", 
+        "events_url": "https://api.github.com/orgs/neracoos-open/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1828355?v=3", 
+        "repos_url": "https://api.github.com/orgs/neracoos-open/repos", 
+        "login": "neracoos-open", 
+        "id": 1828355, 
+        "hooks_url": "https://api.github.com/orgs/neracoos-open/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ioos/issues", 
+        "members_url": "https://api.github.com/orgs/ioos/members{/member}", 
+        "description": "Technical documentation and software supporting IOOS Data Management and Communications.", 
+        "public_members_url": "https://api.github.com/orgs/ioos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ioos", 
+        "events_url": "https://api.github.com/orgs/ioos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313832?v=3", 
+        "repos_url": "https://api.github.com/orgs/ioos/repos", 
+        "login": "ioos", 
+        "id": 5313832, 
+        "hooks_url": "https://api.github.com/orgs/ioos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ugrid-conventions/issues", 
+        "members_url": "https://api.github.com/orgs/ugrid-conventions/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ugrid-conventions/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ugrid-conventions", 
+        "events_url": "https://api.github.com/orgs/ugrid-conventions/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5541793?v=3", 
+        "repos_url": "https://api.github.com/orgs/ugrid-conventions/repos", 
+        "login": "ugrid-conventions", 
+        "id": 5541793, 
+        "hooks_url": "https://api.github.com/orgs/ugrid-conventions/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cf-convention/issues", 
+        "members_url": "https://api.github.com/orgs/cf-convention/members{/member}", 
+        "description": "Source code repository for CF Conventions documents at http://cf-convention.github.io", 
+        "public_members_url": "https://api.github.com/orgs/cf-convention/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cf-convention", 
+        "events_url": "https://api.github.com/orgs/cf-convention/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6909709?v=3", 
+        "repos_url": "https://api.github.com/orgs/cf-convention/repos", 
+        "login": "cf-convention", 
+        "id": 6909709, 
+        "hooks_url": "https://api.github.com/orgs/cf-convention/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/issues", 
+        "members_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/public_members{/member}", 
+        "url": "https://api.github.com/orgs/US-Nearshore-Research-Community", 
+        "events_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18035607?v=3", 
+        "repos_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/repos", 
+        "login": "US-Nearshore-Research-Community", 
+        "id": 18035607, 
+        "hooks_url": "https://api.github.com/orgs/US-Nearshore-Research-Community/hooks"
+    }
+]

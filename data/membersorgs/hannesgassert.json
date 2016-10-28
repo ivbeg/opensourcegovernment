@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wemakeit/issues", 
+        "members_url": "https://api.github.com/orgs/wemakeit/members{/member}", 
+        "description": "Crowdfunding \u2013 Made in Switzerland", 
+        "public_members_url": "https://api.github.com/orgs/wemakeit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wemakeit", 
+        "events_url": "https://api.github.com/orgs/wemakeit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1127552?v=3", 
+        "repos_url": "https://api.github.com/orgs/wemakeit/repos", 
+        "login": "wemakeit", 
+        "id": 1127552, 
+        "hooks_url": "https://api.github.com/orgs/wemakeit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpendataCH/issues", 
+        "members_url": "https://api.github.com/orgs/OpendataCH/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpendataCH/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpendataCH", 
+        "events_url": "https://api.github.com/orgs/OpendataCH/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1443054?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpendataCH/repos", 
+        "login": "OpendataCH", 
+        "id": 1443054, 
+        "hooks_url": "https://api.github.com/orgs/OpendataCH/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datasets/issues", 
+        "members_url": "https://api.github.com/orgs/datasets/members{/member}", 
+        "description": "Important, commonly-used datasets in high quality, easy-to-use & open form as data packages", 
+        "public_members_url": "https://api.github.com/orgs/datasets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datasets", 
+        "events_url": "https://api.github.com/orgs/datasets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1643515?v=3", 
+        "repos_url": "https://api.github.com/orgs/datasets/repos", 
+        "login": "datasets", 
+        "id": 1643515, 
+        "hooks_url": "https://api.github.com/orgs/datasets/hooks"
+    }
+]

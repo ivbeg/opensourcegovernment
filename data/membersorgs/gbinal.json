@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GSA/issues", 
+        "members_url": "https://api.github.com/orgs/GSA/members{/member}", 
+        "description": "The U.S. General Services Administration", 
+        "public_members_url": "https://api.github.com/orgs/GSA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GSA", 
+        "events_url": "https://api.github.com/orgs/GSA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/643070?v=3", 
+        "repos_url": "https://api.github.com/orgs/GSA/repos", 
+        "login": "GSA", 
+        "id": 643070, 
+        "hooks_url": "https://api.github.com/orgs/GSA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/simple-api/issues", 
+        "members_url": "https://api.github.com/orgs/simple-api/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/simple-api/public_members{/member}", 
+        "url": "https://api.github.com/orgs/simple-api", 
+        "events_url": "https://api.github.com/orgs/simple-api/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5497601?v=3", 
+        "repos_url": "https://api.github.com/orgs/simple-api/repos", 
+        "login": "simple-api", 
+        "id": 5497601, 
+        "hooks_url": "https://api.github.com/orgs/simple-api/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government-services/issues", 
+        "members_url": "https://api.github.com/orgs/government-services/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/government-services/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government-services", 
+        "events_url": "https://api.github.com/orgs/government-services/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5544435?v=3", 
+        "repos_url": "https://api.github.com/orgs/government-services/repos", 
+        "login": "government-services", 
+        "id": 5544435, 
+        "hooks_url": "https://api.github.com/orgs/government-services/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GSA-Simple-API/issues", 
+        "members_url": "https://api.github.com/orgs/GSA-Simple-API/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GSA-Simple-API/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GSA-Simple-API", 
+        "events_url": "https://api.github.com/orgs/GSA-Simple-API/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6557130?v=3", 
+        "repos_url": "https://api.github.com/orgs/GSA-Simple-API/repos", 
+        "login": "GSA-Simple-API", 
+        "id": 6557130, 
+        "hooks_url": "https://api.github.com/orgs/GSA-Simple-API/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USG-Website-Templates/issues", 
+        "members_url": "https://api.github.com/orgs/USG-Website-Templates/members{/member}", 
+        "description": "A collection of open source, hosted website templates", 
+        "public_members_url": "https://api.github.com/orgs/USG-Website-Templates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USG-Website-Templates", 
+        "events_url": "https://api.github.com/orgs/USG-Website-Templates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6642827?v=3", 
+        "repos_url": "https://api.github.com/orgs/USG-Website-Templates/repos", 
+        "login": "USG-Website-Templates", 
+        "id": 6642827, 
+        "hooks_url": "https://api.github.com/orgs/USG-Website-Templates/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/astrifex/issues", 
+        "members_url": "https://api.github.com/orgs/astrifex/members{/member}", 
+        "description": "Interactive SVG star generator", 
+        "public_members_url": "https://api.github.com/orgs/astrifex/public_members{/member}", 
+        "url": "https://api.github.com/orgs/astrifex", 
+        "events_url": "https://api.github.com/orgs/astrifex/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10359906?v=3", 
+        "repos_url": "https://api.github.com/orgs/astrifex/repos", 
+        "login": "astrifex", 
+        "id": 10359906, 
+        "hooks_url": "https://api.github.com/orgs/astrifex/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/appropriate/issues", 
+        "members_url": "https://api.github.com/orgs/appropriate/members{/member}", 
+        "description": "Appropriate Computing, LLC", 
+        "public_members_url": "https://api.github.com/orgs/appropriate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/appropriate", 
+        "events_url": "https://api.github.com/orgs/appropriate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11153133?v=3", 
+        "repos_url": "https://api.github.com/orgs/appropriate/repos", 
+        "login": "appropriate", 
+        "id": 11153133, 
+        "hooks_url": "https://api.github.com/orgs/appropriate/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackforla/issues", 
+        "members_url": "https://api.github.com/orgs/hackforla/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hackforla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackforla", 
+        "events_url": "https://api.github.com/orgs/hackforla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11635254?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackforla/repos", 
+        "login": "hackforla", 
+        "id": 11635254, 
+        "hooks_url": "https://api.github.com/orgs/hackforla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/omniauth/issues", 
+        "members_url": "https://api.github.com/orgs/omniauth/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/omniauth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/omniauth", 
+        "events_url": "https://api.github.com/orgs/omniauth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17064356?v=3", 
+        "repos_url": "https://api.github.com/orgs/omniauth/repos", 
+        "login": "omniauth", 
+        "id": 17064356, 
+        "hooks_url": "https://api.github.com/orgs/omniauth/hooks"
+    }
+]

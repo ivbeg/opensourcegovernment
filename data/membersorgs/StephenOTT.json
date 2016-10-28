@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wet-boew/issues", 
+        "members_url": "https://api.github.com/orgs/wet-boew/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wet-boew/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wet-boew", 
+        "events_url": "https://api.github.com/orgs/wet-boew/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1730142?v=3", 
+        "repos_url": "https://api.github.com/orgs/wet-boew/repos", 
+        "login": "wet-boew", 
+        "id": 1730142, 
+        "hooks_url": "https://api.github.com/orgs/wet-boew/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DigitalState/issues", 
+        "members_url": "https://api.github.com/orgs/DigitalState/members{/member}", 
+        "description": "Digital Public Services Platform for Government", 
+        "public_members_url": "https://api.github.com/orgs/DigitalState/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DigitalState", 
+        "events_url": "https://api.github.com/orgs/DigitalState/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12055994?v=3", 
+        "repos_url": "https://api.github.com/orgs/DigitalState/repos", 
+        "login": "DigitalState", 
+        "id": 12055994, 
+        "hooks_url": "https://api.github.com/orgs/DigitalState/hooks"
+    }
+]

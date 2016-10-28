@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/USGS-CIDA/issues", 
+        "members_url": "https://api.github.com/orgs/USGS-CIDA/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/USGS-CIDA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USGS-CIDA", 
+        "events_url": "https://api.github.com/orgs/USGS-CIDA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/918179?v=3", 
+        "repos_url": "https://api.github.com/orgs/USGS-CIDA/repos", 
+        "login": "USGS-CIDA", 
+        "id": 918179, 
+        "hooks_url": "https://api.github.com/orgs/USGS-CIDA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usgs/issues", 
+        "members_url": "https://api.github.com/orgs/usgs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/usgs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usgs", 
+        "events_url": "https://api.github.com/orgs/usgs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1091434?v=3", 
+        "repos_url": "https://api.github.com/orgs/usgs/repos", 
+        "login": "usgs", 
+        "id": 1091434, 
+        "hooks_url": "https://api.github.com/orgs/usgs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USGS-VIZLAB/issues", 
+        "members_url": "https://api.github.com/orgs/USGS-VIZLAB/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/USGS-VIZLAB/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USGS-VIZLAB", 
+        "events_url": "https://api.github.com/orgs/USGS-VIZLAB/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18291557?v=3", 
+        "repos_url": "https://api.github.com/orgs/USGS-VIZLAB/repos", 
+        "login": "USGS-VIZLAB", 
+        "id": 18291557, 
+        "hooks_url": "https://api.github.com/orgs/USGS-VIZLAB/hooks"
+    }
+]

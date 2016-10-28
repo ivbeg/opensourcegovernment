@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NERSC/issues", 
+        "members_url": "https://api.github.com/orgs/NERSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NERSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NERSC", 
+        "events_url": "https://api.github.com/orgs/NERSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380484?v=3", 
+        "repos_url": "https://api.github.com/orgs/NERSC/repos", 
+        "login": "NERSC", 
+        "id": 1380484, 
+        "hooks_url": "https://api.github.com/orgs/NERSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/issues", 
+        "members_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration", 
+        "events_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2731443?v=3", 
+        "repos_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/repos", 
+        "login": "DarkEnergyScienceCollaboration", 
+        "id": 2731443, 
+        "hooks_url": "https://api.github.com/orgs/DarkEnergyScienceCollaboration/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dessn/issues", 
+        "members_url": "https://api.github.com/orgs/dessn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dessn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dessn", 
+        "events_url": "https://api.github.com/orgs/dessn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8504951?v=3", 
+        "repos_url": "https://api.github.com/orgs/dessn/repos", 
+        "login": "dessn", 
+        "id": 8504951, 
+        "hooks_url": "https://api.github.com/orgs/dessn/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SoNetFBK/issues", 
+        "members_url": "https://api.github.com/orgs/SoNetFBK/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SoNetFBK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SoNetFBK", 
+        "events_url": "https://api.github.com/orgs/SoNetFBK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/948506?v=3", 
+        "repos_url": "https://api.github.com/orgs/SoNetFBK/repos", 
+        "login": "SoNetFBK", 
+        "id": 948506, 
+        "hooks_url": "https://api.github.com/orgs/SoNetFBK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spaghetti-open-data/issues", 
+        "members_url": "https://api.github.com/orgs/spaghetti-open-data/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/spaghetti-open-data/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spaghetti-open-data", 
+        "events_url": "https://api.github.com/orgs/spaghetti-open-data/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2340160?v=3", 
+        "repos_url": "https://api.github.com/orgs/spaghetti-open-data/repos", 
+        "login": "spaghetti-open-data", 
+        "id": 2340160, 
+        "hooks_url": "https://api.github.com/orgs/spaghetti-open-data/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendatatrentino/issues", 
+        "members_url": "https://api.github.com/orgs/opendatatrentino/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opendatatrentino/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendatatrentino", 
+        "events_url": "https://api.github.com/orgs/opendatatrentino/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4073401?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendatatrentino/repos", 
+        "login": "opendatatrentino", 
+        "id": 4073401, 
+        "hooks_url": "https://api.github.com/orgs/opendatatrentino/hooks"
+    }
+]

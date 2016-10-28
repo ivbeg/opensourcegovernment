@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ny/issues", 
+        "members_url": "https://api.github.com/orgs/ny/members{/member}", 
+        "description": "The official GitHub account of New York State Office of IT Services. ", 
+        "public_members_url": "https://api.github.com/orgs/ny/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ny", 
+        "events_url": "https://api.github.com/orgs/ny/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3894610?v=3", 
+        "repos_url": "https://api.github.com/orgs/ny/repos", 
+        "login": "ny", 
+        "id": 3894610, 
+        "hooks_url": "https://api.github.com/orgs/ny/hooks"
+    }
+]

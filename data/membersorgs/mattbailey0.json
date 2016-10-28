@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefordc/issues", 
+        "members_url": "https://api.github.com/orgs/codefordc/members{/member}", 
+        "description": "Code for DC is an all volunteer organization that creates tools, information, and experiences that serve the District. ", 
+        "public_members_url": "https://api.github.com/orgs/codefordc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordc", 
+        "events_url": "https://api.github.com/orgs/codefordc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2768897?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordc/repos", 
+        "login": "codefordc", 
+        "id": 2768897, 
+        "hooks_url": "https://api.github.com/orgs/codefordc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ombegov/issues", 
+        "members_url": "https://api.github.com/orgs/ombegov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ombegov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ombegov", 
+        "events_url": "https://api.github.com/orgs/ombegov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10869085?v=3", 
+        "repos_url": "https://api.github.com/orgs/ombegov/repos", 
+        "login": "ombegov", 
+        "id": 10869085, 
+        "hooks_url": "https://api.github.com/orgs/ombegov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DCgov/issues", 
+        "members_url": "https://api.github.com/orgs/DCgov/members{/member}", 
+        "description": "This is a pilot project of OCTO.  If your team or agency wants to learn more please email opensource@dc.gov.", 
+        "public_members_url": "https://api.github.com/orgs/DCgov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCgov", 
+        "events_url": "https://api.github.com/orgs/DCgov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13023164?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCgov/repos", 
+        "login": "DCgov", 
+        "id": 13023164, 
+        "hooks_url": "https://api.github.com/orgs/DCgov/hooks"
+    }
+]

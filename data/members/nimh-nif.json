@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/nif-admin/following{/other_user}", 
+        "events_url": "https://api.github.com/users/nif-admin/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/nif-admin/orgs", 
+        "url": "https://api.github.com/users/nif-admin", 
+        "gists_url": "https://api.github.com/users/nif-admin/gists{/gist_id}", 
+        "html_url": "https://github.com/nif-admin", 
+        "subscriptions_url": "https://api.github.com/users/nif-admin/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7395133?v=3", 
+        "repos_url": "https://api.github.com/users/nif-admin/repos", 
+        "received_events_url": "https://api.github.com/users/nif-admin/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/nif-admin/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "nif-admin", 
+        "type": "User", 
+        "id": 7395133, 
+        "followers_url": "https://api.github.com/users/nif-admin/followers"
+    }
+]

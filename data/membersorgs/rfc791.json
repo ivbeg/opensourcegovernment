@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open-data/issues", 
+        "members_url": "https://api.github.com/orgs/open-data/members{/member}", 
+        "description": "open.canada.ca provides one-stop access to Government of Canada data and information", 
+        "public_members_url": "https://api.github.com/orgs/open-data/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-data", 
+        "events_url": "https://api.github.com/orgs/open-data/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2651841?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-data/repos", 
+        "login": "open-data", 
+        "id": 2651841, 
+        "hooks_url": "https://api.github.com/orgs/open-data/hooks"
+    }
+]

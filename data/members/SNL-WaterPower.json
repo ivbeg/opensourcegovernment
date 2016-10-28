@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/cmichelen/following{/other_user}", 
+        "events_url": "https://api.github.com/users/cmichelen/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/cmichelen/orgs", 
+        "url": "https://api.github.com/users/cmichelen", 
+        "gists_url": "https://api.github.com/users/cmichelen/gists{/gist_id}", 
+        "html_url": "https://github.com/cmichelen", 
+        "subscriptions_url": "https://api.github.com/users/cmichelen/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5296181?v=3", 
+        "repos_url": "https://api.github.com/users/cmichelen/repos", 
+        "received_events_url": "https://api.github.com/users/cmichelen/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/cmichelen/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "cmichelen", 
+        "type": "User", 
+        "id": 5296181, 
+        "followers_url": "https://api.github.com/users/cmichelen/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ryancoe/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ryancoe/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ryancoe/orgs", 
+        "url": "https://api.github.com/users/ryancoe", 
+        "gists_url": "https://api.github.com/users/ryancoe/gists{/gist_id}", 
+        "html_url": "https://github.com/ryancoe", 
+        "subscriptions_url": "https://api.github.com/users/ryancoe/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5589887?v=3", 
+        "repos_url": "https://api.github.com/users/ryancoe/repos", 
+        "received_events_url": "https://api.github.com/users/ryancoe/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ryancoe/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ryancoe", 
+        "type": "User", 
+        "id": 5589887, 
+        "followers_url": "https://api.github.com/users/ryancoe/followers"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GuildfordBC/issues", 
+        "members_url": "https://api.github.com/orgs/GuildfordBC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GuildfordBC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GuildfordBC", 
+        "events_url": "https://api.github.com/orgs/GuildfordBC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4376738?v=3", 
+        "repos_url": "https://api.github.com/orgs/GuildfordBC/repos", 
+        "login": "GuildfordBC", 
+        "id": 4376738, 
+        "hooks_url": "https://api.github.com/orgs/GuildfordBC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openregister/issues", 
+        "members_url": "https://api.github.com/orgs/openregister/members{/member}", 
+        "description": "Store data with high integrity, clear ownership and a uniform API", 
+        "public_members_url": "https://api.github.com/orgs/openregister/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openregister", 
+        "events_url": "https://api.github.com/orgs/openregister/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10206003?v=3", 
+        "repos_url": "https://api.github.com/orgs/openregister/repos", 
+        "login": "openregister", 
+        "id": 10206003, 
+        "hooks_url": "https://api.github.com/orgs/openregister/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/communitiesuk/issues", 
+        "members_url": "https://api.github.com/orgs/communitiesuk/members{/member}", 
+        "description": "Department for Communities and Local Government ", 
+        "public_members_url": "https://api.github.com/orgs/communitiesuk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/communitiesuk", 
+        "events_url": "https://api.github.com/orgs/communitiesuk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12797589?v=3", 
+        "repos_url": "https://api.github.com/orgs/communitiesuk/repos", 
+        "login": "communitiesuk", 
+        "id": 12797589, 
+        "hooks_url": "https://api.github.com/orgs/communitiesuk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/surreydigitalservices/issues", 
+        "members_url": "https://api.github.com/orgs/surreydigitalservices/members{/member}", 
+        "description": "Surrey's local government GIS teams working together", 
+        "public_members_url": "https://api.github.com/orgs/surreydigitalservices/public_members{/member}", 
+        "url": "https://api.github.com/orgs/surreydigitalservices", 
+        "events_url": "https://api.github.com/orgs/surreydigitalservices/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16337733?v=3", 
+        "repos_url": "https://api.github.com/orgs/surreydigitalservices/repos", 
+        "login": "surreydigitalservices", 
+        "id": 16337733, 
+        "hooks_url": "https://api.github.com/orgs/surreydigitalservices/hooks"
+    }
+]

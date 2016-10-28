@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/oimt/issues", 
+        "members_url": "https://api.github.com/orgs/oimt/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/oimt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/oimt", 
+        "events_url": "https://api.github.com/orgs/oimt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3503743?v=3", 
+        "repos_url": "https://api.github.com/orgs/oimt/repos", 
+        "login": "oimt", 
+        "id": 3503743, 
+        "hooks_url": "https://api.github.com/orgs/oimt/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code-for-Miami/issues", 
+        "members_url": "https://api.github.com/orgs/Code-for-Miami/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Code-for-Miami/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code-for-Miami", 
+        "events_url": "https://api.github.com/orgs/Code-for-Miami/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4633127?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code-for-Miami/repos", 
+        "login": "Code-for-Miami", 
+        "id": 4633127, 
+        "hooks_url": "https://api.github.com/orgs/Code-for-Miami/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SouthFloridaRails/issues", 
+        "members_url": "https://api.github.com/orgs/SouthFloridaRails/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SouthFloridaRails/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SouthFloridaRails", 
+        "events_url": "https://api.github.com/orgs/SouthFloridaRails/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5798688?v=3", 
+        "repos_url": "https://api.github.com/orgs/SouthFloridaRails/repos", 
+        "login": "SouthFloridaRails", 
+        "id": 5798688, 
+        "hooks_url": "https://api.github.com/orgs/SouthFloridaRails/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/global-urban-datafest/issues", 
+        "members_url": "https://api.github.com/orgs/global-urban-datafest/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/global-urban-datafest/public_members{/member}", 
+        "url": "https://api.github.com/orgs/global-urban-datafest", 
+        "events_url": "https://api.github.com/orgs/global-urban-datafest/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10916097?v=3", 
+        "repos_url": "https://api.github.com/orgs/global-urban-datafest/repos", 
+        "login": "global-urban-datafest", 
+        "id": 10916097, 
+        "hooks_url": "https://api.github.com/orgs/global-urban-datafest/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/deep-blue-dev/issues", 
+        "members_url": "https://api.github.com/orgs/deep-blue-dev/members{/member}", 
+        "description": "Web Apps | Websites | SEO | Internet Marketing", 
+        "public_members_url": "https://api.github.com/orgs/deep-blue-dev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/deep-blue-dev", 
+        "events_url": "https://api.github.com/orgs/deep-blue-dev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15663431?v=3", 
+        "repos_url": "https://api.github.com/orgs/deep-blue-dev/repos", 
+        "login": "deep-blue-dev", 
+        "id": 15663431, 
+        "hooks_url": "https://api.github.com/orgs/deep-blue-dev/hooks"
+    }
+]

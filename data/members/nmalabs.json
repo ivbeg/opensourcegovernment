@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/parisba/following{/other_user}", 
+        "events_url": "https://api.github.com/users/parisba/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/parisba/orgs", 
+        "url": "https://api.github.com/users/parisba", 
+        "gists_url": "https://api.github.com/users/parisba/gists{/gist_id}", 
+        "html_url": "https://github.com/parisba", 
+        "subscriptions_url": "https://api.github.com/users/parisba/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/460365?v=3", 
+        "repos_url": "https://api.github.com/users/parisba/repos", 
+        "received_events_url": "https://api.github.com/users/parisba/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/parisba/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "parisba", 
+        "type": "User", 
+        "id": 460365, 
+        "followers_url": "https://api.github.com/users/parisba/followers"
+    }
+]

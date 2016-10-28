@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mozilla/issues", 
+        "members_url": "https://api.github.com/orgs/mozilla/members{/member}", 
+        "description": "This technology could fall into the right hands.", 
+        "public_members_url": "https://api.github.com/orgs/mozilla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mozilla", 
+        "events_url": "https://api.github.com/orgs/mozilla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/131524?v=3", 
+        "repos_url": "https://api.github.com/orgs/mozilla/repos", 
+        "login": "mozilla", 
+        "id": 131524, 
+        "hooks_url": "https://api.github.com/orgs/mozilla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPhilly/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPhilly/members{/member}", 
+        "description": "Philly's civic hacking brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPhilly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPhilly", 
+        "events_url": "https://api.github.com/orgs/CodeForPhilly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1451716?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPhilly/repos", 
+        "login": "CodeForPhilly", 
+        "id": 1451716, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPhilly/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MarketplaceUX/issues", 
+        "members_url": "https://api.github.com/orgs/MarketplaceUX/members{/member}", 
+        "description": "Public design projects created by the Mozilla Marketplace UX team", 
+        "public_members_url": "https://api.github.com/orgs/MarketplaceUX/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MarketplaceUX", 
+        "events_url": "https://api.github.com/orgs/MarketplaceUX/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9356176?v=3", 
+        "repos_url": "https://api.github.com/orgs/MarketplaceUX/repos", 
+        "login": "MarketplaceUX", 
+        "id": 9356176, 
+        "hooks_url": "https://api.github.com/orgs/MarketplaceUX/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/fxos-product-design/issues", 
+        "members_url": "https://api.github.com/orgs/fxos-product-design/members{/member}", 
+        "description": "An experiment in open design from the Firefox OS Product + Design teams", 
+        "public_members_url": "https://api.github.com/orgs/fxos-product-design/public_members{/member}", 
+        "url": "https://api.github.com/orgs/fxos-product-design", 
+        "events_url": "https://api.github.com/orgs/fxos-product-design/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15147345?v=3", 
+        "repos_url": "https://api.github.com/orgs/fxos-product-design/repos", 
+        "login": "fxos-product-design", 
+        "id": 15147345, 
+        "hooks_url": "https://api.github.com/orgs/fxos-product-design/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sniyozov/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sniyozov/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sniyozov/orgs", 
+        "url": "https://api.github.com/users/sniyozov", 
+        "gists_url": "https://api.github.com/users/sniyozov/gists{/gist_id}", 
+        "html_url": "https://github.com/sniyozov", 
+        "subscriptions_url": "https://api.github.com/users/sniyozov/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2156012?v=3", 
+        "repos_url": "https://api.github.com/users/sniyozov/repos", 
+        "received_events_url": "https://api.github.com/users/sniyozov/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sniyozov/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sniyozov", 
+        "type": "User", 
+        "id": 2156012, 
+        "followers_url": "https://api.github.com/users/sniyozov/followers"
+    }
+]

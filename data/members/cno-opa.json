@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Vspencer88/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Vspencer88/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Vspencer88/orgs", 
+        "url": "https://api.github.com/users/Vspencer88", 
+        "gists_url": "https://api.github.com/users/Vspencer88/gists{/gist_id}", 
+        "html_url": "https://github.com/Vspencer88", 
+        "subscriptions_url": "https://api.github.com/users/Vspencer88/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7330848?v=3", 
+        "repos_url": "https://api.github.com/users/Vspencer88/repos", 
+        "received_events_url": "https://api.github.com/users/Vspencer88/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Vspencer88/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Vspencer88", 
+        "type": "User", 
+        "id": 7330848, 
+        "followers_url": "https://api.github.com/users/Vspencer88/followers"
+    }
+]

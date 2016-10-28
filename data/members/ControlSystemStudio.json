@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/berryma4/following{/other_user}", 
+        "events_url": "https://api.github.com/users/berryma4/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/berryma4/orgs", 
+        "url": "https://api.github.com/users/berryma4", 
+        "gists_url": "https://api.github.com/users/berryma4/gists{/gist_id}", 
+        "html_url": "https://github.com/berryma4", 
+        "subscriptions_url": "https://api.github.com/users/berryma4/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/854021?v=3", 
+        "repos_url": "https://api.github.com/users/berryma4/repos", 
+        "received_events_url": "https://api.github.com/users/berryma4/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/berryma4/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "berryma4", 
+        "type": "User", 
+        "id": 854021, 
+        "followers_url": "https://api.github.com/users/berryma4/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/shroffk/following{/other_user}", 
+        "events_url": "https://api.github.com/users/shroffk/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/shroffk/orgs", 
+        "url": "https://api.github.com/users/shroffk", 
+        "gists_url": "https://api.github.com/users/shroffk/gists{/gist_id}", 
+        "html_url": "https://github.com/shroffk", 
+        "subscriptions_url": "https://api.github.com/users/shroffk/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2111304?v=3", 
+        "repos_url": "https://api.github.com/users/shroffk/repos", 
+        "received_events_url": "https://api.github.com/users/shroffk/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/shroffk/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "shroffk", 
+        "type": "User", 
+        "id": 2111304, 
+        "followers_url": "https://api.github.com/users/shroffk/followers"
+    }
+]

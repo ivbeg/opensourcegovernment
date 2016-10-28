@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforseoul/issues", 
+        "members_url": "https://api.github.com/orgs/codeforseoul/members{/member}", 
+        "description": "\ucf54\ub4dc\ub098\ubb34(http://codenamu.org) \ucee4\ubba4\ub2c8\ud2f0\uc758 \ud504\ub85c\uc81d\ud2b8 \uadf8\ub8f9\uc785\ub2c8\ub2e4. \ucf54\ub4dc\ub85c \ubcf4\ub2e4 \ub098\uc740 \uc11c\uc6b8\uc744 \ub9cc\ub4e4\uae30 \uc704\ud574 \ub178\ub825\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4.", 
+        "public_members_url": "https://api.github.com/orgs/codeforseoul/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforseoul", 
+        "events_url": "https://api.github.com/orgs/codeforseoul/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7872447?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforseoul/repos", 
+        "login": "codeforseoul", 
+        "id": 7872447, 
+        "hooks_url": "https://api.github.com/orgs/codeforseoul/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mgottholsen/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mgottholsen/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mgottholsen/orgs", 
+        "url": "https://api.github.com/users/mgottholsen", 
+        "gists_url": "https://api.github.com/users/mgottholsen/gists{/gist_id}", 
+        "html_url": "https://github.com/mgottholsen", 
+        "subscriptions_url": "https://api.github.com/users/mgottholsen/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11966842?v=3", 
+        "repos_url": "https://api.github.com/users/mgottholsen/repos", 
+        "received_events_url": "https://api.github.com/users/mgottholsen/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mgottholsen/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mgottholsen", 
+        "type": "User", 
+        "id": 11966842, 
+        "followers_url": "https://api.github.com/users/mgottholsen/followers"
+    }
+]

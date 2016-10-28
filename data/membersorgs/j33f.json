@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTransport/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTransport/members{/member}", 
+        "description": "The Open Transport Working Group's github organization", 
+        "public_members_url": "https://api.github.com/orgs/OpenTransport/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTransport", 
+        "events_url": "https://api.github.com/orgs/OpenTransport/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3233948?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTransport/repos", 
+        "login": "OpenTransport", 
+        "id": 3233948, 
+        "hooks_url": "https://api.github.com/orgs/OpenTransport/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LastMinuteMtp/issues", 
+        "members_url": "https://api.github.com/orgs/LastMinuteMtp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LastMinuteMtp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LastMinuteMtp", 
+        "events_url": "https://api.github.com/orgs/LastMinuteMtp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5509511?v=3", 
+        "repos_url": "https://api.github.com/orgs/LastMinuteMtp/repos", 
+        "login": "LastMinuteMtp", 
+        "id": 5509511, 
+        "hooks_url": "https://api.github.com/orgs/LastMinuteMtp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kuzzleio/issues", 
+        "members_url": "https://api.github.com/orgs/kuzzleio/members{/member}", 
+        "description": "Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT", 
+        "public_members_url": "https://api.github.com/orgs/kuzzleio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kuzzleio", 
+        "events_url": "https://api.github.com/orgs/kuzzleio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12933347?v=3", 
+        "repos_url": "https://api.github.com/orgs/kuzzleio/repos", 
+        "login": "kuzzleio", 
+        "id": 12933347, 
+        "hooks_url": "https://api.github.com/orgs/kuzzleio/hooks"
+    }
+]

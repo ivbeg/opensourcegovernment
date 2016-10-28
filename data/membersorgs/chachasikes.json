@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Open-Food/issues", 
+        "members_url": "https://api.github.com/orgs/Open-Food/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Open-Food/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Open-Food", 
+        "events_url": "https://api.github.com/orgs/Open-Food/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1189560?v=3", 
+        "repos_url": "https://api.github.com/orgs/Open-Food/repos", 
+        "login": "Open-Food", 
+        "id": 1189560, 
+        "hooks_url": "https://api.github.com/orgs/Open-Food/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codamatic/issues", 
+        "members_url": "https://api.github.com/orgs/codamatic/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codamatic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codamatic", 
+        "events_url": "https://api.github.com/orgs/codamatic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1581300?v=3", 
+        "repos_url": "https://api.github.com/orgs/codamatic/repos", 
+        "login": "codamatic", 
+        "id": 1581300, 
+        "hooks_url": "https://api.github.com/orgs/codamatic/hooks"
+    }
+]

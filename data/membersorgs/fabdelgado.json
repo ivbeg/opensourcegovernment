@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/uygub/issues", 
+        "members_url": "https://api.github.com/orgs/uygub/members{/member}", 
+        "description": "Agencia de gobierno electr\u00f3nico y sociedad de la informaci\u00f3n", 
+        "public_members_url": "https://api.github.com/orgs/uygub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/uygub", 
+        "events_url": "https://api.github.com/orgs/uygub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10673664?v=3", 
+        "repos_url": "https://api.github.com/orgs/uygub/repos", 
+        "login": "uygub", 
+        "id": 10673664, 
+        "hooks_url": "https://api.github.com/orgs/uygub/hooks"
+    }
+]

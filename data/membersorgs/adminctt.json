@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ctt-gob-es/issues", 
+        "members_url": "https://api.github.com/orgs/ctt-gob-es/members{/member}", 
+        "description": "CTT es el instrumento para favorecer la reutilizaci\u00f3n de soluciones por las Administraciones P\u00fablicas espa\u00f1olas. ", 
+        "public_members_url": "https://api.github.com/orgs/ctt-gob-es/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ctt-gob-es", 
+        "events_url": "https://api.github.com/orgs/ctt-gob-es/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5801430?v=3", 
+        "repos_url": "https://api.github.com/orgs/ctt-gob-es/repos", 
+        "login": "ctt-gob-es", 
+        "id": 5801430, 
+        "hooks_url": "https://api.github.com/orgs/ctt-gob-es/hooks"
+    }
+]

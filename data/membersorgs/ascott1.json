@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cfpb/issues", 
+        "members_url": "https://api.github.com/orgs/cfpb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cfpb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cfpb", 
+        "events_url": "https://api.github.com/orgs/cfpb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1071563?v=3", 
+        "repos_url": "https://api.github.com/orgs/cfpb/repos", 
+        "login": "cfpb", 
+        "id": 1071563, 
+        "hooks_url": "https://api.github.com/orgs/cfpb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/trolljs/issues", 
+        "members_url": "https://api.github.com/orgs/trolljs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/trolljs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/trolljs", 
+        "events_url": "https://api.github.com/orgs/trolljs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10777876?v=3", 
+        "repos_url": "https://api.github.com/orgs/trolljs/repos", 
+        "login": "trolljs", 
+        "id": 10777876, 
+        "hooks_url": "https://api.github.com/orgs/trolljs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LearnFrontEnd/issues", 
+        "members_url": "https://api.github.com/orgs/LearnFrontEnd/members{/member}", 
+        "description": "Learn Front End is a series of videos, books, resources, tutorials focused on teaching modern front-end development skills.", 
+        "public_members_url": "https://api.github.com/orgs/LearnFrontEnd/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LearnFrontEnd", 
+        "events_url": "https://api.github.com/orgs/LearnFrontEnd/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12642588?v=3", 
+        "repos_url": "https://api.github.com/orgs/LearnFrontEnd/repos", 
+        "login": "LearnFrontEnd", 
+        "id": 12642588, 
+        "hooks_url": "https://api.github.com/orgs/LearnFrontEnd/hooks"
+    }
+]

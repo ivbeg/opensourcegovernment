@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ekohalsti/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ekohalsti/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ekohalsti/orgs", 
+        "url": "https://api.github.com/users/ekohalsti", 
+        "gists_url": "https://api.github.com/users/ekohalsti/gists{/gist_id}", 
+        "html_url": "https://github.com/ekohalsti", 
+        "subscriptions_url": "https://api.github.com/users/ekohalsti/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3471814?v=3", 
+        "repos_url": "https://api.github.com/users/ekohalsti/repos", 
+        "received_events_url": "https://api.github.com/users/ekohalsti/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ekohalsti/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ekohalsti", 
+        "type": "User", 
+        "id": 3471814, 
+        "followers_url": "https://api.github.com/users/ekohalsti/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/Zokol/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Zokol/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Zokol/orgs", 
+        "url": "https://api.github.com/users/Zokol", 
+        "gists_url": "https://api.github.com/users/Zokol/gists{/gist_id}", 
+        "html_url": "https://github.com/Zokol", 
+        "subscriptions_url": "https://api.github.com/users/Zokol/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1899518?v=3", 
+        "repos_url": "https://api.github.com/users/Zokol/repos", 
+        "received_events_url": "https://api.github.com/users/Zokol/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Zokol/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Zokol", 
+        "type": "User", 
+        "id": 1899518, 
+        "followers_url": "https://api.github.com/users/Zokol/followers"
+    }
+]

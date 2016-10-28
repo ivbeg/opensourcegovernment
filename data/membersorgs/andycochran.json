@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/zurb/issues", 
+        "members_url": "https://api.github.com/orgs/zurb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/zurb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/zurb", 
+        "events_url": "https://api.github.com/orgs/zurb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/156122?v=3", 
+        "repos_url": "https://api.github.com/orgs/zurb/repos", 
+        "login": "zurb", 
+        "id": 156122, 
+        "hooks_url": "https://api.github.com/orgs/zurb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NewYorkCityCouncil/issues", 
+        "members_url": "https://api.github.com/orgs/NewYorkCityCouncil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NewYorkCityCouncil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NewYorkCityCouncil", 
+        "events_url": "https://api.github.com/orgs/NewYorkCityCouncil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13647379?v=3", 
+        "repos_url": "https://api.github.com/orgs/NewYorkCityCouncil/repos", 
+        "login": "NewYorkCityCouncil", 
+        "id": 13647379, 
+        "hooks_url": "https://api.github.com/orgs/NewYorkCityCouncil/hooks"
+    }
+]

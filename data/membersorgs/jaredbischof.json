@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/MG-RAST/issues", 
+        "members_url": "https://api.github.com/orgs/MG-RAST/members{/member}", 
+        "description": "The MG-RAST metagenome portal", 
+        "public_members_url": "https://api.github.com/orgs/MG-RAST/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MG-RAST", 
+        "events_url": "https://api.github.com/orgs/MG-RAST/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/987133?v=3", 
+        "repos_url": "https://api.github.com/orgs/MG-RAST/repos", 
+        "login": "MG-RAST", 
+        "id": 987133, 
+        "hooks_url": "https://api.github.com/orgs/MG-RAST/hooks"
+    }
+]

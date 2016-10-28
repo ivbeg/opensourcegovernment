@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/FUSED-Wind/issues", 
+        "members_url": "https://api.github.com/orgs/FUSED-Wind/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/FUSED-Wind/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FUSED-Wind", 
+        "events_url": "https://api.github.com/orgs/FUSED-Wind/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3810308?v=3", 
+        "repos_url": "https://api.github.com/orgs/FUSED-Wind/repos", 
+        "login": "FUSED-Wind", 
+        "id": 3810308, 
+        "hooks_url": "https://api.github.com/orgs/FUSED-Wind/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WISDEM/issues", 
+        "members_url": "https://api.github.com/orgs/WISDEM/members{/member}", 
+        "description": "The Wind-Plant Integrated System Design and Engineering Model set", 
+        "public_members_url": "https://api.github.com/orgs/WISDEM/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WISDEM", 
+        "events_url": "https://api.github.com/orgs/WISDEM/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5444272?v=3", 
+        "repos_url": "https://api.github.com/orgs/WISDEM/repos", 
+        "login": "WISDEM", 
+        "id": 5444272, 
+        "hooks_url": "https://api.github.com/orgs/WISDEM/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/frictionlessdata/issues", 
+        "members_url": "https://api.github.com/orgs/frictionlessdata/members{/member}", 
+        "description": "We're creating lightweight standards and tooling to make it effortless to get and share data.", 
+        "public_members_url": "https://api.github.com/orgs/frictionlessdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/frictionlessdata", 
+        "events_url": "https://api.github.com/orgs/frictionlessdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5912125?v=3", 
+        "repos_url": "https://api.github.com/orgs/frictionlessdata/repos", 
+        "login": "frictionlessdata", 
+        "id": 5912125, 
+        "hooks_url": "https://api.github.com/orgs/frictionlessdata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/inventive-ninja/issues", 
+        "members_url": "https://api.github.com/orgs/inventive-ninja/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/inventive-ninja/public_members{/member}", 
+        "url": "https://api.github.com/orgs/inventive-ninja", 
+        "events_url": "https://api.github.com/orgs/inventive-ninja/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10913433?v=3", 
+        "repos_url": "https://api.github.com/orgs/inventive-ninja/repos", 
+        "login": "inventive-ninja", 
+        "id": 10913433, 
+        "hooks_url": "https://api.github.com/orgs/inventive-ninja/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opentrials/issues", 
+        "members_url": "https://api.github.com/orgs/opentrials/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opentrials/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentrials", 
+        "events_url": "https://api.github.com/orgs/opentrials/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13900836?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentrials/repos", 
+        "login": "opentrials", 
+        "id": 13900836, 
+        "hooks_url": "https://api.github.com/orgs/opentrials/hooks"
+    }
+]

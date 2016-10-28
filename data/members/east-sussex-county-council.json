@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/caterwomtious/following{/other_user}", 
+        "events_url": "https://api.github.com/users/caterwomtious/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/caterwomtious/orgs", 
+        "url": "https://api.github.com/users/caterwomtious", 
+        "gists_url": "https://api.github.com/users/caterwomtious/gists{/gist_id}", 
+        "html_url": "https://github.com/caterwomtious", 
+        "subscriptions_url": "https://api.github.com/users/caterwomtious/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1260550?v=3", 
+        "repos_url": "https://api.github.com/users/caterwomtious/repos", 
+        "received_events_url": "https://api.github.com/users/caterwomtious/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/caterwomtious/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "caterwomtious", 
+        "type": "User", 
+        "id": 1260550, 
+        "followers_url": "https://api.github.com/users/caterwomtious/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code4sac/issues", 
+        "members_url": "https://api.github.com/orgs/code4sac/members{/member}", 
+        "description": "We're civic-minded volunteers who contribute our skills toward using the web as a platform for local government and community service.", 
+        "public_members_url": "https://api.github.com/orgs/code4sac/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code4sac", 
+        "events_url": "https://api.github.com/orgs/code4sac/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3915088?v=3", 
+        "repos_url": "https://api.github.com/orgs/code4sac/repos", 
+        "login": "code4sac", 
+        "id": 3915088, 
+        "hooks_url": "https://api.github.com/orgs/code4sac/hooks"
+    }
+]

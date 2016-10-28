@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenGuides/issues", 
+        "members_url": "https://api.github.com/orgs/OpenGuides/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenGuides/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenGuides", 
+        "events_url": "https://api.github.com/orgs/OpenGuides/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2227710?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenGuides/repos", 
+        "login": "OpenGuides", 
+        "id": 2227710, 
+        "hooks_url": "https://api.github.com/orgs/OpenGuides/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gds-operations/issues", 
+        "members_url": "https://api.github.com/orgs/gds-operations/members{/member}", 
+        "description": "Open source software from UK Government Digital Service", 
+        "public_members_url": "https://api.github.com/orgs/gds-operations/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gds-operations", 
+        "events_url": "https://api.github.com/orgs/gds-operations/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4703760?v=3", 
+        "repos_url": "https://api.github.com/orgs/gds-operations/repos", 
+        "login": "gds-operations", 
+        "id": 4703760, 
+        "hooks_url": "https://api.github.com/orgs/gds-operations/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gds-attic/issues", 
+        "members_url": "https://api.github.com/orgs/gds-attic/members{/member}", 
+        "description": "GDS projects no longer under active development", 
+        "public_members_url": "https://api.github.com/orgs/gds-attic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gds-attic", 
+        "events_url": "https://api.github.com/orgs/gds-attic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5222827?v=3", 
+        "repos_url": "https://api.github.com/orgs/gds-attic/repos", 
+        "login": "gds-attic", 
+        "id": 5222827, 
+        "hooks_url": "https://api.github.com/orgs/gds-attic/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/voxpupuli/issues", 
+        "members_url": "https://api.github.com/orgs/voxpupuli/members{/member}", 
+        "description": "Modules and tooling maintained by and for the Puppet community", 
+        "public_members_url": "https://api.github.com/orgs/voxpupuli/public_members{/member}", 
+        "url": "https://api.github.com/orgs/voxpupuli", 
+        "events_url": "https://api.github.com/orgs/voxpupuli/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8693967?v=3", 
+        "repos_url": "https://api.github.com/orgs/voxpupuli/repos", 
+        "login": "voxpupuli", 
+        "id": 8693967, 
+        "hooks_url": "https://api.github.com/orgs/voxpupuli/hooks"
+    }
+]

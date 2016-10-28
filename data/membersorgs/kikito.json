@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/madridrb/issues", 
+        "members_url": "https://api.github.com/orgs/madridrb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/madridrb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/madridrb", 
+        "events_url": "https://api.github.com/orgs/madridrb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/826079?v=3", 
+        "repos_url": "https://api.github.com/orgs/madridrb/repos", 
+        "login": "madridrb", 
+        "id": 826079, 
+        "hooks_url": "https://api.github.com/orgs/madridrb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AyuntamientoMadrid/issues", 
+        "members_url": "https://api.github.com/orgs/AyuntamientoMadrid/members{/member}", 
+        "description": "Open developments of the Madrid city government", 
+        "public_members_url": "https://api.github.com/orgs/AyuntamientoMadrid/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AyuntamientoMadrid", 
+        "events_url": "https://api.github.com/orgs/AyuntamientoMadrid/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13286342?v=3", 
+        "repos_url": "https://api.github.com/orgs/AyuntamientoMadrid/repos", 
+        "login": "AyuntamientoMadrid", 
+        "id": 13286342, 
+        "hooks_url": "https://api.github.com/orgs/AyuntamientoMadrid/hooks"
+    }
+]

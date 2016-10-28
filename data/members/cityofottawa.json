@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/deniszgonjanin/following{/other_user}", 
+        "events_url": "https://api.github.com/users/deniszgonjanin/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/deniszgonjanin/orgs", 
+        "url": "https://api.github.com/users/deniszgonjanin", 
+        "gists_url": "https://api.github.com/users/deniszgonjanin/gists{/gist_id}", 
+        "html_url": "https://github.com/deniszgonjanin", 
+        "subscriptions_url": "https://api.github.com/users/deniszgonjanin/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/209316?v=3", 
+        "repos_url": "https://api.github.com/users/deniszgonjanin/repos", 
+        "received_events_url": "https://api.github.com/users/deniszgonjanin/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/deniszgonjanin/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "deniszgonjanin", 
+        "type": "User", 
+        "id": 209316, 
+        "followers_url": "https://api.github.com/users/deniszgonjanin/followers"
+    }
+]

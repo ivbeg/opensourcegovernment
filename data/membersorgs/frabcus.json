@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dataprotocols/issues", 
+        "members_url": "https://api.github.com/orgs/dataprotocols/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataprotocols/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprotocols", 
+        "events_url": "https://api.github.com/orgs/dataprotocols/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2647475?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprotocols/repos", 
+        "login": "dataprotocols", 
+        "id": 2647475, 
+        "hooks_url": "https://api.github.com/orgs/dataprotocols/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/newsreader/issues", 
+        "members_url": "https://api.github.com/orgs/newsreader/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/newsreader/public_members{/member}", 
+        "url": "https://api.github.com/orgs/newsreader", 
+        "events_url": "https://api.github.com/orgs/newsreader/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2812861?v=3", 
+        "repos_url": "https://api.github.com/orgs/newsreader/repos", 
+        "login": "newsreader", 
+        "id": 2812861, 
+        "hooks_url": "https://api.github.com/orgs/newsreader/hooks"
+    }
+]

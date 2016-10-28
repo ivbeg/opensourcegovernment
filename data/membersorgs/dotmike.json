@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/blencorp/issues", 
+        "members_url": "https://api.github.com/orgs/blencorp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/blencorp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/blencorp", 
+        "events_url": "https://api.github.com/orgs/blencorp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/240379?v=3", 
+        "repos_url": "https://api.github.com/orgs/blencorp/repos", 
+        "login": "blencorp", 
+        "id": 240379, 
+        "hooks_url": "https://api.github.com/orgs/blencorp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USPTO/issues", 
+        "members_url": "https://api.github.com/orgs/USPTO/members{/member}", 
+        "description": "Department of Commerce", 
+        "public_members_url": "https://api.github.com/orgs/USPTO/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USPTO", 
+        "events_url": "https://api.github.com/orgs/USPTO/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9042992?v=3", 
+        "repos_url": "https://api.github.com/orgs/USPTO/repos", 
+        "login": "USPTO", 
+        "id": 9042992, 
+        "hooks_url": "https://api.github.com/orgs/USPTO/hooks"
+    }
+]

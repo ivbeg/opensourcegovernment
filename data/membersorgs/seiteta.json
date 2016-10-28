@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/datasets/issues", 
+        "members_url": "https://api.github.com/orgs/datasets/members{/member}", 
+        "description": "Important, commonly-used datasets in high quality, easy-to-use & open form as data packages", 
+        "public_members_url": "https://api.github.com/orgs/datasets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datasets", 
+        "events_url": "https://api.github.com/orgs/datasets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1643515?v=3", 
+        "repos_url": "https://api.github.com/orgs/datasets/repos", 
+        "login": "datasets", 
+        "id": 1643515, 
+        "hooks_url": "https://api.github.com/orgs/datasets/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataforgoodfr/issues", 
+        "members_url": "https://api.github.com/orgs/dataforgoodfr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataforgoodfr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataforgoodfr", 
+        "events_url": "https://api.github.com/orgs/dataforgoodfr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11797105?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataforgoodfr/repos", 
+        "login": "dataforgoodfr", 
+        "id": 11797105, 
+        "hooks_url": "https://api.github.com/orgs/dataforgoodfr/hooks"
+    }
+]

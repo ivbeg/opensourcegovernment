@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/DragonVirus/following{/other_user}", 
+        "events_url": "https://api.github.com/users/DragonVirus/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/DragonVirus/orgs", 
+        "url": "https://api.github.com/users/DragonVirus", 
+        "gists_url": "https://api.github.com/users/DragonVirus/gists{/gist_id}", 
+        "html_url": "https://github.com/DragonVirus", 
+        "subscriptions_url": "https://api.github.com/users/DragonVirus/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1311765?v=3", 
+        "repos_url": "https://api.github.com/users/DragonVirus/repos", 
+        "received_events_url": "https://api.github.com/users/DragonVirus/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/DragonVirus/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "DragonVirus", 
+        "type": "User", 
+        "id": 1311765, 
+        "followers_url": "https://api.github.com/users/DragonVirus/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mapmeld/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mapmeld/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mapmeld/orgs", 
+        "url": "https://api.github.com/users/mapmeld", 
+        "gists_url": "https://api.github.com/users/mapmeld/gists{/gist_id}", 
+        "html_url": "https://github.com/mapmeld", 
+        "subscriptions_url": "https://api.github.com/users/mapmeld/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/643918?v=3", 
+        "repos_url": "https://api.github.com/users/mapmeld/repos", 
+        "received_events_url": "https://api.github.com/users/mapmeld/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mapmeld/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mapmeld", 
+        "type": "User", 
+        "id": 643918, 
+        "followers_url": "https://api.github.com/users/mapmeld/followers"
+    }
+]

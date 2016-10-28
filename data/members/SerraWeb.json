@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sostenes/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sostenes/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sostenes/orgs", 
+        "url": "https://api.github.com/users/sostenes", 
+        "gists_url": "https://api.github.com/users/sostenes/gists{/gist_id}", 
+        "html_url": "https://github.com/sostenes", 
+        "subscriptions_url": "https://api.github.com/users/sostenes/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/611098?v=3", 
+        "repos_url": "https://api.github.com/users/sostenes/repos", 
+        "received_events_url": "https://api.github.com/users/sostenes/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sostenes/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sostenes", 
+        "type": "User", 
+        "id": 611098, 
+        "followers_url": "https://api.github.com/users/sostenes/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/williamsrb/following{/other_user}", 
+        "events_url": "https://api.github.com/users/williamsrb/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/williamsrb/orgs", 
+        "url": "https://api.github.com/users/williamsrb", 
+        "gists_url": "https://api.github.com/users/williamsrb/gists{/gist_id}", 
+        "html_url": "https://github.com/williamsrb", 
+        "subscriptions_url": "https://api.github.com/users/williamsrb/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/608031?v=3", 
+        "repos_url": "https://api.github.com/users/williamsrb/repos", 
+        "received_events_url": "https://api.github.com/users/williamsrb/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/williamsrb/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "williamsrb", 
+        "type": "User", 
+        "id": 608031, 
+        "followers_url": "https://api.github.com/users/williamsrb/followers"
+    }
+]

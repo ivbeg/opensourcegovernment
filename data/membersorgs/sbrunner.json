@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/camptocamp/issues", 
+        "members_url": "https://api.github.com/orgs/camptocamp/members{/member}", 
+        "description": "Innovative Solutions by Open Source Experts", 
+        "public_members_url": "https://api.github.com/orgs/camptocamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/camptocamp", 
+        "events_url": "https://api.github.com/orgs/camptocamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/28109?v=3", 
+        "repos_url": "https://api.github.com/orgs/camptocamp/repos", 
+        "login": "camptocamp", 
+        "id": 28109, 
+        "hooks_url": "https://api.github.com/orgs/camptocamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openlayers/issues", 
+        "members_url": "https://api.github.com/orgs/openlayers/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openlayers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlayers", 
+        "events_url": "https://api.github.com/orgs/openlayers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/240579?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlayers/repos", 
+        "login": "openlayers", 
+        "id": 240579, 
+        "hooks_url": "https://api.github.com/orgs/openlayers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geoext/issues", 
+        "members_url": "https://api.github.com/orgs/geoext/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/geoext/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geoext", 
+        "events_url": "https://api.github.com/orgs/geoext/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/507290?v=3", 
+        "repos_url": "https://api.github.com/orgs/geoext/repos", 
+        "login": "geoext", 
+        "id": 507290, 
+        "hooks_url": "https://api.github.com/orgs/geoext/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapfish/issues", 
+        "members_url": "https://api.github.com/orgs/mapfish/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mapfish/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapfish", 
+        "events_url": "https://api.github.com/orgs/mapfish/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1151594?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapfish/repos", 
+        "login": "mapfish", 
+        "id": 1151594, 
+        "hooks_url": "https://api.github.com/orgs/mapfish/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LiveMix/issues", 
+        "members_url": "https://api.github.com/orgs/LiveMix/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LiveMix/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LiveMix", 
+        "events_url": "https://api.github.com/orgs/LiveMix/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1273826?v=3", 
+        "repos_url": "https://api.github.com/orgs/LiveMix/repos", 
+        "login": "LiveMix", 
+        "id": 1273826, 
+        "hooks_url": "https://api.github.com/orgs/LiveMix/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Geoportail-Luxembourg/issues", 
+        "members_url": "https://api.github.com/orgs/Geoportail-Luxembourg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Geoportail-Luxembourg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Geoportail-Luxembourg", 
+        "events_url": "https://api.github.com/orgs/Geoportail-Luxembourg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5592884?v=3", 
+        "repos_url": "https://api.github.com/orgs/Geoportail-Luxembourg/repos", 
+        "login": "Geoportail-Luxembourg", 
+        "id": 5592884, 
+        "hooks_url": "https://api.github.com/orgs/Geoportail-Luxembourg/hooks"
+    }
+]

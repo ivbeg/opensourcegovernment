@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/issues", 
+        "members_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AustralianAntarcticDataCentre", 
+        "events_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9261462?v=3", 
+        "repos_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/repos", 
+        "login": "AustralianAntarcticDataCentre", 
+        "id": 9261462, 
+        "hooks_url": "https://api.github.com/orgs/AustralianAntarcticDataCentre/hooks"
+    }
+]

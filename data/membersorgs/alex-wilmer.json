@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NCIP/issues", 
+        "members_url": "https://api.github.com/orgs/NCIP/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NCIP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NCIP", 
+        "events_url": "https://api.github.com/orgs/NCIP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2387173?v=3", 
+        "repos_url": "https://api.github.com/orgs/NCIP/repos", 
+        "login": "NCIP", 
+        "id": 2387173, 
+        "hooks_url": "https://api.github.com/orgs/NCIP/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lighthouse-labs/issues", 
+        "members_url": "https://api.github.com/orgs/lighthouse-labs/members{/member}", 
+        "description": "Canada's Developer Bootcamp.", 
+        "public_members_url": "https://api.github.com/orgs/lighthouse-labs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lighthouse-labs", 
+        "events_url": "https://api.github.com/orgs/lighthouse-labs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5753105?v=3", 
+        "repos_url": "https://api.github.com/orgs/lighthouse-labs/repos", 
+        "login": "lighthouse-labs", 
+        "id": 5753105, 
+        "hooks_url": "https://api.github.com/orgs/lighthouse-labs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NCI-GDC/issues", 
+        "members_url": "https://api.github.com/orgs/NCI-GDC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NCI-GDC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NCI-GDC", 
+        "events_url": "https://api.github.com/orgs/NCI-GDC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7882952?v=3", 
+        "repos_url": "https://api.github.com/orgs/NCI-GDC/repos", 
+        "login": "NCI-GDC", 
+        "id": 7882952, 
+        "hooks_url": "https://api.github.com/orgs/NCI-GDC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/zen-games/issues", 
+        "members_url": "https://api.github.com/orgs/zen-games/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/zen-games/public_members{/member}", 
+        "url": "https://api.github.com/orgs/zen-games", 
+        "events_url": "https://api.github.com/orgs/zen-games/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16378966?v=3", 
+        "repos_url": "https://api.github.com/orgs/zen-games/repos", 
+        "login": "zen-games", 
+        "id": 16378966, 
+        "hooks_url": "https://api.github.com/orgs/zen-games/hooks"
+    }
+]

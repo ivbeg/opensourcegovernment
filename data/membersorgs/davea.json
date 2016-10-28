@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackmanchester/issues", 
+        "members_url": "https://api.github.com/orgs/hackmanchester/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hackmanchester/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackmanchester", 
+        "events_url": "https://api.github.com/orgs/hackmanchester/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1519306?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackmanchester/repos", 
+        "login": "hackmanchester", 
+        "id": 1519306, 
+        "hooks_url": "https://api.github.com/orgs/hackmanchester/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openwater/issues", 
+        "members_url": "https://api.github.com/orgs/openwater/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openwater/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openwater", 
+        "events_url": "https://api.github.com/orgs/openwater/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5359702?v=3", 
+        "repos_url": "https://api.github.com/orgs/openwater/repos", 
+        "login": "openwater", 
+        "id": 5359702, 
+        "hooks_url": "https://api.github.com/orgs/openwater/hooks"
+    }
+]

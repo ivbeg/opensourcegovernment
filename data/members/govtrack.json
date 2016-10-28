@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/GPHemsley/following{/other_user}", 
+        "events_url": "https://api.github.com/users/GPHemsley/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/GPHemsley/orgs", 
+        "url": "https://api.github.com/users/GPHemsley", 
+        "gists_url": "https://api.github.com/users/GPHemsley/gists{/gist_id}", 
+        "html_url": "https://github.com/GPHemsley", 
+        "subscriptions_url": "https://api.github.com/users/GPHemsley/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/376064?v=3", 
+        "repos_url": "https://api.github.com/users/GPHemsley/repos", 
+        "received_events_url": "https://api.github.com/users/GPHemsley/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/GPHemsley/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "GPHemsley", 
+        "type": "User", 
+        "id": 376064, 
+        "followers_url": "https://api.github.com/users/GPHemsley/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/JoshData/following{/other_user}", 
+        "events_url": "https://api.github.com/users/JoshData/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/JoshData/orgs", 
+        "url": "https://api.github.com/users/JoshData", 
+        "gists_url": "https://api.github.com/users/JoshData/gists{/gist_id}", 
+        "html_url": "https://github.com/JoshData", 
+        "subscriptions_url": "https://api.github.com/users/JoshData/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/445875?v=3", 
+        "repos_url": "https://api.github.com/users/JoshData/repos", 
+        "received_events_url": "https://api.github.com/users/JoshData/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/JoshData/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "JoshData", 
+        "type": "User", 
+        "id": 445875, 
+        "followers_url": "https://api.github.com/users/JoshData/followers"
+    }
+]

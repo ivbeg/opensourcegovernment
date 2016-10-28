@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PlanningCorps/issues", 
+        "members_url": "https://api.github.com/orgs/PlanningCorps/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PlanningCorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PlanningCorps", 
+        "events_url": "https://api.github.com/orgs/PlanningCorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3683340?v=3", 
+        "repos_url": "https://api.github.com/orgs/PlanningCorps/repos", 
+        "login": "PlanningCorps", 
+        "id": 3683340, 
+        "hooks_url": "https://api.github.com/orgs/PlanningCorps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/motivateco/issues", 
+        "members_url": "https://api.github.com/orgs/motivateco/members{/member}", 
+        "description": "Helping make our cities more liveable by building and operating bike share programs that people love & use every day. ", 
+        "public_members_url": "https://api.github.com/orgs/motivateco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/motivateco", 
+        "events_url": "https://api.github.com/orgs/motivateco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12173600?v=3", 
+        "repos_url": "https://api.github.com/orgs/motivateco/repos", 
+        "login": "motivateco", 
+        "id": 12173600, 
+        "hooks_url": "https://api.github.com/orgs/motivateco/hooks"
+    }
+]

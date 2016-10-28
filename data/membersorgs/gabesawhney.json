@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CivicTechTO/issues", 
+        "members_url": "https://api.github.com/orgs/CivicTechTO/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CivicTechTO/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CivicTechTO", 
+        "events_url": "https://api.github.com/orgs/CivicTechTO/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13970794?v=3", 
+        "repos_url": "https://api.github.com/orgs/CivicTechTO/repos", 
+        "login": "CivicTechTO", 
+        "id": 13970794, 
+        "hooks_url": "https://api.github.com/orgs/CivicTechTO/hooks"
+    }
+]

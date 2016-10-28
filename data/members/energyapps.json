@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/DanielJWood/following{/other_user}", 
+        "events_url": "https://api.github.com/users/DanielJWood/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/DanielJWood/orgs", 
+        "url": "https://api.github.com/users/DanielJWood", 
+        "gists_url": "https://api.github.com/users/DanielJWood/gists{/gist_id}", 
+        "html_url": "https://github.com/DanielJWood", 
+        "subscriptions_url": "https://api.github.com/users/DanielJWood/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1298194?v=3", 
+        "repos_url": "https://api.github.com/users/DanielJWood/repos", 
+        "received_events_url": "https://api.github.com/users/DanielJWood/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/DanielJWood/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "DanielJWood", 
+        "type": "User", 
+        "id": 1298194, 
+        "followers_url": "https://api.github.com/users/DanielJWood/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/oakley808/following{/other_user}", 
+        "events_url": "https://api.github.com/users/oakley808/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/oakley808/orgs", 
+        "url": "https://api.github.com/users/oakley808", 
+        "gists_url": "https://api.github.com/users/oakley808/gists{/gist_id}", 
+        "html_url": "https://github.com/oakley808", 
+        "subscriptions_url": "https://api.github.com/users/oakley808/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2180632?v=3", 
+        "repos_url": "https://api.github.com/users/oakley808/repos", 
+        "received_events_url": "https://api.github.com/users/oakley808/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/oakley808/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "oakley808", 
+        "type": "User", 
+        "id": 2180632, 
+        "followers_url": "https://api.github.com/users/oakley808/followers"
+    }
+]

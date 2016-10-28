@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dharhas/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dharhas/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dharhas/orgs", 
+        "url": "https://api.github.com/users/dharhas", 
+        "gists_url": "https://api.github.com/users/dharhas/gists{/gist_id}", 
+        "html_url": "https://github.com/dharhas", 
+        "subscriptions_url": "https://api.github.com/users/dharhas/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/561301?v=3", 
+        "repos_url": "https://api.github.com/users/dharhas/repos", 
+        "received_events_url": "https://api.github.com/users/dharhas/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dharhas/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dharhas", 
+        "type": "User", 
+        "id": 561301, 
+        "followers_url": "https://api.github.com/users/dharhas/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/wilsaj/following{/other_user}", 
+        "events_url": "https://api.github.com/users/wilsaj/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/wilsaj/orgs", 
+        "url": "https://api.github.com/users/wilsaj", 
+        "gists_url": "https://api.github.com/users/wilsaj/gists{/gist_id}", 
+        "html_url": "https://github.com/wilsaj", 
+        "subscriptions_url": "https://api.github.com/users/wilsaj/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/303866?v=3", 
+        "repos_url": "https://api.github.com/users/wilsaj/repos", 
+        "received_events_url": "https://api.github.com/users/wilsaj/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/wilsaj/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "wilsaj", 
+        "type": "User", 
+        "id": 303866, 
+        "followers_url": "https://api.github.com/users/wilsaj/followers"
+    }
+]

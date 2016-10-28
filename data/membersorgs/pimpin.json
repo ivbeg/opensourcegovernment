@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/apido/issues", 
+        "members_url": "https://api.github.com/orgs/apido/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/apido/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apido", 
+        "events_url": "https://api.github.com/orgs/apido/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1888631?v=3", 
+        "repos_url": "https://api.github.com/orgs/apido/repos", 
+        "login": "apido", 
+        "id": 1888631, 
+        "hooks_url": "https://api.github.com/orgs/apido/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ApieFrance/issues", 
+        "members_url": "https://api.github.com/orgs/ApieFrance/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ApieFrance/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ApieFrance", 
+        "events_url": "https://api.github.com/orgs/ApieFrance/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9610889?v=3", 
+        "repos_url": "https://api.github.com/orgs/ApieFrance/repos", 
+        "login": "ApieFrance", 
+        "id": 9610889, 
+        "hooks_url": "https://api.github.com/orgs/ApieFrance/hooks"
+    }
+]

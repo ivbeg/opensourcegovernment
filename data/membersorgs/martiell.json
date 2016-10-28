@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ContemplateLtd/issues", 
+        "members_url": "https://api.github.com/orgs/ContemplateLtd/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ContemplateLtd/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ContemplateLtd", 
+        "events_url": "https://api.github.com/orgs/ContemplateLtd/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1861949?v=3", 
+        "repos_url": "https://api.github.com/orgs/ContemplateLtd/repos", 
+        "login": "ContemplateLtd", 
+        "id": 1861949, 
+        "hooks_url": "https://api.github.com/orgs/ContemplateLtd/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scottishgovernment/issues", 
+        "members_url": "https://api.github.com/orgs/scottishgovernment/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/scottishgovernment/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scottishgovernment", 
+        "events_url": "https://api.github.com/orgs/scottishgovernment/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8806984?v=3", 
+        "repos_url": "https://api.github.com/orgs/scottishgovernment/repos", 
+        "login": "scottishgovernment", 
+        "id": 8806984, 
+        "hooks_url": "https://api.github.com/orgs/scottishgovernment/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/edjug/issues", 
+        "members_url": "https://api.github.com/orgs/edjug/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/edjug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/edjug", 
+        "events_url": "https://api.github.com/orgs/edjug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19937933?v=3", 
+        "repos_url": "https://api.github.com/orgs/edjug/repos", 
+        "login": "edjug", 
+        "id": 19937933, 
+        "hooks_url": "https://api.github.com/orgs/edjug/hooks"
+    }
+]

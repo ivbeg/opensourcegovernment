@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/lodum/issues", 
+        "members_url": "https://api.github.com/orgs/lodum/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lodum/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lodum", 
+        "events_url": "https://api.github.com/orgs/lodum/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3219843?v=3", 
+        "repos_url": "https://api.github.com/orgs/lodum/repos", 
+        "login": "lodum", 
+        "id": 3219843, 
+        "hooks_url": "https://api.github.com/orgs/lodum/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeformuenster/issues", 
+        "members_url": "https://api.github.com/orgs/codeformuenster/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeformuenster/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeformuenster", 
+        "events_url": "https://api.github.com/orgs/codeformuenster/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6464842?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeformuenster/repos", 
+        "login": "codeformuenster", 
+        "id": 6464842, 
+        "hooks_url": "https://api.github.com/orgs/codeformuenster/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sensebox/issues", 
+        "members_url": "https://api.github.com/orgs/sensebox/members{/member}", 
+        "description": "The senseBox is a Citizen Science DIY Toolbox for schools and citizens.", 
+        "public_members_url": "https://api.github.com/orgs/sensebox/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sensebox", 
+        "events_url": "https://api.github.com/orgs/sensebox/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7080570?v=3", 
+        "repos_url": "https://api.github.com/orgs/sensebox/repos", 
+        "login": "sensebox", 
+        "id": 7080570, 
+        "hooks_url": "https://api.github.com/orgs/sensebox/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ifgi-webteam/issues", 
+        "members_url": "https://api.github.com/orgs/ifgi-webteam/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ifgi-webteam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ifgi-webteam", 
+        "events_url": "https://api.github.com/orgs/ifgi-webteam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11676972?v=3", 
+        "repos_url": "https://api.github.com/orgs/ifgi-webteam/repos", 
+        "login": "ifgi-webteam", 
+        "id": 11676972, 
+        "hooks_url": "https://api.github.com/orgs/ifgi-webteam/hooks"
+    }
+]

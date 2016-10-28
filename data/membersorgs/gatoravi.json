@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/genome/issues", 
+        "members_url": "https://api.github.com/orgs/genome/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/genome/public_members{/member}", 
+        "url": "https://api.github.com/orgs/genome", 
+        "events_url": "https://api.github.com/orgs/genome/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/318108?v=3", 
+        "repos_url": "https://api.github.com/orgs/genome/repos", 
+        "login": "genome", 
+        "id": 318108, 
+        "hooks_url": "https://api.github.com/orgs/genome/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/denovogear/issues", 
+        "members_url": "https://api.github.com/orgs/denovogear/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/denovogear/public_members{/member}", 
+        "url": "https://api.github.com/orgs/denovogear", 
+        "events_url": "https://api.github.com/orgs/denovogear/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5043450?v=3", 
+        "repos_url": "https://api.github.com/orgs/denovogear/repos", 
+        "login": "denovogear", 
+        "id": 5043450, 
+        "hooks_url": "https://api.github.com/orgs/denovogear/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenDataSTL/issues", 
+        "members_url": "https://api.github.com/orgs/OpenDataSTL/members{/member}", 
+        "description": "This group is for champions, advocates, innovators, and practitioners of open data and open government in the Saint Louis region.", 
+        "public_members_url": "https://api.github.com/orgs/OpenDataSTL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenDataSTL", 
+        "events_url": "https://api.github.com/orgs/OpenDataSTL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5983880?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenDataSTL/repos", 
+        "login": "OpenDataSTL", 
+        "id": 5983880, 
+        "hooks_url": "https://api.github.com/orgs/OpenDataSTL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/griffithlab/issues", 
+        "members_url": "https://api.github.com/orgs/griffithlab/members{/member}", 
+        "description": "Academic Lab of Obi and Malachi Griffith", 
+        "public_members_url": "https://api.github.com/orgs/griffithlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/griffithlab", 
+        "events_url": "https://api.github.com/orgs/griffithlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8323084?v=3", 
+        "repos_url": "https://api.github.com/orgs/griffithlab/repos", 
+        "login": "griffithlab", 
+        "id": 8323084, 
+        "hooks_url": "https://api.github.com/orgs/griffithlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mgi-coders/issues", 
+        "members_url": "https://api.github.com/orgs/mgi-coders/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mgi-coders/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mgi-coders", 
+        "events_url": "https://api.github.com/orgs/mgi-coders/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18202455?v=3", 
+        "repos_url": "https://api.github.com/orgs/mgi-coders/repos", 
+        "login": "mgi-coders", 
+        "id": 18202455, 
+        "hooks_url": "https://api.github.com/orgs/mgi-coders/hooks"
+    }
+]

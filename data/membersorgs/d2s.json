@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okffi/issues", 
+        "members_url": "https://api.github.com/orgs/okffi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okffi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okffi", 
+        "events_url": "https://api.github.com/orgs/okffi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1327578?v=3", 
+        "repos_url": "https://api.github.com/orgs/okffi/repos", 
+        "login": "okffi", 
+        "id": 1327578, 
+        "hooks_url": "https://api.github.com/orgs/okffi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/avoindata/issues", 
+        "members_url": "https://api.github.com/orgs/avoindata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/avoindata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/avoindata", 
+        "events_url": "https://api.github.com/orgs/avoindata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1564759?v=3", 
+        "repos_url": "https://api.github.com/orgs/avoindata/repos", 
+        "login": "avoindata", 
+        "id": 1564759, 
+        "hooks_url": "https://api.github.com/orgs/avoindata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/teaops/issues", 
+        "members_url": "https://api.github.com/orgs/teaops/members{/member}", 
+        "description": "Future will be epic.", 
+        "public_members_url": "https://api.github.com/orgs/teaops/public_members{/member}", 
+        "url": "https://api.github.com/orgs/teaops", 
+        "events_url": "https://api.github.com/orgs/teaops/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15909662?v=3", 
+        "repos_url": "https://api.github.com/orgs/teaops/repos", 
+        "login": "teaops", 
+        "id": 15909662, 
+        "hooks_url": "https://api.github.com/orgs/teaops/hooks"
+    }
+]

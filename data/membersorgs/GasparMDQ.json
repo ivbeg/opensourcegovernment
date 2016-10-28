@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/niwa/issues", 
+        "members_url": "https://api.github.com/orgs/niwa/members{/member}", 
+        "description": "National Institute of Water and Atmospheric Research", 
+        "public_members_url": "https://api.github.com/orgs/niwa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/niwa", 
+        "events_url": "https://api.github.com/orgs/niwa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12281472?v=3", 
+        "repos_url": "https://api.github.com/orgs/niwa/repos", 
+        "login": "niwa", 
+        "id": 12281472, 
+        "hooks_url": "https://api.github.com/orgs/niwa/hooks"
+    }
+]

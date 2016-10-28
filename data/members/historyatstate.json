@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/joewiz/following{/other_user}", 
+        "events_url": "https://api.github.com/users/joewiz/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/joewiz/orgs", 
+        "url": "https://api.github.com/users/joewiz", 
+        "gists_url": "https://api.github.com/users/joewiz/gists{/gist_id}", 
+        "html_url": "https://github.com/joewiz", 
+        "subscriptions_url": "https://api.github.com/users/joewiz/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/59118?v=3", 
+        "repos_url": "https://api.github.com/users/joewiz/repos", 
+        "received_events_url": "https://api.github.com/users/joewiz/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/joewiz/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "joewiz", 
+        "type": "User", 
+        "id": 59118, 
+        "followers_url": "https://api.github.com/users/joewiz/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/WaxCylinderRevival/following{/other_user}", 
+        "events_url": "https://api.github.com/users/WaxCylinderRevival/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/WaxCylinderRevival/orgs", 
+        "url": "https://api.github.com/users/WaxCylinderRevival", 
+        "gists_url": "https://api.github.com/users/WaxCylinderRevival/gists{/gist_id}", 
+        "html_url": "https://github.com/WaxCylinderRevival", 
+        "subscriptions_url": "https://api.github.com/users/WaxCylinderRevival/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8484286?v=3", 
+        "repos_url": "https://api.github.com/users/WaxCylinderRevival/repos", 
+        "received_events_url": "https://api.github.com/users/WaxCylinderRevival/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/WaxCylinderRevival/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "WaxCylinderRevival", 
+        "type": "User", 
+        "id": 8484286, 
+        "followers_url": "https://api.github.com/users/WaxCylinderRevival/followers"
+    }
+]

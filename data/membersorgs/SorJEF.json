@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/devicehive/issues", 
+        "members_url": "https://api.github.com/orgs/devicehive/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/devicehive/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devicehive", 
+        "events_url": "https://api.github.com/orgs/devicehive/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2528286?v=3", 
+        "repos_url": "https://api.github.com/orgs/devicehive/repos", 
+        "login": "devicehive", 
+        "id": 2528286, 
+        "hooks_url": "https://api.github.com/orgs/devicehive/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-government-ua/issues", 
+        "members_url": "https://api.github.com/orgs/e-government-ua/members{/member}", 
+        "description": "Non Commercial social-governmental startup for fighting with corruption in Ukraine", 
+        "public_members_url": "https://api.github.com/orgs/e-government-ua/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-government-ua", 
+        "events_url": "https://api.github.com/orgs/e-government-ua/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11369419?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-government-ua/repos", 
+        "login": "e-government-ua", 
+        "id": 11369419, 
+        "hooks_url": "https://api.github.com/orgs/e-government-ua/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/JohnLZeller/following{/other_user}", 
+        "events_url": "https://api.github.com/users/JohnLZeller/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/JohnLZeller/orgs", 
+        "url": "https://api.github.com/users/JohnLZeller", 
+        "gists_url": "https://api.github.com/users/JohnLZeller/gists{/gist_id}", 
+        "html_url": "https://github.com/JohnLZeller", 
+        "subscriptions_url": "https://api.github.com/users/JohnLZeller/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1171118?v=3", 
+        "repos_url": "https://api.github.com/users/JohnLZeller/repos", 
+        "received_events_url": "https://api.github.com/users/JohnLZeller/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/JohnLZeller/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "JohnLZeller", 
+        "type": "User", 
+        "id": 1171118, 
+        "followers_url": "https://api.github.com/users/JohnLZeller/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/josephspens/following{/other_user}", 
+        "events_url": "https://api.github.com/users/josephspens/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/josephspens/orgs", 
+        "url": "https://api.github.com/users/josephspens", 
+        "gists_url": "https://api.github.com/users/josephspens/gists{/gist_id}", 
+        "html_url": "https://github.com/josephspens", 
+        "subscriptions_url": "https://api.github.com/users/josephspens/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/933676?v=3", 
+        "repos_url": "https://api.github.com/users/josephspens/repos", 
+        "received_events_url": "https://api.github.com/users/josephspens/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/josephspens/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "josephspens", 
+        "type": "User", 
+        "id": 933676, 
+        "followers_url": "https://api.github.com/users/josephspens/followers"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/juliecrump/following{/other_user}", 
+        "events_url": "https://api.github.com/users/juliecrump/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/juliecrump/orgs", 
+        "url": "https://api.github.com/users/juliecrump", 
+        "gists_url": "https://api.github.com/users/juliecrump/gists{/gist_id}", 
+        "html_url": "https://github.com/juliecrump", 
+        "subscriptions_url": "https://api.github.com/users/juliecrump/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8582773?v=3", 
+        "repos_url": "https://api.github.com/users/juliecrump/repos", 
+        "received_events_url": "https://api.github.com/users/juliecrump/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/juliecrump/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "juliecrump", 
+        "type": "User", 
+        "id": 8582773, 
+        "followers_url": "https://api.github.com/users/juliecrump/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mattbailey0/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mattbailey0/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mattbailey0/orgs", 
+        "url": "https://api.github.com/users/mattbailey0", 
+        "gists_url": "https://api.github.com/users/mattbailey0/gists{/gist_id}", 
+        "html_url": "https://github.com/mattbailey0", 
+        "subscriptions_url": "https://api.github.com/users/mattbailey0/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1056324?v=3", 
+        "repos_url": "https://api.github.com/users/mattbailey0/repos", 
+        "received_events_url": "https://api.github.com/users/mattbailey0/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mattbailey0/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mattbailey0", 
+        "type": "User", 
+        "id": 1056324, 
+        "followers_url": "https://api.github.com/users/mattbailey0/followers"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Hyperthesis/issues", 
+        "members_url": "https://api.github.com/orgs/Hyperthesis/members{/member}", 
+        "description": "Exponentially faster and more productive scholarly research.", 
+        "public_members_url": "https://api.github.com/orgs/Hyperthesis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Hyperthesis", 
+        "events_url": "https://api.github.com/orgs/Hyperthesis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17039883?v=3", 
+        "repos_url": "https://api.github.com/orgs/Hyperthesis/repos", 
+        "login": "Hyperthesis", 
+        "id": 17039883, 
+        "hooks_url": "https://api.github.com/orgs/Hyperthesis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bayeshack2016/issues", 
+        "members_url": "https://api.github.com/orgs/bayeshack2016/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/bayeshack2016/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bayeshack2016", 
+        "events_url": "https://api.github.com/orgs/bayeshack2016/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17835477?v=3", 
+        "repos_url": "https://api.github.com/orgs/bayeshack2016/repos", 
+        "login": "bayeshack2016", 
+        "id": 17835477, 
+        "hooks_url": "https://api.github.com/orgs/bayeshack2016/hooks"
+    }
+]

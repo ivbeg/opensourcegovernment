@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4HR/issues", 
+        "members_url": "https://api.github.com/orgs/Code4HR/members{/member}", 
+        "description": "We meet: http://meetup.code4hr.org, Working Tasks: http://tasks.code4hr.org, Slack: http://chat.code4hr.org", 
+        "public_members_url": "https://api.github.com/orgs/Code4HR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4HR", 
+        "events_url": "https://api.github.com/orgs/Code4HR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1490563?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4HR/repos", 
+        "login": "Code4HR", 
+        "id": 1490563, 
+        "hooks_url": "https://api.github.com/orgs/Code4HR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Winsitter/issues", 
+        "members_url": "https://api.github.com/orgs/Winsitter/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Winsitter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Winsitter", 
+        "events_url": "https://api.github.com/orgs/Winsitter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2100635?v=3", 
+        "repos_url": "https://api.github.com/orgs/Winsitter/repos", 
+        "login": "Winsitter", 
+        "id": 2100635, 
+        "hooks_url": "https://api.github.com/orgs/Winsitter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/norfolkjs/issues", 
+        "members_url": "https://api.github.com/orgs/norfolkjs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/norfolkjs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/norfolkjs", 
+        "events_url": "https://api.github.com/orgs/norfolkjs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5777723?v=3", 
+        "repos_url": "https://api.github.com/orgs/norfolkjs/repos", 
+        "login": "norfolkjs", 
+        "id": 5777723, 
+        "hooks_url": "https://api.github.com/orgs/norfolkjs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/issues", 
+        "members_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/members{/member}", 
+        "description": "It is easiest to be ahead of the curve when you are defining the future. We know what is next, because we are building it", 
+        "public_members_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EmergingTechnologyAdvisors", 
+        "events_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8947774?v=3", 
+        "repos_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/repos", 
+        "login": "EmergingTechnologyAdvisors", 
+        "id": 8947774, 
+        "hooks_url": "https://api.github.com/orgs/EmergingTechnologyAdvisors/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/757io/issues", 
+        "members_url": "https://api.github.com/orgs/757io/members{/member}", 
+        "description": "Hampton Roads Tech Community", 
+        "public_members_url": "https://api.github.com/orgs/757io/public_members{/member}", 
+        "url": "https://api.github.com/orgs/757io", 
+        "events_url": "https://api.github.com/orgs/757io/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11466309?v=3", 
+        "repos_url": "https://api.github.com/orgs/757io/repos", 
+        "login": "757io", 
+        "id": 11466309, 
+        "hooks_url": "https://api.github.com/orgs/757io/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DockerHR/issues", 
+        "members_url": "https://api.github.com/orgs/DockerHR/members{/member}", 
+        "description": "Docker Meetup in Norfolk/Virginia Beach", 
+        "public_members_url": "https://api.github.com/orgs/DockerHR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DockerHR", 
+        "events_url": "https://api.github.com/orgs/DockerHR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18104281?v=3", 
+        "repos_url": "https://api.github.com/orgs/DockerHR/repos", 
+        "login": "DockerHR", 
+        "id": 18104281, 
+        "hooks_url": "https://api.github.com/orgs/DockerHR/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/docker-captains/issues", 
+        "members_url": "https://api.github.com/orgs/docker-captains/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/docker-captains/public_members{/member}", 
+        "url": "https://api.github.com/orgs/docker-captains", 
+        "events_url": "https://api.github.com/orgs/docker-captains/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18412632?v=3", 
+        "repos_url": "https://api.github.com/orgs/docker-captains/repos", 
+        "login": "docker-captains", 
+        "id": 18412632, 
+        "hooks_url": "https://api.github.com/orgs/docker-captains/hooks"
+    }
+]

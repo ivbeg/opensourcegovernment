@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/naegelejd/following{/other_user}", 
+        "events_url": "https://api.github.com/users/naegelejd/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/naegelejd/orgs", 
+        "url": "https://api.github.com/users/naegelejd", 
+        "gists_url": "https://api.github.com/users/naegelejd/gists{/gist_id}", 
+        "html_url": "https://github.com/naegelejd", 
+        "subscriptions_url": "https://api.github.com/users/naegelejd/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1110252?v=3", 
+        "repos_url": "https://api.github.com/users/naegelejd/repos", 
+        "received_events_url": "https://api.github.com/users/naegelejd/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/naegelejd/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "naegelejd", 
+        "type": "User", 
+        "id": 1110252, 
+        "followers_url": "https://api.github.com/users/naegelejd/followers"
+    }
+]

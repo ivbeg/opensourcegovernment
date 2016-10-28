@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rosedu/issues", 
+        "members_url": "https://api.github.com/orgs/rosedu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rosedu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rosedu", 
+        "events_url": "https://api.github.com/orgs/rosedu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1232963?v=3", 
+        "repos_url": "https://api.github.com/orgs/rosedu/repos", 
+        "login": "rosedu", 
+        "id": 1232963, 
+        "hooks_url": "https://api.github.com/orgs/rosedu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/infoeducatie/issues", 
+        "members_url": "https://api.github.com/orgs/infoeducatie/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/infoeducatie/public_members{/member}", 
+        "url": "https://api.github.com/orgs/infoeducatie", 
+        "events_url": "https://api.github.com/orgs/infoeducatie/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4788548?v=3", 
+        "repos_url": "https://api.github.com/orgs/infoeducatie/repos", 
+        "login": "infoeducatie", 
+        "id": 4788548, 
+        "hooks_url": "https://api.github.com/orgs/infoeducatie/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/govro/issues", 
+        "members_url": "https://api.github.com/orgs/govro/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/govro/public_members{/member}", 
+        "url": "https://api.github.com/orgs/govro", 
+        "events_url": "https://api.github.com/orgs/govro/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12530309?v=3", 
+        "repos_url": "https://api.github.com/orgs/govro/repos", 
+        "login": "govro", 
+        "id": 12530309, 
+        "hooks_url": "https://api.github.com/orgs/govro/hooks"
+    }
+]

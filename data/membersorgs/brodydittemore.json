@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USAJOBS/issues", 
+        "members_url": "https://api.github.com/orgs/USAJOBS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/USAJOBS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USAJOBS", 
+        "events_url": "https://api.github.com/orgs/USAJOBS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13648333?v=3", 
+        "repos_url": "https://api.github.com/orgs/USAJOBS/repos", 
+        "login": "USAJOBS", 
+        "id": 13648333, 
+        "hooks_url": "https://api.github.com/orgs/USAJOBS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BuildAffect-org/issues", 
+        "members_url": "https://api.github.com/orgs/BuildAffect-org/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BuildAffect-org/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BuildAffect-org", 
+        "events_url": "https://api.github.com/orgs/BuildAffect-org/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14844911?v=3", 
+        "repos_url": "https://api.github.com/orgs/BuildAffect-org/repos", 
+        "login": "BuildAffect-org", 
+        "id": 14844911, 
+        "hooks_url": "https://api.github.com/orgs/BuildAffect-org/hooks"
+    }
+]

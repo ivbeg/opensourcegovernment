@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NBCUOTS/issues", 
+        "members_url": "https://api.github.com/orgs/NBCUOTS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NBCUOTS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NBCUOTS", 
+        "events_url": "https://api.github.com/orgs/NBCUOTS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1585001?v=3", 
+        "repos_url": "https://api.github.com/orgs/NBCUOTS/repos", 
+        "login": "NBCUOTS", 
+        "id": 1585001, 
+        "hooks_url": "https://api.github.com/orgs/NBCUOTS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PhpFriendsOfDdd/issues", 
+        "members_url": "https://api.github.com/orgs/PhpFriendsOfDdd/members{/member}", 
+        "description": "Php Domain Driven Design Community", 
+        "public_members_url": "https://api.github.com/orgs/PhpFriendsOfDdd/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PhpFriendsOfDdd", 
+        "events_url": "https://api.github.com/orgs/PhpFriendsOfDdd/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6490378?v=3", 
+        "repos_url": "https://api.github.com/orgs/PhpFriendsOfDdd/repos", 
+        "login": "PhpFriendsOfDdd", 
+        "id": 6490378, 
+        "hooks_url": "https://api.github.com/orgs/PhpFriendsOfDdd/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/capitaltechnologyservices/issues", 
+        "members_url": "https://api.github.com/orgs/capitaltechnologyservices/members{/member}", 
+        "description": "Software Development and Consulting", 
+        "public_members_url": "https://api.github.com/orgs/capitaltechnologyservices/public_members{/member}", 
+        "url": "https://api.github.com/orgs/capitaltechnologyservices", 
+        "events_url": "https://api.github.com/orgs/capitaltechnologyservices/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8429561?v=3", 
+        "repos_url": "https://api.github.com/orgs/capitaltechnologyservices/repos", 
+        "login": "capitaltechnologyservices", 
+        "id": 8429561, 
+        "hooks_url": "https://api.github.com/orgs/capitaltechnologyservices/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code-for-nashville/issues", 
+        "members_url": "https://api.github.com/orgs/code-for-nashville/members{/member}", 
+        "description": "Building Better Communities Through Technology", 
+        "public_members_url": "https://api.github.com/orgs/code-for-nashville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code-for-nashville", 
+        "events_url": "https://api.github.com/orgs/code-for-nashville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8493450?v=3", 
+        "repos_url": "https://api.github.com/orgs/code-for-nashville/repos", 
+        "login": "code-for-nashville", 
+        "id": 8493450, 
+        "hooks_url": "https://api.github.com/orgs/code-for-nashville/hooks"
+    }
+]

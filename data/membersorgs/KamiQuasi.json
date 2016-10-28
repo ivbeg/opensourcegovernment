@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordurham/issues", 
+        "members_url": "https://api.github.com/orgs/codefordurham/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codefordurham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordurham", 
+        "events_url": "https://api.github.com/orgs/codefordurham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5732447?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordurham/repos", 
+        "login": "codefordurham", 
+        "id": 5732447, 
+        "hooks_url": "https://api.github.com/orgs/codefordurham/hooks"
+    }
+]

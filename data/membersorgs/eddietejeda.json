@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/freeculture/issues", 
+        "members_url": "https://api.github.com/orgs/freeculture/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/freeculture/public_members{/member}", 
+        "url": "https://api.github.com/orgs/freeculture", 
+        "events_url": "https://api.github.com/orgs/freeculture/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1716153?v=3", 
+        "repos_url": "https://api.github.com/orgs/freeculture/repos", 
+        "login": "freeculture", 
+        "id": 1716153, 
+        "hooks_url": "https://api.github.com/orgs/freeculture/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforoakland/issues", 
+        "members_url": "https://api.github.com/orgs/codeforoakland/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codeforoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforoakland", 
+        "events_url": "https://api.github.com/orgs/codeforoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1802995?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforoakland/repos", 
+        "login": "codeforoakland", 
+        "id": 1802995, 
+        "hooks_url": "https://api.github.com/orgs/codeforoakland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openoakland/issues", 
+        "members_url": "https://api.github.com/orgs/openoakland/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openoakland", 
+        "events_url": "https://api.github.com/orgs/openoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2238933?v=3", 
+        "repos_url": "https://api.github.com/orgs/openoakland/repos", 
+        "login": "openoakland", 
+        "id": 2238933, 
+        "hooks_url": "https://api.github.com/orgs/openoakland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civicindustries/issues", 
+        "members_url": "https://api.github.com/orgs/civicindustries/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/civicindustries/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civicindustries", 
+        "events_url": "https://api.github.com/orgs/civicindustries/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2782033?v=3", 
+        "repos_url": "https://api.github.com/orgs/civicindustries/repos", 
+        "login": "civicindustries", 
+        "id": 2782033, 
+        "hooks_url": "https://api.github.com/orgs/civicindustries/hooks"
+    }
+]

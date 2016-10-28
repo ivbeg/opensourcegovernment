@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/collecta/issues", 
+        "members_url": "https://api.github.com/orgs/collecta/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/collecta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collecta", 
+        "events_url": "https://api.github.com/orgs/collecta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/153013?v=3", 
+        "repos_url": "https://api.github.com/orgs/collecta/repos", 
+        "login": "collecta", 
+        "id": 153013, 
+        "hooks_url": "https://api.github.com/orgs/collecta/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapbox/issues", 
+        "members_url": "https://api.github.com/orgs/mapbox/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapbox/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapbox", 
+        "events_url": "https://api.github.com/orgs/mapbox/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/600935?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapbox/repos", 
+        "login": "mapbox", 
+        "id": 600935, 
+        "hooks_url": "https://api.github.com/orgs/mapbox/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Honolulu/issues", 
+        "members_url": "https://api.github.com/orgs/Honolulu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Honolulu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Honolulu", 
+        "events_url": "https://api.github.com/orgs/Honolulu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1817426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Honolulu/repos", 
+        "login": "Honolulu", 
+        "id": 1817426, 
+        "hooks_url": "https://api.github.com/orgs/Honolulu/hooks"
+    }
+]

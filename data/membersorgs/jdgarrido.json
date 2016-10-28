@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ciudadanointeligente/issues", 
+        "members_url": "https://api.github.com/orgs/ciudadanointeligente/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ciudadanointeligente/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ciudadanointeligente", 
+        "events_url": "https://api.github.com/orgs/ciudadanointeligente/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/631035?v=3", 
+        "repos_url": "https://api.github.com/orgs/ciudadanointeligente/repos", 
+        "login": "ciudadanointeligente", 
+        "id": 631035, 
+        "hooks_url": "https://api.github.com/orgs/ciudadanointeligente/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/poplus/issues", 
+        "members_url": "https://api.github.com/orgs/poplus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/poplus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/poplus", 
+        "events_url": "https://api.github.com/orgs/poplus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4304608?v=3", 
+        "repos_url": "https://api.github.com/orgs/poplus/repos", 
+        "login": "poplus", 
+        "id": 4304608, 
+        "hooks_url": "https://api.github.com/orgs/poplus/hooks"
+    }
+]

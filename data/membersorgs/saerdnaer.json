@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/muccc/issues", 
+        "members_url": "https://api.github.com/orgs/muccc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/muccc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/muccc", 
+        "events_url": "https://api.github.com/orgs/muccc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/372291?v=3", 
+        "repos_url": "https://api.github.com/orgs/muccc/repos", 
+        "login": "muccc", 
+        "id": 372291, 
+        "hooks_url": "https://api.github.com/orgs/muccc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/techism/issues", 
+        "members_url": "https://api.github.com/orgs/techism/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/techism/public_members{/member}", 
+        "url": "https://api.github.com/orgs/techism", 
+        "events_url": "https://api.github.com/orgs/techism/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1514187?v=3", 
+        "repos_url": "https://api.github.com/orgs/techism/repos", 
+        "login": "techism", 
+        "id": 1514187, 
+        "hooks_url": "https://api.github.com/orgs/techism/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/voc/issues", 
+        "members_url": "https://api.github.com/orgs/voc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/voc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/voc", 
+        "events_url": "https://api.github.com/orgs/voc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2222021?v=3", 
+        "repos_url": "https://api.github.com/orgs/voc/repos", 
+        "login": "voc", 
+        "id": 2222021, 
+        "hooks_url": "https://api.github.com/orgs/voc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeformunich/issues", 
+        "members_url": "https://api.github.com/orgs/codeformunich/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeformunich/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeformunich", 
+        "events_url": "https://api.github.com/orgs/codeformunich/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8250305?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeformunich/repos", 
+        "login": "codeformunich", 
+        "id": 8250305, 
+        "hooks_url": "https://api.github.com/orgs/codeformunich/hooks"
+    }
+]

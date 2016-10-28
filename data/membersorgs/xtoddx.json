@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kyrug/issues", 
+        "members_url": "https://api.github.com/orgs/kyrug/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/kyrug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kyrug", 
+        "events_url": "https://api.github.com/orgs/kyrug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/28349?v=3", 
+        "repos_url": "https://api.github.com/orgs/kyrug/repos", 
+        "login": "kyrug", 
+        "id": 28349, 
+        "hooks_url": "https://api.github.com/orgs/kyrug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/collexion/issues", 
+        "members_url": "https://api.github.com/orgs/collexion/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/collexion/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collexion", 
+        "events_url": "https://api.github.com/orgs/collexion/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141085?v=3", 
+        "repos_url": "https://api.github.com/orgs/collexion/repos", 
+        "login": "collexion", 
+        "id": 141085, 
+        "hooks_url": "https://api.github.com/orgs/collexion/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Fineslacks/issues", 
+        "members_url": "https://api.github.com/orgs/Fineslacks/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Fineslacks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Fineslacks", 
+        "events_url": "https://api.github.com/orgs/Fineslacks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/330344?v=3", 
+        "repos_url": "https://api.github.com/orgs/Fineslacks/repos", 
+        "login": "Fineslacks", 
+        "id": 330344, 
+        "hooks_url": "https://api.github.com/orgs/Fineslacks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/fog/issues", 
+        "members_url": "https://api.github.com/orgs/fog/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/fog/public_members{/member}", 
+        "url": "https://api.github.com/orgs/fog", 
+        "events_url": "https://api.github.com/orgs/fog/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/991149?v=3", 
+        "repos_url": "https://api.github.com/orgs/fog/repos", 
+        "login": "fog", 
+        "id": 991149, 
+        "hooks_url": "https://api.github.com/orgs/fog/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CirrusMio/issues", 
+        "members_url": "https://api.github.com/orgs/CirrusMio/members{/member}", 
+        "description": "Cloud and IoT Solutions", 
+        "public_members_url": "https://api.github.com/orgs/CirrusMio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CirrusMio", 
+        "events_url": "https://api.github.com/orgs/CirrusMio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1512870?v=3", 
+        "repos_url": "https://api.github.com/orgs/CirrusMio/repos", 
+        "login": "CirrusMio", 
+        "id": 1512870, 
+        "hooks_url": "https://api.github.com/orgs/CirrusMio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lfucg/issues", 
+        "members_url": "https://api.github.com/orgs/lfucg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lfucg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lfucg", 
+        "events_url": "https://api.github.com/orgs/lfucg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5739571?v=3", 
+        "repos_url": "https://api.github.com/orgs/lfucg/repos", 
+        "login": "lfucg", 
+        "id": 5739571, 
+        "hooks_url": "https://api.github.com/orgs/lfucg/hooks"
+    }
+]

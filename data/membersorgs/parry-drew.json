@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nycdot/issues", 
+        "members_url": "https://api.github.com/orgs/nycdot/members{/member}", 
+        "description": "NYC Department of Transportation (NYC DOT) code repository", 
+        "public_members_url": "https://api.github.com/orgs/nycdot/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nycdot", 
+        "events_url": "https://api.github.com/orgs/nycdot/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1693949?v=3", 
+        "repos_url": "https://api.github.com/orgs/nycdot/repos", 
+        "login": "nycdot", 
+        "id": 1693949, 
+        "hooks_url": "https://api.github.com/orgs/nycdot/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mozilla/issues", 
+        "members_url": "https://api.github.com/orgs/mozilla/members{/member}", 
+        "description": "This technology could fall into the right hands.", 
+        "public_members_url": "https://api.github.com/orgs/mozilla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mozilla", 
+        "events_url": "https://api.github.com/orgs/mozilla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/131524?v=3", 
+        "repos_url": "https://api.github.com/orgs/mozilla/repos", 
+        "login": "mozilla", 
+        "id": 131524, 
+        "hooks_url": "https://api.github.com/orgs/mozilla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPortland/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPortland/members{/member}", 
+        "description": "Portland's Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPortland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPortland", 
+        "events_url": "https://api.github.com/orgs/CodeForPortland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6692606?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPortland/repos", 
+        "login": "CodeForPortland", 
+        "id": 6692606, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPortland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/goog1e/issues", 
+        "members_url": "https://api.github.com/orgs/goog1e/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/goog1e/public_members{/member}", 
+        "url": "https://api.github.com/orgs/goog1e", 
+        "events_url": "https://api.github.com/orgs/goog1e/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7470910?v=3", 
+        "repos_url": "https://api.github.com/orgs/goog1e/repos", 
+        "login": "goog1e", 
+        "id": 7470910, 
+        "hooks_url": "https://api.github.com/orgs/goog1e/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/boringengineering/issues", 
+        "members_url": "https://api.github.com/orgs/boringengineering/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/boringengineering/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boringengineering", 
+        "events_url": "https://api.github.com/orgs/boringengineering/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12057247?v=3", 
+        "repos_url": "https://api.github.com/orgs/boringengineering/repos", 
+        "login": "boringengineering", 
+        "id": 12057247, 
+        "hooks_url": "https://api.github.com/orgs/boringengineering/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/moose-team/issues", 
+        "members_url": "https://api.github.com/orgs/moose-team/members{/member}", 
+        "description": "Massively Open Open Source Everything", 
+        "public_members_url": "https://api.github.com/orgs/moose-team/public_members{/member}", 
+        "url": "https://api.github.com/orgs/moose-team", 
+        "events_url": "https://api.github.com/orgs/moose-team/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12131733?v=3", 
+        "repos_url": "https://api.github.com/orgs/moose-team/repos", 
+        "login": "moose-team", 
+        "id": 12131733, 
+        "hooks_url": "https://api.github.com/orgs/moose-team/hooks"
+    }
+]

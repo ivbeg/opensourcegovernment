@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/astropy/issues", 
+        "members_url": "https://api.github.com/orgs/astropy/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/astropy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/astropy", 
+        "events_url": "https://api.github.com/orgs/astropy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/847984?v=3", 
+        "repos_url": "https://api.github.com/orgs/astropy/repos", 
+        "login": "astropy", 
+        "id": 847984, 
+        "hooks_url": "https://api.github.com/orgs/astropy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gammapy/issues", 
+        "members_url": "https://api.github.com/orgs/gammapy/members{/member}", 
+        "description": "Gamma-ray astronomy Python tools", 
+        "public_members_url": "https://api.github.com/orgs/gammapy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gammapy", 
+        "events_url": "https://api.github.com/orgs/gammapy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/852764?v=3", 
+        "repos_url": "https://api.github.com/orgs/gammapy/repos", 
+        "login": "gammapy", 
+        "id": 852764, 
+        "hooks_url": "https://api.github.com/orgs/gammapy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sunpy/issues", 
+        "members_url": "https://api.github.com/orgs/sunpy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sunpy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sunpy", 
+        "events_url": "https://api.github.com/orgs/sunpy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/963197?v=3", 
+        "repos_url": "https://api.github.com/orgs/sunpy/repos", 
+        "login": "sunpy", 
+        "id": 963197, 
+        "hooks_url": "https://api.github.com/orgs/sunpy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/IoaTransits/issues", 
+        "members_url": "https://api.github.com/orgs/IoaTransits/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/IoaTransits/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IoaTransits", 
+        "events_url": "https://api.github.com/orgs/IoaTransits/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17011920?v=3", 
+        "repos_url": "https://api.github.com/orgs/IoaTransits/repos", 
+        "login": "IoaTransits", 
+        "id": 17011920, 
+        "hooks_url": "https://api.github.com/orgs/IoaTransits/hooks"
+    }
+]

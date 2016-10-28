@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BFELoB/issues", 
+        "members_url": "https://api.github.com/orgs/BFELoB/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/BFELoB/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BFELoB", 
+        "events_url": "https://api.github.com/orgs/BFELoB/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5579297?v=3", 
+        "repos_url": "https://api.github.com/orgs/BFELoB/repos", 
+        "login": "BFELoB", 
+        "id": 5579297, 
+        "hooks_url": "https://api.github.com/orgs/BFELoB/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Coursemology/issues", 
+        "members_url": "https://api.github.com/orgs/Coursemology/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Coursemology/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Coursemology", 
+        "events_url": "https://api.github.com/orgs/Coursemology/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4427741?v=3", 
+        "repos_url": "https://api.github.com/orgs/Coursemology/repos", 
+        "login": "Coursemology", 
+        "id": 4427741, 
+        "hooks_url": "https://api.github.com/orgs/Coursemology/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/moexmen/issues", 
+        "members_url": "https://api.github.com/orgs/moexmen/members{/member}", 
+        "description": "Engineers working to improve education in Singapore.", 
+        "public_members_url": "https://api.github.com/orgs/moexmen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/moexmen", 
+        "events_url": "https://api.github.com/orgs/moexmen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8214900?v=3", 
+        "repos_url": "https://api.github.com/orgs/moexmen/repos", 
+        "login": "moexmen", 
+        "id": 8214900, 
+        "hooks_url": "https://api.github.com/orgs/moexmen/hooks"
+    }
+]

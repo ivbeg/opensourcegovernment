@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opensourcehk/issues", 
+        "members_url": "https://api.github.com/orgs/opensourcehk/members{/member}", 
+        "description": "Open Source Community and Projects from Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/opensourcehk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opensourcehk", 
+        "events_url": "https://api.github.com/orgs/opensourcehk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1532932?v=3", 
+        "repos_url": "https://api.github.com/orgs/opensourcehk/repos", 
+        "login": "opensourcehk", 
+        "id": 1532932, 
+        "hooks_url": "https://api.github.com/orgs/opensourcehk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenDataHK/issues", 
+        "members_url": "https://api.github.com/orgs/OpenDataHK/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenDataHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenDataHK", 
+        "events_url": "https://api.github.com/orgs/OpenDataHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2333372?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenDataHK/repos", 
+        "login": "OpenDataHK", 
+        "id": 2333372, 
+        "hooks_url": "https://api.github.com/orgs/OpenDataHK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/linuxharbour/issues", 
+        "members_url": "https://api.github.com/orgs/linuxharbour/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/linuxharbour/public_members{/member}", 
+        "url": "https://api.github.com/orgs/linuxharbour", 
+        "events_url": "https://api.github.com/orgs/linuxharbour/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3838620?v=3", 
+        "repos_url": "https://api.github.com/orgs/linuxharbour/repos", 
+        "login": "linuxharbour", 
+        "id": 3838620, 
+        "hooks_url": "https://api.github.com/orgs/linuxharbour/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mozillahk/issues", 
+        "members_url": "https://api.github.com/orgs/mozillahk/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mozillahk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mozillahk", 
+        "events_url": "https://api.github.com/orgs/mozillahk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5408025?v=3", 
+        "repos_url": "https://api.github.com/orgs/mozillahk/repos", 
+        "login": "mozillahk", 
+        "id": 5408025, 
+        "hooks_url": "https://api.github.com/orgs/mozillahk/hooks"
+    }
+]

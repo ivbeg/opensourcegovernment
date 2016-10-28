@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/FairfieldCountyIT/issues", 
+        "members_url": "https://api.github.com/orgs/FairfieldCountyIT/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/FairfieldCountyIT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FairfieldCountyIT", 
+        "events_url": "https://api.github.com/orgs/FairfieldCountyIT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16543309?v=3", 
+        "repos_url": "https://api.github.com/orgs/FairfieldCountyIT/repos", 
+        "login": "FairfieldCountyIT", 
+        "id": 16543309, 
+        "hooks_url": "https://api.github.com/orgs/FairfieldCountyIT/hooks"
+    }
+]

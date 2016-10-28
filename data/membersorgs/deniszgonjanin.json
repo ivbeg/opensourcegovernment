@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CityofOttawa/issues", 
+        "members_url": "https://api.github.com/orgs/CityofOttawa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CityofOttawa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityofOttawa", 
+        "events_url": "https://api.github.com/orgs/CityofOttawa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2118862?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityofOttawa/repos", 
+        "login": "CityofOttawa", 
+        "id": 2118862, 
+        "hooks_url": "https://api.github.com/orgs/CityofOttawa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/boxkite/issues", 
+        "members_url": "https://api.github.com/orgs/boxkite/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/boxkite/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boxkite", 
+        "events_url": "https://api.github.com/orgs/boxkite/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3051026?v=3", 
+        "repos_url": "https://api.github.com/orgs/boxkite/repos", 
+        "login": "boxkite", 
+        "id": 3051026, 
+        "hooks_url": "https://api.github.com/orgs/boxkite/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendata/issues", 
+        "members_url": "https://api.github.com/orgs/opendata/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opendata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendata", 
+        "events_url": "https://api.github.com/orgs/opendata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5973403?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendata/repos", 
+        "login": "opendata", 
+        "id": 5973403, 
+        "hooks_url": "https://api.github.com/orgs/opendata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datacats/issues", 
+        "members_url": "https://api.github.com/orgs/datacats/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/datacats/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datacats", 
+        "events_url": "https://api.github.com/orgs/datacats/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12352628?v=3", 
+        "repos_url": "https://api.github.com/orgs/datacats/repos", 
+        "login": "datacats", 
+        "id": 12352628, 
+        "hooks_url": "https://api.github.com/orgs/datacats/hooks"
+    }
+]

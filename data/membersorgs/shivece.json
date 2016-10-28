@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CBIIT/issues", 
+        "members_url": "https://api.github.com/orgs/CBIIT/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CBIIT/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CBIIT", 
+        "events_url": "https://api.github.com/orgs/CBIIT/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6399111?v=3", 
+        "repos_url": "https://api.github.com/orgs/CBIIT/repos", 
+        "login": "CBIIT", 
+        "id": 6399111, 
+        "hooks_url": "https://api.github.com/orgs/CBIIT/hooks"
+    }
+]

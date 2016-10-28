@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cyberwizardinstitute/issues", 
+        "members_url": "https://api.github.com/orgs/cyberwizardinstitute/members{/member}", 
+        "description": "free and open programming school", 
+        "public_members_url": "https://api.github.com/orgs/cyberwizardinstitute/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cyberwizardinstitute", 
+        "events_url": "https://api.github.com/orgs/cyberwizardinstitute/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8845683?v=3", 
+        "repos_url": "https://api.github.com/orgs/cyberwizardinstitute/repos", 
+        "login": "cyberwizardinstitute", 
+        "id": 8845683, 
+        "hooks_url": "https://api.github.com/orgs/cyberwizardinstitute/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caciviclab/issues", 
+        "members_url": "https://api.github.com/orgs/caciviclab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caciviclab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caciviclab", 
+        "events_url": "https://api.github.com/orgs/caciviclab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9602455?v=3", 
+        "repos_url": "https://api.github.com/orgs/caciviclab/repos", 
+        "login": "caciviclab", 
+        "id": 9602455, 
+        "hooks_url": "https://api.github.com/orgs/caciviclab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/telegraphacademy/issues", 
+        "members_url": "https://api.github.com/orgs/telegraphacademy/members{/member}", 
+        "description": "Telegraph Academy Repo's", 
+        "public_members_url": "https://api.github.com/orgs/telegraphacademy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/telegraphacademy", 
+        "events_url": "https://api.github.com/orgs/telegraphacademy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12164862?v=3", 
+        "repos_url": "https://api.github.com/orgs/telegraphacademy/repos", 
+        "login": "telegraphacademy", 
+        "id": 12164862, 
+        "hooks_url": "https://api.github.com/orgs/telegraphacademy/hooks"
+    }
+]

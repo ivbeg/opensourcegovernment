@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforoakland/issues", 
+        "members_url": "https://api.github.com/orgs/codeforoakland/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codeforoakland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforoakland", 
+        "events_url": "https://api.github.com/orgs/codeforoakland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1802995?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforoakland/repos", 
+        "login": "codeforoakland", 
+        "id": 1802995, 
+        "hooks_url": "https://api.github.com/orgs/codeforoakland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dobtco/issues", 
+        "members_url": "https://api.github.com/orgs/dobtco/members{/member}", 
+        "description": "We help governments deliver great digital services to the people who depend on them.", 
+        "public_members_url": "https://api.github.com/orgs/dobtco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dobtco", 
+        "events_url": "https://api.github.com/orgs/dobtco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3903909?v=3", 
+        "repos_url": "https://api.github.com/orgs/dobtco/repos", 
+        "login": "dobtco", 
+        "id": 3903909, 
+        "hooks_url": "https://api.github.com/orgs/dobtco/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/issues", 
+        "members_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey", 
+        "events_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14811529?v=3", 
+        "repos_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/repos", 
+        "login": "ScriptEd-Year2-Cristo-Rey", 
+        "id": 14811529, 
+        "hooks_url": "https://api.github.com/orgs/ScriptEd-Year2-Cristo-Rey/hooks"
+    }
+]

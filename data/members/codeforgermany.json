@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/juliakloiber/following{/other_user}", 
+        "events_url": "https://api.github.com/users/juliakloiber/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/juliakloiber/orgs", 
+        "url": "https://api.github.com/users/juliakloiber", 
+        "gists_url": "https://api.github.com/users/juliakloiber/gists{/gist_id}", 
+        "html_url": "https://github.com/juliakloiber", 
+        "subscriptions_url": "https://api.github.com/users/juliakloiber/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1642807?v=3", 
+        "repos_url": "https://api.github.com/users/juliakloiber/repos", 
+        "received_events_url": "https://api.github.com/users/juliakloiber/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/juliakloiber/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "juliakloiber", 
+        "type": "User", 
+        "id": 1642807, 
+        "followers_url": "https://api.github.com/users/juliakloiber/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/stefanw/following{/other_user}", 
+        "events_url": "https://api.github.com/users/stefanw/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/stefanw/orgs", 
+        "url": "https://api.github.com/users/stefanw", 
+        "gists_url": "https://api.github.com/users/stefanw/gists{/gist_id}", 
+        "html_url": "https://github.com/stefanw", 
+        "subscriptions_url": "https://api.github.com/users/stefanw/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/78356?v=3", 
+        "repos_url": "https://api.github.com/users/stefanw/repos", 
+        "received_events_url": "https://api.github.com/users/stefanw/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/stefanw/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "stefanw", 
+        "type": "User", 
+        "id": 78356, 
+        "followers_url": "https://api.github.com/users/stefanw/followers"
+    }
+]

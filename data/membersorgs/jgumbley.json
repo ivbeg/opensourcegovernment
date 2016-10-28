@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ThoughtWorksInc/issues", 
+        "members_url": "https://api.github.com/orgs/ThoughtWorksInc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ThoughtWorksInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ThoughtWorksInc", 
+        "events_url": "https://api.github.com/orgs/ThoughtWorksInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/168376?v=3", 
+        "repos_url": "https://api.github.com/orgs/ThoughtWorksInc/repos", 
+        "login": "ThoughtWorksInc", 
+        "id": 168376, 
+        "hooks_url": "https://api.github.com/orgs/ThoughtWorksInc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/InsolvencyService/issues", 
+        "members_url": "https://api.github.com/orgs/InsolvencyService/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/InsolvencyService/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InsolvencyService", 
+        "events_url": "https://api.github.com/orgs/InsolvencyService/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5759639?v=3", 
+        "repos_url": "https://api.github.com/orgs/InsolvencyService/repos", 
+        "login": "InsolvencyService", 
+        "id": 5759639, 
+        "hooks_url": "https://api.github.com/orgs/InsolvencyService/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aperture-team/issues", 
+        "members_url": "https://api.github.com/orgs/aperture-team/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/aperture-team/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aperture-team", 
+        "events_url": "https://api.github.com/orgs/aperture-team/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12413256?v=3", 
+        "repos_url": "https://api.github.com/orgs/aperture-team/repos", 
+        "login": "aperture-team", 
+        "id": 12413256, 
+        "hooks_url": "https://api.github.com/orgs/aperture-team/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/smbc-digital/issues", 
+        "members_url": "https://api.github.com/orgs/smbc-digital/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smbc-digital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smbc-digital", 
+        "events_url": "https://api.github.com/orgs/smbc-digital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18016311?v=3", 
+        "repos_url": "https://api.github.com/orgs/smbc-digital/repos", 
+        "login": "smbc-digital", 
+        "id": 18016311, 
+        "hooks_url": "https://api.github.com/orgs/smbc-digital/hooks"
+    }
+]

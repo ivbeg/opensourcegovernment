@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforcroatia/issues", 
+        "members_url": "https://api.github.com/orgs/codeforcroatia/members{/member}", 
+        "description": "Izra\u0111ujemo civilne aplikacije za lijepu na\u0161u u 21. stolje\u0107u.", 
+        "public_members_url": "https://api.github.com/orgs/codeforcroatia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforcroatia", 
+        "events_url": "https://api.github.com/orgs/codeforcroatia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6293362?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforcroatia/repos", 
+        "login": "codeforcroatia", 
+        "id": 6293362, 
+        "hooks_url": "https://api.github.com/orgs/codeforcroatia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HrOpen-Croatia/issues", 
+        "members_url": "https://api.github.com/orgs/HrOpen-Croatia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HrOpen-Croatia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HrOpen-Croatia", 
+        "events_url": "https://api.github.com/orgs/HrOpen-Croatia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11295108?v=3", 
+        "repos_url": "https://api.github.com/orgs/HrOpen-Croatia/repos", 
+        "login": "HrOpen-Croatia", 
+        "id": 11295108, 
+        "hooks_url": "https://api.github.com/orgs/HrOpen-Croatia/hooks"
+    }
+]

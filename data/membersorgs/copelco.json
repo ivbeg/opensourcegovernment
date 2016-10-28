@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rapidsms/issues", 
+        "members_url": "https://api.github.com/orgs/rapidsms/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rapidsms/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rapidsms", 
+        "events_url": "https://api.github.com/orgs/rapidsms/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/56058?v=3", 
+        "repos_url": "https://api.github.com/orgs/rapidsms/repos", 
+        "login": "rapidsms", 
+        "id": 56058, 
+        "hooks_url": "https://api.github.com/orgs/rapidsms/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caktus/issues", 
+        "members_url": "https://api.github.com/orgs/caktus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caktus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caktus", 
+        "events_url": "https://api.github.com/orgs/caktus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/242157?v=3", 
+        "repos_url": "https://api.github.com/orgs/caktus/repos", 
+        "login": "caktus", 
+        "id": 242157, 
+        "hooks_url": "https://api.github.com/orgs/caktus/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openrural/issues", 
+        "members_url": "https://api.github.com/orgs/openrural/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openrural/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openrural", 
+        "events_url": "https://api.github.com/orgs/openrural/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1172944?v=3", 
+        "repos_url": "https://api.github.com/orgs/openrural/repos", 
+        "login": "openrural", 
+        "id": 1172944, 
+        "hooks_url": "https://api.github.com/orgs/openrural/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefordurham/issues", 
+        "members_url": "https://api.github.com/orgs/codefordurham/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codefordurham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordurham", 
+        "events_url": "https://api.github.com/orgs/codefordurham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5732447?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordurham/repos", 
+        "login": "codefordurham", 
+        "id": 5732447, 
+        "hooks_url": "https://api.github.com/orgs/codefordurham/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenDataPolicingNC/issues", 
+        "members_url": "https://api.github.com/orgs/OpenDataPolicingNC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OpenDataPolicingNC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenDataPolicingNC", 
+        "events_url": "https://api.github.com/orgs/OpenDataPolicingNC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13080532?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenDataPolicingNC/repos", 
+        "login": "OpenDataPolicingNC", 
+        "id": 13080532, 
+        "hooks_url": "https://api.github.com/orgs/OpenDataPolicingNC/hooks"
+    }
+]

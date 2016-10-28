@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hotosm/issues", 
+        "members_url": "https://api.github.com/orgs/hotosm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hotosm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hotosm", 
+        "events_url": "https://api.github.com/orgs/hotosm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/458752?v=3", 
+        "repos_url": "https://api.github.com/orgs/hotosm/repos", 
+        "login": "hotosm", 
+        "id": 458752, 
+        "hooks_url": "https://api.github.com/orgs/hotosm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USAID/issues", 
+        "members_url": "https://api.github.com/orgs/USAID/members{/member}", 
+        "description": "USAID is the lead U.S. Government agency that works to end extreme global poverty. Find our privacy policy at www.usaid.gov/privacy-policy", 
+        "public_members_url": "https://api.github.com/orgs/USAID/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USAID", 
+        "events_url": "https://api.github.com/orgs/USAID/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4051799?v=3", 
+        "repos_url": "https://api.github.com/orgs/USAID/repos", 
+        "login": "USAID", 
+        "id": 4051799, 
+        "hooks_url": "https://api.github.com/orgs/USAID/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }
+]

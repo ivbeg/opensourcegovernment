@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/asascience-open/issues", 
+        "members_url": "https://api.github.com/orgs/asascience-open/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/asascience-open/public_members{/member}", 
+        "url": "https://api.github.com/orgs/asascience-open", 
+        "events_url": "https://api.github.com/orgs/asascience-open/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/375785?v=3", 
+        "repos_url": "https://api.github.com/orgs/asascience-open/repos", 
+        "login": "asascience-open", 
+        "id": 375785, 
+        "hooks_url": "https://api.github.com/orgs/asascience-open/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/l3ib/issues", 
+        "members_url": "https://api.github.com/orgs/l3ib/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/l3ib/public_members{/member}", 
+        "url": "https://api.github.com/orgs/l3ib", 
+        "events_url": "https://api.github.com/orgs/l3ib/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/531086?v=3", 
+        "repos_url": "https://api.github.com/orgs/l3ib/repos", 
+        "login": "l3ib", 
+        "id": 531086, 
+        "hooks_url": "https://api.github.com/orgs/l3ib/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/axiom-data-science/issues", 
+        "members_url": "https://api.github.com/orgs/axiom-data-science/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/axiom-data-science/public_members{/member}", 
+        "url": "https://api.github.com/orgs/axiom-data-science", 
+        "events_url": "https://api.github.com/orgs/axiom-data-science/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1138896?v=3", 
+        "repos_url": "https://api.github.com/orgs/axiom-data-science/repos", 
+        "login": "axiom-data-science", 
+        "id": 1138896, 
+        "hooks_url": "https://api.github.com/orgs/axiom-data-science/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ioos/issues", 
+        "members_url": "https://api.github.com/orgs/ioos/members{/member}", 
+        "description": "Technical documentation and software supporting IOOS Data Management and Communications.", 
+        "public_members_url": "https://api.github.com/orgs/ioos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ioos", 
+        "events_url": "https://api.github.com/orgs/ioos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5313832?v=3", 
+        "repos_url": "https://api.github.com/orgs/ioos/repos", 
+        "login": "ioos", 
+        "id": 5313832, 
+        "hooks_url": "https://api.github.com/orgs/ioos/hooks"
+    }
+]

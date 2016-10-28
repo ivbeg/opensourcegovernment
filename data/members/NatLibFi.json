@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/joni-/following{/other_user}", 
+        "events_url": "https://api.github.com/users/joni-/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/joni-/orgs", 
+        "url": "https://api.github.com/users/joni-", 
+        "gists_url": "https://api.github.com/users/joni-/gists{/gist_id}", 
+        "html_url": "https://github.com/joni-", 
+        "subscriptions_url": "https://api.github.com/users/joni-/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1260977?v=3", 
+        "repos_url": "https://api.github.com/users/joni-/repos", 
+        "received_events_url": "https://api.github.com/users/joni-/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/joni-/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "joni-", 
+        "type": "User", 
+        "id": 1260977, 
+        "followers_url": "https://api.github.com/users/joni-/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/timolaine/following{/other_user}", 
+        "events_url": "https://api.github.com/users/timolaine/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/timolaine/orgs", 
+        "url": "https://api.github.com/users/timolaine", 
+        "gists_url": "https://api.github.com/users/timolaine/gists{/gist_id}", 
+        "html_url": "https://github.com/timolaine", 
+        "subscriptions_url": "https://api.github.com/users/timolaine/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2081960?v=3", 
+        "repos_url": "https://api.github.com/users/timolaine/repos", 
+        "received_events_url": "https://api.github.com/users/timolaine/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/timolaine/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "timolaine", 
+        "type": "User", 
+        "id": 2081960, 
+        "followers_url": "https://api.github.com/users/timolaine/followers"
+    }
+]

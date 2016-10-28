@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nimh-nif/issues", 
+        "members_url": "https://api.github.com/orgs/nimh-nif/members{/member}", 
+        "description": "The Neurophysiology Imaging Facility provides anatomical and functional MRI scanning for researchers in the NIMH, NEI & NINDS institutes.", 
+        "public_members_url": "https://api.github.com/orgs/nimh-nif/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nimh-nif", 
+        "events_url": "https://api.github.com/orgs/nimh-nif/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7395141?v=3", 
+        "repos_url": "https://api.github.com/orgs/nimh-nif/repos", 
+        "login": "nimh-nif", 
+        "id": 7395141, 
+        "hooks_url": "https://api.github.com/orgs/nimh-nif/hooks"
+    }
+]

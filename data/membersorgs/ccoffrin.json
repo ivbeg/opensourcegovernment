@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/losalamos/issues", 
+        "members_url": "https://api.github.com/orgs/losalamos/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/losalamos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/losalamos", 
+        "events_url": "https://api.github.com/orgs/losalamos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/585305?v=3", 
+        "repos_url": "https://api.github.com/orgs/losalamos/repos", 
+        "login": "losalamos", 
+        "id": 585305, 
+        "hooks_url": "https://api.github.com/orgs/losalamos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NICTA/issues", 
+        "members_url": "https://api.github.com/orgs/NICTA/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NICTA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NICTA", 
+        "events_url": "https://api.github.com/orgs/NICTA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1151968?v=3", 
+        "repos_url": "https://api.github.com/orgs/NICTA/repos", 
+        "login": "NICTA", 
+        "id": 1151968, 
+        "hooks_url": "https://api.github.com/orgs/NICTA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MiniZinc/issues", 
+        "members_url": "https://api.github.com/orgs/MiniZinc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/MiniZinc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MiniZinc", 
+        "events_url": "https://api.github.com/orgs/MiniZinc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4684397?v=3", 
+        "repos_url": "https://api.github.com/orgs/MiniZinc/repos", 
+        "login": "MiniZinc", 
+        "id": 4684397, 
+        "hooks_url": "https://api.github.com/orgs/MiniZinc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/discreteoptimization/issues", 
+        "members_url": "https://api.github.com/orgs/discreteoptimization/members{/member}", 
+        "description": "Open Source Materials for Discrete Optimization on Coursera", 
+        "public_members_url": "https://api.github.com/orgs/discreteoptimization/public_members{/member}", 
+        "url": "https://api.github.com/orgs/discreteoptimization", 
+        "events_url": "https://api.github.com/orgs/discreteoptimization/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5465975?v=3", 
+        "repos_url": "https://api.github.com/orgs/discreteoptimization/repos", 
+        "login": "discreteoptimization", 
+        "id": 5465975, 
+        "hooks_url": "https://api.github.com/orgs/discreteoptimization/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ieee-pes-amps/issues", 
+        "members_url": "https://api.github.com/orgs/ieee-pes-amps/members{/member}", 
+        "description": "Analytical Methods for Power Systems Technical Committee (AMPS) of the IEEE Power and Energy Society ", 
+        "public_members_url": "https://api.github.com/orgs/ieee-pes-amps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ieee-pes-amps", 
+        "events_url": "https://api.github.com/orgs/ieee-pes-amps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16584228?v=3", 
+        "repos_url": "https://api.github.com/orgs/ieee-pes-amps/repos", 
+        "login": "ieee-pes-amps", 
+        "id": 16584228, 
+        "hooks_url": "https://api.github.com/orgs/ieee-pes-amps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lanl-ansi/issues", 
+        "members_url": "https://api.github.com/orgs/lanl-ansi/members{/member}", 
+        "description": "Los Alamos Advanced Network Science Initiative", 
+        "public_members_url": "https://api.github.com/orgs/lanl-ansi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lanl-ansi", 
+        "events_url": "https://api.github.com/orgs/lanl-ansi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17053288?v=3", 
+        "repos_url": "https://api.github.com/orgs/lanl-ansi/repos", 
+        "login": "lanl-ansi", 
+        "id": 17053288, 
+        "hooks_url": "https://api.github.com/orgs/lanl-ansi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/power-grid-lib/issues", 
+        "members_url": "https://api.github.com/orgs/power-grid-lib/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/power-grid-lib/public_members{/member}", 
+        "url": "https://api.github.com/orgs/power-grid-lib", 
+        "events_url": "https://api.github.com/orgs/power-grid-lib/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21188896?v=3", 
+        "repos_url": "https://api.github.com/orgs/power-grid-lib/repos", 
+        "login": "power-grid-lib", 
+        "id": 21188896, 
+        "hooks_url": "https://api.github.com/orgs/power-grid-lib/hooks"
+    }
+]

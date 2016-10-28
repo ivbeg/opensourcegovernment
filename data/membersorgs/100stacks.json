@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open-austin/issues", 
+        "members_url": "https://api.github.com/orgs/open-austin/members{/member}", 
+        "description": "We discuss projects here: https://github.com/open-austin/project-ideas", 
+        "public_members_url": "https://api.github.com/orgs/open-austin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-austin", 
+        "events_url": "https://api.github.com/orgs/open-austin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/970084?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-austin/repos", 
+        "login": "open-austin", 
+        "id": 970084, 
+        "hooks_url": "https://api.github.com/orgs/open-austin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atxhack4change/issues", 
+        "members_url": "https://api.github.com/orgs/atxhack4change/members{/member}", 
+        "description": "One weekend, infinite impact. Austin\u2019s annual celebration of civic hacking.", 
+        "public_members_url": "https://api.github.com/orgs/atxhack4change/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atxhack4change", 
+        "events_url": "https://api.github.com/orgs/atxhack4change/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7388749?v=3", 
+        "repos_url": "https://api.github.com/orgs/atxhack4change/repos", 
+        "login": "atxhack4change", 
+        "id": 7388749, 
+        "hooks_url": "https://api.github.com/orgs/atxhack4change/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DigitalInclusion/issues", 
+        "members_url": "https://api.github.com/orgs/DigitalInclusion/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DigitalInclusion/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DigitalInclusion", 
+        "events_url": "https://api.github.com/orgs/DigitalInclusion/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12776400?v=3", 
+        "repos_url": "https://api.github.com/orgs/DigitalInclusion/repos", 
+        "login": "DigitalInclusion", 
+        "id": 12776400, 
+        "hooks_url": "https://api.github.com/orgs/DigitalInclusion/hooks"
+    }
+]

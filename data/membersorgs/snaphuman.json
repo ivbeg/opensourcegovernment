@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/JokteLatinoamerica/issues", 
+        "members_url": "https://api.github.com/orgs/JokteLatinoamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/JokteLatinoamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JokteLatinoamerica", 
+        "events_url": "https://api.github.com/orgs/JokteLatinoamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1286778?v=3", 
+        "repos_url": "https://api.github.com/orgs/JokteLatinoamerica/repos", 
+        "login": "JokteLatinoamerica", 
+        "id": 1286778, 
+        "hooks_url": "https://api.github.com/orgs/JokteLatinoamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AltaConsejeriaTIC/issues", 
+        "members_url": "https://api.github.com/orgs/AltaConsejeriaTIC/members{/member}", 
+        "description": "Espacio para realizar contribuciones a las herramientas de Software Libre utilizadas en los proyectos de la Fabrica de Software", 
+        "public_members_url": "https://api.github.com/orgs/AltaConsejeriaTIC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AltaConsejeriaTIC", 
+        "events_url": "https://api.github.com/orgs/AltaConsejeriaTIC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6223860?v=3", 
+        "repos_url": "https://api.github.com/orgs/AltaConsejeriaTIC/repos", 
+        "login": "AltaConsejeriaTIC", 
+        "id": 6223860, 
+        "hooks_url": "https://api.github.com/orgs/AltaConsejeriaTIC/hooks"
+    }
+]

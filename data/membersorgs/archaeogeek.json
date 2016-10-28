@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/AstunTechnology/issues", 
+        "members_url": "https://api.github.com/orgs/AstunTechnology/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/AstunTechnology/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AstunTechnology", 
+        "events_url": "https://api.github.com/orgs/AstunTechnology/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/614372?v=3", 
+        "repos_url": "https://api.github.com/orgs/AstunTechnology/repos", 
+        "login": "AstunTechnology", 
+        "id": 614372, 
+        "hooks_url": "https://api.github.com/orgs/AstunTechnology/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osgeouk/issues", 
+        "members_url": "https://api.github.com/orgs/osgeouk/members{/member}", 
+        "description": "Open Source Geospatial Foundation UK Chapter", 
+        "public_members_url": "https://api.github.com/orgs/osgeouk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osgeouk", 
+        "events_url": "https://api.github.com/orgs/osgeouk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6522607?v=3", 
+        "repos_url": "https://api.github.com/orgs/osgeouk/repos", 
+        "login": "osgeouk", 
+        "id": 6522607, 
+        "hooks_url": "https://api.github.com/orgs/osgeouk/hooks"
+    }
+]

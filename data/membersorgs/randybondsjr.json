@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CityofYakima/issues", 
+        "members_url": "https://api.github.com/orgs/CityofYakima/members{/member}", 
+        "description": "The official City of Yakima github", 
+        "public_members_url": "https://api.github.com/orgs/CityofYakima/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CityofYakima", 
+        "events_url": "https://api.github.com/orgs/CityofYakima/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7594275?v=3", 
+        "repos_url": "https://api.github.com/orgs/CityofYakima/repos", 
+        "login": "CityofYakima", 
+        "id": 7594275, 
+        "hooks_url": "https://api.github.com/orgs/CityofYakima/hooks"
+    }
+]

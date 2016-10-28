@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dainmiller/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dainmiller/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dainmiller/orgs", 
+        "url": "https://api.github.com/users/dainmiller", 
+        "gists_url": "https://api.github.com/users/dainmiller/gists{/gist_id}", 
+        "html_url": "https://github.com/dainmiller", 
+        "subscriptions_url": "https://api.github.com/users/dainmiller/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/795646?v=3", 
+        "repos_url": "https://api.github.com/users/dainmiller/repos", 
+        "received_events_url": "https://api.github.com/users/dainmiller/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dainmiller/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dainmiller", 
+        "type": "User", 
+        "id": 795646, 
+        "followers_url": "https://api.github.com/users/dainmiller/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/polastre/following{/other_user}", 
+        "events_url": "https://api.github.com/users/polastre/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/polastre/orgs", 
+        "url": "https://api.github.com/users/polastre", 
+        "gists_url": "https://api.github.com/users/polastre/gists{/gist_id}", 
+        "html_url": "https://github.com/polastre", 
+        "subscriptions_url": "https://api.github.com/users/polastre/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2539570?v=3", 
+        "repos_url": "https://api.github.com/users/polastre/repos", 
+        "received_events_url": "https://api.github.com/users/polastre/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/polastre/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "polastre", 
+        "type": "User", 
+        "id": 2539570, 
+        "followers_url": "https://api.github.com/users/polastre/followers"
+    }
+]

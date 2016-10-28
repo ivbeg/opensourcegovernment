@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cylc/issues", 
+        "members_url": "https://api.github.com/orgs/cylc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/cylc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cylc", 
+        "events_url": "https://api.github.com/orgs/cylc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/824878?v=3", 
+        "repos_url": "https://api.github.com/orgs/cylc/repos", 
+        "login": "cylc", 
+        "id": 824878, 
+        "hooks_url": "https://api.github.com/orgs/cylc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/metomi/issues", 
+        "members_url": "https://api.github.com/orgs/metomi/members{/member}", 
+        "description": "Modelling Infrastructure Support Systems at Met Office", 
+        "public_members_url": "https://api.github.com/orgs/metomi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/metomi", 
+        "events_url": "https://api.github.com/orgs/metomi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2477494?v=3", 
+        "repos_url": "https://api.github.com/orgs/metomi/repos", 
+        "login": "metomi", 
+        "id": 2477494, 
+        "hooks_url": "https://api.github.com/orgs/metomi/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Esri/issues", 
+        "members_url": "https://api.github.com/orgs/Esri/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Esri/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Esri", 
+        "events_url": "https://api.github.com/orgs/Esri/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/628795?v=3", 
+        "repos_url": "https://api.github.com/orgs/Esri/repos", 
+        "login": "Esri", 
+        "id": 628795, 
+        "hooks_url": "https://api.github.com/orgs/Esri/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ArcGIS/issues", 
+        "members_url": "https://api.github.com/orgs/ArcGIS/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ArcGIS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ArcGIS", 
+        "events_url": "https://api.github.com/orgs/ArcGIS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/849935?v=3", 
+        "repos_url": "https://api.github.com/orgs/ArcGIS/repos", 
+        "login": "ArcGIS", 
+        "id": 849935, 
+        "hooks_url": "https://api.github.com/orgs/ArcGIS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-austin/issues", 
+        "members_url": "https://api.github.com/orgs/open-austin/members{/member}", 
+        "description": "We discuss projects here: https://github.com/open-austin/project-ideas", 
+        "public_members_url": "https://api.github.com/orgs/open-austin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-austin", 
+        "events_url": "https://api.github.com/orgs/open-austin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/970084?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-austin/repos", 
+        "login": "open-austin", 
+        "id": 970084, 
+        "hooks_url": "https://api.github.com/orgs/open-austin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GeoServices/issues", 
+        "members_url": "https://api.github.com/orgs/GeoServices/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GeoServices/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeoServices", 
+        "events_url": "https://api.github.com/orgs/GeoServices/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8798880?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeoServices/repos", 
+        "login": "GeoServices", 
+        "id": 8798880, 
+        "hooks_url": "https://api.github.com/orgs/GeoServices/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/koopjs/issues", 
+        "members_url": "https://api.github.com/orgs/koopjs/members{/member}", 
+        "description": "Providers, Plugins, and Example Apps for the Koop project.", 
+        "public_members_url": "https://api.github.com/orgs/koopjs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/koopjs", 
+        "events_url": "https://api.github.com/orgs/koopjs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11509517?v=3", 
+        "repos_url": "https://api.github.com/orgs/koopjs/repos", 
+        "login": "koopjs", 
+        "id": 11509517, 
+        "hooks_url": "https://api.github.com/orgs/koopjs/hooks"
+    }
+]

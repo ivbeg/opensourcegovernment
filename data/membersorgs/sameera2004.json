@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NSLS-II-CHX/issues", 
+        "members_url": "https://api.github.com/orgs/NSLS-II-CHX/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NSLS-II-CHX/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NSLS-II-CHX", 
+        "events_url": "https://api.github.com/orgs/NSLS-II-CHX/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7094243?v=3", 
+        "repos_url": "https://api.github.com/orgs/NSLS-II-CHX/repos", 
+        "login": "NSLS-II-CHX", 
+        "id": 7094243, 
+        "hooks_url": "https://api.github.com/orgs/NSLS-II-CHX/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Nikea/issues", 
+        "members_url": "https://api.github.com/orgs/Nikea/members{/member}", 
+        "description": "Just build it.  An X-Ray analysis toolkit developed at NSLS-II", 
+        "public_members_url": "https://api.github.com/orgs/Nikea/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Nikea", 
+        "events_url": "https://api.github.com/orgs/Nikea/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7108465?v=3", 
+        "repos_url": "https://api.github.com/orgs/Nikea/repos", 
+        "login": "Nikea", 
+        "id": 7108465, 
+        "hooks_url": "https://api.github.com/orgs/Nikea/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scikit-xray/issues", 
+        "members_url": "https://api.github.com/orgs/scikit-xray/members{/member}", 
+        "description": "Data analysis tools for X-ray science", 
+        "public_members_url": "https://api.github.com/orgs/scikit-xray/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scikit-xray", 
+        "events_url": "https://api.github.com/orgs/scikit-xray/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13370180?v=3", 
+        "repos_url": "https://api.github.com/orgs/scikit-xray/repos", 
+        "login": "scikit-xray", 
+        "id": 13370180, 
+        "hooks_url": "https://api.github.com/orgs/scikit-xray/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scikit-beam/issues", 
+        "members_url": "https://api.github.com/orgs/scikit-beam/members{/member}", 
+        "description": "Python library for Electrons, Neutrons and X-Rays", 
+        "public_members_url": "https://api.github.com/orgs/scikit-beam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scikit-beam", 
+        "events_url": "https://api.github.com/orgs/scikit-beam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16195776?v=3", 
+        "repos_url": "https://api.github.com/orgs/scikit-beam/repos", 
+        "login": "scikit-beam", 
+        "id": 16195776, 
+        "hooks_url": "https://api.github.com/orgs/scikit-beam/hooks"
+    }
+]

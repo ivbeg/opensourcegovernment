@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/apache/issues", 
+        "members_url": "https://api.github.com/orgs/apache/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/apache/public_members{/member}", 
+        "url": "https://api.github.com/orgs/apache", 
+        "events_url": "https://api.github.com/orgs/apache/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/47359?v=3", 
+        "repos_url": "https://api.github.com/orgs/apache/repos", 
+        "login": "apache", 
+        "id": 47359, 
+        "hooks_url": "https://api.github.com/orgs/apache/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HSLdevcom/issues", 
+        "members_url": "https://api.github.com/orgs/HSLdevcom/members{/member}", 
+        "description": "Helsinki Regional Transport Authority (HSL) organises public transport and develops transit apps with Open Data and Open Source communities", 
+        "public_members_url": "https://api.github.com/orgs/HSLdevcom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HSLdevcom", 
+        "events_url": "https://api.github.com/orgs/HSLdevcom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2813507?v=3", 
+        "repos_url": "https://api.github.com/orgs/HSLdevcom/repos", 
+        "login": "HSLdevcom", 
+        "id": 2813507, 
+        "hooks_url": "https://api.github.com/orgs/HSLdevcom/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Team2Oy/issues", 
+        "members_url": "https://api.github.com/orgs/Team2Oy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Team2Oy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Team2Oy", 
+        "events_url": "https://api.github.com/orgs/Team2Oy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7556213?v=3", 
+        "repos_url": "https://api.github.com/orgs/Team2Oy/repos", 
+        "login": "Team2Oy", 
+        "id": 7556213, 
+        "hooks_url": "https://api.github.com/orgs/Team2Oy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/FooFactoryOy/issues", 
+        "members_url": "https://api.github.com/orgs/FooFactoryOy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/FooFactoryOy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FooFactoryOy", 
+        "events_url": "https://api.github.com/orgs/FooFactoryOy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16496831?v=3", 
+        "repos_url": "https://api.github.com/orgs/FooFactoryOy/repos", 
+        "login": "FooFactoryOy", 
+        "id": 16496831, 
+        "hooks_url": "https://api.github.com/orgs/FooFactoryOy/hooks"
+    }
+]

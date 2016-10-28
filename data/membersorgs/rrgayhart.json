@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bestfoundation/issues", 
+        "members_url": "https://api.github.com/orgs/bestfoundation/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bestfoundation/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bestfoundation", 
+        "events_url": "https://api.github.com/orgs/bestfoundation/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/755511?v=3", 
+        "repos_url": "https://api.github.com/orgs/bestfoundation/repos", 
+        "login": "bestfoundation", 
+        "id": 755511, 
+        "hooks_url": "https://api.github.com/orgs/bestfoundation/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JumpstartLab/issues", 
+        "members_url": "https://api.github.com/orgs/JumpstartLab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JumpstartLab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JumpstartLab", 
+        "events_url": "https://api.github.com/orgs/JumpstartLab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/856601?v=3", 
+        "repos_url": "https://api.github.com/orgs/JumpstartLab/repos", 
+        "login": "JumpstartLab", 
+        "id": 856601, 
+        "hooks_url": "https://api.github.com/orgs/JumpstartLab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/peacecorps/issues", 
+        "members_url": "https://api.github.com/orgs/peacecorps/members{/member}", 
+        "description": "Plug into Peace Corps' mission", 
+        "public_members_url": "https://api.github.com/orgs/peacecorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/peacecorps", 
+        "events_url": "https://api.github.com/orgs/peacecorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4389885?v=3", 
+        "repos_url": "https://api.github.com/orgs/peacecorps/repos", 
+        "login": "peacecorps", 
+        "id": 4389885, 
+        "hooks_url": "https://api.github.com/orgs/peacecorps/hooks"
+    }
+]

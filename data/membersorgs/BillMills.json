@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GRIFFINCollaboration/issues", 
+        "members_url": "https://api.github.com/orgs/GRIFFINCollaboration/members{/member}", 
+        "description": "Main developers: @pcbend, @r3dunlop, @VinzenzBildstein, @BillMills", 
+        "public_members_url": "https://api.github.com/orgs/GRIFFINCollaboration/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GRIFFINCollaboration", 
+        "events_url": "https://api.github.com/orgs/GRIFFINCollaboration/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5225693?v=3", 
+        "repos_url": "https://api.github.com/orgs/GRIFFINCollaboration/repos", 
+        "login": "GRIFFINCollaboration", 
+        "id": 5225693, 
+        "hooks_url": "https://api.github.com/orgs/GRIFFINCollaboration/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mozillascience/issues", 
+        "members_url": "https://api.github.com/orgs/mozillascience/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mozillascience/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mozillascience", 
+        "events_url": "https://api.github.com/orgs/mozillascience/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6171823?v=3", 
+        "repos_url": "https://api.github.com/orgs/mozillascience/repos", 
+        "login": "mozillascience", 
+        "id": 6171823, 
+        "hooks_url": "https://api.github.com/orgs/mozillascience/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/IQuOD/issues", 
+        "members_url": "https://api.github.com/orgs/IQuOD/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/IQuOD/public_members{/member}", 
+        "url": "https://api.github.com/orgs/IQuOD", 
+        "events_url": "https://api.github.com/orgs/IQuOD/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8112559?v=3", 
+        "repos_url": "https://api.github.com/orgs/IQuOD/repos", 
+        "login": "IQuOD", 
+        "id": 8112559, 
+        "hooks_url": "https://api.github.com/orgs/IQuOD/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/joshwilsonnc/following{/other_user}", 
+        "events_url": "https://api.github.com/users/joshwilsonnc/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/joshwilsonnc/orgs", 
+        "url": "https://api.github.com/users/joshwilsonnc", 
+        "gists_url": "https://api.github.com/users/joshwilsonnc/gists{/gist_id}", 
+        "html_url": "https://github.com/joshwilsonnc", 
+        "subscriptions_url": "https://api.github.com/users/joshwilsonnc/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1824083?v=3", 
+        "repos_url": "https://api.github.com/users/joshwilsonnc/repos", 
+        "received_events_url": "https://api.github.com/users/joshwilsonnc/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/joshwilsonnc/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "joshwilsonnc", 
+        "type": "User", 
+        "id": 1824083, 
+        "followers_url": "https://api.github.com/users/joshwilsonnc/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/lfarrell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lfarrell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lfarrell/orgs", 
+        "url": "https://api.github.com/users/lfarrell", 
+        "gists_url": "https://api.github.com/users/lfarrell/gists{/gist_id}", 
+        "html_url": "https://github.com/lfarrell", 
+        "subscriptions_url": "https://api.github.com/users/lfarrell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/436691?v=3", 
+        "repos_url": "https://api.github.com/users/lfarrell/repos", 
+        "received_events_url": "https://api.github.com/users/lfarrell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lfarrell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lfarrell", 
+        "type": "User", 
+        "id": 436691, 
+        "followers_url": "https://api.github.com/users/lfarrell/followers"
+    }
+]

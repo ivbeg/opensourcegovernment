@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/kingstonrichard/following{/other_user}", 
+        "events_url": "https://api.github.com/users/kingstonrichard/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/kingstonrichard/orgs", 
+        "url": "https://api.github.com/users/kingstonrichard", 
+        "gists_url": "https://api.github.com/users/kingstonrichard/gists{/gist_id}", 
+        "html_url": "https://github.com/kingstonrichard", 
+        "subscriptions_url": "https://api.github.com/users/kingstonrichard/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4118512?v=3", 
+        "repos_url": "https://api.github.com/users/kingstonrichard/repos", 
+        "received_events_url": "https://api.github.com/users/kingstonrichard/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/kingstonrichard/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "kingstonrichard", 
+        "type": "User", 
+        "id": 4118512, 
+        "followers_url": "https://api.github.com/users/kingstonrichard/followers"
+    }
+]

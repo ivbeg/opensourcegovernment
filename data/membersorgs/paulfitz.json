@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/robotology/issues", 
+        "members_url": "https://api.github.com/orgs/robotology/members{/member}", 
+        "description": "Group software repositories of the iCub eco-system (but code developed is not necessarily iCub specific!).", 
+        "public_members_url": "https://api.github.com/orgs/robotology/public_members{/member}", 
+        "url": "https://api.github.com/orgs/robotology", 
+        "events_url": "https://api.github.com/orgs/robotology/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1587191?v=3", 
+        "repos_url": "https://api.github.com/orgs/robotology/repos", 
+        "login": "robotology", 
+        "id": 1587191, 
+        "hooks_url": "https://api.github.com/orgs/robotology/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/theodi/issues", 
+        "members_url": "https://api.github.com/orgs/theodi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/theodi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/theodi", 
+        "events_url": "https://api.github.com/orgs/theodi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2492770?v=3", 
+        "repos_url": "https://api.github.com/orgs/theodi/repos", 
+        "login": "theodi", 
+        "id": 2492770, 
+        "hooks_url": "https://api.github.com/orgs/theodi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataprotocols/issues", 
+        "members_url": "https://api.github.com/orgs/dataprotocols/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dataprotocols/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprotocols", 
+        "events_url": "https://api.github.com/orgs/dataprotocols/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2647475?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprotocols/repos", 
+        "login": "dataprotocols", 
+        "id": 2647475, 
+        "hooks_url": "https://api.github.com/orgs/dataprotocols/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datacommons/issues", 
+        "members_url": "https://api.github.com/orgs/datacommons/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/datacommons/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datacommons", 
+        "events_url": "https://api.github.com/orgs/datacommons/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5480604?v=3", 
+        "repos_url": "https://api.github.com/orgs/datacommons/repos", 
+        "login": "datacommons", 
+        "id": 5480604, 
+        "hooks_url": "https://api.github.com/orgs/datacommons/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dextro-research/issues", 
+        "members_url": "https://api.github.com/orgs/dextro-research/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dextro-research/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dextro-research", 
+        "events_url": "https://api.github.com/orgs/dextro-research/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8009053?v=3", 
+        "repos_url": "https://api.github.com/orgs/dextro-research/repos", 
+        "login": "dextro-research", 
+        "id": 8009053, 
+        "hooks_url": "https://api.github.com/orgs/dextro-research/hooks"
+    }
+]

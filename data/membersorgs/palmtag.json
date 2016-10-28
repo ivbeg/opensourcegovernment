@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CASL/issues", 
+        "members_url": "https://api.github.com/orgs/CASL/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CASL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CASL", 
+        "events_url": "https://api.github.com/orgs/CASL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2250245?v=3", 
+        "repos_url": "https://api.github.com/orgs/CASL/repos", 
+        "login": "CASL", 
+        "id": 2250245, 
+        "hooks_url": "https://api.github.com/orgs/CASL/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openaustralia/issues", 
+        "members_url": "https://api.github.com/orgs/openaustralia/members{/member}", 
+        "description": "Transforming democracy in Australia with wonderful, free civic projects.", 
+        "public_members_url": "https://api.github.com/orgs/openaustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openaustralia", 
+        "events_url": "https://api.github.com/orgs/openaustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/102012?v=3", 
+        "repos_url": "https://api.github.com/orgs/openaustralia/repos", 
+        "login": "openaustralia", 
+        "id": 102012, 
+        "hooks_url": "https://api.github.com/orgs/openaustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/planningalerts-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/planningalerts-scrapers/members{/member}", 
+        "description": "Scrapers that power PlanningAlerts, hosted on Morph.io", 
+        "public_members_url": "https://api.github.com/orgs/planningalerts-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/planningalerts-scrapers", 
+        "events_url": "https://api.github.com/orgs/planningalerts-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6440888?v=3", 
+        "repos_url": "https://api.github.com/orgs/planningalerts-scrapers/repos", 
+        "login": "planningalerts-scrapers", 
+        "id": 6440888, 
+        "hooks_url": "https://api.github.com/orgs/planningalerts-scrapers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/morph-test-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/morph-test-scrapers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/morph-test-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/morph-test-scrapers", 
+        "events_url": "https://api.github.com/orgs/morph-test-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6722010?v=3", 
+        "repos_url": "https://api.github.com/orgs/morph-test-scrapers/repos", 
+        "login": "morph-test-scrapers", 
+        "id": 6722010, 
+        "hooks_url": "https://api.github.com/orgs/morph-test-scrapers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AOGPN/issues", 
+        "members_url": "https://api.github.com/orgs/AOGPN/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AOGPN/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AOGPN", 
+        "events_url": "https://api.github.com/orgs/AOGPN/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16696676?v=3", 
+        "repos_url": "https://api.github.com/orgs/AOGPN/repos", 
+        "login": "AOGPN", 
+        "id": 16696676, 
+        "hooks_url": "https://api.github.com/orgs/AOGPN/hooks"
+    }
+]

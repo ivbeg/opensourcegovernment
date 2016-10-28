@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spinen/issues", 
+        "members_url": "https://api.github.com/orgs/spinen/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/spinen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spinen", 
+        "events_url": "https://api.github.com/orgs/spinen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4213709?v=3", 
+        "repos_url": "https://api.github.com/orgs/spinen/repos", 
+        "login": "spinen", 
+        "id": 4213709, 
+        "hooks_url": "https://api.github.com/orgs/spinen/hooks"
+    }
+]

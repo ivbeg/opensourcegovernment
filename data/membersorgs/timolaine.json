@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NatLibFi/issues", 
+        "members_url": "https://api.github.com/orgs/NatLibFi/members{/member}", 
+        "description": "Repositories of the National Library of Finland", 
+        "public_members_url": "https://api.github.com/orgs/NatLibFi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NatLibFi", 
+        "events_url": "https://api.github.com/orgs/NatLibFi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7656207?v=3", 
+        "repos_url": "https://api.github.com/orgs/NatLibFi/repos", 
+        "login": "NatLibFi", 
+        "id": 7656207, 
+        "hooks_url": "https://api.github.com/orgs/NatLibFi/hooks"
+    }
+]

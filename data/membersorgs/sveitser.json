@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/dimsumlabs/issues", 
+        "members_url": "https://api.github.com/orgs/dimsumlabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dimsumlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dimsumlabs", 
+        "events_url": "https://api.github.com/orgs/dimsumlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1673629?v=3", 
+        "repos_url": "https://api.github.com/orgs/dimsumlabs/repos", 
+        "login": "dimsumlabs", 
+        "id": 1673629, 
+        "hooks_url": "https://api.github.com/orgs/dimsumlabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/szetosgroup/issues", 
+        "members_url": "https://api.github.com/orgs/szetosgroup/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/szetosgroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/szetosgroup", 
+        "events_url": "https://api.github.com/orgs/szetosgroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2225778?v=3", 
+        "repos_url": "https://api.github.com/orgs/szetosgroup/repos", 
+        "login": "szetosgroup", 
+        "id": 2225778, 
+        "hooks_url": "https://api.github.com/orgs/szetosgroup/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HKCodeCamp/issues", 
+        "members_url": "https://api.github.com/orgs/HKCodeCamp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HKCodeCamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HKCodeCamp", 
+        "events_url": "https://api.github.com/orgs/HKCodeCamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2505558?v=3", 
+        "repos_url": "https://api.github.com/orgs/HKCodeCamp/repos", 
+        "login": "HKCodeCamp", 
+        "id": 2505558, 
+        "hooks_url": "https://api.github.com/orgs/HKCodeCamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }
+]

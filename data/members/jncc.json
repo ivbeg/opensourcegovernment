@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mattdebont/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mattdebont/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mattdebont/orgs", 
+        "url": "https://api.github.com/users/mattdebont", 
+        "gists_url": "https://api.github.com/users/mattdebont/gists{/gist_id}", 
+        "html_url": "https://github.com/mattdebont", 
+        "subscriptions_url": "https://api.github.com/users/mattdebont/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2339537?v=3", 
+        "repos_url": "https://api.github.com/users/mattdebont/repos", 
+        "received_events_url": "https://api.github.com/users/mattdebont/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mattdebont/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mattdebont", 
+        "type": "User", 
+        "id": 2339537, 
+        "followers_url": "https://api.github.com/users/mattdebont/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/sumothecat/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sumothecat/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sumothecat/orgs", 
+        "url": "https://api.github.com/users/sumothecat", 
+        "gists_url": "https://api.github.com/users/sumothecat/gists{/gist_id}", 
+        "html_url": "https://github.com/sumothecat", 
+        "subscriptions_url": "https://api.github.com/users/sumothecat/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/917606?v=3", 
+        "repos_url": "https://api.github.com/users/sumothecat/repos", 
+        "received_events_url": "https://api.github.com/users/sumothecat/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sumothecat/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sumothecat", 
+        "type": "User", 
+        "id": 917606, 
+        "followers_url": "https://api.github.com/users/sumothecat/followers"
+    }
+]

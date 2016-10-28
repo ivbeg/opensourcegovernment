@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/andrewsprinz/following{/other_user}", 
+        "events_url": "https://api.github.com/users/andrewsprinz/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/andrewsprinz/orgs", 
+        "url": "https://api.github.com/users/andrewsprinz", 
+        "gists_url": "https://api.github.com/users/andrewsprinz/gists{/gist_id}", 
+        "html_url": "https://github.com/andrewsprinz", 
+        "subscriptions_url": "https://api.github.com/users/andrewsprinz/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/619374?v=3", 
+        "repos_url": "https://api.github.com/users/andrewsprinz/repos", 
+        "received_events_url": "https://api.github.com/users/andrewsprinz/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/andrewsprinz/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "andrewsprinz", 
+        "type": "User", 
+        "id": 619374, 
+        "followers_url": "https://api.github.com/users/andrewsprinz/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/codeulike/following{/other_user}", 
+        "events_url": "https://api.github.com/users/codeulike/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/codeulike/orgs", 
+        "url": "https://api.github.com/users/codeulike", 
+        "gists_url": "https://api.github.com/users/codeulike/gists{/gist_id}", 
+        "html_url": "https://github.com/codeulike", 
+        "subscriptions_url": "https://api.github.com/users/codeulike/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/999083?v=3", 
+        "repos_url": "https://api.github.com/users/codeulike/repos", 
+        "received_events_url": "https://api.github.com/users/codeulike/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/codeulike/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "codeulike", 
+        "type": "User", 
+        "id": 999083, 
+        "followers_url": "https://api.github.com/users/codeulike/followers"
+    }
+]

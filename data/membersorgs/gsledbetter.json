@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/informaticslab/issues", 
+        "members_url": "https://api.github.com/orgs/informaticslab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/informaticslab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/informaticslab", 
+        "events_url": "https://api.github.com/orgs/informaticslab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1820436?v=3", 
+        "repos_url": "https://api.github.com/orgs/informaticslab/repos", 
+        "login": "informaticslab", 
+        "id": 1820436, 
+        "hooks_url": "https://api.github.com/orgs/informaticslab/hooks"
+    }
+]

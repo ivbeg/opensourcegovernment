@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Geoportail-Luxembourg/issues", 
+        "members_url": "https://api.github.com/orgs/Geoportail-Luxembourg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Geoportail-Luxembourg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Geoportail-Luxembourg", 
+        "events_url": "https://api.github.com/orgs/Geoportail-Luxembourg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5592884?v=3", 
+        "repos_url": "https://api.github.com/orgs/Geoportail-Luxembourg/repos", 
+        "login": "Geoportail-Luxembourg", 
+        "id": 5592884, 
+        "hooks_url": "https://api.github.com/orgs/Geoportail-Luxembourg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendatalu/issues", 
+        "members_url": "https://api.github.com/orgs/opendatalu/members{/member}", 
+        "description": "Portail open data Luxembourg", 
+        "public_members_url": "https://api.github.com/orgs/opendatalu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendatalu", 
+        "events_url": "https://api.github.com/orgs/opendatalu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15943650?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendatalu/repos", 
+        "login": "opendatalu", 
+        "id": 15943650, 
+        "hooks_url": "https://api.github.com/orgs/opendatalu/hooks"
+    }
+]

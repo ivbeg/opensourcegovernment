@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/erdc-cm/issues", 
+        "members_url": "https://api.github.com/orgs/erdc-cm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/erdc-cm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/erdc-cm", 
+        "events_url": "https://api.github.com/orgs/erdc-cm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/616627?v=3", 
+        "repos_url": "https://api.github.com/orgs/erdc-cm/repos", 
+        "login": "erdc-cm", 
+        "id": 616627, 
+        "hooks_url": "https://api.github.com/orgs/erdc-cm/hooks"
+    }
+]

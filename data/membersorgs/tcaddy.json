@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforgso/issues", 
+        "members_url": "https://api.github.com/orgs/codeforgso/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforgso/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforgso", 
+        "events_url": "https://api.github.com/orgs/codeforgso/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11655503?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforgso/repos", 
+        "login": "codeforgso", 
+        "id": 11655503, 
+        "hooks_url": "https://api.github.com/orgs/codeforgso/hooks"
+    }
+]

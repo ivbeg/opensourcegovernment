@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openseattle/issues", 
+        "members_url": "https://api.github.com/orgs/openseattle/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openseattle/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openseattle", 
+        "events_url": "https://api.github.com/orgs/openseattle/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3466034?v=3", 
+        "repos_url": "https://api.github.com/orgs/openseattle/repos", 
+        "login": "openseattle", 
+        "id": 3466034, 
+        "hooks_url": "https://api.github.com/orgs/openseattle/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/smartercleanup/issues", 
+        "members_url": "https://api.github.com/orgs/smartercleanup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smartercleanup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smartercleanup", 
+        "events_url": "https://api.github.com/orgs/smartercleanup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7245803?v=3", 
+        "repos_url": "https://api.github.com/orgs/smartercleanup/repos", 
+        "login": "smartercleanup", 
+        "id": 7245803, 
+        "hooks_url": "https://api.github.com/orgs/smartercleanup/hooks"
+    }
+]

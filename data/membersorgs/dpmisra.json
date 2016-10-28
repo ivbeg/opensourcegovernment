@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opengovplatform/issues", 
+        "members_url": "https://api.github.com/orgs/opengovplatform/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opengovplatform/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opengovplatform", 
+        "events_url": "https://api.github.com/orgs/opengovplatform/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1231768?v=3", 
+        "repos_url": "https://api.github.com/orgs/opengovplatform/repos", 
+        "login": "opengovplatform", 
+        "id": 1231768, 
+        "hooks_url": "https://api.github.com/orgs/opengovplatform/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataPortalIndia/issues", 
+        "members_url": "https://api.github.com/orgs/DataPortalIndia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DataPortalIndia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataPortalIndia", 
+        "events_url": "https://api.github.com/orgs/DataPortalIndia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3788393?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataPortalIndia/repos", 
+        "login": "DataPortalIndia", 
+        "id": 3788393, 
+        "hooks_url": "https://api.github.com/orgs/DataPortalIndia/hooks"
+    }
+]

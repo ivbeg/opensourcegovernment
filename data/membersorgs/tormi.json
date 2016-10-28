@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kinnisvara/issues", 
+        "members_url": "https://api.github.com/orgs/kinnisvara/members{/member}", 
+        "description": "Kinnisvarateemade t\u00f6\u00f6toad", 
+        "public_members_url": "https://api.github.com/orgs/kinnisvara/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kinnisvara", 
+        "events_url": "https://api.github.com/orgs/kinnisvara/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12710199?v=3", 
+        "repos_url": "https://api.github.com/orgs/kinnisvara/repos", 
+        "login": "kinnisvara", 
+        "id": 12710199, 
+        "hooks_url": "https://api.github.com/orgs/kinnisvara/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/buildig/issues", 
+        "members_url": "https://api.github.com/orgs/buildig/members{/member}", 
+        "description": "Digging through the building issues", 
+        "public_members_url": "https://api.github.com/orgs/buildig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/buildig", 
+        "events_url": "https://api.github.com/orgs/buildig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21312525?v=3", 
+        "repos_url": "https://api.github.com/orgs/buildig/repos", 
+        "login": "buildig", 
+        "id": 21312525, 
+        "hooks_url": "https://api.github.com/orgs/buildig/hooks"
+    }
+]

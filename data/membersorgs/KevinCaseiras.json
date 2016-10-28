@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nysenate/issues", 
+        "members_url": "https://api.github.com/orgs/nysenate/members{/member}", 
+        "description": "The official GitHub account of the New York State Senate", 
+        "public_members_url": "https://api.github.com/orgs/nysenate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nysenate", 
+        "events_url": "https://api.github.com/orgs/nysenate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/94091?v=3", 
+        "repos_url": "https://api.github.com/orgs/nysenate/repos", 
+        "login": "nysenate", 
+        "id": 94091, 
+        "hooks_url": "https://api.github.com/orgs/nysenate/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nyantec/issues", 
+        "members_url": "https://api.github.com/orgs/nyantec/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nyantec/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nyantec", 
+        "events_url": "https://api.github.com/orgs/nyantec/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4959905?v=3", 
+        "repos_url": "https://api.github.com/orgs/nyantec/repos", 
+        "login": "nyantec", 
+        "id": 4959905, 
+        "hooks_url": "https://api.github.com/orgs/nyantec/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/socialc0de/issues", 
+        "members_url": "https://api.github.com/orgs/socialc0de/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/socialc0de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/socialc0de", 
+        "events_url": "https://api.github.com/orgs/socialc0de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14241361?v=3", 
+        "repos_url": "https://api.github.com/orgs/socialc0de/repos", 
+        "login": "socialc0de", 
+        "id": 14241361, 
+        "hooks_url": "https://api.github.com/orgs/socialc0de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/qrbon/issues", 
+        "members_url": "https://api.github.com/orgs/qrbon/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/qrbon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/qrbon", 
+        "events_url": "https://api.github.com/orgs/qrbon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20011656?v=3", 
+        "repos_url": "https://api.github.com/orgs/qrbon/repos", 
+        "login": "qrbon", 
+        "id": 20011656, 
+        "hooks_url": "https://api.github.com/orgs/qrbon/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tabeethaschool/issues", 
+        "members_url": "https://api.github.com/orgs/tabeethaschool/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/tabeethaschool/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tabeethaschool", 
+        "events_url": "https://api.github.com/orgs/tabeethaschool/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21280206?v=3", 
+        "repos_url": "https://api.github.com/orgs/tabeethaschool/repos", 
+        "login": "tabeethaschool", 
+        "id": 21280206, 
+        "hooks_url": "https://api.github.com/orgs/tabeethaschool/hooks"
+    }
+]

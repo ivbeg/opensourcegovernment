@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/LucidTechnics/issues", 
+        "members_url": "https://api.github.com/orgs/LucidTechnics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/LucidTechnics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LucidTechnics", 
+        "events_url": "https://api.github.com/orgs/LucidTechnics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1200141?v=3", 
+        "repos_url": "https://api.github.com/orgs/LucidTechnics/repos", 
+        "login": "LucidTechnics", 
+        "id": 1200141, 
+        "hooks_url": "https://api.github.com/orgs/LucidTechnics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Airlift-Framework/issues", 
+        "members_url": "https://api.github.com/orgs/Airlift-Framework/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Airlift-Framework/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Airlift-Framework", 
+        "events_url": "https://api.github.com/orgs/Airlift-Framework/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3648430?v=3", 
+        "repos_url": "https://api.github.com/orgs/Airlift-Framework/repos", 
+        "login": "Airlift-Framework", 
+        "id": 3648430, 
+        "hooks_url": "https://api.github.com/orgs/Airlift-Framework/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/US-CBP/issues", 
+        "members_url": "https://api.github.com/orgs/US-CBP/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/US-CBP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/US-CBP", 
+        "events_url": "https://api.github.com/orgs/US-CBP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20208707?v=3", 
+        "repos_url": "https://api.github.com/orgs/US-CBP/repos", 
+        "login": "US-CBP", 
+        "id": 20208707, 
+        "hooks_url": "https://api.github.com/orgs/US-CBP/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nko/issues", 
+        "members_url": "https://api.github.com/orgs/nko/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko", 
+        "events_url": "https://api.github.com/orgs/nko/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/358826?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko/repos", 
+        "login": "nko", 
+        "id": 358826, 
+        "hooks_url": "https://api.github.com/orgs/nko/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thacker/issues", 
+        "members_url": "https://api.github.com/orgs/thacker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/thacker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thacker", 
+        "events_url": "https://api.github.com/orgs/thacker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/494319?v=3", 
+        "repos_url": "https://api.github.com/orgs/thacker/repos", 
+        "login": "thacker", 
+        "id": 494319, 
+        "hooks_url": "https://api.github.com/orgs/thacker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nko2/issues", 
+        "members_url": "https://api.github.com/orgs/nko2/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko2/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko2", 
+        "events_url": "https://api.github.com/orgs/nko2/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/838448?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko2/repos", 
+        "login": "nko2", 
+        "id": 838448, 
+        "hooks_url": "https://api.github.com/orgs/nko2/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/calamar-io/issues", 
+        "members_url": "https://api.github.com/orgs/calamar-io/members{/member}", 
+        "description": "Free Software projects built at or used by Calamar.io", 
+        "public_members_url": "https://api.github.com/orgs/calamar-io/public_members{/member}", 
+        "url": "https://api.github.com/orgs/calamar-io", 
+        "events_url": "https://api.github.com/orgs/calamar-io/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17731196?v=3", 
+        "repos_url": "https://api.github.com/orgs/calamar-io/repos", 
+        "login": "calamar-io", 
+        "id": 17731196, 
+        "hooks_url": "https://api.github.com/orgs/calamar-io/hooks"
+    }
+]

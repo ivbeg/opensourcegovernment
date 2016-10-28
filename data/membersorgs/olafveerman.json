@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/developmentseed/issues", 
+        "members_url": "https://api.github.com/orgs/developmentseed/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/developmentseed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/developmentseed", 
+        "events_url": "https://api.github.com/orgs/developmentseed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/92384?v=3", 
+        "repos_url": "https://api.github.com/orgs/developmentseed/repos", 
+        "login": "developmentseed", 
+        "id": 92384, 
+        "hooks_url": "https://api.github.com/orgs/developmentseed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openaq/issues", 
+        "members_url": "https://api.github.com/orgs/openaq/members{/member}", 
+        "description": "An open platform for air quality data", 
+        "public_members_url": "https://api.github.com/orgs/openaq/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openaq", 
+        "events_url": "https://api.github.com/orgs/openaq/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11806583?v=3", 
+        "repos_url": "https://api.github.com/orgs/openaq/repos", 
+        "login": "openaq", 
+        "id": 11806583, 
+        "hooks_url": "https://api.github.com/orgs/openaq/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/procurement-analytics/issues", 
+        "members_url": "https://api.github.com/orgs/procurement-analytics/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/procurement-analytics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/procurement-analytics", 
+        "events_url": "https://api.github.com/orgs/procurement-analytics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13034762?v=3", 
+        "repos_url": "https://api.github.com/orgs/procurement-analytics/repos", 
+        "login": "procurement-analytics", 
+        "id": 13034762, 
+        "hooks_url": "https://api.github.com/orgs/procurement-analytics/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/TypeHK/issues", 
+        "members_url": "https://api.github.com/orgs/TypeHK/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/TypeHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TypeHK", 
+        "events_url": "https://api.github.com/orgs/TypeHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1407529?v=3", 
+        "repos_url": "https://api.github.com/orgs/TypeHK/repos", 
+        "login": "TypeHK", 
+        "id": 1407529, 
+        "hooks_url": "https://api.github.com/orgs/TypeHK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/generalassembly-studio/issues", 
+        "members_url": "https://api.github.com/orgs/generalassembly-studio/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/generalassembly-studio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/generalassembly-studio", 
+        "events_url": "https://api.github.com/orgs/generalassembly-studio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1650043?v=3", 
+        "repos_url": "https://api.github.com/orgs/generalassembly-studio/repos", 
+        "login": "generalassembly-studio", 
+        "id": 1650043, 
+        "hooks_url": "https://api.github.com/orgs/generalassembly-studio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PythonLabs/issues", 
+        "members_url": "https://api.github.com/orgs/PythonLabs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/PythonLabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PythonLabs", 
+        "events_url": "https://api.github.com/orgs/PythonLabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2216930?v=3", 
+        "repos_url": "https://api.github.com/orgs/PythonLabs/repos", 
+        "login": "PythonLabs", 
+        "id": 2216930, 
+        "hooks_url": "https://api.github.com/orgs/PythonLabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HKCodeCamp/issues", 
+        "members_url": "https://api.github.com/orgs/HKCodeCamp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HKCodeCamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HKCodeCamp", 
+        "events_url": "https://api.github.com/orgs/HKCodeCamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2505558?v=3", 
+        "repos_url": "https://api.github.com/orgs/HKCodeCamp/repos", 
+        "login": "HKCodeCamp", 
+        "id": 2505558, 
+        "hooks_url": "https://api.github.com/orgs/HKCodeCamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ODHK/issues", 
+        "members_url": "https://api.github.com/orgs/ODHK/members{/member}", 
+        "description": "Community for Open Data enthusiasts in Hong Kong", 
+        "public_members_url": "https://api.github.com/orgs/ODHK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ODHK", 
+        "events_url": "https://api.github.com/orgs/ODHK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4136741?v=3", 
+        "repos_url": "https://api.github.com/orgs/ODHK/repos", 
+        "login": "ODHK", 
+        "id": 4136741, 
+        "hooks_url": "https://api.github.com/orgs/ODHK/hooks"
+    }
+]

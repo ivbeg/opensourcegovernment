@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sunpy/issues", 
+        "members_url": "https://api.github.com/orgs/sunpy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/sunpy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sunpy", 
+        "events_url": "https://api.github.com/orgs/sunpy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/963197?v=3", 
+        "repos_url": "https://api.github.com/orgs/sunpy/repos", 
+        "login": "sunpy", 
+        "id": 963197, 
+        "hooks_url": "https://api.github.com/orgs/sunpy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rice-solar-physics/issues", 
+        "members_url": "https://api.github.com/orgs/rice-solar-physics/members{/member}", 
+        "description": "Software developed by the solar physics research group at Rice University, Houston, TX.", 
+        "public_members_url": "https://api.github.com/orgs/rice-solar-physics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rice-solar-physics", 
+        "events_url": "https://api.github.com/orgs/rice-solar-physics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8676158?v=3", 
+        "repos_url": "https://api.github.com/orgs/rice-solar-physics/repos", 
+        "login": "rice-solar-physics", 
+        "id": 8676158, 
+        "hooks_url": "https://api.github.com/orgs/rice-solar-physics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/rescu/issues", 
+        "members_url": "https://api.github.com/orgs/rescu/members{/member}", 
+        "description": "Introduction to scientific computing for high school/undergraduate students through simple physics problems.", 
+        "public_members_url": "https://api.github.com/orgs/rescu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rescu", 
+        "events_url": "https://api.github.com/orgs/rescu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12417852?v=3", 
+        "repos_url": "https://api.github.com/orgs/rescu/repos", 
+        "login": "rescu", 
+        "id": 12417852, 
+        "hooks_url": "https://api.github.com/orgs/rescu/hooks"
+    }
+]

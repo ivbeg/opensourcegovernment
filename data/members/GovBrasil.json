@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/valessiobrito/following{/other_user}", 
+        "events_url": "https://api.github.com/users/valessiobrito/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/valessiobrito/orgs", 
+        "url": "https://api.github.com/users/valessiobrito", 
+        "gists_url": "https://api.github.com/users/valessiobrito/gists{/gist_id}", 
+        "html_url": "https://github.com/valessiobrito", 
+        "subscriptions_url": "https://api.github.com/users/valessiobrito/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/310049?v=3", 
+        "repos_url": "https://api.github.com/users/valessiobrito/repos", 
+        "received_events_url": "https://api.github.com/users/valessiobrito/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/valessiobrito/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "valessiobrito", 
+        "type": "User", 
+        "id": 310049, 
+        "followers_url": "https://api.github.com/users/valessiobrito/followers"
+    }
+]

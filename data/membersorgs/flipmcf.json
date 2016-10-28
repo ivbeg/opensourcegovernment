@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/RadioFreeAsia/issues", 
+        "members_url": "https://api.github.com/orgs/RadioFreeAsia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/RadioFreeAsia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RadioFreeAsia", 
+        "events_url": "https://api.github.com/orgs/RadioFreeAsia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5598614?v=3", 
+        "repos_url": "https://api.github.com/orgs/RadioFreeAsia/repos", 
+        "login": "RadioFreeAsia", 
+        "id": 5598614, 
+        "hooks_url": "https://api.github.com/orgs/RadioFreeAsia/hooks"
+    }
+]

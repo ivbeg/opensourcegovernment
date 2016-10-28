@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforsanjose/issues", 
+        "members_url": "https://api.github.com/orgs/codeforsanjose/members{/member}", 
+        "description": "Code for America Brigade in San Jose", 
+        "public_members_url": "https://api.github.com/orgs/codeforsanjose/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforsanjose", 
+        "events_url": "https://api.github.com/orgs/codeforsanjose/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6627417?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforsanjose/repos", 
+        "login": "codeforsanjose", 
+        "id": 6627417, 
+        "hooks_url": "https://api.github.com/orgs/codeforsanjose/hooks"
+    }
+]

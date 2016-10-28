@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/agrc/issues", 
+        "members_url": "https://api.github.com/orgs/agrc/members{/member}", 
+        "description": "Automated Geographic Reference Center: Location Matters.", 
+        "public_members_url": "https://api.github.com/orgs/agrc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/agrc", 
+        "events_url": "https://api.github.com/orgs/agrc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/709415?v=3", 
+        "repos_url": "https://api.github.com/orgs/agrc/repos", 
+        "login": "agrc", 
+        "id": 709415, 
+        "hooks_url": "https://api.github.com/orgs/agrc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/FreedomCemetery/issues", 
+        "members_url": "https://api.github.com/orgs/FreedomCemetery/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/FreedomCemetery/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FreedomCemetery", 
+        "events_url": "https://api.github.com/orgs/FreedomCemetery/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16642232?v=3", 
+        "repos_url": "https://api.github.com/orgs/FreedomCemetery/repos", 
+        "login": "FreedomCemetery", 
+        "id": 16642232, 
+        "hooks_url": "https://api.github.com/orgs/FreedomCemetery/hooks"
+    }
+]

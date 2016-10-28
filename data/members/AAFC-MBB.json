@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/oxyko/following{/other_user}", 
+        "events_url": "https://api.github.com/users/oxyko/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/oxyko/orgs", 
+        "url": "https://api.github.com/users/oxyko", 
+        "gists_url": "https://api.github.com/users/oxyko/gists{/gist_id}", 
+        "html_url": "https://github.com/oxyko", 
+        "subscriptions_url": "https://api.github.com/users/oxyko/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2932487?v=3", 
+        "repos_url": "https://api.github.com/users/oxyko/repos", 
+        "received_events_url": "https://api.github.com/users/oxyko/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/oxyko/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "oxyko", 
+        "type": "User", 
+        "id": 2932487, 
+        "followers_url": "https://api.github.com/users/oxyko/followers"
+    }
+]

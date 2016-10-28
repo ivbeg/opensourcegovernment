@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforraleigh/issues", 
+        "members_url": "https://api.github.com/orgs/codeforraleigh/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforraleigh/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforraleigh", 
+        "events_url": "https://api.github.com/orgs/codeforraleigh/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2907565?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforraleigh/repos", 
+        "login": "codeforraleigh", 
+        "id": 2907565, 
+        "hooks_url": "https://api.github.com/orgs/codeforraleigh/hooks"
+    }
+]

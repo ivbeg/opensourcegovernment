@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/popuparchive/issues", 
+        "members_url": "https://api.github.com/orgs/popuparchive/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/popuparchive/public_members{/member}", 
+        "url": "https://api.github.com/orgs/popuparchive", 
+        "events_url": "https://api.github.com/orgs/popuparchive/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2754477?v=3", 
+        "repos_url": "https://api.github.com/orgs/popuparchive/repos", 
+        "login": "popuparchive", 
+        "id": 2754477, 
+        "hooks_url": "https://api.github.com/orgs/popuparchive/hooks"
+    }
+]

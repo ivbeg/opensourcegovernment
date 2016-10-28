@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/companieshouse/issues", 
+        "members_url": "https://api.github.com/orgs/companieshouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/companieshouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/companieshouse", 
+        "events_url": "https://api.github.com/orgs/companieshouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4947323?v=3", 
+        "repos_url": "https://api.github.com/orgs/companieshouse/repos", 
+        "login": "companieshouse", 
+        "id": 4947323, 
+        "hooks_url": "https://api.github.com/orgs/companieshouse/hooks"
+    }
+]

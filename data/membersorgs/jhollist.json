@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ropensci/issues", 
+        "members_url": "https://api.github.com/orgs/ropensci/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ropensci/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ropensci", 
+        "events_url": "https://api.github.com/orgs/ropensci/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=3", 
+        "repos_url": "https://api.github.com/orgs/ropensci/repos", 
+        "login": "ropensci", 
+        "id": 1200269, 
+        "hooks_url": "https://api.github.com/orgs/ropensci/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/USEPA/issues", 
+        "members_url": "https://api.github.com/orgs/USEPA/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/USEPA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USEPA", 
+        "events_url": "https://api.github.com/orgs/USEPA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1304320?v=3", 
+        "repos_url": "https://api.github.com/orgs/USEPA/repos", 
+        "login": "USEPA", 
+        "id": 1304320, 
+        "hooks_url": "https://api.github.com/orgs/USEPA/hooks"
+    }
+]

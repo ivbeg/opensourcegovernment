@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kyrug/issues", 
+        "members_url": "https://api.github.com/orgs/kyrug/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/kyrug/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kyrug", 
+        "events_url": "https://api.github.com/orgs/kyrug/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/28349?v=3", 
+        "repos_url": "https://api.github.com/orgs/kyrug/repos", 
+        "login": "kyrug", 
+        "id": 28349, 
+        "hooks_url": "https://api.github.com/orgs/kyrug/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/collexion/issues", 
+        "members_url": "https://api.github.com/orgs/collexion/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/collexion/public_members{/member}", 
+        "url": "https://api.github.com/orgs/collexion", 
+        "events_url": "https://api.github.com/orgs/collexion/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141085?v=3", 
+        "repos_url": "https://api.github.com/orgs/collexion/repos", 
+        "login": "collexion", 
+        "id": 141085, 
+        "hooks_url": "https://api.github.com/orgs/collexion/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/autonodoc/issues", 
+        "members_url": "https://api.github.com/orgs/autonodoc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/autonodoc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/autonodoc", 
+        "events_url": "https://api.github.com/orgs/autonodoc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1088067?v=3", 
+        "repos_url": "https://api.github.com/orgs/autonodoc/repos", 
+        "login": "autonodoc", 
+        "id": 1088067, 
+        "hooks_url": "https://api.github.com/orgs/autonodoc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/iostruct/issues", 
+        "members_url": "https://api.github.com/orgs/iostruct/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/iostruct/public_members{/member}", 
+        "url": "https://api.github.com/orgs/iostruct", 
+        "events_url": "https://api.github.com/orgs/iostruct/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1495010?v=3", 
+        "repos_url": "https://api.github.com/orgs/iostruct/repos", 
+        "login": "iostruct", 
+        "id": 1495010, 
+        "hooks_url": "https://api.github.com/orgs/iostruct/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lfucg/issues", 
+        "members_url": "https://api.github.com/orgs/lfucg/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lfucg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lfucg", 
+        "events_url": "https://api.github.com/orgs/lfucg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5739571?v=3", 
+        "repos_url": "https://api.github.com/orgs/lfucg/repos", 
+        "login": "lfucg", 
+        "id": 5739571, 
+        "hooks_url": "https://api.github.com/orgs/lfucg/hooks"
+    }
+]

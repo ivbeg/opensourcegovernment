@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/capybala/issues", 
+        "members_url": "https://api.github.com/orgs/capybala/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/capybala/public_members{/member}", 
+        "url": "https://api.github.com/orgs/capybala", 
+        "events_url": "https://api.github.com/orgs/capybala/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6622115?v=3", 
+        "repos_url": "https://api.github.com/orgs/capybala/repos", 
+        "login": "capybala", 
+        "id": 6622115, 
+        "hooks_url": "https://api.github.com/orgs/capybala/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforkobe/issues", 
+        "members_url": "https://api.github.com/orgs/codeforkobe/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforkobe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforkobe", 
+        "events_url": "https://api.github.com/orgs/codeforkobe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10889832?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforkobe/repos", 
+        "login": "codeforkobe", 
+        "id": 10889832, 
+        "hooks_url": "https://api.github.com/orgs/codeforkobe/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GeekHouseOkinawa/issues", 
+        "members_url": "https://api.github.com/orgs/GeekHouseOkinawa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GeekHouseOkinawa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeekHouseOkinawa", 
+        "events_url": "https://api.github.com/orgs/GeekHouseOkinawa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1576827?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeekHouseOkinawa/repos", 
+        "login": "GeekHouseOkinawa", 
+        "id": 1576827, 
+        "hooks_url": "https://api.github.com/orgs/GeekHouseOkinawa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okinawarb/issues", 
+        "members_url": "https://api.github.com/orgs/okinawarb/members{/member}", 
+        "description": "Okinawa Ruby User Group", 
+        "public_members_url": "https://api.github.com/orgs/okinawarb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okinawarb", 
+        "events_url": "https://api.github.com/orgs/okinawarb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3601007?v=3", 
+        "repos_url": "https://api.github.com/orgs/okinawarb/repos", 
+        "login": "okinawarb", 
+        "id": 3601007, 
+        "hooks_url": "https://api.github.com/orgs/okinawarb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/yasslab/issues", 
+        "members_url": "https://api.github.com/orgs/yasslab/members{/member}", 
+        "description": "Having a Good Life with OpenSource ;)", 
+        "public_members_url": "https://api.github.com/orgs/yasslab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/yasslab", 
+        "events_url": "https://api.github.com/orgs/yasslab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7250215?v=3", 
+        "repos_url": "https://api.github.com/orgs/yasslab/repos", 
+        "login": "yasslab", 
+        "id": 7250215, 
+        "hooks_url": "https://api.github.com/orgs/yasslab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforOkinawa/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforOkinawa/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeforOkinawa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforOkinawa", 
+        "events_url": "https://api.github.com/orgs/CodeforOkinawa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7360004?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforOkinawa/repos", 
+        "login": "CodeforOkinawa", 
+        "id": 7360004, 
+        "hooks_url": "https://api.github.com/orgs/CodeforOkinawa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/RHGReadingOkinawa/issues", 
+        "members_url": "https://api.github.com/orgs/RHGReadingOkinawa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/RHGReadingOkinawa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RHGReadingOkinawa", 
+        "events_url": "https://api.github.com/orgs/RHGReadingOkinawa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7467172?v=3", 
+        "repos_url": "https://api.github.com/orgs/RHGReadingOkinawa/repos", 
+        "login": "RHGReadingOkinawa", 
+        "id": 7467172, 
+        "hooks_url": "https://api.github.com/orgs/RHGReadingOkinawa/hooks"
+    }
+]

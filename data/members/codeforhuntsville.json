@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/chrisbeaman/following{/other_user}", 
+        "events_url": "https://api.github.com/users/chrisbeaman/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/chrisbeaman/orgs", 
+        "url": "https://api.github.com/users/chrisbeaman", 
+        "gists_url": "https://api.github.com/users/chrisbeaman/gists{/gist_id}", 
+        "html_url": "https://github.com/chrisbeaman", 
+        "subscriptions_url": "https://api.github.com/users/chrisbeaman/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/184221?v=3", 
+        "repos_url": "https://api.github.com/users/chrisbeaman/repos", 
+        "received_events_url": "https://api.github.com/users/chrisbeaman/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/chrisbeaman/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "chrisbeaman", 
+        "type": "User", 
+        "id": 184221, 
+        "followers_url": "https://api.github.com/users/chrisbeaman/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/huberf/following{/other_user}", 
+        "events_url": "https://api.github.com/users/huberf/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/huberf/orgs", 
+        "url": "https://api.github.com/users/huberf", 
+        "gists_url": "https://api.github.com/users/huberf/gists{/gist_id}", 
+        "html_url": "https://github.com/huberf", 
+        "subscriptions_url": "https://api.github.com/users/huberf/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10063850?v=3", 
+        "repos_url": "https://api.github.com/users/huberf/repos", 
+        "received_events_url": "https://api.github.com/users/huberf/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/huberf/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "huberf", 
+        "type": "User", 
+        "id": 10063850, 
+        "followers_url": "https://api.github.com/users/huberf/followers"
+    }
+]

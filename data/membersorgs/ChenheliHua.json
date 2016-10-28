@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/peacecorps/issues", 
+        "members_url": "https://api.github.com/orgs/peacecorps/members{/member}", 
+        "description": "Plug into Peace Corps' mission", 
+        "public_members_url": "https://api.github.com/orgs/peacecorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/peacecorps", 
+        "events_url": "https://api.github.com/orgs/peacecorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4389885?v=3", 
+        "repos_url": "https://api.github.com/orgs/peacecorps/repos", 
+        "login": "peacecorps", 
+        "id": 4389885, 
+        "hooks_url": "https://api.github.com/orgs/peacecorps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atlrug-rhok/issues", 
+        "members_url": "https://api.github.com/orgs/atlrug-rhok/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/atlrug-rhok/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atlrug-rhok", 
+        "events_url": "https://api.github.com/orgs/atlrug-rhok/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4514218?v=3", 
+        "repos_url": "https://api.github.com/orgs/atlrug-rhok/repos", 
+        "login": "atlrug-rhok", 
+        "id": 4514218, 
+        "hooks_url": "https://api.github.com/orgs/atlrug-rhok/hooks"
+    }
+]

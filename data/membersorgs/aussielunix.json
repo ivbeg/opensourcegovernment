@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/devopsaustralia/issues", 
+        "members_url": "https://api.github.com/orgs/devopsaustralia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/devopsaustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/devopsaustralia", 
+        "events_url": "https://api.github.com/orgs/devopsaustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5689802?v=3", 
+        "repos_url": "https://api.github.com/orgs/devopsaustralia/repos", 
+        "login": "devopsaustralia", 
+        "id": 5689802, 
+        "hooks_url": "https://api.github.com/orgs/devopsaustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AusDTO/issues", 
+        "members_url": "https://api.github.com/orgs/AusDTO/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AusDTO/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AusDTO", 
+        "events_url": "https://api.github.com/orgs/AusDTO/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11763427?v=3", 
+        "repos_url": "https://api.github.com/orgs/AusDTO/repos", 
+        "login": "AusDTO", 
+        "id": 11763427, 
+        "hooks_url": "https://api.github.com/orgs/AusDTO/hooks"
+    }
+]

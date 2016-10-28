@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mysociety/issues", 
+        "members_url": "https://api.github.com/orgs/mysociety/members{/member}", 
+        "description": "We help citizens demand better", 
+        "public_members_url": "https://api.github.com/orgs/mysociety/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mysociety", 
+        "events_url": "https://api.github.com/orgs/mysociety/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/141338?v=3", 
+        "repos_url": "https://api.github.com/orgs/mysociety/repos", 
+        "login": "mysociety", 
+        "id": 141338, 
+        "hooks_url": "https://api.github.com/orgs/mysociety/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codebar/issues", 
+        "members_url": "https://api.github.com/orgs/codebar/members{/member}", 
+        "description": "Learn to code in a friendly and inclusive environment", 
+        "public_members_url": "https://api.github.com/orgs/codebar/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codebar", 
+        "events_url": "https://api.github.com/orgs/codebar/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5642384?v=3", 
+        "repos_url": "https://api.github.com/orgs/codebar/repos", 
+        "login": "codebar", 
+        "id": 5642384, 
+        "hooks_url": "https://api.github.com/orgs/codebar/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician/members{/member}", 
+        "description": "Data about every national legislature in the world, freely available for you to use", 
+        "public_members_url": "https://api.github.com/orgs/everypolitician/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician", 
+        "events_url": "https://api.github.com/orgs/everypolitician/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12497298?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician/repos", 
+        "login": "everypolitician", 
+        "id": 12497298, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/everypolitician-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/everypolitician-scrapers/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/everypolitician-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/everypolitician-scrapers", 
+        "events_url": "https://api.github.com/orgs/everypolitician-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18443033?v=3", 
+        "repos_url": "https://api.github.com/orgs/everypolitician-scrapers/repos", 
+        "login": "everypolitician-scrapers", 
+        "id": 18443033, 
+        "hooks_url": "https://api.github.com/orgs/everypolitician-scrapers/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/vikyrgz/issues", 
+        "members_url": "https://api.github.com/orgs/vikyrgz/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/vikyrgz/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vikyrgz", 
+        "events_url": "https://api.github.com/orgs/vikyrgz/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19873331?v=3", 
+        "repos_url": "https://api.github.com/orgs/vikyrgz/repos", 
+        "login": "vikyrgz", 
+        "id": 19873331, 
+        "hooks_url": "https://api.github.com/orgs/vikyrgz/hooks"
+    }
+]

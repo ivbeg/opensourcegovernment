@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/monome-community/issues", 
+        "members_url": "https://api.github.com/orgs/monome-community/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/monome-community/public_members{/member}", 
+        "url": "https://api.github.com/orgs/monome-community", 
+        "events_url": "https://api.github.com/orgs/monome-community/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1241232?v=3", 
+        "repos_url": "https://api.github.com/orgs/monome-community/repos", 
+        "login": "monome-community", 
+        "id": 1241232, 
+        "hooks_url": "https://api.github.com/orgs/monome-community/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NSWPlanning/issues", 
+        "members_url": "https://api.github.com/orgs/NSWPlanning/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NSWPlanning/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NSWPlanning", 
+        "events_url": "https://api.github.com/orgs/NSWPlanning/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1673407?v=3", 
+        "repos_url": "https://api.github.com/orgs/NSWPlanning/repos", 
+        "login": "NSWPlanning", 
+        "id": 1673407, 
+        "hooks_url": "https://api.github.com/orgs/NSWPlanning/hooks"
+    }
+]

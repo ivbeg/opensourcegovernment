@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ireapps/issues", 
+        "members_url": "https://api.github.com/orgs/ireapps/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ireapps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ireapps", 
+        "events_url": "https://api.github.com/orgs/ireapps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/854432?v=3", 
+        "repos_url": "https://api.github.com/orgs/ireapps/repos", 
+        "login": "ireapps", 
+        "id": 854432, 
+        "hooks_url": "https://api.github.com/orgs/ireapps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/soit-sk/issues", 
+        "members_url": "https://api.github.com/orgs/soit-sk/members{/member}", 
+        "description": "Spolo\u010dnos\u0165 pre otvoren\u00e9 informa\u010dn\u00e9 technol\u00f3gie", 
+        "public_members_url": "https://api.github.com/orgs/soit-sk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/soit-sk", 
+        "events_url": "https://api.github.com/orgs/soit-sk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8143319?v=3", 
+        "repos_url": "https://api.github.com/orgs/soit-sk/repos", 
+        "login": "soit-sk", 
+        "id": 8143319, 
+        "hooks_url": "https://api.github.com/orgs/soit-sk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OneWorldData/issues", 
+        "members_url": "https://api.github.com/orgs/OneWorldData/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OneWorldData/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OneWorldData", 
+        "events_url": "https://api.github.com/orgs/OneWorldData/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11939304?v=3", 
+        "repos_url": "https://api.github.com/orgs/OneWorldData/repos", 
+        "login": "OneWorldData", 
+        "id": 11939304, 
+        "hooks_url": "https://api.github.com/orgs/OneWorldData/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civicdataeu/issues", 
+        "members_url": "https://api.github.com/orgs/civicdataeu/members{/member}", 
+        "description": "Collected scrapers and projects for EU data liberation", 
+        "public_members_url": "https://api.github.com/orgs/civicdataeu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civicdataeu", 
+        "events_url": "https://api.github.com/orgs/civicdataeu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13311710?v=3", 
+        "repos_url": "https://api.github.com/orgs/civicdataeu/repos", 
+        "login": "civicdataeu", 
+        "id": 13311710, 
+        "hooks_url": "https://api.github.com/orgs/civicdataeu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tenders-exposed/issues", 
+        "members_url": "https://api.github.com/orgs/tenders-exposed/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/tenders-exposed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tenders-exposed", 
+        "events_url": "https://api.github.com/orgs/tenders-exposed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15035878?v=3", 
+        "repos_url": "https://api.github.com/orgs/tenders-exposed/repos", 
+        "login": "tenders-exposed", 
+        "id": 15035878, 
+        "hooks_url": "https://api.github.com/orgs/tenders-exposed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SOMOAmsterdam/issues", 
+        "members_url": "https://api.github.com/orgs/SOMOAmsterdam/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SOMOAmsterdam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SOMOAmsterdam", 
+        "events_url": "https://api.github.com/orgs/SOMOAmsterdam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16000576?v=3", 
+        "repos_url": "https://api.github.com/orgs/SOMOAmsterdam/repos", 
+        "login": "SOMOAmsterdam", 
+        "id": 16000576, 
+        "hooks_url": "https://api.github.com/orgs/SOMOAmsterdam/hooks"
+    }
+]

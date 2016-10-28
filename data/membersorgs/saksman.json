@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/TechAtNYU/issues", 
+        "members_url": "https://api.github.com/orgs/TechAtNYU/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/TechAtNYU/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TechAtNYU", 
+        "events_url": "https://api.github.com/orgs/TechAtNYU/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1698981?v=3", 
+        "repos_url": "https://api.github.com/orgs/TechAtNYU/repos", 
+        "login": "TechAtNYU", 
+        "id": 1698981, 
+        "hooks_url": "https://api.github.com/orgs/TechAtNYU/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-SF/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-SF/members{/member}", 
+        "description": "Harnessing the power of data science in the service of humanity.", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-SF/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-SF", 
+        "events_url": "https://api.github.com/orgs/DataKind-SF/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8367334?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-SF/repos", 
+        "login": "DataKind-SF", 
+        "id": 8367334, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-SF/hooks"
+    }
+]

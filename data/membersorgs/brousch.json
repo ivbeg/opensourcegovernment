@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thrive-refugee/issues", 
+        "members_url": "https://api.github.com/orgs/thrive-refugee/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/thrive-refugee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thrive-refugee", 
+        "events_url": "https://api.github.com/orgs/thrive-refugee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2660908?v=3", 
+        "repos_url": "https://api.github.com/orgs/thrive-refugee/repos", 
+        "login": "thrive-refugee", 
+        "id": 2660908, 
+        "hooks_url": "https://api.github.com/orgs/thrive-refugee/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/van-dam-iron-works/issues", 
+        "members_url": "https://api.github.com/orgs/van-dam-iron-works/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/van-dam-iron-works/public_members{/member}", 
+        "url": "https://api.github.com/orgs/van-dam-iron-works", 
+        "events_url": "https://api.github.com/orgs/van-dam-iron-works/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5150502?v=3", 
+        "repos_url": "https://api.github.com/orgs/van-dam-iron-works/repos", 
+        "login": "van-dam-iron-works", 
+        "id": 5150502, 
+        "hooks_url": "https://api.github.com/orgs/van-dam-iron-works/hooks"
+    }
+]

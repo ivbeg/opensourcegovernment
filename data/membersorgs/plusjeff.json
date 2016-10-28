@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPhilly/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPhilly/members{/member}", 
+        "description": "Philly's civic hacking brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPhilly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPhilly", 
+        "events_url": "https://api.github.com/orgs/CodeForPhilly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1451716?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPhilly/repos", 
+        "login": "CodeForPhilly", 
+        "id": 1451716, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPhilly/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ReclaimPhilly/issues", 
+        "members_url": "https://api.github.com/orgs/ReclaimPhilly/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ReclaimPhilly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ReclaimPhilly", 
+        "events_url": "https://api.github.com/orgs/ReclaimPhilly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3143031?v=3", 
+        "repos_url": "https://api.github.com/orgs/ReclaimPhilly/repos", 
+        "login": "ReclaimPhilly", 
+        "id": 3143031, 
+        "hooks_url": "https://api.github.com/orgs/ReclaimPhilly/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/department-of-veterans-affairs/issues", 
+        "members_url": "https://api.github.com/orgs/department-of-veterans-affairs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/department-of-veterans-affairs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/department-of-veterans-affairs", 
+        "events_url": "https://api.github.com/orgs/department-of-veterans-affairs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5421563?v=3", 
+        "repos_url": "https://api.github.com/orgs/department-of-veterans-affairs/repos", 
+        "login": "department-of-veterans-affairs", 
+        "id": 5421563, 
+        "hooks_url": "https://api.github.com/orgs/department-of-veterans-affairs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }
+]

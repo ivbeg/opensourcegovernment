@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/VilledeMontreal/issues", 
+        "members_url": "https://api.github.com/orgs/VilledeMontreal/members{/member}", 
+        "description": "Ce compte est utilis\u00e9 pour publier les projets de la Ville de Montr\u00e9al.", 
+        "public_members_url": "https://api.github.com/orgs/VilledeMontreal/public_members{/member}", 
+        "url": "https://api.github.com/orgs/VilledeMontreal", 
+        "events_url": "https://api.github.com/orgs/VilledeMontreal/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6012942?v=3", 
+        "repos_url": "https://api.github.com/orgs/VilledeMontreal/repos", 
+        "login": "VilledeMontreal", 
+        "id": 6012942, 
+        "hooks_url": "https://api.github.com/orgs/VilledeMontreal/hooks"
+    }
+]

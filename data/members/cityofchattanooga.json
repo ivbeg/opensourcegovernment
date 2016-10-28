@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/aplannersguide/following{/other_user}", 
+        "events_url": "https://api.github.com/users/aplannersguide/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/aplannersguide/orgs", 
+        "url": "https://api.github.com/users/aplannersguide", 
+        "gists_url": "https://api.github.com/users/aplannersguide/gists{/gist_id}", 
+        "html_url": "https://github.com/aplannersguide", 
+        "subscriptions_url": "https://api.github.com/users/aplannersguide/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1252305?v=3", 
+        "repos_url": "https://api.github.com/users/aplannersguide/repos", 
+        "received_events_url": "https://api.github.com/users/aplannersguide/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/aplannersguide/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "aplannersguide", 
+        "type": "User", 
+        "id": 1252305, 
+        "followers_url": "https://api.github.com/users/aplannersguide/followers"
+    }
+]

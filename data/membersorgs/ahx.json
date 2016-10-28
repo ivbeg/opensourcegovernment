@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kopfmaschine/issues", 
+        "members_url": "https://api.github.com/orgs/kopfmaschine/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/kopfmaschine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kopfmaschine", 
+        "events_url": "https://api.github.com/orgs/kopfmaschine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/408110?v=3", 
+        "repos_url": "https://api.github.com/orgs/kopfmaschine/repos", 
+        "login": "kopfmaschine", 
+        "id": 408110, 
+        "hooks_url": "https://api.github.com/orgs/kopfmaschine/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ivx/issues", 
+        "members_url": "https://api.github.com/orgs/ivx/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ivx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ivx", 
+        "events_url": "https://api.github.com/orgs/ivx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1009891?v=3", 
+        "repos_url": "https://api.github.com/orgs/ivx/repos", 
+        "login": "ivx", 
+        "id": 1009891, 
+        "hooks_url": "https://api.github.com/orgs/ivx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforLeipzig/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforLeipzig/members{/member}", 
+        "description": "Open Data f\u00fcr Leipzig", 
+        "public_members_url": "https://api.github.com/orgs/CodeforLeipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforLeipzig", 
+        "events_url": "https://api.github.com/orgs/CodeforLeipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7286986?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforLeipzig/repos", 
+        "login": "CodeforLeipzig", 
+        "id": 7286986, 
+        "hooks_url": "https://api.github.com/orgs/CodeforLeipzig/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/stadtratmonitor/issues", 
+        "members_url": "https://api.github.com/orgs/stadtratmonitor/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/stadtratmonitor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/stadtratmonitor", 
+        "events_url": "https://api.github.com/orgs/stadtratmonitor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13242448?v=3", 
+        "repos_url": "https://api.github.com/orgs/stadtratmonitor/repos", 
+        "login": "stadtratmonitor", 
+        "id": 13242448, 
+        "hooks_url": "https://api.github.com/orgs/stadtratmonitor/hooks"
+    }
+]

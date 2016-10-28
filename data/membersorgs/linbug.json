@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/enthought/issues", 
+        "members_url": "https://api.github.com/orgs/enthought/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/enthought/public_members{/member}", 
+        "url": "https://api.github.com/orgs/enthought", 
+        "events_url": "https://api.github.com/orgs/enthought/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/539651?v=3", 
+        "repos_url": "https://api.github.com/orgs/enthought/repos", 
+        "login": "enthought", 
+        "id": 539651, 
+        "hooks_url": "https://api.github.com/orgs/enthought/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/recursecenter/issues", 
+        "members_url": "https://api.github.com/orgs/recursecenter/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recursecenter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recursecenter", 
+        "events_url": "https://api.github.com/orgs/recursecenter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085202?v=3", 
+        "repos_url": "https://api.github.com/orgs/recursecenter/repos", 
+        "login": "recursecenter", 
+        "id": 1085202, 
+        "hooks_url": "https://api.github.com/orgs/recursecenter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dssg/issues", 
+        "members_url": "https://api.github.com/orgs/dssg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dssg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dssg", 
+        "events_url": "https://api.github.com/orgs/dssg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
+        "repos_url": "https://api.github.com/orgs/dssg/repos", 
+        "login": "dssg", 
+        "id": 3827384, 
+        "hooks_url": "https://api.github.com/orgs/dssg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-UK/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-UK/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-UK", 
+        "events_url": "https://api.github.com/orgs/DataKind-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7648747?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-UK/repos", 
+        "login": "DataKind-UK", 
+        "id": 7648747, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-UK/hooks"
+    }
+]

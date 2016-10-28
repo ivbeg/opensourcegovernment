@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/boxen/issues", 
+        "members_url": "https://api.github.com/orgs/boxen/members{/member}", 
+        "description": "Automate the pain out of your development environment.", 
+        "public_members_url": "https://api.github.com/orgs/boxen/public_members{/member}", 
+        "url": "https://api.github.com/orgs/boxen", 
+        "events_url": "https://api.github.com/orgs/boxen/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1800808?v=3", 
+        "repos_url": "https://api.github.com/orgs/boxen/repos", 
+        "login": "boxen", 
+        "id": 1800808, 
+        "hooks_url": "https://api.github.com/orgs/boxen/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/sfbrigade/issues", 
+        "members_url": "https://api.github.com/orgs/sfbrigade/members{/member}", 
+        "description": "A volunteer civic technology group.", 
+        "public_members_url": "https://api.github.com/orgs/sfbrigade/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sfbrigade", 
+        "events_url": "https://api.github.com/orgs/sfbrigade/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3926630?v=3", 
+        "repos_url": "https://api.github.com/orgs/sfbrigade/repos", 
+        "login": "sfbrigade", 
+        "id": 3926630, 
+        "hooks_url": "https://api.github.com/orgs/sfbrigade/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AbleHealth/issues", 
+        "members_url": "https://api.github.com/orgs/AbleHealth/members{/member}", 
+        "description": "Making value-based healthcare simple.", 
+        "public_members_url": "https://api.github.com/orgs/AbleHealth/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AbleHealth", 
+        "events_url": "https://api.github.com/orgs/AbleHealth/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12865735?v=3", 
+        "repos_url": "https://api.github.com/orgs/AbleHealth/repos", 
+        "login": "AbleHealth", 
+        "id": 12865735, 
+        "hooks_url": "https://api.github.com/orgs/AbleHealth/hooks"
+    }
+]

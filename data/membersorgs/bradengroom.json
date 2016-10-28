@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/issues", 
+        "members_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UAB-ACM-Hackathon", 
+        "events_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6825527?v=3", 
+        "repos_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/repos", 
+        "login": "UAB-ACM-Hackathon", 
+        "id": 6825527, 
+        "hooks_url": "https://api.github.com/orgs/UAB-ACM-Hackathon/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforBirmingham/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforBirmingham/members{/member}", 
+        "description": "A group of civic hackers in Birmingham, AL", 
+        "public_members_url": "https://api.github.com/orgs/CodeforBirmingham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforBirmingham", 
+        "events_url": "https://api.github.com/orgs/CodeforBirmingham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6835788?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforBirmingham/repos", 
+        "login": "CodeforBirmingham", 
+        "id": 6835788, 
+        "hooks_url": "https://api.github.com/orgs/CodeforBirmingham/hooks"
+    }
+]

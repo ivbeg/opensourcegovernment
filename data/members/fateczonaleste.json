@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/leandrw/following{/other_user}", 
+        "events_url": "https://api.github.com/users/leandrw/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/leandrw/orgs", 
+        "url": "https://api.github.com/users/leandrw", 
+        "gists_url": "https://api.github.com/users/leandrw/gists{/gist_id}", 
+        "html_url": "https://github.com/leandrw", 
+        "subscriptions_url": "https://api.github.com/users/leandrw/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1456009?v=3", 
+        "repos_url": "https://api.github.com/users/leandrw/repos", 
+        "received_events_url": "https://api.github.com/users/leandrw/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/leandrw/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "leandrw", 
+        "type": "User", 
+        "id": 1456009, 
+        "followers_url": "https://api.github.com/users/leandrw/followers"
+    }
+]

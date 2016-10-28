@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/StreamCrease/issues", 
+        "members_url": "https://api.github.com/orgs/StreamCrease/members{/member}", 
+        "description": "Ukrainian software development company.", 
+        "public_members_url": "https://api.github.com/orgs/StreamCrease/public_members{/member}", 
+        "url": "https://api.github.com/orgs/StreamCrease", 
+        "events_url": "https://api.github.com/orgs/StreamCrease/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8440355?v=3", 
+        "repos_url": "https://api.github.com/orgs/StreamCrease/repos", 
+        "login": "StreamCrease", 
+        "id": 8440355, 
+        "hooks_url": "https://api.github.com/orgs/StreamCrease/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/e-government-ua/issues", 
+        "members_url": "https://api.github.com/orgs/e-government-ua/members{/member}", 
+        "description": "Non Commercial social-governmental startup for fighting with corruption in Ukraine", 
+        "public_members_url": "https://api.github.com/orgs/e-government-ua/public_members{/member}", 
+        "url": "https://api.github.com/orgs/e-government-ua", 
+        "events_url": "https://api.github.com/orgs/e-government-ua/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11369419?v=3", 
+        "repos_url": "https://api.github.com/orgs/e-government-ua/repos", 
+        "login": "e-government-ua", 
+        "id": 11369419, 
+        "hooks_url": "https://api.github.com/orgs/e-government-ua/hooks"
+    }
+]

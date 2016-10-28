@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/HSLdevcom/issues", 
+        "members_url": "https://api.github.com/orgs/HSLdevcom/members{/member}", 
+        "description": "Helsinki Regional Transport Authority (HSL) organises public transport and develops transit apps with Open Data and Open Source communities", 
+        "public_members_url": "https://api.github.com/orgs/HSLdevcom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HSLdevcom", 
+        "events_url": "https://api.github.com/orgs/HSLdevcom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2813507?v=3", 
+        "repos_url": "https://api.github.com/orgs/HSLdevcom/repos", 
+        "login": "HSLdevcom", 
+        "id": 2813507, 
+        "hooks_url": "https://api.github.com/orgs/HSLdevcom/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Signom/issues", 
+        "members_url": "https://api.github.com/orgs/Signom/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Signom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Signom", 
+        "events_url": "https://api.github.com/orgs/Signom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13622259?v=3", 
+        "repos_url": "https://api.github.com/orgs/Signom/repos", 
+        "login": "Signom", 
+        "id": 13622259, 
+        "hooks_url": "https://api.github.com/orgs/Signom/hooks"
+    }
+]

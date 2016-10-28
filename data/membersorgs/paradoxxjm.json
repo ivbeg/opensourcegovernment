@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/slashroots/issues", 
+        "members_url": "https://api.github.com/orgs/slashroots/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/slashroots/public_members{/member}", 
+        "url": "https://api.github.com/orgs/slashroots", 
+        "events_url": "https://api.github.com/orgs/slashroots/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/693298?v=3", 
+        "repos_url": "https://api.github.com/orgs/slashroots/repos", 
+        "login": "slashroots", 
+        "id": 693298, 
+        "hooks_url": "https://api.github.com/orgs/slashroots/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/issues", 
+        "members_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CaribbeanOpenInstitute", 
+        "events_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1478502?v=3", 
+        "repos_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/repos", 
+        "login": "CaribbeanOpenInstitute", 
+        "id": 1478502, 
+        "hooks_url": "https://api.github.com/orgs/CaribbeanOpenInstitute/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForTheCaribbean/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForTheCaribbean/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CodeForTheCaribbean/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForTheCaribbean", 
+        "events_url": "https://api.github.com/orgs/CodeForTheCaribbean/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4590589?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForTheCaribbean/repos", 
+        "login": "CodeForTheCaribbean", 
+        "id": 4590589, 
+        "hooks_url": "https://api.github.com/orgs/CodeForTheCaribbean/hooks"
+    }
+]

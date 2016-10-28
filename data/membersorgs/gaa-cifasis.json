@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CIFASIS/issues", 
+        "members_url": "https://api.github.com/orgs/CIFASIS/members{/member}", 
+        "description": "Centro Internacional Franco Argentino de Ciencias de la Informaci\u00f3n y de Sistemas", 
+        "public_members_url": "https://api.github.com/orgs/CIFASIS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CIFASIS", 
+        "events_url": "https://api.github.com/orgs/CIFASIS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8667753?v=3", 
+        "repos_url": "https://api.github.com/orgs/CIFASIS/repos", 
+        "login": "CIFASIS", 
+        "id": 8667753, 
+        "hooks_url": "https://api.github.com/orgs/CIFASIS/hooks"
+    }
+]

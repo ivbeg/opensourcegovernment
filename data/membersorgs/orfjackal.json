@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NitorCreations/issues", 
+        "members_url": "https://api.github.com/orgs/NitorCreations/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NitorCreations/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NitorCreations", 
+        "events_url": "https://api.github.com/orgs/NitorCreations/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1389534?v=3", 
+        "repos_url": "https://api.github.com/orgs/NitorCreations/repos", 
+        "login": "NitorCreations", 
+        "id": 1389534, 
+        "hooks_url": "https://api.github.com/orgs/NitorCreations/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/titokone/issues", 
+        "members_url": "https://api.github.com/orgs/titokone/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/titokone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/titokone", 
+        "events_url": "https://api.github.com/orgs/titokone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1810940?v=3", 
+        "repos_url": "https://api.github.com/orgs/titokone/repos", 
+        "login": "titokone", 
+        "id": 1810940, 
+        "hooks_url": "https://api.github.com/orgs/titokone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HSLdevcom/issues", 
+        "members_url": "https://api.github.com/orgs/HSLdevcom/members{/member}", 
+        "description": "Helsinki Regional Transport Authority (HSL) organises public transport and develops transit apps with Open Data and Open Source communities", 
+        "public_members_url": "https://api.github.com/orgs/HSLdevcom/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HSLdevcom", 
+        "events_url": "https://api.github.com/orgs/HSLdevcom/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2813507?v=3", 
+        "repos_url": "https://api.github.com/orgs/HSLdevcom/repos", 
+        "login": "HSLdevcom", 
+        "id": 2813507, 
+        "hooks_url": "https://api.github.com/orgs/HSLdevcom/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pamods/issues", 
+        "members_url": "https://api.github.com/orgs/pamods/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pamods/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pamods", 
+        "events_url": "https://api.github.com/orgs/pamods/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5934226?v=3", 
+        "repos_url": "https://api.github.com/orgs/pamods/repos", 
+        "login": "pamods", 
+        "id": 5934226, 
+        "hooks_url": "https://api.github.com/orgs/pamods/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/monome-community/issues", 
+        "members_url": "https://api.github.com/orgs/monome-community/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/monome-community/public_members{/member}", 
+        "url": "https://api.github.com/orgs/monome-community", 
+        "events_url": "https://api.github.com/orgs/monome-community/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1241232?v=3", 
+        "repos_url": "https://api.github.com/orgs/monome-community/repos", 
+        "login": "monome-community", 
+        "id": 1241232, 
+        "hooks_url": "https://api.github.com/orgs/monome-community/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/relaystudio/issues", 
+        "members_url": "https://api.github.com/orgs/relaystudio/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/relaystudio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/relaystudio", 
+        "events_url": "https://api.github.com/orgs/relaystudio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2211766?v=3", 
+        "repos_url": "https://api.github.com/orgs/relaystudio/repos", 
+        "login": "relaystudio", 
+        "id": 2211766, 
+        "hooks_url": "https://api.github.com/orgs/relaystudio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/deptofdefense/issues", 
+        "members_url": "https://api.github.com/orgs/deptofdefense/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/deptofdefense/public_members{/member}", 
+        "url": "https://api.github.com/orgs/deptofdefense", 
+        "events_url": "https://api.github.com/orgs/deptofdefense/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13172082?v=3", 
+        "repos_url": "https://api.github.com/orgs/deptofdefense/repos", 
+        "login": "deptofdefense", 
+        "id": 13172082, 
+        "hooks_url": "https://api.github.com/orgs/deptofdefense/hooks"
+    }
+]

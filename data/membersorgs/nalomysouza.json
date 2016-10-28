@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ocorrenciasbr/issues", 
+        "members_url": "https://api.github.com/orgs/ocorrenciasbr/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ocorrenciasbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ocorrenciasbr", 
+        "events_url": "https://api.github.com/orgs/ocorrenciasbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5426933?v=3", 
+        "repos_url": "https://api.github.com/orgs/ocorrenciasbr/repos", 
+        "login": "ocorrenciasbr", 
+        "id": 5426933, 
+        "hooks_url": "https://api.github.com/orgs/ocorrenciasbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/secultce/issues", 
+        "members_url": "https://api.github.com/orgs/secultce/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/secultce/public_members{/member}", 
+        "url": "https://api.github.com/orgs/secultce", 
+        "events_url": "https://api.github.com/orgs/secultce/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12171407?v=3", 
+        "repos_url": "https://api.github.com/orgs/secultce/repos", 
+        "login": "secultce", 
+        "id": 12171407, 
+        "hooks_url": "https://api.github.com/orgs/secultce/hooks"
+    }
+]

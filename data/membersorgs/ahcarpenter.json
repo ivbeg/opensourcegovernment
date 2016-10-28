@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/syracuse-saves/issues", 
+        "members_url": "https://api.github.com/orgs/syracuse-saves/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/syracuse-saves/public_members{/member}", 
+        "url": "https://api.github.com/orgs/syracuse-saves", 
+        "events_url": "https://api.github.com/orgs/syracuse-saves/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1550864?v=3", 
+        "repos_url": "https://api.github.com/orgs/syracuse-saves/repos", 
+        "login": "syracuse-saves", 
+        "id": 1550864, 
+        "hooks_url": "https://api.github.com/orgs/syracuse-saves/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Fooji/issues", 
+        "members_url": "https://api.github.com/orgs/Fooji/members{/member}", 
+        "description": "fan experiences. delivered.", 
+        "public_members_url": "https://api.github.com/orgs/Fooji/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Fooji", 
+        "events_url": "https://api.github.com/orgs/Fooji/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12498245?v=3", 
+        "repos_url": "https://api.github.com/orgs/Fooji/repos", 
+        "login": "Fooji", 
+        "id": 12498245, 
+        "hooks_url": "https://api.github.com/orgs/Fooji/hooks"
+    }
+]

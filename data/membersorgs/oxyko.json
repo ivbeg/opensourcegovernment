@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/AAFC-MBB/issues", 
+        "members_url": "https://api.github.com/orgs/AAFC-MBB/members{/member}", 
+        "description": "Genomics and Metagenomics focused bioinformatics analysts supporting research at Agriculture and Agri-Food Canada", 
+        "public_members_url": "https://api.github.com/orgs/AAFC-MBB/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AAFC-MBB", 
+        "events_url": "https://api.github.com/orgs/AAFC-MBB/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6061941?v=3", 
+        "repos_url": "https://api.github.com/orgs/AAFC-MBB/repos", 
+        "login": "AAFC-MBB", 
+        "id": 6061941, 
+        "hooks_url": "https://api.github.com/orgs/AAFC-MBB/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/sbarnwell/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sbarnwell/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sbarnwell/orgs", 
+        "url": "https://api.github.com/users/sbarnwell", 
+        "gists_url": "https://api.github.com/users/sbarnwell/gists{/gist_id}", 
+        "html_url": "https://github.com/sbarnwell", 
+        "subscriptions_url": "https://api.github.com/users/sbarnwell/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2678368?v=3", 
+        "repos_url": "https://api.github.com/users/sbarnwell/repos", 
+        "received_events_url": "https://api.github.com/users/sbarnwell/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sbarnwell/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sbarnwell", 
+        "type": "User", 
+        "id": 2678368, 
+        "followers_url": "https://api.github.com/users/sbarnwell/followers"
+    }
+]

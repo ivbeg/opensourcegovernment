@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/lcochrane/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lcochrane/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lcochrane/orgs", 
+        "url": "https://api.github.com/users/lcochrane", 
+        "gists_url": "https://api.github.com/users/lcochrane/gists{/gist_id}", 
+        "html_url": "https://github.com/lcochrane", 
+        "subscriptions_url": "https://api.github.com/users/lcochrane/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1198270?v=3", 
+        "repos_url": "https://api.github.com/users/lcochrane/repos", 
+        "received_events_url": "https://api.github.com/users/lcochrane/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lcochrane/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lcochrane", 
+        "type": "User", 
+        "id": 1198270, 
+        "followers_url": "https://api.github.com/users/lcochrane/followers"
+    }
+]

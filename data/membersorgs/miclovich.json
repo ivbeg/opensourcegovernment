@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/unicefuganda/issues", 
+        "members_url": "https://api.github.com/orgs/unicefuganda/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/unicefuganda/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unicefuganda", 
+        "events_url": "https://api.github.com/orgs/unicefuganda/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/888767?v=3", 
+        "repos_url": "https://api.github.com/orgs/unicefuganda/repos", 
+        "login": "unicefuganda", 
+        "id": 888767, 
+        "hooks_url": "https://api.github.com/orgs/unicefuganda/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/recursecenter/issues", 
+        "members_url": "https://api.github.com/orgs/recursecenter/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/recursecenter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/recursecenter", 
+        "events_url": "https://api.github.com/orgs/recursecenter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1085202?v=3", 
+        "repos_url": "https://api.github.com/orgs/recursecenter/repos", 
+        "login": "recursecenter", 
+        "id": 1085202, 
+        "hooks_url": "https://api.github.com/orgs/recursecenter/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openspending/issues", 
+        "members_url": "https://api.github.com/orgs/openspending/members{/member}", 
+        "description": "OpenSpending is creating a free and open database of government finances worldwide. ", 
+        "public_members_url": "https://api.github.com/orgs/openspending/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openspending", 
+        "events_url": "https://api.github.com/orgs/openspending/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1392301?v=3", 
+        "repos_url": "https://api.github.com/orgs/openspending/repos", 
+        "login": "openspending", 
+        "id": 1392301, 
+        "hooks_url": "https://api.github.com/orgs/openspending/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bower/issues", 
+        "members_url": "https://api.github.com/orgs/bower/members{/member}", 
+        "description": "A package manager for the web", 
+        "public_members_url": "https://api.github.com/orgs/bower/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bower", 
+        "events_url": "https://api.github.com/orgs/bower/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3709251?v=3", 
+        "repos_url": "https://api.github.com/orgs/bower/repos", 
+        "login": "bower", 
+        "id": 3709251, 
+        "hooks_url": "https://api.github.com/orgs/bower/hooks"
+    }
+]

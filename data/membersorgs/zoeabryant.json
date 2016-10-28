@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/redbadger/issues", 
+        "members_url": "https://api.github.com/orgs/redbadger/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/redbadger/public_members{/member}", 
+        "url": "https://api.github.com/orgs/redbadger", 
+        "events_url": "https://api.github.com/orgs/redbadger/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/265650?v=3", 
+        "repos_url": "https://api.github.com/orgs/redbadger/repos", 
+        "login": "redbadger", 
+        "id": 265650, 
+        "hooks_url": "https://api.github.com/orgs/redbadger/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/makersacademy/issues", 
+        "members_url": "https://api.github.com/orgs/makersacademy/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/makersacademy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/makersacademy", 
+        "events_url": "https://api.github.com/orgs/makersacademy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3636186?v=3", 
+        "repos_url": "https://api.github.com/orgs/makersacademy/repos", 
+        "login": "makersacademy", 
+        "id": 3636186, 
+        "hooks_url": "https://api.github.com/orgs/makersacademy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/UKForeignOffice/issues", 
+        "members_url": "https://api.github.com/orgs/UKForeignOffice/members{/member}", 
+        "description": "The FCO promotes the United Kingdom's interests overseas, supporting our citizens and businesses around the globe.", 
+        "public_members_url": "https://api.github.com/orgs/UKForeignOffice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UKForeignOffice", 
+        "events_url": "https://api.github.com/orgs/UKForeignOffice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10496714?v=3", 
+        "repos_url": "https://api.github.com/orgs/UKForeignOffice/repos", 
+        "login": "UKForeignOffice", 
+        "id": 10496714, 
+        "hooks_url": "https://api.github.com/orgs/UKForeignOffice/hooks"
+    }
+]

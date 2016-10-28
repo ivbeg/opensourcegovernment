@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/govtrack/issues", 
+        "members_url": "https://api.github.com/orgs/govtrack/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/govtrack/public_members{/member}", 
+        "url": "https://api.github.com/orgs/govtrack", 
+        "events_url": "https://api.github.com/orgs/govtrack/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1621415?v=3", 
+        "repos_url": "https://api.github.com/orgs/govtrack/repos", 
+        "login": "govtrack", 
+        "id": 1621415, 
+        "hooks_url": "https://api.github.com/orgs/govtrack/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/whatwg/issues", 
+        "members_url": "https://api.github.com/orgs/whatwg/members{/member}", 
+        "description": "This is the repo used to host our GitHub projects. To be invited, just ask us on IRC; all are welcome to participate.", 
+        "public_members_url": "https://api.github.com/orgs/whatwg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/whatwg", 
+        "events_url": "https://api.github.com/orgs/whatwg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2226336?v=3", 
+        "repos_url": "https://api.github.com/orgs/whatwg/repos", 
+        "login": "whatwg", 
+        "id": 2226336, 
+        "hooks_url": "https://api.github.com/orgs/whatwg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MozillaWiki/issues", 
+        "members_url": "https://api.github.com/orgs/MozillaWiki/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/MozillaWiki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MozillaWiki", 
+        "events_url": "https://api.github.com/orgs/MozillaWiki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10645808?v=3", 
+        "repos_url": "https://api.github.com/orgs/MozillaWiki/repos", 
+        "login": "MozillaWiki", 
+        "id": 10645808, 
+        "hooks_url": "https://api.github.com/orgs/MozillaWiki/hooks"
+    }
+]

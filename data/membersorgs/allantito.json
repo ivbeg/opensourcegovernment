@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opensatx/issues", 
+        "members_url": "https://api.github.com/orgs/opensatx/members{/member}", 
+        "description": "San Antonio's place to build, share, and learn about civic tech.", 
+        "public_members_url": "https://api.github.com/orgs/opensatx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opensatx", 
+        "events_url": "https://api.github.com/orgs/opensatx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7378856?v=3", 
+        "repos_url": "https://api.github.com/orgs/opensatx/repos", 
+        "login": "opensatx", 
+        "id": 7378856, 
+        "hooks_url": "https://api.github.com/orgs/opensatx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforsanantonio/issues", 
+        "members_url": "https://api.github.com/orgs/codeforsanantonio/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforsanantonio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforsanantonio", 
+        "events_url": "https://api.github.com/orgs/codeforsanantonio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16867955?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforsanantonio/repos", 
+        "login": "codeforsanantonio", 
+        "id": 16867955, 
+        "hooks_url": "https://api.github.com/orgs/codeforsanantonio/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jessicagood/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jessicagood/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jessicagood/orgs", 
+        "url": "https://api.github.com/users/jessicagood", 
+        "gists_url": "https://api.github.com/users/jessicagood/gists{/gist_id}", 
+        "html_url": "https://github.com/jessicagood", 
+        "subscriptions_url": "https://api.github.com/users/jessicagood/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1493985?v=3", 
+        "repos_url": "https://api.github.com/users/jessicagood/repos", 
+        "received_events_url": "https://api.github.com/users/jessicagood/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jessicagood/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jessicagood", 
+        "type": "User", 
+        "id": 1493985, 
+        "followers_url": "https://api.github.com/users/jessicagood/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/rclark/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rclark/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rclark/orgs", 
+        "url": "https://api.github.com/users/rclark", 
+        "gists_url": "https://api.github.com/users/rclark/gists{/gist_id}", 
+        "html_url": "https://github.com/rclark", 
+        "subscriptions_url": "https://api.github.com/users/rclark/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/515424?v=3", 
+        "repos_url": "https://api.github.com/users/rclark/repos", 
+        "received_events_url": "https://api.github.com/users/rclark/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rclark/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rclark", 
+        "type": "User", 
+        "id": 515424, 
+        "followers_url": "https://api.github.com/users/rclark/followers"
+    }
+]

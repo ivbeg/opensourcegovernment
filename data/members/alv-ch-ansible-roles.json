@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/gildegoma/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gildegoma/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gildegoma/orgs", 
+        "url": "https://api.github.com/users/gildegoma", 
+        "gists_url": "https://api.github.com/users/gildegoma/gists{/gist_id}", 
+        "html_url": "https://github.com/gildegoma", 
+        "subscriptions_url": "https://api.github.com/users/gildegoma/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/434654?v=3", 
+        "repos_url": "https://api.github.com/users/gildegoma/repos", 
+        "received_events_url": "https://api.github.com/users/gildegoma/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gildegoma/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gildegoma", 
+        "type": "User", 
+        "id": 434654, 
+        "followers_url": "https://api.github.com/users/gildegoma/followers"
+    }
+]

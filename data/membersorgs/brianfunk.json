@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/FCC/issues", 
+        "members_url": "https://api.github.com/orgs/FCC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/FCC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FCC", 
+        "events_url": "https://api.github.com/orgs/FCC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/632838?v=3", 
+        "repos_url": "https://api.github.com/orgs/FCC/repos", 
+        "login": "FCC", 
+        "id": 632838, 
+        "hooks_url": "https://api.github.com/orgs/FCC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nci-ats/issues", 
+        "members_url": "https://api.github.com/orgs/nci-ats/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nci-ats/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nci-ats", 
+        "events_url": "https://api.github.com/orgs/nci-ats/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13006791?v=3", 
+        "repos_url": "https://api.github.com/orgs/nci-ats/repos", 
+        "login": "nci-ats", 
+        "id": 13006791, 
+        "hooks_url": "https://api.github.com/orgs/nci-ats/hooks"
+    }
+]

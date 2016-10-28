@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nemac/issues", 
+        "members_url": "https://api.github.com/orgs/nemac/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nemac/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nemac", 
+        "events_url": "https://api.github.com/orgs/nemac/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2030676?v=3", 
+        "repos_url": "https://api.github.com/orgs/nemac/repos", 
+        "login": "nemac", 
+        "id": 2030676, 
+        "hooks_url": "https://api.github.com/orgs/nemac/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForAsheville/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForAsheville/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeForAsheville/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForAsheville", 
+        "events_url": "https://api.github.com/orgs/CodeForAsheville/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3941752?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForAsheville/repos", 
+        "login": "CodeForAsheville", 
+        "id": 3941752, 
+        "hooks_url": "https://api.github.com/orgs/CodeForAsheville/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/yonderHub/issues", 
+        "members_url": "https://api.github.com/orgs/yonderHub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/yonderHub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/yonderHub", 
+        "events_url": "https://api.github.com/orgs/yonderHub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5617520?v=3", 
+        "repos_url": "https://api.github.com/orgs/yonderHub/repos", 
+        "login": "yonderHub", 
+        "id": 5617520, 
+        "hooks_url": "https://api.github.com/orgs/yonderHub/hooks"
+    }
+]

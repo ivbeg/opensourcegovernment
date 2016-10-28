@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/callmekatootie/following{/other_user}", 
+        "events_url": "https://api.github.com/users/callmekatootie/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/callmekatootie/orgs", 
+        "url": "https://api.github.com/users/callmekatootie", 
+        "gists_url": "https://api.github.com/users/callmekatootie/gists{/gist_id}", 
+        "html_url": "https://github.com/callmekatootie", 
+        "subscriptions_url": "https://api.github.com/users/callmekatootie/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2317133?v=3", 
+        "repos_url": "https://api.github.com/users/callmekatootie/repos", 
+        "received_events_url": "https://api.github.com/users/callmekatootie/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/callmekatootie/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "callmekatootie", 
+        "type": "User", 
+        "id": 2317133, 
+        "followers_url": "https://api.github.com/users/callmekatootie/followers"
+    }
+]

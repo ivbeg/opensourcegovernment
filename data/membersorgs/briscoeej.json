@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CMAPI/issues", 
+        "members_url": "https://api.github.com/orgs/CMAPI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CMAPI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CMAPI", 
+        "events_url": "https://api.github.com/orgs/CMAPI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5767305?v=3", 
+        "repos_url": "https://api.github.com/orgs/CMAPI/repos", 
+        "login": "CMAPI", 
+        "id": 5767305, 
+        "hooks_url": "https://api.github.com/orgs/CMAPI/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/missioncommand/issues", 
+        "members_url": "https://api.github.com/orgs/missioncommand/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/missioncommand/public_members{/member}", 
+        "url": "https://api.github.com/orgs/missioncommand", 
+        "events_url": "https://api.github.com/orgs/missioncommand/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5940653?v=3", 
+        "repos_url": "https://api.github.com/orgs/missioncommand/repos", 
+        "login": "missioncommand", 
+        "id": 5940653, 
+        "hooks_url": "https://api.github.com/orgs/missioncommand/hooks"
+    }
+]

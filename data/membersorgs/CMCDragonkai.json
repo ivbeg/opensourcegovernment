@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Polycademy/issues", 
+        "members_url": "https://api.github.com/orgs/Polycademy/members{/member}", 
+        "description": "Polycademy is a factory for creative productions.", 
+        "public_members_url": "https://api.github.com/orgs/Polycademy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Polycademy", 
+        "events_url": "https://api.github.com/orgs/Polycademy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2216853?v=3", 
+        "repos_url": "https://api.github.com/orgs/Polycademy/repos", 
+        "login": "Polycademy", 
+        "id": 2216853, 
+        "hooks_url": "https://api.github.com/orgs/Polycademy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforAustralia/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforAustralia/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeforAustralia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforAustralia", 
+        "events_url": "https://api.github.com/orgs/CodeforAustralia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2573081?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforAustralia/repos", 
+        "login": "CodeforAustralia", 
+        "id": 2573081, 
+        "hooks_url": "https://api.github.com/orgs/CodeforAustralia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SnapSearch/issues", 
+        "members_url": "https://api.github.com/orgs/SnapSearch/members{/member}", 
+        "description": "SnapSearch is SEO for your JS, HTML5 and SPA applications!", 
+        "public_members_url": "https://api.github.com/orgs/SnapSearch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SnapSearch", 
+        "events_url": "https://api.github.com/orgs/SnapSearch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6612639?v=3", 
+        "repos_url": "https://api.github.com/orgs/SnapSearch/repos", 
+        "login": "SnapSearch", 
+        "id": 6612639, 
+        "hooks_url": "https://api.github.com/orgs/SnapSearch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MatrixAI/issues", 
+        "members_url": "https://api.github.com/orgs/MatrixAI/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/MatrixAI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MatrixAI", 
+        "events_url": "https://api.github.com/orgs/MatrixAI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6859950?v=3", 
+        "repos_url": "https://api.github.com/orgs/MatrixAI/repos", 
+        "login": "MatrixAI", 
+        "id": 6859950, 
+        "hooks_url": "https://api.github.com/orgs/MatrixAI/hooks"
+    }
+]

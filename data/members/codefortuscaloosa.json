@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mwleeds/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mwleeds/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mwleeds/orgs", 
+        "url": "https://api.github.com/users/mwleeds", 
+        "gists_url": "https://api.github.com/users/mwleeds/gists{/gist_id}", 
+        "html_url": "https://github.com/mwleeds", 
+        "subscriptions_url": "https://api.github.com/users/mwleeds/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7833263?v=3", 
+        "repos_url": "https://api.github.com/users/mwleeds/repos", 
+        "received_events_url": "https://api.github.com/users/mwleeds/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mwleeds/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mwleeds", 
+        "type": "User", 
+        "id": 7833263, 
+        "followers_url": "https://api.github.com/users/mwleeds/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/tarifhaque/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tarifhaque/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tarifhaque/orgs", 
+        "url": "https://api.github.com/users/tarifhaque", 
+        "gists_url": "https://api.github.com/users/tarifhaque/gists{/gist_id}", 
+        "html_url": "https://github.com/tarifhaque", 
+        "subscriptions_url": "https://api.github.com/users/tarifhaque/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6101977?v=3", 
+        "repos_url": "https://api.github.com/users/tarifhaque/repos", 
+        "received_events_url": "https://api.github.com/users/tarifhaque/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tarifhaque/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tarifhaque", 
+        "type": "User", 
+        "id": 6101977, 
+        "followers_url": "https://api.github.com/users/tarifhaque/followers"
+    }
+]

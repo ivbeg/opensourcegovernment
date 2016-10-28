@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ddean4040/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ddean4040/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ddean4040/orgs", 
+        "url": "https://api.github.com/users/ddean4040", 
+        "gists_url": "https://api.github.com/users/ddean4040/gists{/gist_id}", 
+        "html_url": "https://github.com/ddean4040", 
+        "subscriptions_url": "https://api.github.com/users/ddean4040/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1309412?v=3", 
+        "repos_url": "https://api.github.com/users/ddean4040/repos", 
+        "received_events_url": "https://api.github.com/users/ddean4040/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ddean4040/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ddean4040", 
+        "type": "User", 
+        "id": 1309412, 
+        "followers_url": "https://api.github.com/users/ddean4040/followers"
+    }
+]

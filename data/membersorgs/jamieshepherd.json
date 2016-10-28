@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/theodi/issues", 
+        "members_url": "https://api.github.com/orgs/theodi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/theodi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/theodi", 
+        "events_url": "https://api.github.com/orgs/theodi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2492770?v=3", 
+        "repos_url": "https://api.github.com/orgs/theodi/repos", 
+        "login": "theodi", 
+        "id": 2492770, 
+        "hooks_url": "https://api.github.com/orgs/theodi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EpicGames/issues", 
+        "members_url": "https://api.github.com/orgs/EpicGames/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EpicGames/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpicGames", 
+        "events_url": "https://api.github.com/orgs/EpicGames/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6615685?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpicGames/repos", 
+        "login": "EpicGames", 
+        "id": 6615685, 
+        "hooks_url": "https://api.github.com/orgs/EpicGames/hooks"
+    }
+]

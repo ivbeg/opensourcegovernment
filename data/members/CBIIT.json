@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/klemmj/following{/other_user}", 
+        "events_url": "https://api.github.com/users/klemmj/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/klemmj/orgs", 
+        "url": "https://api.github.com/users/klemmj", 
+        "gists_url": "https://api.github.com/users/klemmj/gists{/gist_id}", 
+        "html_url": "https://github.com/klemmj", 
+        "subscriptions_url": "https://api.github.com/users/klemmj/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2387113?v=3", 
+        "repos_url": "https://api.github.com/users/klemmj/repos", 
+        "received_events_url": "https://api.github.com/users/klemmj/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/klemmj/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "klemmj", 
+        "type": "User", 
+        "id": 2387113, 
+        "followers_url": "https://api.github.com/users/klemmj/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/shivece/following{/other_user}", 
+        "events_url": "https://api.github.com/users/shivece/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/shivece/orgs", 
+        "url": "https://api.github.com/users/shivece", 
+        "gists_url": "https://api.github.com/users/shivece/gists{/gist_id}", 
+        "html_url": "https://github.com/shivece", 
+        "subscriptions_url": "https://api.github.com/users/shivece/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7490190?v=3", 
+        "repos_url": "https://api.github.com/users/shivece/repos", 
+        "received_events_url": "https://api.github.com/users/shivece/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/shivece/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "shivece", 
+        "type": "User", 
+        "id": 7490190, 
+        "followers_url": "https://api.github.com/users/shivece/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenTransport/issues", 
+        "members_url": "https://api.github.com/orgs/OpenTransport/members{/member}", 
+        "description": "The Open Transport Working Group's github organization", 
+        "public_members_url": "https://api.github.com/orgs/OpenTransport/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenTransport", 
+        "events_url": "https://api.github.com/orgs/OpenTransport/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3233948?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenTransport/repos", 
+        "login": "OpenTransport", 
+        "id": 3233948, 
+        "hooks_url": "https://api.github.com/orgs/OpenTransport/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openraildata/issues", 
+        "members_url": "https://api.github.com/orgs/openraildata/members{/member}", 
+        "description": "A group to contribute code for working with rail data from Great Britain", 
+        "public_members_url": "https://api.github.com/orgs/openraildata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openraildata", 
+        "events_url": "https://api.github.com/orgs/openraildata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10854305?v=3", 
+        "repos_url": "https://api.github.com/orgs/openraildata/repos", 
+        "login": "openraildata", 
+        "id": 10854305, 
+        "hooks_url": "https://api.github.com/orgs/openraildata/hooks"
+    }
+]

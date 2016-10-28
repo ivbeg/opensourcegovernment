@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlab-aux/issues", 
+        "members_url": "https://api.github.com/orgs/openlab-aux/members{/member}", 
+        "description": "Deutschlands erster Hackerspace mit Fu\u00dfbodenheizung in der Wand", 
+        "public_members_url": "https://api.github.com/orgs/openlab-aux/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlab-aux", 
+        "events_url": "https://api.github.com/orgs/openlab-aux/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3979750?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlab-aux/repos", 
+        "login": "openlab-aux", 
+        "id": 3979750, 
+        "hooks_url": "https://api.github.com/orgs/openlab-aux/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/awearness/issues", 
+        "members_url": "https://api.github.com/orgs/awearness/members{/member}", 
+        "description": "a vibrating wristband to make you aware of certain things", 
+        "public_members_url": "https://api.github.com/orgs/awearness/public_members{/member}", 
+        "url": "https://api.github.com/orgs/awearness", 
+        "events_url": "https://api.github.com/orgs/awearness/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8782592?v=3", 
+        "repos_url": "https://api.github.com/orgs/awearness/repos", 
+        "login": "awearness", 
+        "id": 8782592, 
+        "hooks_url": "https://api.github.com/orgs/awearness/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/issues", 
+        "members_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DasAsozialeNetzwerk", 
+        "events_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10389853?v=3", 
+        "repos_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/repos", 
+        "login": "DasAsozialeNetzwerk", 
+        "id": 10389853, 
+        "hooks_url": "https://api.github.com/orgs/DasAsozialeNetzwerk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/curry-club-aux/issues", 
+        "members_url": "https://api.github.com/orgs/curry-club-aux/members{/member}", 
+        "description": "Monthly meeting group of Haskell hackers and FP enthusiasts", 
+        "public_members_url": "https://api.github.com/orgs/curry-club-aux/public_members{/member}", 
+        "url": "https://api.github.com/orgs/curry-club-aux", 
+        "events_url": "https://api.github.com/orgs/curry-club-aux/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11505549?v=3", 
+        "repos_url": "https://api.github.com/orgs/curry-club-aux/repos", 
+        "login": "curry-club-aux", 
+        "id": 11505549, 
+        "hooks_url": "https://api.github.com/orgs/curry-club-aux/hooks"
+    }
+]

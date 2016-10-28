@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/anastasios/following{/other_user}", 
+        "events_url": "https://api.github.com/users/anastasios/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/anastasios/orgs", 
+        "url": "https://api.github.com/users/anastasios", 
+        "gists_url": "https://api.github.com/users/anastasios/gists{/gist_id}", 
+        "html_url": "https://github.com/anastasios", 
+        "subscriptions_url": "https://api.github.com/users/anastasios/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2862514?v=3", 
+        "repos_url": "https://api.github.com/users/anastasios/repos", 
+        "received_events_url": "https://api.github.com/users/anastasios/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/anastasios/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "anastasios", 
+        "type": "User", 
+        "id": 2862514, 
+        "followers_url": "https://api.github.com/users/anastasios/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/lbcfrancois/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lbcfrancois/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lbcfrancois/orgs", 
+        "url": "https://api.github.com/users/lbcfrancois", 
+        "gists_url": "https://api.github.com/users/lbcfrancois/gists{/gist_id}", 
+        "html_url": "https://github.com/lbcfrancois", 
+        "subscriptions_url": "https://api.github.com/users/lbcfrancois/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/363436?v=3", 
+        "repos_url": "https://api.github.com/users/lbcfrancois/repos", 
+        "received_events_url": "https://api.github.com/users/lbcfrancois/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lbcfrancois/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lbcfrancois", 
+        "type": "User", 
+        "id": 363436, 
+        "followers_url": "https://api.github.com/users/lbcfrancois/followers"
+    }
+]

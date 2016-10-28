@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Bloomington/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Bloomington/members{/member}", 
+        "description": "Information & Technology Services department", 
+        "public_members_url": "https://api.github.com/orgs/City-of-Bloomington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Bloomington", 
+        "events_url": "https://api.github.com/orgs/City-of-Bloomington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/630302?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Bloomington/repos", 
+        "login": "City-of-Bloomington", 
+        "id": 630302, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Bloomington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DanskeBank/issues", 
+        "members_url": "https://api.github.com/orgs/DanskeBank/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DanskeBank/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DanskeBank", 
+        "events_url": "https://api.github.com/orgs/DanskeBank/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8414671?v=3", 
+        "repos_url": "https://api.github.com/orgs/DanskeBank/repos", 
+        "login": "DanskeBank", 
+        "id": 8414671, 
+        "hooks_url": "https://api.github.com/orgs/DanskeBank/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/iOS-Goodies/issues", 
+        "members_url": "https://api.github.com/orgs/iOS-Goodies/members{/member}", 
+        "description": "The first Open Source iOS Newsletter", 
+        "public_members_url": "https://api.github.com/orgs/iOS-Goodies/public_members{/member}", 
+        "url": "https://api.github.com/orgs/iOS-Goodies", 
+        "events_url": "https://api.github.com/orgs/iOS-Goodies/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11159512?v=3", 
+        "repos_url": "https://api.github.com/orgs/iOS-Goodies/repos", 
+        "login": "iOS-Goodies", 
+        "id": 11159512, 
+        "hooks_url": "https://api.github.com/orgs/iOS-Goodies/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nodes-ios/issues", 
+        "members_url": "https://api.github.com/orgs/nodes-ios/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nodes-ios/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nodes-ios", 
+        "events_url": "https://api.github.com/orgs/nodes-ios/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15651603?v=3", 
+        "repos_url": "https://api.github.com/orgs/nodes-ios/repos", 
+        "login": "nodes-ios", 
+        "id": 15651603, 
+        "hooks_url": "https://api.github.com/orgs/nodes-ios/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Rajawali/issues", 
+        "members_url": "https://api.github.com/orgs/Rajawali/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Rajawali/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Rajawali", 
+        "events_url": "https://api.github.com/orgs/Rajawali/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3820125?v=3", 
+        "repos_url": "https://api.github.com/orgs/Rajawali/repos", 
+        "login": "Rajawali", 
+        "id": 3820125, 
+        "hooks_url": "https://api.github.com/orgs/Rajawali/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cforlando/issues", 
+        "members_url": "https://api.github.com/orgs/cforlando/members{/member}", 
+        "description": "Making Orlando better with the power of data", 
+        "public_members_url": "https://api.github.com/orgs/cforlando/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cforlando", 
+        "events_url": "https://api.github.com/orgs/cforlando/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5225505?v=3", 
+        "repos_url": "https://api.github.com/orgs/cforlando/repos", 
+        "login": "cforlando", 
+        "id": 5225505, 
+        "hooks_url": "https://api.github.com/orgs/cforlando/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OrlandoDevs/issues", 
+        "members_url": "https://api.github.com/orgs/OrlandoDevs/members{/member}", 
+        "description": "We're the Orlando Devs", 
+        "public_members_url": "https://api.github.com/orgs/OrlandoDevs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OrlandoDevs", 
+        "events_url": "https://api.github.com/orgs/OrlandoDevs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15822407?v=3", 
+        "repos_url": "https://api.github.com/orgs/OrlandoDevs/repos", 
+        "login": "OrlandoDevs", 
+        "id": 15822407, 
+        "hooks_url": "https://api.github.com/orgs/OrlandoDevs/hooks"
+    }
+]

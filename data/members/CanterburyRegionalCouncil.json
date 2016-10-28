@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/coomsie/following{/other_user}", 
+        "events_url": "https://api.github.com/users/coomsie/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/coomsie/orgs", 
+        "url": "https://api.github.com/users/coomsie", 
+        "gists_url": "https://api.github.com/users/coomsie/gists{/gist_id}", 
+        "html_url": "https://github.com/coomsie", 
+        "subscriptions_url": "https://api.github.com/users/coomsie/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/125121?v=3", 
+        "repos_url": "https://api.github.com/users/coomsie/repos", 
+        "received_events_url": "https://api.github.com/users/coomsie/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/coomsie/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "coomsie", 
+        "type": "User", 
+        "id": 125121, 
+        "followers_url": "https://api.github.com/users/coomsie/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/gavinharriss/following{/other_user}", 
+        "events_url": "https://api.github.com/users/gavinharriss/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/gavinharriss/orgs", 
+        "url": "https://api.github.com/users/gavinharriss", 
+        "gists_url": "https://api.github.com/users/gavinharriss/gists{/gist_id}", 
+        "html_url": "https://github.com/gavinharriss", 
+        "subscriptions_url": "https://api.github.com/users/gavinharriss/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1517976?v=3", 
+        "repos_url": "https://api.github.com/users/gavinharriss/repos", 
+        "received_events_url": "https://api.github.com/users/gavinharriss/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/gavinharriss/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "gavinharriss", 
+        "type": "User", 
+        "id": 1517976, 
+        "followers_url": "https://api.github.com/users/gavinharriss/followers"
+    }
+]

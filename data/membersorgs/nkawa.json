@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforjapan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforjapan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforjapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforjapan", 
+        "events_url": "https://api.github.com/orgs/codeforjapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5137738?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforjapan/repos", 
+        "login": "codeforjapan", 
+        "id": 5137738, 
+        "hooks_url": "https://api.github.com/orgs/codeforjapan/hooks"
+    }
+]

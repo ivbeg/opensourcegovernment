@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GSA/issues", 
+        "members_url": "https://api.github.com/orgs/GSA/members{/member}", 
+        "description": "The U.S. General Services Administration", 
+        "public_members_url": "https://api.github.com/orgs/GSA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GSA", 
+        "events_url": "https://api.github.com/orgs/GSA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/643070?v=3", 
+        "repos_url": "https://api.github.com/orgs/GSA/repos", 
+        "login": "GSA", 
+        "id": 643070, 
+        "hooks_url": "https://api.github.com/orgs/GSA/hooks"
+    }
+]

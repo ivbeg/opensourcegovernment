@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NMML/issues", 
+        "members_url": "https://api.github.com/orgs/NMML/members{/member}", 
+        "description": "Marine Mammal Laboratory science developers at the NOAA Fisheries Alaska Fisheries Science Center in Seattle, WA", 
+        "public_members_url": "https://api.github.com/orgs/NMML/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NMML", 
+        "events_url": "https://api.github.com/orgs/NMML/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/872044?v=3", 
+        "repos_url": "https://api.github.com/orgs/NMML/repos", 
+        "login": "NMML", 
+        "id": 872044, 
+        "hooks_url": "https://api.github.com/orgs/NMML/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DistanceDevelopment/issues", 
+        "members_url": "https://api.github.com/orgs/DistanceDevelopment/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DistanceDevelopment/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DistanceDevelopment", 
+        "events_url": "https://api.github.com/orgs/DistanceDevelopment/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4293301?v=3", 
+        "repos_url": "https://api.github.com/orgs/DistanceDevelopment/repos", 
+        "login": "DistanceDevelopment", 
+        "id": 4293301, 
+        "hooks_url": "https://api.github.com/orgs/DistanceDevelopment/hooks"
+    }
+]

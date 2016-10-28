@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/malmostad/issues", 
+        "members_url": "https://api.github.com/orgs/malmostad/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/malmostad/public_members{/member}", 
+        "url": "https://api.github.com/orgs/malmostad", 
+        "events_url": "https://api.github.com/orgs/malmostad/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2797297?v=3", 
+        "repos_url": "https://api.github.com/orgs/malmostad/repos", 
+        "login": "malmostad", 
+        "id": 2797297, 
+        "hooks_url": "https://api.github.com/orgs/malmostad/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mhs/issues", 
+        "members_url": "https://api.github.com/orgs/mhs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mhs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mhs", 
+        "events_url": "https://api.github.com/orgs/mhs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/38444?v=3", 
+        "repos_url": "https://api.github.com/orgs/mhs/repos", 
+        "login": "mhs", 
+        "id": 38444, 
+        "hooks_url": "https://api.github.com/orgs/mhs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/testdouble/issues", 
+        "members_url": "https://api.github.com/orgs/testdouble/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/testdouble/public_members{/member}", 
+        "url": "https://api.github.com/orgs/testdouble", 
+        "events_url": "https://api.github.com/orgs/testdouble/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1139195?v=3", 
+        "repos_url": "https://api.github.com/orgs/testdouble/repos", 
+        "login": "testdouble", 
+        "id": 1139195, 
+        "hooks_url": "https://api.github.com/orgs/testdouble/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thrive-refugee/issues", 
+        "members_url": "https://api.github.com/orgs/thrive-refugee/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/thrive-refugee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thrive-refugee", 
+        "events_url": "https://api.github.com/orgs/thrive-refugee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2660908?v=3", 
+        "repos_url": "https://api.github.com/orgs/thrive-refugee/repos", 
+        "login": "thrive-refugee", 
+        "id": 2660908, 
+        "hooks_url": "https://api.github.com/orgs/thrive-refugee/hooks"
+    }
+]

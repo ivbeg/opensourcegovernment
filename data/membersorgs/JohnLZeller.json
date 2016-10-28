@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SpaceAdvocates/issues", 
+        "members_url": "https://api.github.com/orgs/SpaceAdvocates/members{/member}", 
+        "description": "Space Advocates is a nonprofit space advocacy organization tasked with promoting space literacy and legislation through citizen engagement", 
+        "public_members_url": "https://api.github.com/orgs/SpaceAdvocates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SpaceAdvocates", 
+        "events_url": "https://api.github.com/orgs/SpaceAdvocates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4292820?v=3", 
+        "repos_url": "https://api.github.com/orgs/SpaceAdvocates/repos", 
+        "login": "SpaceAdvocates", 
+        "id": 4292820, 
+        "hooks_url": "https://api.github.com/orgs/SpaceAdvocates/hooks"
+    }
+]

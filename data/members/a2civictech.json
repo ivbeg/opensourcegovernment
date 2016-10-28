@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/vielmetti/following{/other_user}", 
+        "events_url": "https://api.github.com/users/vielmetti/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/vielmetti/orgs", 
+        "url": "https://api.github.com/users/vielmetti", 
+        "gists_url": "https://api.github.com/users/vielmetti/gists{/gist_id}", 
+        "html_url": "https://github.com/vielmetti", 
+        "subscriptions_url": "https://api.github.com/users/vielmetti/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/35047?v=3", 
+        "repos_url": "https://api.github.com/users/vielmetti/repos", 
+        "received_events_url": "https://api.github.com/users/vielmetti/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/vielmetti/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "vielmetti", 
+        "type": "User", 
+        "id": 35047, 
+        "followers_url": "https://api.github.com/users/vielmetti/followers"
+    }
+]

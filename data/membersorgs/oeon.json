@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SLUGIS/issues", 
+        "members_url": "https://api.github.com/orgs/SLUGIS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SLUGIS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SLUGIS", 
+        "events_url": "https://api.github.com/orgs/SLUGIS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/713841?v=3", 
+        "repos_url": "https://api.github.com/orgs/SLUGIS/repos", 
+        "login": "SLUGIS", 
+        "id": 713841, 
+        "hooks_url": "https://api.github.com/orgs/SLUGIS/hooks"
+    }
+]

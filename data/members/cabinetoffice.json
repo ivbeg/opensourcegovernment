@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/lukesands-co/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lukesands-co/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lukesands-co/orgs", 
+        "url": "https://api.github.com/users/lukesands-co", 
+        "gists_url": "https://api.github.com/users/lukesands-co/gists{/gist_id}", 
+        "html_url": "https://github.com/lukesands-co", 
+        "subscriptions_url": "https://api.github.com/users/lukesands-co/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13234895?v=3", 
+        "repos_url": "https://api.github.com/users/lukesands-co/repos", 
+        "received_events_url": "https://api.github.com/users/lukesands-co/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lukesands-co/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lukesands-co", 
+        "type": "User", 
+        "id": 13234895, 
+        "followers_url": "https://api.github.com/users/lukesands-co/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mizansyed/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mizansyed/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mizansyed/orgs", 
+        "url": "https://api.github.com/users/mizansyed", 
+        "gists_url": "https://api.github.com/users/mizansyed/gists{/gist_id}", 
+        "html_url": "https://github.com/mizansyed", 
+        "subscriptions_url": "https://api.github.com/users/mizansyed/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/600262?v=3", 
+        "repos_url": "https://api.github.com/users/mizansyed/repos", 
+        "received_events_url": "https://api.github.com/users/mizansyed/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mizansyed/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mizansyed", 
+        "type": "User", 
+        "id": 600262, 
+        "followers_url": "https://api.github.com/users/mizansyed/followers"
+    }
+]

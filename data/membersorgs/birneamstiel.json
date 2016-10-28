@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Miaplaza/issues", 
+        "members_url": "https://api.github.com/orgs/Miaplaza/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Miaplaza/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Miaplaza", 
+        "events_url": "https://api.github.com/orgs/Miaplaza/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4997928?v=3", 
+        "repos_url": "https://api.github.com/orgs/Miaplaza/repos", 
+        "login": "Miaplaza", 
+        "id": 4997928, 
+        "hooks_url": "https://api.github.com/orgs/Miaplaza/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HistoryCampus/issues", 
+        "members_url": "https://api.github.com/orgs/HistoryCampus/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HistoryCampus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HistoryCampus", 
+        "events_url": "https://api.github.com/orgs/HistoryCampus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7515471?v=3", 
+        "repos_url": "https://api.github.com/orgs/HistoryCampus/repos", 
+        "login": "HistoryCampus", 
+        "id": 7515471, 
+        "hooks_url": "https://api.github.com/orgs/HistoryCampus/hooks"
+    }
+]

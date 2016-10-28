@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sympy/issues", 
+        "members_url": "https://api.github.com/orgs/sympy/members{/member}", 
+        "description": "Symbolic manipulation in Python.", 
+        "public_members_url": "https://api.github.com/orgs/sympy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sympy", 
+        "events_url": "https://api.github.com/orgs/sympy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/260832?v=3", 
+        "repos_url": "https://api.github.com/orgs/sympy/repos", 
+        "login": "sympy", 
+        "id": 260832, 
+        "hooks_url": "https://api.github.com/orgs/sympy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/qsnake/issues", 
+        "members_url": "https://api.github.com/orgs/qsnake/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/qsnake/public_members{/member}", 
+        "url": "https://api.github.com/orgs/qsnake", 
+        "events_url": "https://api.github.com/orgs/qsnake/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/571452?v=3", 
+        "repos_url": "https://api.github.com/orgs/qsnake/repos", 
+        "login": "qsnake", 
+        "id": 571452, 
+        "hooks_url": "https://api.github.com/orgs/qsnake/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/losalamos/issues", 
+        "members_url": "https://api.github.com/orgs/losalamos/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/losalamos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/losalamos", 
+        "events_url": "https://api.github.com/orgs/losalamos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/585305?v=3", 
+        "repos_url": "https://api.github.com/orgs/losalamos/repos", 
+        "login": "losalamos", 
+        "id": 585305, 
+        "hooks_url": "https://api.github.com/orgs/losalamos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spdproject/issues", 
+        "members_url": "https://api.github.com/orgs/spdproject/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/spdproject/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spdproject", 
+        "events_url": "https://api.github.com/orgs/spdproject/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1159886?v=3", 
+        "repos_url": "https://api.github.com/orgs/spdproject/repos", 
+        "login": "spdproject", 
+        "id": 1159886, 
+        "hooks_url": "https://api.github.com/orgs/spdproject/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hashdist/issues", 
+        "members_url": "https://api.github.com/orgs/hashdist/members{/member}", 
+        "description": "HashDist Project", 
+        "public_members_url": "https://api.github.com/orgs/hashdist/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hashdist", 
+        "events_url": "https://api.github.com/orgs/hashdist/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2639211?v=3", 
+        "repos_url": "https://api.github.com/orgs/hashdist/repos", 
+        "login": "hashdist", 
+        "id": 2639211, 
+        "hooks_url": "https://api.github.com/orgs/hashdist/hooks"
+    }
+]

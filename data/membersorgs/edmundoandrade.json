@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/camaradosdeputadosoficial/issues", 
+        "members_url": "https://api.github.com/orgs/camaradosdeputadosoficial/members{/member}", 
+        "description": "Reposit\u00f3rio oficial de solu\u00e7\u00f5es tecnol\u00f3gicas compartilhadas pela C\u00e2mara dos Deputados.", 
+        "public_members_url": "https://api.github.com/orgs/camaradosdeputadosoficial/public_members{/member}", 
+        "url": "https://api.github.com/orgs/camaradosdeputadosoficial", 
+        "events_url": "https://api.github.com/orgs/camaradosdeputadosoficial/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10116578?v=3", 
+        "repos_url": "https://api.github.com/orgs/camaradosdeputadosoficial/repos", 
+        "login": "camaradosdeputadosoficial", 
+        "id": 10116578, 
+        "hooks_url": "https://api.github.com/orgs/camaradosdeputadosoficial/hooks"
+    }
+]

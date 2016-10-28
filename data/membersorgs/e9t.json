@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/teampopong/issues", 
+        "members_url": "https://api.github.com/orgs/teampopong/members{/member}", 
+        "description": "We open politics.", 
+        "public_members_url": "https://api.github.com/orgs/teampopong/public_members{/member}", 
+        "url": "https://api.github.com/orgs/teampopong", 
+        "events_url": "https://api.github.com/orgs/teampopong/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2258984?v=3", 
+        "repos_url": "https://api.github.com/orgs/teampopong/repos", 
+        "login": "teampopong", 
+        "id": 2258984, 
+        "hooks_url": "https://api.github.com/orgs/teampopong/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/snudm/issues", 
+        "members_url": "https://api.github.com/orgs/snudm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/snudm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/snudm", 
+        "events_url": "https://api.github.com/orgs/snudm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3417163?v=3", 
+        "repos_url": "https://api.github.com/orgs/snudm/repos", 
+        "login": "snudm", 
+        "id": 3417163, 
+        "hooks_url": "https://api.github.com/orgs/snudm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/southkorea/issues", 
+        "members_url": "https://api.github.com/orgs/southkorea/members{/member}", 
+        "description": "A shared commons of data and tools for South Korea. Made by the public, for the public. (Inspired by @unitedstates)", 
+        "public_members_url": "https://api.github.com/orgs/southkorea/public_members{/member}", 
+        "url": "https://api.github.com/orgs/southkorea", 
+        "events_url": "https://api.github.com/orgs/southkorea/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5287484?v=3", 
+        "repos_url": "https://api.github.com/orgs/southkorea/repos", 
+        "login": "southkorea", 
+        "id": 5287484, 
+        "hooks_url": "https://api.github.com/orgs/southkorea/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/konlpy/issues", 
+        "members_url": "https://api.github.com/orgs/konlpy/members{/member}", 
+        "description": "KoNLPy is a Python package for Korean natural language processing.", 
+        "public_members_url": "https://api.github.com/orgs/konlpy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/konlpy", 
+        "events_url": "https://api.github.com/orgs/konlpy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10087397?v=3", 
+        "repos_url": "https://api.github.com/orgs/konlpy/repos", 
+        "login": "konlpy", 
+        "id": 10087397, 
+        "hooks_url": "https://api.github.com/orgs/konlpy/hooks"
+    }
+]

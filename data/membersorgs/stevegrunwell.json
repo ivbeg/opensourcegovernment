@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/10up/issues", 
+        "members_url": "https://api.github.com/orgs/10up/members{/member}", 
+        "description": "We make finely crafted websites and tools for content creators, doing our part to create a better web for clients like Microsoft, Time, ESPN, and Adobe.", 
+        "public_members_url": "https://api.github.com/orgs/10up/public_members{/member}", 
+        "url": "https://api.github.com/orgs/10up", 
+        "events_url": "https://api.github.com/orgs/10up/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3358927?v=3", 
+        "repos_url": "https://api.github.com/orgs/10up/repos", 
+        "login": "10up", 
+        "id": 3358927, 
+        "hooks_url": "https://api.github.com/orgs/10up/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WebDevSummit/issues", 
+        "members_url": "https://api.github.com/orgs/WebDevSummit/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WebDevSummit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WebDevSummit", 
+        "events_url": "https://api.github.com/orgs/WebDevSummit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9100852?v=3", 
+        "repos_url": "https://api.github.com/orgs/WebDevSummit/repos", 
+        "login": "WebDevSummit", 
+        "id": 9100852, 
+        "hooks_url": "https://api.github.com/orgs/WebDevSummit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/StoryCorps/issues", 
+        "members_url": "https://api.github.com/orgs/StoryCorps/members{/member}", 
+        "description": "StoryCorps Digital team", 
+        "public_members_url": "https://api.github.com/orgs/StoryCorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/StoryCorps", 
+        "events_url": "https://api.github.com/orgs/StoryCorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17339958?v=3", 
+        "repos_url": "https://api.github.com/orgs/StoryCorps/repos", 
+        "login": "StoryCorps", 
+        "id": 17339958, 
+        "hooks_url": "https://api.github.com/orgs/StoryCorps/hooks"
+    }
+]

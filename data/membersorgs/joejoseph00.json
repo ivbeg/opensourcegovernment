@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wet-boew/issues", 
+        "members_url": "https://api.github.com/orgs/wet-boew/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wet-boew/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wet-boew", 
+        "events_url": "https://api.github.com/orgs/wet-boew/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1730142?v=3", 
+        "repos_url": "https://api.github.com/orgs/wet-boew/repos", 
+        "login": "wet-boew", 
+        "id": 1730142, 
+        "hooks_url": "https://api.github.com/orgs/wet-boew/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atssc-scdata/issues", 
+        "members_url": "https://api.github.com/orgs/atssc-scdata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/atssc-scdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atssc-scdata", 
+        "events_url": "https://api.github.com/orgs/atssc-scdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13871068?v=3", 
+        "repos_url": "https://api.github.com/orgs/atssc-scdata/repos", 
+        "login": "atssc-scdata", 
+        "id": 13871068, 
+        "hooks_url": "https://api.github.com/orgs/atssc-scdata/hooks"
+    }
+]

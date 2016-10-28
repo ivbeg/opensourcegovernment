@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/itsbspoke/issues", 
+        "members_url": "https://api.github.com/orgs/itsbspoke/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/itsbspoke/public_members{/member}", 
+        "url": "https://api.github.com/orgs/itsbspoke", 
+        "events_url": "https://api.github.com/orgs/itsbspoke/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/322020?v=3", 
+        "repos_url": "https://api.github.com/orgs/itsbspoke/repos", 
+        "login": "itsbspoke", 
+        "id": 322020, 
+        "hooks_url": "https://api.github.com/orgs/itsbspoke/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForCharlotte/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForCharlotte/members{/member}", 
+        "description": "A brigade of Code for America. Dedicated to raising awareness and demonstrating the value of open data, open source, and open government.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForCharlotte/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForCharlotte", 
+        "events_url": "https://api.github.com/orgs/CodeForCharlotte/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7139543?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForCharlotte/repos", 
+        "login": "CodeForCharlotte", 
+        "id": 7139543, 
+        "hooks_url": "https://api.github.com/orgs/CodeForCharlotte/hooks"
+    }
+]

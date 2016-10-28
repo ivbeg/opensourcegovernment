@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForSummitCounty/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForSummitCounty/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CodeForSummitCounty/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForSummitCounty", 
+        "events_url": "https://api.github.com/orgs/CodeForSummitCounty/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3849495?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForSummitCounty/repos", 
+        "login": "CodeForSummitCounty", 
+        "id": 3849495, 
+        "hooks_url": "https://api.github.com/orgs/CodeForSummitCounty/hooks"
+    }
+]

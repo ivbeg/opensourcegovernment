@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OpenSlides/issues", 
+        "members_url": "https://api.github.com/orgs/OpenSlides/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OpenSlides/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenSlides", 
+        "events_url": "https://api.github.com/orgs/OpenSlides/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2055730?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenSlides/repos", 
+        "login": "OpenSlides", 
+        "id": 2055730, 
+        "hooks_url": "https://api.github.com/orgs/OpenSlides/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/transcode-de/issues", 
+        "members_url": "https://api.github.com/orgs/transcode-de/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/transcode-de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/transcode-de", 
+        "events_url": "https://api.github.com/orgs/transcode-de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4316182?v=3", 
+        "repos_url": "https://api.github.com/orgs/transcode-de/repos", 
+        "login": "transcode-de", 
+        "id": 4316182, 
+        "hooks_url": "https://api.github.com/orgs/transcode-de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforLeipzig/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforLeipzig/members{/member}", 
+        "description": "Open Data f\u00fcr Leipzig", 
+        "public_members_url": "https://api.github.com/orgs/CodeforLeipzig/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforLeipzig", 
+        "events_url": "https://api.github.com/orgs/CodeforLeipzig/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7286986?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforLeipzig/repos", 
+        "login": "CodeforLeipzig", 
+        "id": 7286986, 
+        "hooks_url": "https://api.github.com/orgs/CodeforLeipzig/hooks"
+    }
+]

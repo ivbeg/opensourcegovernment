@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/WhiteHouse/issues", 
+        "members_url": "https://api.github.com/orgs/WhiteHouse/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WhiteHouse/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WhiteHouse", 
+        "events_url": "https://api.github.com/orgs/WhiteHouse/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2043741?v=3", 
+        "repos_url": "https://api.github.com/orgs/WhiteHouse/repos", 
+        "login": "WhiteHouse", 
+        "id": 2043741, 
+        "hooks_url": "https://api.github.com/orgs/WhiteHouse/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/department-of-veterans-affairs/issues", 
+        "members_url": "https://api.github.com/orgs/department-of-veterans-affairs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/department-of-veterans-affairs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/department-of-veterans-affairs", 
+        "events_url": "https://api.github.com/orgs/department-of-veterans-affairs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5421563?v=3", 
+        "repos_url": "https://api.github.com/orgs/department-of-veterans-affairs/repos", 
+        "login": "department-of-veterans-affairs", 
+        "id": 5421563, 
+        "hooks_url": "https://api.github.com/orgs/department-of-veterans-affairs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usds/issues", 
+        "members_url": "https://api.github.com/orgs/usds/members{/member}", 
+        "description": "The United States Digital Service is transforming how the federal government works for the American people.", 
+        "public_members_url": "https://api.github.com/orgs/usds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usds", 
+        "events_url": "https://api.github.com/orgs/usds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8751968?v=3", 
+        "repos_url": "https://api.github.com/orgs/usds/repos", 
+        "login": "usds", 
+        "id": 8751968, 
+        "hooks_url": "https://api.github.com/orgs/usds/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/deptofdefense/issues", 
+        "members_url": "https://api.github.com/orgs/deptofdefense/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/deptofdefense/public_members{/member}", 
+        "url": "https://api.github.com/orgs/deptofdefense", 
+        "events_url": "https://api.github.com/orgs/deptofdefense/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13172082?v=3", 
+        "repos_url": "https://api.github.com/orgs/deptofdefense/repos", 
+        "login": "deptofdefense", 
+        "id": 13172082, 
+        "hooks_url": "https://api.github.com/orgs/deptofdefense/hooks"
+    }
+]

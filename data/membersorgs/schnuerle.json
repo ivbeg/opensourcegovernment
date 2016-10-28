@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/YourMapper/issues", 
+        "members_url": "https://api.github.com/orgs/YourMapper/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/YourMapper/public_members{/member}", 
+        "url": "https://api.github.com/orgs/YourMapper", 
+        "events_url": "https://api.github.com/orgs/YourMapper/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4641918?v=3", 
+        "repos_url": "https://api.github.com/orgs/YourMapper/repos", 
+        "login": "YourMapper", 
+        "id": 4641918, 
+        "hooks_url": "https://api.github.com/orgs/YourMapper/hooks"
+    }
+]

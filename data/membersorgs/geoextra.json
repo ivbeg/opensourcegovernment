@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EpicGames/issues", 
+        "members_url": "https://api.github.com/orgs/EpicGames/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EpicGames/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpicGames", 
+        "events_url": "https://api.github.com/orgs/EpicGames/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6615685?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpicGames/repos", 
+        "login": "EpicGames", 
+        "id": 6615685, 
+        "hooks_url": "https://api.github.com/orgs/EpicGames/hooks"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/developmentseed/issues", 
+        "members_url": "https://api.github.com/orgs/developmentseed/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/developmentseed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/developmentseed", 
+        "events_url": "https://api.github.com/orgs/developmentseed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/92384?v=3", 
+        "repos_url": "https://api.github.com/orgs/developmentseed/repos", 
+        "login": "developmentseed", 
+        "id": 92384, 
+        "hooks_url": "https://api.github.com/orgs/developmentseed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opencivicdata/issues", 
+        "members_url": "https://api.github.com/orgs/opencivicdata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opencivicdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opencivicdata", 
+        "events_url": "https://api.github.com/orgs/opencivicdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/603647?v=3", 
+        "repos_url": "https://api.github.com/orgs/opencivicdata/repos", 
+        "login": "opencivicdata", 
+        "id": 603647, 
+        "hooks_url": "https://api.github.com/orgs/opencivicdata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dssg/issues", 
+        "members_url": "https://api.github.com/orgs/dssg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dssg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dssg", 
+        "events_url": "https://api.github.com/orgs/dssg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
+        "repos_url": "https://api.github.com/orgs/dssg/repos", 
+        "login": "dssg", 
+        "id": 3827384, 
+        "hooks_url": "https://api.github.com/orgs/dssg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openstates/issues", 
+        "members_url": "https://api.github.com/orgs/openstates/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openstates", 
+        "events_url": "https://api.github.com/orgs/openstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11237936?v=3", 
+        "repos_url": "https://api.github.com/orgs/openstates/repos", 
+        "login": "openstates", 
+        "id": 11237936, 
+        "hooks_url": "https://api.github.com/orgs/openstates/hooks"
+    }
+]

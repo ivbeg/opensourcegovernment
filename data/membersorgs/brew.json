@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ckan/issues", 
+        "members_url": "https://api.github.com/orgs/ckan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ckan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ckan", 
+        "events_url": "https://api.github.com/orgs/ckan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1630326?v=3", 
+        "repos_url": "https://api.github.com/orgs/ckan/repos", 
+        "login": "ckan", 
+        "id": 1630326, 
+        "hooks_url": "https://api.github.com/orgs/ckan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OCHA-DAP/issues", 
+        "members_url": "https://api.github.com/orgs/OCHA-DAP/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/OCHA-DAP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OCHA-DAP", 
+        "events_url": "https://api.github.com/orgs/OCHA-DAP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5087346?v=3", 
+        "repos_url": "https://api.github.com/orgs/OCHA-DAP/repos", 
+        "login": "OCHA-DAP", 
+        "id": 5087346, 
+        "hooks_url": "https://api.github.com/orgs/OCHA-DAP/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/frictionlessdata/issues", 
+        "members_url": "https://api.github.com/orgs/frictionlessdata/members{/member}", 
+        "description": "We're creating lightweight standards and tooling to make it effortless to get and share data.", 
+        "public_members_url": "https://api.github.com/orgs/frictionlessdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/frictionlessdata", 
+        "events_url": "https://api.github.com/orgs/frictionlessdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5912125?v=3", 
+        "repos_url": "https://api.github.com/orgs/frictionlessdata/repos", 
+        "login": "frictionlessdata", 
+        "id": 5912125, 
+        "hooks_url": "https://api.github.com/orgs/frictionlessdata/hooks"
+    }
+]

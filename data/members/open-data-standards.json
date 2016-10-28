@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/chrismetcalf/following{/other_user}", 
+        "events_url": "https://api.github.com/users/chrismetcalf/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/chrismetcalf/orgs", 
+        "url": "https://api.github.com/users/chrismetcalf", 
+        "gists_url": "https://api.github.com/users/chrismetcalf/gists{/gist_id}", 
+        "html_url": "https://github.com/chrismetcalf", 
+        "subscriptions_url": "https://api.github.com/users/chrismetcalf/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19971?v=3", 
+        "repos_url": "https://api.github.com/users/chrismetcalf/repos", 
+        "received_events_url": "https://api.github.com/users/chrismetcalf/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/chrismetcalf/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "chrismetcalf", 
+        "type": "User", 
+        "id": 19971, 
+        "followers_url": "https://api.github.com/users/chrismetcalf/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mheadd/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mheadd/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mheadd/orgs", 
+        "url": "https://api.github.com/users/mheadd", 
+        "gists_url": "https://api.github.com/users/mheadd/gists{/gist_id}", 
+        "html_url": "https://github.com/mheadd", 
+        "subscriptions_url": "https://api.github.com/users/mheadd/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/58419?v=3", 
+        "repos_url": "https://api.github.com/users/mheadd/repos", 
+        "received_events_url": "https://api.github.com/users/mheadd/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mheadd/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mheadd", 
+        "type": "User", 
+        "id": 58419, 
+        "followers_url": "https://api.github.com/users/mheadd/followers"
+    }
+]

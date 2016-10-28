@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openchattanooga/issues", 
+        "members_url": "https://api.github.com/orgs/openchattanooga/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openchattanooga/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openchattanooga", 
+        "events_url": "https://api.github.com/orgs/openchattanooga/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3266762?v=3", 
+        "repos_url": "https://api.github.com/orgs/openchattanooga/repos", 
+        "login": "openchattanooga", 
+        "id": 3266762, 
+        "hooks_url": "https://api.github.com/orgs/openchattanooga/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/maptime/issues", 
+        "members_url": "https://api.github.com/orgs/maptime/members{/member}", 
+        "description": "Start here: http://github.com/maptime/", 
+        "public_members_url": "https://api.github.com/orgs/maptime/public_members{/member}", 
+        "url": "https://api.github.com/orgs/maptime", 
+        "events_url": "https://api.github.com/orgs/maptime/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4994222?v=3", 
+        "repos_url": "https://api.github.com/orgs/maptime/repos", 
+        "login": "maptime", 
+        "id": 4994222, 
+        "hooks_url": "https://api.github.com/orgs/maptime/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hubot-scripts/issues", 
+        "members_url": "https://api.github.com/orgs/hubot-scripts/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hubot-scripts/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hubot-scripts", 
+        "events_url": "https://api.github.com/orgs/hubot-scripts/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5367660?v=3", 
+        "repos_url": "https://api.github.com/orgs/hubot-scripts/repos", 
+        "login": "hubot-scripts", 
+        "id": 5367660, 
+        "hooks_url": "https://api.github.com/orgs/hubot-scripts/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/chadev/issues", 
+        "members_url": "https://api.github.com/orgs/chadev/members{/member}", 
+        "description": "A central location for Chattanooga developers, programmers, and hackers to ask questions, show off projects, share links, post events, etc.", 
+        "public_members_url": "https://api.github.com/orgs/chadev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/chadev", 
+        "events_url": "https://api.github.com/orgs/chadev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6273491?v=3", 
+        "repos_url": "https://api.github.com/orgs/chadev/repos", 
+        "login": "chadev", 
+        "id": 6273491, 
+        "hooks_url": "https://api.github.com/orgs/chadev/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/andylolz/following{/other_user}", 
+        "events_url": "https://api.github.com/users/andylolz/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/andylolz/orgs", 
+        "url": "https://api.github.com/users/andylolz", 
+        "gists_url": "https://api.github.com/users/andylolz/gists{/gist_id}", 
+        "html_url": "https://github.com/andylolz", 
+        "subscriptions_url": "https://api.github.com/users/andylolz/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/464193?v=3", 
+        "repos_url": "https://api.github.com/users/andylolz/repos", 
+        "received_events_url": "https://api.github.com/users/andylolz/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/andylolz/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "andylolz", 
+        "type": "User", 
+        "id": 464193, 
+        "followers_url": "https://api.github.com/users/andylolz/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/markbrough/following{/other_user}", 
+        "events_url": "https://api.github.com/users/markbrough/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/markbrough/orgs", 
+        "url": "https://api.github.com/users/markbrough", 
+        "gists_url": "https://api.github.com/users/markbrough/gists{/gist_id}", 
+        "html_url": "https://github.com/markbrough", 
+        "subscriptions_url": "https://api.github.com/users/markbrough/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/688113?v=3", 
+        "repos_url": "https://api.github.com/users/markbrough/repos", 
+        "received_events_url": "https://api.github.com/users/markbrough/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/markbrough/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "markbrough", 
+        "type": "User", 
+        "id": 688113, 
+        "followers_url": "https://api.github.com/users/markbrough/followers"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/rafahop/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rafahop/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rafahop/orgs", 
+        "url": "https://api.github.com/users/rafahop", 
+        "gists_url": "https://api.github.com/users/rafahop/gists{/gist_id}", 
+        "html_url": "https://github.com/rafahop", 
+        "subscriptions_url": "https://api.github.com/users/rafahop/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8365536?v=3", 
+        "repos_url": "https://api.github.com/users/rafahop/repos", 
+        "received_events_url": "https://api.github.com/users/rafahop/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rafahop/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rafahop", 
+        "type": "User", 
+        "id": 8365536, 
+        "followers_url": "https://api.github.com/users/rafahop/followers"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nationalparkservice/issues", 
+        "members_url": "https://api.github.com/orgs/nationalparkservice/members{/member}", 
+        "description": "Since 1916, the American people have entrusted the National Park Service with the care of their national parks.", 
+        "public_members_url": "https://api.github.com/orgs/nationalparkservice/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nationalparkservice", 
+        "events_url": "https://api.github.com/orgs/nationalparkservice/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1126069?v=3", 
+        "repos_url": "https://api.github.com/orgs/nationalparkservice/repos", 
+        "login": "nationalparkservice", 
+        "id": 1126069, 
+        "hooks_url": "https://api.github.com/orgs/nationalparkservice/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/github-beta/issues", 
+        "members_url": "https://api.github.com/orgs/github-beta/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/github-beta/public_members{/member}", 
+        "url": "https://api.github.com/orgs/github-beta", 
+        "events_url": "https://api.github.com/orgs/github-beta/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7704921?v=3", 
+        "repos_url": "https://api.github.com/orgs/github-beta/repos", 
+        "login": "github-beta", 
+        "id": 7704921, 
+        "hooks_url": "https://api.github.com/orgs/github-beta/hooks"
+    }
+]

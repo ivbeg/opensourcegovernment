@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/nevstokes/following{/other_user}", 
+        "events_url": "https://api.github.com/users/nevstokes/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/nevstokes/orgs", 
+        "url": "https://api.github.com/users/nevstokes", 
+        "gists_url": "https://api.github.com/users/nevstokes/gists{/gist_id}", 
+        "html_url": "https://github.com/nevstokes", 
+        "subscriptions_url": "https://api.github.com/users/nevstokes/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/206714?v=3", 
+        "repos_url": "https://api.github.com/users/nevstokes/repos", 
+        "received_events_url": "https://api.github.com/users/nevstokes/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/nevstokes/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "nevstokes", 
+        "type": "User", 
+        "id": 206714, 
+        "followers_url": "https://api.github.com/users/nevstokes/followers"
+    }
+]

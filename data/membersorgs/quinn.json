@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/controlgroup/issues", 
+        "members_url": "https://api.github.com/orgs/controlgroup/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/controlgroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/controlgroup", 
+        "events_url": "https://api.github.com/orgs/controlgroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/300282?v=3", 
+        "repos_url": "https://api.github.com/orgs/controlgroup/repos", 
+        "login": "controlgroup", 
+        "id": 300282, 
+        "hooks_url": "https://api.github.com/orgs/controlgroup/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openplans/issues", 
+        "members_url": "https://api.github.com/orgs/openplans/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openplans/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openplans", 
+        "events_url": "https://api.github.com/orgs/openplans/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/325773?v=3", 
+        "repos_url": "https://api.github.com/orgs/openplans/repos", 
+        "login": "openplans", 
+        "id": 325773, 
+        "hooks_url": "https://api.github.com/orgs/openplans/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cancercare/issues", 
+        "members_url": "https://api.github.com/orgs/cancercare/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/cancercare/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cancercare", 
+        "events_url": "https://api.github.com/orgs/cancercare/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/717774?v=3", 
+        "repos_url": "https://api.github.com/orgs/cancercare/repos", 
+        "login": "cancercare", 
+        "id": 717774, 
+        "hooks_url": "https://api.github.com/orgs/cancercare/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/honeyco/issues", 
+        "members_url": "https://api.github.com/orgs/honeyco/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/honeyco/public_members{/member}", 
+        "url": "https://api.github.com/orgs/honeyco", 
+        "events_url": "https://api.github.com/orgs/honeyco/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/965037?v=3", 
+        "repos_url": "https://api.github.com/orgs/honeyco/repos", 
+        "login": "honeyco", 
+        "id": 965037, 
+        "hooks_url": "https://api.github.com/orgs/honeyco/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/camsys/issues", 
+        "members_url": "https://api.github.com/orgs/camsys/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/camsys/public_members{/member}", 
+        "url": "https://api.github.com/orgs/camsys", 
+        "events_url": "https://api.github.com/orgs/camsys/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/999576?v=3", 
+        "repos_url": "https://api.github.com/orgs/camsys/repos", 
+        "login": "camsys", 
+        "id": 999576, 
+        "hooks_url": "https://api.github.com/orgs/camsys/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/luthercollege/issues", 
+        "members_url": "https://api.github.com/orgs/luthercollege/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/luthercollege/public_members{/member}", 
+        "url": "https://api.github.com/orgs/luthercollege", 
+        "events_url": "https://api.github.com/orgs/luthercollege/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1069006?v=3", 
+        "repos_url": "https://api.github.com/orgs/luthercollege/repos", 
+        "login": "luthercollege", 
+        "id": 1069006, 
+        "hooks_url": "https://api.github.com/orgs/luthercollege/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WebbyMediaGroup/issues", 
+        "members_url": "https://api.github.com/orgs/WebbyMediaGroup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/WebbyMediaGroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WebbyMediaGroup", 
+        "events_url": "https://api.github.com/orgs/WebbyMediaGroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4975918?v=3", 
+        "repos_url": "https://api.github.com/orgs/WebbyMediaGroup/repos", 
+        "login": "WebbyMediaGroup", 
+        "id": 4975918, 
+        "hooks_url": "https://api.github.com/orgs/WebbyMediaGroup/hooks"
+    }
+]

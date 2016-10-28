@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pulWifi/issues", 
+        "members_url": "https://api.github.com/orgs/pulWifi/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pulWifi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pulWifi", 
+        "events_url": "https://api.github.com/orgs/pulWifi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1146408?v=3", 
+        "repos_url": "https://api.github.com/orgs/pulWifi/repos", 
+        "login": "pulWifi", 
+        "id": 1146408, 
+        "hooks_url": "https://api.github.com/orgs/pulWifi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openkratio/issues", 
+        "members_url": "https://api.github.com/orgs/openkratio/members{/member}", 
+        "description": "OpenGov & OpenData Organization", 
+        "public_members_url": "https://api.github.com/orgs/openkratio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkratio", 
+        "events_url": "https://api.github.com/orgs/openkratio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2310256?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkratio/repos", 
+        "login": "openkratio", 
+        "id": 2310256, 
+        "hooks_url": "https://api.github.com/orgs/openkratio/hooks"
+    }
+]

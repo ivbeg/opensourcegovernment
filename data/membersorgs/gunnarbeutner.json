@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/zfsonlinux/issues", 
+        "members_url": "https://api.github.com/orgs/zfsonlinux/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/zfsonlinux/public_members{/member}", 
+        "url": "https://api.github.com/orgs/zfsonlinux", 
+        "events_url": "https://api.github.com/orgs/zfsonlinux/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/575083?v=3", 
+        "repos_url": "https://api.github.com/orgs/zfsonlinux/repos", 
+        "login": "zfsonlinux", 
+        "id": 575083, 
+        "hooks_url": "https://api.github.com/orgs/zfsonlinux/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Icinga/issues", 
+        "members_url": "https://api.github.com/orgs/Icinga/members{/member}", 
+        "description": "Icinga is a resilient, open source monitoring and metric solution system.", 
+        "public_members_url": "https://api.github.com/orgs/Icinga/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Icinga", 
+        "events_url": "https://api.github.com/orgs/Icinga/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/835441?v=3", 
+        "repos_url": "https://api.github.com/orgs/Icinga/repos", 
+        "login": "Icinga", 
+        "id": 835441, 
+        "hooks_url": "https://api.github.com/orgs/Icinga/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NETWAYS/issues", 
+        "members_url": "https://api.github.com/orgs/NETWAYS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NETWAYS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NETWAYS", 
+        "events_url": "https://api.github.com/orgs/NETWAYS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2128729?v=3", 
+        "repos_url": "https://api.github.com/orgs/NETWAYS/repos", 
+        "login": "NETWAYS", 
+        "id": 2128729, 
+        "hooks_url": "https://api.github.com/orgs/NETWAYS/hooks"
+    }
+]

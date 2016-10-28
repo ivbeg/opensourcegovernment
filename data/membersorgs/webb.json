@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NIEM/issues", 
+        "members_url": "https://api.github.com/orgs/NIEM/members{/member}", 
+        "description": "NIEM is a community-driven, standards-based approach to exchanging information.", 
+        "public_members_url": "https://api.github.com/orgs/NIEM/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NIEM", 
+        "events_url": "https://api.github.com/orgs/NIEM/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8201902?v=3", 
+        "repos_url": "https://api.github.com/orgs/NIEM/repos", 
+        "login": "NIEM", 
+        "id": 8201902, 
+        "hooks_url": "https://api.github.com/orgs/NIEM/hooks"
+    }
+]

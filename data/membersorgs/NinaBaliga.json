@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sarl-hackerspace/issues", 
+        "members_url": "https://api.github.com/orgs/sarl-hackerspace/members{/member}", 
+        "description": "A Code for America Brigade based in Northern Virginia - we meet in Arlington County every week", 
+        "public_members_url": "https://api.github.com/orgs/sarl-hackerspace/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sarl-hackerspace", 
+        "events_url": "https://api.github.com/orgs/sarl-hackerspace/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2251967?v=3", 
+        "repos_url": "https://api.github.com/orgs/sarl-hackerspace/repos", 
+        "login": "sarl-hackerspace", 
+        "id": 2251967, 
+        "hooks_url": "https://api.github.com/orgs/sarl-hackerspace/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforkansascity/issues", 
+        "members_url": "https://api.github.com/orgs/codeforkansascity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforkansascity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforkansascity", 
+        "events_url": "https://api.github.com/orgs/codeforkansascity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5272305?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforkansascity/repos", 
+        "login": "codeforkansascity", 
+        "id": 5272305, 
+        "hooks_url": "https://api.github.com/orgs/codeforkansascity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/neighborly/issues", 
+        "members_url": "https://api.github.com/orgs/neighborly/members{/member}", 
+        "description": "The Technology Platform for Public Finance", 
+        "public_members_url": "https://api.github.com/orgs/neighborly/public_members{/member}", 
+        "url": "https://api.github.com/orgs/neighborly", 
+        "events_url": "https://api.github.com/orgs/neighborly/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6343507?v=3", 
+        "repos_url": "https://api.github.com/orgs/neighborly/repos", 
+        "login": "neighborly", 
+        "id": 6343507, 
+        "hooks_url": "https://api.github.com/orgs/neighborly/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/correctiv/issues", 
+        "members_url": "https://api.github.com/orgs/correctiv/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/correctiv/public_members{/member}", 
+        "url": "https://api.github.com/orgs/correctiv", 
+        "events_url": "https://api.github.com/orgs/correctiv/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7809407?v=3", 
+        "repos_url": "https://api.github.com/orgs/correctiv/repos", 
+        "login": "correctiv", 
+        "id": 7809407, 
+        "hooks_url": "https://api.github.com/orgs/correctiv/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforRuhrgebiet/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforRuhrgebiet/members{/member}", 
+        "description": "Wir sind das OK Lab Ruhrgebiet, Teil des Netzwerkes Code for Germany", 
+        "public_members_url": "https://api.github.com/orgs/CodeforRuhrgebiet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforRuhrgebiet", 
+        "events_url": "https://api.github.com/orgs/CodeforRuhrgebiet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17032365?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforRuhrgebiet/repos", 
+        "login": "CodeforRuhrgebiet", 
+        "id": 17032365, 
+        "hooks_url": "https://api.github.com/orgs/CodeforRuhrgebiet/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/erasme/issues", 
+        "members_url": "https://api.github.com/orgs/erasme/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/erasme/public_members{/member}", 
+        "url": "https://api.github.com/orgs/erasme", 
+        "events_url": "https://api.github.com/orgs/erasme/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/204704?v=3", 
+        "repos_url": "https://api.github.com/orgs/erasme/repos", 
+        "login": "erasme", 
+        "id": 204704, 
+        "hooks_url": "https://api.github.com/orgs/erasme/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/urbanlab/issues", 
+        "members_url": "https://api.github.com/orgs/urbanlab/members{/member}", 
+        "description": "Laboratoire d'innovation ouverte Erasme. M\u00e9tropole de Lyon.", 
+        "public_members_url": "https://api.github.com/orgs/urbanlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/urbanlab", 
+        "events_url": "https://api.github.com/orgs/urbanlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1254215?v=3", 
+        "repos_url": "https://api.github.com/orgs/urbanlab/repos", 
+        "login": "urbanlab", 
+        "id": 1254215, 
+        "hooks_url": "https://api.github.com/orgs/urbanlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/careproject/issues", 
+        "members_url": "https://api.github.com/orgs/careproject/members{/member}", 
+        "description": "Care project is initially a NASA spaceapps solution for AirCheck subject", 
+        "public_members_url": "https://api.github.com/orgs/careproject/public_members{/member}", 
+        "url": "https://api.github.com/orgs/careproject", 
+        "events_url": "https://api.github.com/orgs/careproject/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/18701259?v=3", 
+        "repos_url": "https://api.github.com/orgs/careproject/repos", 
+        "login": "careproject", 
+        "id": 18701259, 
+        "hooks_url": "https://api.github.com/orgs/careproject/hooks"
+    }
+]

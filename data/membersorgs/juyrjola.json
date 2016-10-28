@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/kansanmuisti/issues", 
+        "members_url": "https://api.github.com/orgs/kansanmuisti/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/kansanmuisti/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kansanmuisti", 
+        "events_url": "https://api.github.com/orgs/kansanmuisti/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1286340?v=3", 
+        "repos_url": "https://api.github.com/orgs/kansanmuisti/repos", 
+        "login": "kansanmuisti", 
+        "id": 1286340, 
+        "hooks_url": "https://api.github.com/orgs/kansanmuisti/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okffi/issues", 
+        "members_url": "https://api.github.com/orgs/okffi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okffi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okffi", 
+        "events_url": "https://api.github.com/orgs/okffi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1327578?v=3", 
+        "repos_url": "https://api.github.com/orgs/okffi/repos", 
+        "login": "okffi", 
+        "id": 1327578, 
+        "hooks_url": "https://api.github.com/orgs/okffi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/avoindata/issues", 
+        "members_url": "https://api.github.com/orgs/avoindata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/avoindata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/avoindata", 
+        "events_url": "https://api.github.com/orgs/avoindata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1564759?v=3", 
+        "repos_url": "https://api.github.com/orgs/avoindata/repos", 
+        "login": "avoindata", 
+        "id": 1564759, 
+        "hooks_url": "https://api.github.com/orgs/avoindata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Helsinki/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Helsinki/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/City-of-Helsinki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Helsinki", 
+        "events_url": "https://api.github.com/orgs/City-of-Helsinki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1875564?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Helsinki/repos", 
+        "login": "City-of-Helsinki", 
+        "id": 1875564, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Helsinki/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforeurope/issues", 
+        "members_url": "https://api.github.com/orgs/codeforeurope/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codeforeurope/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforeurope", 
+        "events_url": "https://api.github.com/orgs/codeforeurope/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3342302?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforeurope/repos", 
+        "login": "codeforeurope", 
+        "id": 3342302, 
+        "hooks_url": "https://api.github.com/orgs/codeforeurope/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/6aika/issues", 
+        "members_url": "https://api.github.com/orgs/6aika/members{/member}", 
+        "description": "Kest\u00e4v\u00e4n kaupunkikehityksen yhteisty\u00f6strategia", 
+        "public_members_url": "https://api.github.com/orgs/6aika/public_members{/member}", 
+        "url": "https://api.github.com/orgs/6aika", 
+        "events_url": "https://api.github.com/orgs/6aika/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12048914?v=3", 
+        "repos_url": "https://api.github.com/orgs/6aika/repos", 
+        "login": "6aika", 
+        "id": 12048914, 
+        "hooks_url": "https://api.github.com/orgs/6aika/hooks"
+    }
+]

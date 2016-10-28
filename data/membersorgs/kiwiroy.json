@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Actinidia/issues", 
+        "members_url": "https://api.github.com/orgs/Actinidia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Actinidia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Actinidia", 
+        "events_url": "https://api.github.com/orgs/Actinidia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5965197?v=3", 
+        "repos_url": "https://api.github.com/orgs/Actinidia/repos", 
+        "login": "Actinidia", 
+        "id": 5965197, 
+        "hooks_url": "https://api.github.com/orgs/Actinidia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PlantandFoodResearch/issues", 
+        "members_url": "https://api.github.com/orgs/PlantandFoodResearch/members{/member}", 
+        "description": "The New Zealand Institute for Plant and Food Research. Crown Research Institute. Contact Matthew Laurenson or Zane Gilmore for access.", 
+        "public_members_url": "https://api.github.com/orgs/PlantandFoodResearch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PlantandFoodResearch", 
+        "events_url": "https://api.github.com/orgs/PlantandFoodResearch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7144520?v=3", 
+        "repos_url": "https://api.github.com/orgs/PlantandFoodResearch/repos", 
+        "login": "PlantandFoodResearch", 
+        "id": 7144520, 
+        "hooks_url": "https://api.github.com/orgs/PlantandFoodResearch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/biospectrabysequencing/issues", 
+        "members_url": "https://api.github.com/orgs/biospectrabysequencing/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/biospectrabysequencing/public_members{/member}", 
+        "url": "https://api.github.com/orgs/biospectrabysequencing", 
+        "events_url": "https://api.github.com/orgs/biospectrabysequencing/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8063420?v=3", 
+        "repos_url": "https://api.github.com/orgs/biospectrabysequencing/repos", 
+        "login": "biospectrabysequencing", 
+        "id": 8063420, 
+        "hooks_url": "https://api.github.com/orgs/biospectrabysequencing/hooks"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/surreydigitalservices/issues", 
+        "members_url": "https://api.github.com/orgs/surreydigitalservices/members{/member}", 
+        "description": "Surrey's local government GIS teams working together", 
+        "public_members_url": "https://api.github.com/orgs/surreydigitalservices/public_members{/member}", 
+        "url": "https://api.github.com/orgs/surreydigitalservices", 
+        "events_url": "https://api.github.com/orgs/surreydigitalservices/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16337733?v=3", 
+        "repos_url": "https://api.github.com/orgs/surreydigitalservices/repos", 
+        "login": "surreydigitalservices", 
+        "id": 16337733, 
+        "hooks_url": "https://api.github.com/orgs/surreydigitalservices/hooks"
+    }
+]

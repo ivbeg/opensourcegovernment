@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hasadna/issues", 
+        "members_url": "https://api.github.com/orgs/hasadna/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hasadna/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hasadna", 
+        "events_url": "https://api.github.com/orgs/hasadna/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/503639?v=3", 
+        "repos_url": "https://api.github.com/orgs/hasadna/repos", 
+        "login": "hasadna", 
+        "id": 503639, 
+        "hooks_url": "https://api.github.com/orgs/hasadna/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OpenBudget/issues", 
+        "members_url": "https://api.github.com/orgs/OpenBudget/members{/member}", 
+        "description": "Opening the Israeli budget", 
+        "public_members_url": "https://api.github.com/orgs/OpenBudget/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OpenBudget", 
+        "events_url": "https://api.github.com/orgs/OpenBudget/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5921171?v=3", 
+        "repos_url": "https://api.github.com/orgs/OpenBudget/repos", 
+        "login": "OpenBudget", 
+        "id": 5921171, 
+        "hooks_url": "https://api.github.com/orgs/OpenBudget/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/billyc/following{/other_user}", 
+        "events_url": "https://api.github.com/users/billyc/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/billyc/orgs", 
+        "url": "https://api.github.com/users/billyc", 
+        "gists_url": "https://api.github.com/users/billyc/gists{/gist_id}", 
+        "html_url": "https://github.com/billyc", 
+        "subscriptions_url": "https://api.github.com/users/billyc/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1427526?v=3", 
+        "repos_url": "https://api.github.com/users/billyc/repos", 
+        "received_events_url": "https://api.github.com/users/billyc/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/billyc/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "billyc", 
+        "type": "User", 
+        "id": 1427526, 
+        "followers_url": "https://api.github.com/users/billyc/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/Ennazus/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Ennazus/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Ennazus/orgs", 
+        "url": "https://api.github.com/users/Ennazus", 
+        "gists_url": "https://api.github.com/users/Ennazus/gists{/gist_id}", 
+        "html_url": "https://github.com/Ennazus", 
+        "subscriptions_url": "https://api.github.com/users/Ennazus/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/806071?v=3", 
+        "repos_url": "https://api.github.com/users/Ennazus/repos", 
+        "received_events_url": "https://api.github.com/users/Ennazus/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Ennazus/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Ennazus", 
+        "type": "User", 
+        "id": 806071, 
+        "followers_url": "https://api.github.com/users/Ennazus/followers"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bluewormlabs/issues", 
+        "members_url": "https://api.github.com/orgs/bluewormlabs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bluewormlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bluewormlabs", 
+        "events_url": "https://api.github.com/orgs/bluewormlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/212071?v=3", 
+        "repos_url": "https://api.github.com/orgs/bluewormlabs/repos", 
+        "login": "bluewormlabs", 
+        "id": 212071, 
+        "hooks_url": "https://api.github.com/orgs/bluewormlabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tractorfeed/issues", 
+        "members_url": "https://api.github.com/orgs/tractorfeed/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/tractorfeed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tractorfeed", 
+        "events_url": "https://api.github.com/orgs/tractorfeed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/366566?v=3", 
+        "repos_url": "https://api.github.com/orgs/tractorfeed/repos", 
+        "login": "tractorfeed", 
+        "id": 366566, 
+        "hooks_url": "https://api.github.com/orgs/tractorfeed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nko2/issues", 
+        "members_url": "https://api.github.com/orgs/nko2/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko2/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko2", 
+        "events_url": "https://api.github.com/orgs/nko2/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/838448?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko2/repos", 
+        "login": "nko2", 
+        "id": 838448, 
+        "hooks_url": "https://api.github.com/orgs/nko2/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/poligraphapp/issues", 
+        "members_url": "https://api.github.com/orgs/poligraphapp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/poligraphapp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/poligraphapp", 
+        "events_url": "https://api.github.com/orgs/poligraphapp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1645779?v=3", 
+        "repos_url": "https://api.github.com/orgs/poligraphapp/repos", 
+        "login": "poligraphapp", 
+        "id": 1645779, 
+        "hooks_url": "https://api.github.com/orgs/poligraphapp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HaymarketDev/issues", 
+        "members_url": "https://api.github.com/orgs/HaymarketDev/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/HaymarketDev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HaymarketDev", 
+        "events_url": "https://api.github.com/orgs/HaymarketDev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2600158?v=3", 
+        "repos_url": "https://api.github.com/orgs/HaymarketDev/repos", 
+        "login": "HaymarketDev", 
+        "id": 2600158, 
+        "hooks_url": "https://api.github.com/orgs/HaymarketDev/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opennebraska/issues", 
+        "members_url": "https://api.github.com/orgs/opennebraska/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opennebraska/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opennebraska", 
+        "events_url": "https://api.github.com/orgs/opennebraska/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5042049?v=3", 
+        "repos_url": "https://api.github.com/orgs/opennebraska/repos", 
+        "login": "opennebraska", 
+        "id": 5042049, 
+        "hooks_url": "https://api.github.com/orgs/opennebraska/hooks"
+    }
+]

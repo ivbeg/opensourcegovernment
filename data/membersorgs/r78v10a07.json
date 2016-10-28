@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ncbi/issues", 
+        "members_url": "https://api.github.com/orgs/ncbi/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ncbi/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ncbi", 
+        "events_url": "https://api.github.com/orgs/ncbi/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3812119?v=3", 
+        "repos_url": "https://api.github.com/orgs/ncbi/repos", 
+        "login": "ncbi", 
+        "id": 3812119, 
+        "hooks_url": "https://api.github.com/orgs/ncbi/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/BioContainers/issues", 
+        "members_url": "https://api.github.com/orgs/BioContainers/members{/member}", 
+        "description": "A community-driven project to create and manage bioinformatics software containers", 
+        "public_members_url": "https://api.github.com/orgs/BioContainers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BioContainers", 
+        "events_url": "https://api.github.com/orgs/BioContainers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8040690?v=3", 
+        "repos_url": "https://api.github.com/orgs/BioContainers/repos", 
+        "login": "BioContainers", 
+        "id": 8040690, 
+        "hooks_url": "https://api.github.com/orgs/BioContainers/hooks"
+    }
+]

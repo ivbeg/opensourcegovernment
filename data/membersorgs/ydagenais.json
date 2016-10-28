@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/streamwave/issues", 
+        "members_url": "https://api.github.com/orgs/streamwave/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/streamwave/public_members{/member}", 
+        "url": "https://api.github.com/orgs/streamwave", 
+        "events_url": "https://api.github.com/orgs/streamwave/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3868305?v=3", 
+        "repos_url": "https://api.github.com/orgs/streamwave/repos", 
+        "login": "streamwave", 
+        "id": 3868305, 
+        "hooks_url": "https://api.github.com/orgs/streamwave/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ca-canada/issues", 
+        "members_url": "https://api.github.com/orgs/ca-canada/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ca-canada/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ca-canada", 
+        "events_url": "https://api.github.com/orgs/ca-canada/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5863344?v=3", 
+        "repos_url": "https://api.github.com/orgs/ca-canada/repos", 
+        "login": "ca-canada", 
+        "id": 5863344, 
+        "hooks_url": "https://api.github.com/orgs/ca-canada/hooks"
+    }
+]

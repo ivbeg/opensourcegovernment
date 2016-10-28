@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/rajarshi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rajarshi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rajarshi/orgs", 
+        "url": "https://api.github.com/users/rajarshi", 
+        "gists_url": "https://api.github.com/users/rajarshi/gists{/gist_id}", 
+        "html_url": "https://github.com/rajarshi", 
+        "subscriptions_url": "https://api.github.com/users/rajarshi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/34361?v=3", 
+        "repos_url": "https://api.github.com/users/rajarshi/repos", 
+        "received_events_url": "https://api.github.com/users/rajarshi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rajarshi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rajarshi", 
+        "type": "User", 
+        "id": 34361, 
+        "followers_url": "https://api.github.com/users/rajarshi/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/tzhao/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tzhao/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tzhao/orgs", 
+        "url": "https://api.github.com/users/tzhao", 
+        "gists_url": "https://api.github.com/users/tzhao/gists{/gist_id}", 
+        "html_url": "https://github.com/tzhao", 
+        "subscriptions_url": "https://api.github.com/users/tzhao/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1703852?v=3", 
+        "repos_url": "https://api.github.com/users/tzhao/repos", 
+        "received_events_url": "https://api.github.com/users/tzhao/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tzhao/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tzhao", 
+        "type": "User", 
+        "id": 1703852, 
+        "followers_url": "https://api.github.com/users/tzhao/followers"
+    }
+]

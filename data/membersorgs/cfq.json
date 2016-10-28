@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/alphagov/issues", 
+        "members_url": "https://api.github.com/orgs/alphagov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/alphagov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alphagov", 
+        "events_url": "https://api.github.com/orgs/alphagov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/596977?v=3", 
+        "repos_url": "https://api.github.com/orgs/alphagov/repos", 
+        "login": "alphagov", 
+        "id": 596977, 
+        "hooks_url": "https://api.github.com/orgs/alphagov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/jstanbul/issues", 
+        "members_url": "https://api.github.com/orgs/jstanbul/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/jstanbul/public_members{/member}", 
+        "url": "https://api.github.com/orgs/jstanbul", 
+        "events_url": "https://api.github.com/orgs/jstanbul/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1914307?v=3", 
+        "repos_url": "https://api.github.com/orgs/jstanbul/repos", 
+        "login": "jstanbul", 
+        "id": 1914307, 
+        "hooks_url": "https://api.github.com/orgs/jstanbul/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/wbushey/following{/other_user}", 
+        "events_url": "https://api.github.com/users/wbushey/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/wbushey/orgs", 
+        "url": "https://api.github.com/users/wbushey", 
+        "gists_url": "https://api.github.com/users/wbushey/gists{/gist_id}", 
+        "html_url": "https://github.com/wbushey", 
+        "subscriptions_url": "https://api.github.com/users/wbushey/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1000469?v=3", 
+        "repos_url": "https://api.github.com/users/wbushey/repos", 
+        "received_events_url": "https://api.github.com/users/wbushey/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/wbushey/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "wbushey", 
+        "type": "User", 
+        "id": 1000469, 
+        "followers_url": "https://api.github.com/users/wbushey/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/zzolo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/zzolo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/zzolo/orgs", 
+        "url": "https://api.github.com/users/zzolo", 
+        "gists_url": "https://api.github.com/users/zzolo/gists{/gist_id}", 
+        "html_url": "https://github.com/zzolo", 
+        "subscriptions_url": "https://api.github.com/users/zzolo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/190733?v=3", 
+        "repos_url": "https://api.github.com/users/zzolo/repos", 
+        "received_events_url": "https://api.github.com/users/zzolo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/zzolo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "zzolo", 
+        "type": "User", 
+        "id": 190733, 
+        "followers_url": "https://api.github.com/users/zzolo/followers"
+    }
+]

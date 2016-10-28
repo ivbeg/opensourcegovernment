@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Andrew-Welfle/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Andrew-Welfle/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Andrew-Welfle/orgs", 
+        "url": "https://api.github.com/users/Andrew-Welfle", 
+        "gists_url": "https://api.github.com/users/Andrew-Welfle/gists{/gist_id}", 
+        "html_url": "https://github.com/Andrew-Welfle", 
+        "subscriptions_url": "https://api.github.com/users/Andrew-Welfle/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8234234?v=3", 
+        "repos_url": "https://api.github.com/users/Andrew-Welfle/repos", 
+        "received_events_url": "https://api.github.com/users/Andrew-Welfle/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Andrew-Welfle/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Andrew-Welfle", 
+        "type": "User", 
+        "id": 8234234, 
+        "followers_url": "https://api.github.com/users/Andrew-Welfle/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/PhilipSargent/following{/other_user}", 
+        "events_url": "https://api.github.com/users/PhilipSargent/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/PhilipSargent/orgs", 
+        "url": "https://api.github.com/users/PhilipSargent", 
+        "gists_url": "https://api.github.com/users/PhilipSargent/gists{/gist_id}", 
+        "html_url": "https://github.com/PhilipSargent", 
+        "subscriptions_url": "https://api.github.com/users/PhilipSargent/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5623885?v=3", 
+        "repos_url": "https://api.github.com/users/PhilipSargent/repos", 
+        "received_events_url": "https://api.github.com/users/PhilipSargent/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/PhilipSargent/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "PhilipSargent", 
+        "type": "User", 
+        "id": 5623885, 
+        "followers_url": "https://api.github.com/users/PhilipSargent/followers"
+    }
+]

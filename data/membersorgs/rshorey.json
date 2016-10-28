@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opencivicdata/issues", 
+        "members_url": "https://api.github.com/orgs/opencivicdata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/opencivicdata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opencivicdata", 
+        "events_url": "https://api.github.com/orgs/opencivicdata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/603647?v=3", 
+        "repos_url": "https://api.github.com/orgs/opencivicdata/repos", 
+        "login": "opencivicdata", 
+        "id": 603647, 
+        "hooks_url": "https://api.github.com/orgs/opencivicdata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/unitedstates/issues", 
+        "members_url": "https://api.github.com/orgs/unitedstates/members{/member}", 
+        "description": "A shared commons of data and tools for the United States. Made by the public, used by the public.", 
+        "public_members_url": "https://api.github.com/orgs/unitedstates/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitedstates", 
+        "events_url": "https://api.github.com/orgs/unitedstates/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2200203?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitedstates/repos", 
+        "login": "unitedstates", 
+        "id": 2200203, 
+        "hooks_url": "https://api.github.com/orgs/unitedstates/hooks"
+    }
+]

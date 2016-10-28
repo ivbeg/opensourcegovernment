@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cambridgegis/issues", 
+        "members_url": "https://api.github.com/orgs/cambridgegis/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/cambridgegis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cambridgegis", 
+        "events_url": "https://api.github.com/orgs/cambridgegis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/690381?v=3", 
+        "repos_url": "https://api.github.com/orgs/cambridgegis/repos", 
+        "login": "cambridgegis", 
+        "id": 690381, 
+        "hooks_url": "https://api.github.com/orgs/cambridgegis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cambridgedata/issues", 
+        "members_url": "https://api.github.com/orgs/cambridgedata/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cambridgedata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cambridgedata", 
+        "events_url": "https://api.github.com/orgs/cambridgedata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5191154?v=3", 
+        "repos_url": "https://api.github.com/orgs/cambridgedata/repos", 
+        "login": "cambridgedata", 
+        "id": 5191154, 
+        "hooks_url": "https://api.github.com/orgs/cambridgedata/hooks"
+    }
+]

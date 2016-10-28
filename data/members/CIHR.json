@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Pacoup/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Pacoup/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Pacoup/orgs", 
+        "url": "https://api.github.com/users/Pacoup", 
+        "gists_url": "https://api.github.com/users/Pacoup/gists{/gist_id}", 
+        "html_url": "https://github.com/Pacoup", 
+        "subscriptions_url": "https://api.github.com/users/Pacoup/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/112764?v=3", 
+        "repos_url": "https://api.github.com/users/Pacoup/repos", 
+        "received_events_url": "https://api.github.com/users/Pacoup/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Pacoup/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Pacoup", 
+        "type": "User", 
+        "id": 112764, 
+        "followers_url": "https://api.github.com/users/Pacoup/followers"
+    }
+]

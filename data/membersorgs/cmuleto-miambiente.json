@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/miambiente/issues", 
+        "members_url": "https://api.github.com/orgs/miambiente/members{/member}", 
+        "description": "Entidad aut\u00f3noma que asegura el cumplimiento y aplicaci\u00f3n de las leyes nacionales de ambiente", 
+        "public_members_url": "https://api.github.com/orgs/miambiente/public_members{/member}", 
+        "url": "https://api.github.com/orgs/miambiente", 
+        "events_url": "https://api.github.com/orgs/miambiente/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13356100?v=3", 
+        "repos_url": "https://api.github.com/orgs/miambiente/repos", 
+        "login": "miambiente", 
+        "id": 13356100, 
+        "hooks_url": "https://api.github.com/orgs/miambiente/hooks"
+    }
+]

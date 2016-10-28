@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openknowledgebe/issues", 
+        "members_url": "https://api.github.com/orgs/openknowledgebe/members{/member}", 
+        "description": "An umbrella organization for Open Knowledge in Belgium", 
+        "public_members_url": "https://api.github.com/orgs/openknowledgebe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openknowledgebe", 
+        "events_url": "https://api.github.com/orgs/openknowledgebe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1188392?v=3", 
+        "repos_url": "https://api.github.com/orgs/openknowledgebe/repos", 
+        "login": "openknowledgebe", 
+        "id": 1188392, 
+        "hooks_url": "https://api.github.com/orgs/openknowledgebe/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/oSoc15/issues", 
+        "members_url": "https://api.github.com/orgs/oSoc15/members{/member}", 
+        "description": "A 3 week programme for students creating real-world applications through open innovation.", 
+        "public_members_url": "https://api.github.com/orgs/oSoc15/public_members{/member}", 
+        "url": "https://api.github.com/orgs/oSoc15", 
+        "events_url": "https://api.github.com/orgs/oSoc15/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8503466?v=3", 
+        "repos_url": "https://api.github.com/orgs/oSoc15/repos", 
+        "login": "oSoc15", 
+        "id": 8503466, 
+        "hooks_url": "https://api.github.com/orgs/oSoc15/hooks"
+    }
+]

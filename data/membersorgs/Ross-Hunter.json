@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/friendlycode/issues", 
+        "members_url": "https://api.github.com/orgs/friendlycode/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/friendlycode/public_members{/member}", 
+        "url": "https://api.github.com/orgs/friendlycode", 
+        "events_url": "https://api.github.com/orgs/friendlycode/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2140320?v=3", 
+        "repos_url": "https://api.github.com/orgs/friendlycode/repos", 
+        "login": "friendlycode", 
+        "id": 2140320, 
+        "hooks_url": "https://api.github.com/orgs/friendlycode/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WestMichiganRubyTraining/issues", 
+        "members_url": "https://api.github.com/orgs/WestMichiganRubyTraining/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/WestMichiganRubyTraining/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WestMichiganRubyTraining", 
+        "events_url": "https://api.github.com/orgs/WestMichiganRubyTraining/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3374403?v=3", 
+        "repos_url": "https://api.github.com/orgs/WestMichiganRubyTraining/repos", 
+        "login": "WestMichiganRubyTraining", 
+        "id": 3374403, 
+        "hooks_url": "https://api.github.com/orgs/WestMichiganRubyTraining/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Etison/issues", 
+        "members_url": "https://api.github.com/orgs/Etison/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Etison/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Etison", 
+        "events_url": "https://api.github.com/orgs/Etison/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6333171?v=3", 
+        "repos_url": "https://api.github.com/orgs/Etison/repos", 
+        "login": "Etison", 
+        "id": 6333171, 
+        "hooks_url": "https://api.github.com/orgs/Etison/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/grgivecamp/issues", 
+        "members_url": "https://api.github.com/orgs/grgivecamp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/grgivecamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/grgivecamp", 
+        "events_url": "https://api.github.com/orgs/grgivecamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8890762?v=3", 
+        "repos_url": "https://api.github.com/orgs/grgivecamp/repos", 
+        "login": "grgivecamp", 
+        "id": 8890762, 
+        "hooks_url": "https://api.github.com/orgs/grgivecamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/votestakes/issues", 
+        "members_url": "https://api.github.com/orgs/votestakes/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/votestakes/public_members{/member}", 
+        "url": "https://api.github.com/orgs/votestakes", 
+        "events_url": "https://api.github.com/orgs/votestakes/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15176651?v=3", 
+        "repos_url": "https://api.github.com/orgs/votestakes/repos", 
+        "login": "votestakes", 
+        "id": 15176651, 
+        "hooks_url": "https://api.github.com/orgs/votestakes/hooks"
+    }
+]

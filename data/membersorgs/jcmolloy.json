@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ContentMine/issues", 
+        "members_url": "https://api.github.com/orgs/ContentMine/members{/member}", 
+        "description": "The ContentMine is extracting 100 million facts from the academic literature", 
+        "public_members_url": "https://api.github.com/orgs/ContentMine/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ContentMine", 
+        "events_url": "https://api.github.com/orgs/ContentMine/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7421105?v=3", 
+        "repos_url": "https://api.github.com/orgs/ContentMine/repos", 
+        "login": "ContentMine", 
+        "id": 7421105, 
+        "hooks_url": "https://api.github.com/orgs/ContentMine/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opentechmakeathon/issues", 
+        "members_url": "https://api.github.com/orgs/opentechmakeathon/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opentechmakeathon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opentechmakeathon", 
+        "events_url": "https://api.github.com/orgs/opentechmakeathon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19778403?v=3", 
+        "repos_url": "https://api.github.com/orgs/opentechmakeathon/repos", 
+        "login": "opentechmakeathon", 
+        "id": 19778403, 
+        "hooks_url": "https://api.github.com/orgs/opentechmakeathon/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/biomakespace/issues", 
+        "members_url": "https://api.github.com/orgs/biomakespace/members{/member}", 
+        "description": "Interdisciplinary space for engineering biology in Cambridge, UK", 
+        "public_members_url": "https://api.github.com/orgs/biomakespace/public_members{/member}", 
+        "url": "https://api.github.com/orgs/biomakespace", 
+        "events_url": "https://api.github.com/orgs/biomakespace/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19932501?v=3", 
+        "repos_url": "https://api.github.com/orgs/biomakespace/repos", 
+        "login": "biomakespace", 
+        "id": 19932501, 
+        "hooks_url": "https://api.github.com/orgs/biomakespace/hooks"
+    }
+]

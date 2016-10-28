@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mapbox/issues", 
+        "members_url": "https://api.github.com/orgs/mapbox/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapbox/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapbox", 
+        "events_url": "https://api.github.com/orgs/mapbox/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/600935?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapbox/repos", 
+        "login": "mapbox", 
+        "id": 600935, 
+        "hooks_url": "https://api.github.com/orgs/mapbox/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/fellows/issues", 
+        "members_url": "https://api.github.com/orgs/fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/fellows", 
+        "events_url": "https://api.github.com/orgs/fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6424523?v=3", 
+        "repos_url": "https://api.github.com/orgs/fellows/repos", 
+        "login": "fellows", 
+        "id": 6424523, 
+        "hooks_url": "https://api.github.com/orgs/fellows/hooks"
+    }
+]

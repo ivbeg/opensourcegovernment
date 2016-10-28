@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/keithmoss/following{/other_user}", 
+        "events_url": "https://api.github.com/users/keithmoss/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/keithmoss/orgs", 
+        "url": "https://api.github.com/users/keithmoss", 
+        "gists_url": "https://api.github.com/users/keithmoss/gists{/gist_id}", 
+        "html_url": "https://github.com/keithmoss", 
+        "subscriptions_url": "https://api.github.com/users/keithmoss/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5944358?v=3", 
+        "repos_url": "https://api.github.com/users/keithmoss/repos", 
+        "received_events_url": "https://api.github.com/users/keithmoss/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/keithmoss/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "keithmoss", 
+        "type": "User", 
+        "id": 5944358, 
+        "followers_url": "https://api.github.com/users/keithmoss/followers"
+    }
+]

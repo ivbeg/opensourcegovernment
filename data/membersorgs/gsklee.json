@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/KKBOX/issues", 
+        "members_url": "https://api.github.com/orgs/KKBOX/members{/member}", 
+        "description": "Asia's leading music streaming service, was established in 2004 by a group of Taiwanese software programmers.", 
+        "public_members_url": "https://api.github.com/orgs/KKBOX/public_members{/member}", 
+        "url": "https://api.github.com/orgs/KKBOX", 
+        "events_url": "https://api.github.com/orgs/KKBOX/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/443354?v=3", 
+        "repos_url": "https://api.github.com/orgs/KKBOX/repos", 
+        "login": "KKBOX", 
+        "id": 443354, 
+        "hooks_url": "https://api.github.com/orgs/KKBOX/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }
+]

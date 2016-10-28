@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openchattanooga/issues", 
+        "members_url": "https://api.github.com/orgs/openchattanooga/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openchattanooga/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openchattanooga", 
+        "events_url": "https://api.github.com/orgs/openchattanooga/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3266762?v=3", 
+        "repos_url": "https://api.github.com/orgs/openchattanooga/repos", 
+        "login": "openchattanooga", 
+        "id": 3266762, 
+        "hooks_url": "https://api.github.com/orgs/openchattanooga/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/issues", 
+        "members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NationalDayOfCivicHacking", 
+        "events_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4041034?v=3", 
+        "repos_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/repos", 
+        "login": "NationalDayOfCivicHacking", 
+        "id": 4041034, 
+        "hooks_url": "https://api.github.com/orgs/NationalDayOfCivicHacking/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cityofchattanooga/issues", 
+        "members_url": "https://api.github.com/orgs/cityofchattanooga/members{/member}", 
+        "description": "The City of Chattanooga Official Github Organization", 
+        "public_members_url": "https://api.github.com/orgs/cityofchattanooga/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cityofchattanooga", 
+        "events_url": "https://api.github.com/orgs/cityofchattanooga/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6576250?v=3", 
+        "repos_url": "https://api.github.com/orgs/cityofchattanooga/repos", 
+        "login": "cityofchattanooga", 
+        "id": 6576250, 
+        "hooks_url": "https://api.github.com/orgs/cityofchattanooga/hooks"
+    }
+]

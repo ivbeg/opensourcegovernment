@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/wet-boew/issues", 
+        "members_url": "https://api.github.com/orgs/wet-boew/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/wet-boew/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wet-boew", 
+        "events_url": "https://api.github.com/orgs/wet-boew/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1730142?v=3", 
+        "repos_url": "https://api.github.com/orgs/wet-boew/repos", 
+        "login": "wet-boew", 
+        "id": 1730142, 
+        "hooks_url": "https://api.github.com/orgs/wet-boew/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/open-data/issues", 
+        "members_url": "https://api.github.com/orgs/open-data/members{/member}", 
+        "description": "open.canada.ca provides one-stop access to Government of Canada data and information", 
+        "public_members_url": "https://api.github.com/orgs/open-data/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-data", 
+        "events_url": "https://api.github.com/orgs/open-data/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2651841?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-data/repos", 
+        "login": "open-data", 
+        "id": 2651841, 
+        "hooks_url": "https://api.github.com/orgs/open-data/hooks"
+    }
+]

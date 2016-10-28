@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/tbueno/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tbueno/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tbueno/orgs", 
+        "url": "https://api.github.com/users/tbueno", 
+        "gists_url": "https://api.github.com/users/tbueno/gists{/gist_id}", 
+        "html_url": "https://github.com/tbueno", 
+        "subscriptions_url": "https://api.github.com/users/tbueno/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7570?v=3", 
+        "repos_url": "https://api.github.com/users/tbueno/repos", 
+        "received_events_url": "https://api.github.com/users/tbueno/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tbueno/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tbueno", 
+        "type": "User", 
+        "id": 7570, 
+        "followers_url": "https://api.github.com/users/tbueno/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/vitorbaptista/following{/other_user}", 
+        "events_url": "https://api.github.com/users/vitorbaptista/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/vitorbaptista/orgs", 
+        "url": "https://api.github.com/users/vitorbaptista", 
+        "gists_url": "https://api.github.com/users/vitorbaptista/gists{/gist_id}", 
+        "html_url": "https://github.com/vitorbaptista", 
+        "subscriptions_url": "https://api.github.com/users/vitorbaptista/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/76945?v=3", 
+        "repos_url": "https://api.github.com/users/vitorbaptista/repos", 
+        "received_events_url": "https://api.github.com/users/vitorbaptista/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/vitorbaptista/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "vitorbaptista", 
+        "type": "User", 
+        "id": 76945, 
+        "followers_url": "https://api.github.com/users/vitorbaptista/followers"
+    }
+]

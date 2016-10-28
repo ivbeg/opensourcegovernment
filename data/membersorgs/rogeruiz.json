@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/aiaio/issues", 
+        "members_url": "https://api.github.com/orgs/aiaio/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/aiaio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aiaio", 
+        "events_url": "https://api.github.com/orgs/aiaio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/38570?v=3", 
+        "repos_url": "https://api.github.com/orgs/aiaio/repos", 
+        "login": "aiaio", 
+        "id": 38570, 
+        "hooks_url": "https://api.github.com/orgs/aiaio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/18F/issues", 
+        "members_url": "https://api.github.com/orgs/18F/members{/member}", 
+        "description": "18F builds effective, user-centric digital services focused on the interaction between government & the people it serves. Provided by GSA.", 
+        "public_members_url": "https://api.github.com/orgs/18F/public_members{/member}", 
+        "url": "https://api.github.com/orgs/18F", 
+        "events_url": "https://api.github.com/orgs/18F/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6233994?v=3", 
+        "repos_url": "https://api.github.com/orgs/18F/repos", 
+        "login": "18F", 
+        "id": 6233994, 
+        "hooks_url": "https://api.github.com/orgs/18F/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openopps/issues", 
+        "members_url": "https://api.github.com/orgs/openopps/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openopps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openopps", 
+        "events_url": "https://api.github.com/orgs/openopps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19307706?v=3", 
+        "repos_url": "https://api.github.com/orgs/openopps/repos", 
+        "login": "openopps", 
+        "id": 19307706, 
+        "hooks_url": "https://api.github.com/orgs/openopps/hooks"
+    }
+]

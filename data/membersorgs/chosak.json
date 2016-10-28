@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DCPython/issues", 
+        "members_url": "https://api.github.com/orgs/DCPython/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DCPython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DCPython", 
+        "events_url": "https://api.github.com/orgs/DCPython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/468152?v=3", 
+        "repos_url": "https://api.github.com/orgs/DCPython/repos", 
+        "login": "DCPython", 
+        "id": 468152, 
+        "hooks_url": "https://api.github.com/orgs/DCPython/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cfpb/issues", 
+        "members_url": "https://api.github.com/orgs/cfpb/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cfpb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cfpb", 
+        "events_url": "https://api.github.com/orgs/cfpb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1071563?v=3", 
+        "repos_url": "https://api.github.com/orgs/cfpb/repos", 
+        "login": "cfpb", 
+        "id": 1071563, 
+        "hooks_url": "https://api.github.com/orgs/cfpb/hooks"
+    }
+]

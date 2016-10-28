@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/gdgvilnius/issues", 
+        "members_url": "https://api.github.com/orgs/gdgvilnius/members{/member}", 
+        "description": "Google Developer Group in Vilnius", 
+        "public_members_url": "https://api.github.com/orgs/gdgvilnius/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gdgvilnius", 
+        "events_url": "https://api.github.com/orgs/gdgvilnius/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2934476?v=3", 
+        "repos_url": "https://api.github.com/orgs/gdgvilnius/repos", 
+        "login": "gdgvilnius", 
+        "id": 2934476, 
+        "hooks_url": "https://api.github.com/orgs/gdgvilnius/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/vilnius/issues", 
+        "members_url": "https://api.github.com/orgs/vilnius/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/vilnius/public_members{/member}", 
+        "url": "https://api.github.com/orgs/vilnius", 
+        "events_url": "https://api.github.com/orgs/vilnius/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12123443?v=3", 
+        "repos_url": "https://api.github.com/orgs/vilnius/repos", 
+        "login": "vilnius", 
+        "id": 12123443, 
+        "hooks_url": "https://api.github.com/orgs/vilnius/hooks"
+    }
+]

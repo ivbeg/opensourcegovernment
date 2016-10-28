@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/adam-at-mobomo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/adam-at-mobomo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/adam-at-mobomo/orgs", 
+        "url": "https://api.github.com/users/adam-at-mobomo", 
+        "gists_url": "https://api.github.com/users/adam-at-mobomo/gists{/gist_id}", 
+        "html_url": "https://github.com/adam-at-mobomo", 
+        "subscriptions_url": "https://api.github.com/users/adam-at-mobomo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/946906?v=3", 
+        "repos_url": "https://api.github.com/users/adam-at-mobomo/repos", 
+        "received_events_url": "https://api.github.com/users/adam-at-mobomo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/adam-at-mobomo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "adam-at-mobomo", 
+        "type": "User", 
+        "id": 946906, 
+        "followers_url": "https://api.github.com/users/adam-at-mobomo/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ErikSArnold/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ErikSArnold/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ErikSArnold/orgs", 
+        "url": "https://api.github.com/users/ErikSArnold", 
+        "gists_url": "https://api.github.com/users/ErikSArnold/gists{/gist_id}", 
+        "html_url": "https://github.com/ErikSArnold", 
+        "subscriptions_url": "https://api.github.com/users/ErikSArnold/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/156040?v=3", 
+        "repos_url": "https://api.github.com/users/ErikSArnold/repos", 
+        "received_events_url": "https://api.github.com/users/ErikSArnold/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ErikSArnold/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ErikSArnold", 
+        "type": "User", 
+        "id": 156040, 
+        "followers_url": "https://api.github.com/users/ErikSArnold/followers"
+    }
+]

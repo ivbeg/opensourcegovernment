@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/puppetlabs/issues", 
+        "members_url": "https://api.github.com/orgs/puppetlabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/puppetlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/puppetlabs", 
+        "events_url": "https://api.github.com/orgs/puppetlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/234268?v=3", 
+        "repos_url": "https://api.github.com/orgs/puppetlabs/repos", 
+        "login": "puppetlabs", 
+        "id": 234268, 
+        "hooks_url": "https://api.github.com/orgs/puppetlabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/alphagov/issues", 
+        "members_url": "https://api.github.com/orgs/alphagov/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/alphagov/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alphagov", 
+        "events_url": "https://api.github.com/orgs/alphagov/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/596977?v=3", 
+        "repos_url": "https://api.github.com/orgs/alphagov/repos", 
+        "login": "alphagov", 
+        "id": 596977, 
+        "hooks_url": "https://api.github.com/orgs/alphagov/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gds-operations/issues", 
+        "members_url": "https://api.github.com/orgs/gds-operations/members{/member}", 
+        "description": "Open source software from UK Government Digital Service", 
+        "public_members_url": "https://api.github.com/orgs/gds-operations/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gds-operations", 
+        "events_url": "https://api.github.com/orgs/gds-operations/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4703760?v=3", 
+        "repos_url": "https://api.github.com/orgs/gds-operations/repos", 
+        "login": "gds-operations", 
+        "id": 4703760, 
+        "hooks_url": "https://api.github.com/orgs/gds-operations/hooks"
+    }
+]

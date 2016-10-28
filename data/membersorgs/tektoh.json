@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openkawasaki/issues", 
+        "members_url": "https://api.github.com/orgs/openkawasaki/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/openkawasaki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openkawasaki", 
+        "events_url": "https://api.github.com/orgs/openkawasaki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7857102?v=3", 
+        "repos_url": "https://api.github.com/orgs/openkawasaki/repos", 
+        "login": "openkawasaki", 
+        "id": 7857102, 
+        "hooks_url": "https://api.github.com/orgs/openkawasaki/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SudachiWorks/issues", 
+        "members_url": "https://api.github.com/orgs/SudachiWorks/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/SudachiWorks/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SudachiWorks", 
+        "events_url": "https://api.github.com/orgs/SudachiWorks/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7930357?v=3", 
+        "repos_url": "https://api.github.com/orgs/SudachiWorks/repos", 
+        "login": "SudachiWorks", 
+        "id": 7930357, 
+        "hooks_url": "https://api.github.com/orgs/SudachiWorks/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HotStartup/issues", 
+        "members_url": "https://api.github.com/orgs/HotStartup/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/HotStartup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HotStartup", 
+        "events_url": "https://api.github.com/orgs/HotStartup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8079170?v=3", 
+        "repos_url": "https://api.github.com/orgs/HotStartup/repos", 
+        "login": "HotStartup", 
+        "id": 8079170, 
+        "hooks_url": "https://api.github.com/orgs/HotStartup/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/startup-technology/issues", 
+        "members_url": "https://api.github.com/orgs/startup-technology/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/startup-technology/public_members{/member}", 
+        "url": "https://api.github.com/orgs/startup-technology", 
+        "events_url": "https://api.github.com/orgs/startup-technology/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9894980?v=3", 
+        "repos_url": "https://api.github.com/orgs/startup-technology/repos", 
+        "login": "startup-technology", 
+        "id": 9894980, 
+        "hooks_url": "https://api.github.com/orgs/startup-technology/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/startuplabo-academy/issues", 
+        "members_url": "https://api.github.com/orgs/startuplabo-academy/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/startuplabo-academy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/startuplabo-academy", 
+        "events_url": "https://api.github.com/orgs/startuplabo-academy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16678979?v=3", 
+        "repos_url": "https://api.github.com/orgs/startuplabo-academy/repos", 
+        "login": "startuplabo-academy", 
+        "id": 16678979, 
+        "hooks_url": "https://api.github.com/orgs/startuplabo-academy/hooks"
+    }
+]

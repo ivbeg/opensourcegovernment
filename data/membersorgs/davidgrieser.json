@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/BizeeBee/issues", 
+        "members_url": "https://api.github.com/orgs/BizeeBee/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/BizeeBee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/BizeeBee", 
+        "events_url": "https://api.github.com/orgs/BizeeBee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1550983?v=3", 
+        "repos_url": "https://api.github.com/orgs/BizeeBee/repos", 
+        "login": "BizeeBee", 
+        "id": 1550983, 
+        "hooks_url": "https://api.github.com/orgs/BizeeBee/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeforBirmingham/issues", 
+        "members_url": "https://api.github.com/orgs/CodeforBirmingham/members{/member}", 
+        "description": "A group of civic hackers in Birmingham, AL", 
+        "public_members_url": "https://api.github.com/orgs/CodeforBirmingham/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeforBirmingham", 
+        "events_url": "https://api.github.com/orgs/CodeforBirmingham/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6835788?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeforBirmingham/repos", 
+        "login": "CodeforBirmingham", 
+        "id": 6835788, 
+        "hooks_url": "https://api.github.com/orgs/CodeforBirmingham/hooks"
+    }
+]

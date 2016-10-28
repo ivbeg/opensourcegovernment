@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/cusick/following{/other_user}", 
+        "events_url": "https://api.github.com/users/cusick/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/cusick/orgs", 
+        "url": "https://api.github.com/users/cusick", 
+        "gists_url": "https://api.github.com/users/cusick/gists{/gist_id}", 
+        "html_url": "https://github.com/cusick", 
+        "subscriptions_url": "https://api.github.com/users/cusick/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3755006?v=3", 
+        "repos_url": "https://api.github.com/users/cusick/repos", 
+        "received_events_url": "https://api.github.com/users/cusick/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/cusick/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "cusick", 
+        "type": "User", 
+        "id": 3755006, 
+        "followers_url": "https://api.github.com/users/cusick/followers"
+    }
+]

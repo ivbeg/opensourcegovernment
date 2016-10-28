@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/openlexington/issues", 
+        "members_url": "https://api.github.com/orgs/openlexington/members{/member}", 
+        "description": "Lexington's Code for America Brigade!", 
+        "public_members_url": "https://api.github.com/orgs/openlexington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openlexington", 
+        "events_url": "https://api.github.com/orgs/openlexington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/253019?v=3", 
+        "repos_url": "https://api.github.com/orgs/openlexington/repos", 
+        "login": "openlexington", 
+        "id": 253019, 
+        "hooks_url": "https://api.github.com/orgs/openlexington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ukyacm/issues", 
+        "members_url": "https://api.github.com/orgs/ukyacm/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ukyacm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ukyacm", 
+        "events_url": "https://api.github.com/orgs/ukyacm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5167566?v=3", 
+        "repos_url": "https://api.github.com/orgs/ukyacm/repos", 
+        "login": "ukyacm", 
+        "id": 5167566, 
+        "hooks_url": "https://api.github.com/orgs/ukyacm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/unitycapstone/issues", 
+        "members_url": "https://api.github.com/orgs/unitycapstone/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/unitycapstone/public_members{/member}", 
+        "url": "https://api.github.com/orgs/unitycapstone", 
+        "events_url": "https://api.github.com/orgs/unitycapstone/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6690496?v=3", 
+        "repos_url": "https://api.github.com/orgs/unitycapstone/repos", 
+        "login": "unitycapstone", 
+        "id": 6690496, 
+        "hooks_url": "https://api.github.com/orgs/unitycapstone/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ShamblrTeam/issues", 
+        "members_url": "https://api.github.com/orgs/ShamblrTeam/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ShamblrTeam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ShamblrTeam", 
+        "events_url": "https://api.github.com/orgs/ShamblrTeam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6785265?v=3", 
+        "repos_url": "https://api.github.com/orgs/ShamblrTeam/repos", 
+        "login": "ShamblrTeam", 
+        "id": 6785265, 
+        "hooks_url": "https://api.github.com/orgs/ShamblrTeam/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/labhack/issues", 
+        "members_url": "https://api.github.com/orgs/labhack/members{/member}", 
+        "description": "The Air Force Hackathon", 
+        "public_members_url": "https://api.github.com/orgs/labhack/public_members{/member}", 
+        "url": "https://api.github.com/orgs/labhack", 
+        "events_url": "https://api.github.com/orgs/labhack/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8662091?v=3", 
+        "repos_url": "https://api.github.com/orgs/labhack/repos", 
+        "login": "labhack", 
+        "id": 8662091, 
+        "hooks_url": "https://api.github.com/orgs/labhack/hooks"
+    }
+]

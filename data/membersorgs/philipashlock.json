@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open311/issues", 
+        "members_url": "https://api.github.com/orgs/open311/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/open311/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open311", 
+        "events_url": "https://api.github.com/orgs/open311/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/146551?v=3", 
+        "repos_url": "https://api.github.com/orgs/open311/repos", 
+        "login": "open311", 
+        "id": 146551, 
+        "hooks_url": "https://api.github.com/orgs/open311/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Bloomington/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Bloomington/members{/member}", 
+        "description": "Information & Technology Services department", 
+        "public_members_url": "https://api.github.com/orgs/City-of-Bloomington/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Bloomington", 
+        "events_url": "https://api.github.com/orgs/City-of-Bloomington/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/630302?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Bloomington/repos", 
+        "login": "City-of-Bloomington", 
+        "id": 630302, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Bloomington/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GSA/issues", 
+        "members_url": "https://api.github.com/orgs/GSA/members{/member}", 
+        "description": "The U.S. General Services Administration", 
+        "public_members_url": "https://api.github.com/orgs/GSA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GSA", 
+        "events_url": "https://api.github.com/orgs/GSA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/643070?v=3", 
+        "repos_url": "https://api.github.com/orgs/GSA/repos", 
+        "login": "GSA", 
+        "id": 643070, 
+        "hooks_url": "https://api.github.com/orgs/GSA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CivComs/issues", 
+        "members_url": "https://api.github.com/orgs/CivComs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CivComs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CivComs", 
+        "events_url": "https://api.github.com/orgs/CivComs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/778329?v=3", 
+        "repos_url": "https://api.github.com/orgs/CivComs/repos", 
+        "login": "CivComs", 
+        "id": 778329, 
+        "hooks_url": "https://api.github.com/orgs/CivComs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/appleseednyc/issues", 
+        "members_url": "https://api.github.com/orgs/appleseednyc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/appleseednyc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/appleseednyc", 
+        "events_url": "https://api.github.com/orgs/appleseednyc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/948925?v=3", 
+        "repos_url": "https://api.github.com/orgs/appleseednyc/repos", 
+        "login": "appleseednyc", 
+        "id": 948925, 
+        "hooks_url": "https://api.github.com/orgs/appleseednyc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/presidential-innovation-fellows/issues", 
+        "members_url": "https://api.github.com/orgs/presidential-innovation-fellows/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/presidential-innovation-fellows/public_members{/member}", 
+        "url": "https://api.github.com/orgs/presidential-innovation-fellows", 
+        "events_url": "https://api.github.com/orgs/presidential-innovation-fellows/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2146920?v=3", 
+        "repos_url": "https://api.github.com/orgs/presidential-innovation-fellows/repos", 
+        "login": "presidential-innovation-fellows", 
+        "id": 2146920, 
+        "hooks_url": "https://api.github.com/orgs/presidential-innovation-fellows/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/government/issues", 
+        "members_url": "https://api.github.com/orgs/government/members{/member}", 
+        "description": "A collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts", 
+        "public_members_url": "https://api.github.com/orgs/government/public_members{/member}", 
+        "url": "https://api.github.com/orgs/government", 
+        "events_url": "https://api.github.com/orgs/government/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5321787?v=3", 
+        "repos_url": "https://api.github.com/orgs/government/repos", 
+        "login": "government", 
+        "id": 5321787, 
+        "hooks_url": "https://api.github.com/orgs/government/hooks"
+    }
+]

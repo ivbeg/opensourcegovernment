@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bowmanmc/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bowmanmc/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bowmanmc/orgs", 
+        "url": "https://api.github.com/users/bowmanmc", 
+        "gists_url": "https://api.github.com/users/bowmanmc/gists{/gist_id}", 
+        "html_url": "https://github.com/bowmanmc", 
+        "subscriptions_url": "https://api.github.com/users/bowmanmc/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/99800?v=3", 
+        "repos_url": "https://api.github.com/users/bowmanmc/repos", 
+        "received_events_url": "https://api.github.com/users/bowmanmc/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bowmanmc/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bowmanmc", 
+        "type": "User", 
+        "id": 99800, 
+        "followers_url": "https://api.github.com/users/bowmanmc/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/dwcaraway/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dwcaraway/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dwcaraway/orgs", 
+        "url": "https://api.github.com/users/dwcaraway", 
+        "gists_url": "https://api.github.com/users/dwcaraway/gists{/gist_id}", 
+        "html_url": "https://github.com/dwcaraway", 
+        "subscriptions_url": "https://api.github.com/users/dwcaraway/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1282711?v=3", 
+        "repos_url": "https://api.github.com/users/dwcaraway/repos", 
+        "received_events_url": "https://api.github.com/users/dwcaraway/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dwcaraway/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dwcaraway", 
+        "type": "User", 
+        "id": 1282711, 
+        "followers_url": "https://api.github.com/users/dwcaraway/followers"
+    }
+]

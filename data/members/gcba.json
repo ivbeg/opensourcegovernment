@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Agurtzane01/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Agurtzane01/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Agurtzane01/orgs", 
+        "url": "https://api.github.com/users/Agurtzane01", 
+        "gists_url": "https://api.github.com/users/Agurtzane01/gists{/gist_id}", 
+        "html_url": "https://github.com/Agurtzane01", 
+        "subscriptions_url": "https://api.github.com/users/Agurtzane01/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1999285?v=3", 
+        "repos_url": "https://api.github.com/users/Agurtzane01/repos", 
+        "received_events_url": "https://api.github.com/users/Agurtzane01/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Agurtzane01/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Agurtzane01", 
+        "type": "User", 
+        "id": 1999285, 
+        "followers_url": "https://api.github.com/users/Agurtzane01/followers"
+    }
+]

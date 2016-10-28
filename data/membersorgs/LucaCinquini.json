@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ESGF/issues", 
+        "members_url": "https://api.github.com/orgs/ESGF/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ESGF/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ESGF", 
+        "events_url": "https://api.github.com/orgs/ESGF/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1236619?v=3", 
+        "repos_url": "https://api.github.com/orgs/ESGF/repos", 
+        "login": "ESGF", 
+        "id": 1236619, 
+        "hooks_url": "https://api.github.com/orgs/ESGF/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geopython/issues", 
+        "members_url": "https://api.github.com/orgs/geopython/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/geopython/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geopython", 
+        "events_url": "https://api.github.com/orgs/geopython/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1855122?v=3", 
+        "repos_url": "https://api.github.com/orgs/geopython/repos", 
+        "login": "geopython", 
+        "id": 1855122, 
+        "hooks_url": "https://api.github.com/orgs/geopython/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/allanglen/following{/other_user}", 
+        "events_url": "https://api.github.com/users/allanglen/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/allanglen/orgs", 
+        "url": "https://api.github.com/users/allanglen", 
+        "gists_url": "https://api.github.com/users/allanglen/gists{/gist_id}", 
+        "html_url": "https://github.com/allanglen", 
+        "subscriptions_url": "https://api.github.com/users/allanglen/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/833382?v=3", 
+        "repos_url": "https://api.github.com/users/allanglen/repos", 
+        "received_events_url": "https://api.github.com/users/allanglen/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/allanglen/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "allanglen", 
+        "type": "User", 
+        "id": 833382, 
+        "followers_url": "https://api.github.com/users/allanglen/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/shilor/following{/other_user}", 
+        "events_url": "https://api.github.com/users/shilor/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/shilor/orgs", 
+        "url": "https://api.github.com/users/shilor", 
+        "gists_url": "https://api.github.com/users/shilor/gists{/gist_id}", 
+        "html_url": "https://github.com/shilor", 
+        "subscriptions_url": "https://api.github.com/users/shilor/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/981462?v=3", 
+        "repos_url": "https://api.github.com/users/shilor/repos", 
+        "received_events_url": "https://api.github.com/users/shilor/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/shilor/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "shilor", 
+        "type": "User", 
+        "id": 981462, 
+        "followers_url": "https://api.github.com/users/shilor/followers"
+    }
+]

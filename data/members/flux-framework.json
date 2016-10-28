@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/garlick/following{/other_user}", 
+        "events_url": "https://api.github.com/users/garlick/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/garlick/orgs", 
+        "url": "https://api.github.com/users/garlick", 
+        "gists_url": "https://api.github.com/users/garlick/gists{/gist_id}", 
+        "html_url": "https://github.com/garlick", 
+        "subscriptions_url": "https://api.github.com/users/garlick/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/169947?v=3", 
+        "repos_url": "https://api.github.com/users/garlick/repos", 
+        "received_events_url": "https://api.github.com/users/garlick/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/garlick/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "garlick", 
+        "type": "User", 
+        "id": 169947, 
+        "followers_url": "https://api.github.com/users/garlick/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/trws/following{/other_user}", 
+        "events_url": "https://api.github.com/users/trws/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/trws/orgs", 
+        "url": "https://api.github.com/users/trws", 
+        "gists_url": "https://api.github.com/users/trws/gists{/gist_id}", 
+        "html_url": "https://github.com/trws", 
+        "subscriptions_url": "https://api.github.com/users/trws/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/660149?v=3", 
+        "repos_url": "https://api.github.com/users/trws/repos", 
+        "received_events_url": "https://api.github.com/users/trws/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/trws/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "trws", 
+        "type": "User", 
+        "id": 660149, 
+        "followers_url": "https://api.github.com/users/trws/followers"
+    }
+]

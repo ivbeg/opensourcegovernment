@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/iMediaSolutions/issues", 
+        "members_url": "https://api.github.com/orgs/iMediaSolutions/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/iMediaSolutions/public_members{/member}", 
+        "url": "https://api.github.com/orgs/iMediaSolutions", 
+        "events_url": "https://api.github.com/orgs/iMediaSolutions/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1004081?v=3", 
+        "repos_url": "https://api.github.com/orgs/iMediaSolutions/repos", 
+        "login": "iMediaSolutions", 
+        "id": 1004081, 
+        "hooks_url": "https://api.github.com/orgs/iMediaSolutions/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforboston/issues", 
+        "members_url": "https://api.github.com/orgs/codeforboston/members{/member}", 
+        "description": "Improving civic life and social good in Greater Boston.", 
+        "public_members_url": "https://api.github.com/orgs/codeforboston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforboston", 
+        "events_url": "https://api.github.com/orgs/codeforboston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2533182?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforboston/repos", 
+        "login": "codeforboston", 
+        "id": 2533182, 
+        "hooks_url": "https://api.github.com/orgs/codeforboston/hooks"
+    }
+]

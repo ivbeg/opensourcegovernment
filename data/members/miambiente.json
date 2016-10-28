@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/cmuleto-miambiente/following{/other_user}", 
+        "events_url": "https://api.github.com/users/cmuleto-miambiente/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/cmuleto-miambiente/orgs", 
+        "url": "https://api.github.com/users/cmuleto-miambiente", 
+        "gists_url": "https://api.github.com/users/cmuleto-miambiente/gists{/gist_id}", 
+        "html_url": "https://github.com/cmuleto-miambiente", 
+        "subscriptions_url": "https://api.github.com/users/cmuleto-miambiente/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13547099?v=3", 
+        "repos_url": "https://api.github.com/users/cmuleto-miambiente/repos", 
+        "received_events_url": "https://api.github.com/users/cmuleto-miambiente/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/cmuleto-miambiente/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "cmuleto-miambiente", 
+        "type": "User", 
+        "id": 13547099, 
+        "followers_url": "https://api.github.com/users/cmuleto-miambiente/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/rcano-miambiente/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rcano-miambiente/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rcano-miambiente/orgs", 
+        "url": "https://api.github.com/users/rcano-miambiente", 
+        "gists_url": "https://api.github.com/users/rcano-miambiente/gists{/gist_id}", 
+        "html_url": "https://github.com/rcano-miambiente", 
+        "subscriptions_url": "https://api.github.com/users/rcano-miambiente/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13305502?v=3", 
+        "repos_url": "https://api.github.com/users/rcano-miambiente/repos", 
+        "received_events_url": "https://api.github.com/users/rcano-miambiente/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rcano-miambiente/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rcano-miambiente", 
+        "type": "User", 
+        "id": 13305502, 
+        "followers_url": "https://api.github.com/users/rcano-miambiente/followers"
+    }
+]

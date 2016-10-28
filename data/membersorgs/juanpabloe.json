@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMexico/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMexico/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMexico", 
+        "events_url": "https://api.github.com/orgs/CodeandoMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2940113?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMexico/repos", 
+        "login": "CodeandoMexico", 
+        "id": 2940113, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMexico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMonterrey/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMonterrey/members{/member}", 
+        "description": "Comunidad de programadores enfocada al cambio social en Monterrey", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMonterrey/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMonterrey", 
+        "events_url": "https://api.github.com/orgs/CodeandoMonterrey/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7444874?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMonterrey/repos", 
+        "login": "CodeandoMonterrey", 
+        "id": 7444874, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMonterrey/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/civica-digital/issues", 
+        "members_url": "https://api.github.com/orgs/civica-digital/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/civica-digital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/civica-digital", 
+        "events_url": "https://api.github.com/orgs/civica-digital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10727864?v=3", 
+        "repos_url": "https://api.github.com/orgs/civica-digital/repos", 
+        "login": "civica-digital", 
+        "id": 10727864, 
+        "hooks_url": "https://api.github.com/orgs/civica-digital/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hackerschoolmty/issues", 
+        "members_url": "https://api.github.com/orgs/hackerschoolmty/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hackerschoolmty/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hackerschoolmty", 
+        "events_url": "https://api.github.com/orgs/hackerschoolmty/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11823082?v=3", 
+        "repos_url": "https://api.github.com/orgs/hackerschoolmty/repos", 
+        "login": "hackerschoolmty", 
+        "id": 11823082, 
+        "hooks_url": "https://api.github.com/orgs/hackerschoolmty/hooks"
+    }
+]

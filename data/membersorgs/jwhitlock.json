@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/tulsawebdevs/issues", 
+        "members_url": "https://api.github.com/orgs/tulsawebdevs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/tulsawebdevs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tulsawebdevs", 
+        "events_url": "https://api.github.com/orgs/tulsawebdevs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/815291?v=3", 
+        "repos_url": "https://api.github.com/orgs/tulsawebdevs/repos", 
+        "login": "tulsawebdevs", 
+        "id": 815291, 
+        "hooks_url": "https://api.github.com/orgs/tulsawebdevs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefortulsa/issues", 
+        "members_url": "https://api.github.com/orgs/codefortulsa/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/codefortulsa/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefortulsa", 
+        "events_url": "https://api.github.com/orgs/codefortulsa/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4308649?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefortulsa/repos", 
+        "login": "codefortulsa", 
+        "id": 4308649, 
+        "hooks_url": "https://api.github.com/orgs/codefortulsa/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mdn/issues", 
+        "members_url": "https://api.github.com/orgs/mdn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mdn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mdn", 
+        "events_url": "https://api.github.com/orgs/mdn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7565578?v=3", 
+        "repos_url": "https://api.github.com/orgs/mdn/repos", 
+        "login": "mdn", 
+        "id": 7565578, 
+        "hooks_url": "https://api.github.com/orgs/mdn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/django-pylibmc/issues", 
+        "members_url": "https://api.github.com/orgs/django-pylibmc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/django-pylibmc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/django-pylibmc", 
+        "events_url": "https://api.github.com/orgs/django-pylibmc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11615250?v=3", 
+        "repos_url": "https://api.github.com/orgs/django-pylibmc/repos", 
+        "login": "django-pylibmc", 
+        "id": 11615250, 
+        "hooks_url": "https://api.github.com/orgs/django-pylibmc/hooks"
+    }
+]

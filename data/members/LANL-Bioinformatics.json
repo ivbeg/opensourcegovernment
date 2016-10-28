@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/chienchi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/chienchi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/chienchi/orgs", 
+        "url": "https://api.github.com/users/chienchi", 
+        "gists_url": "https://api.github.com/users/chienchi/gists{/gist_id}", 
+        "html_url": "https://github.com/chienchi", 
+        "subscriptions_url": "https://api.github.com/users/chienchi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/737589?v=3", 
+        "repos_url": "https://api.github.com/users/chienchi/repos", 
+        "received_events_url": "https://api.github.com/users/chienchi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/chienchi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "chienchi", 
+        "type": "User", 
+        "id": 737589, 
+        "followers_url": "https://api.github.com/users/chienchi/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/poeli/following{/other_user}", 
+        "events_url": "https://api.github.com/users/poeli/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/poeli/orgs", 
+        "url": "https://api.github.com/users/poeli", 
+        "gists_url": "https://api.github.com/users/poeli/gists{/gist_id}", 
+        "html_url": "https://github.com/poeli", 
+        "subscriptions_url": "https://api.github.com/users/poeli/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7082539?v=3", 
+        "repos_url": "https://api.github.com/users/poeli/repos", 
+        "received_events_url": "https://api.github.com/users/poeli/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/poeli/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "poeli", 
+        "type": "User", 
+        "id": 7082539, 
+        "followers_url": "https://api.github.com/users/poeli/followers"
+    }
+]

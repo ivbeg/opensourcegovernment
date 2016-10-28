@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/govbr/issues", 
+        "members_url": "https://api.github.com/orgs/govbr/members{/member}", 
+        "description": "GitHub oficial do Governo Eletr\u00f4nico Federal Brasileiro. Deseja enviar um software? Mande um email.", 
+        "public_members_url": "https://api.github.com/orgs/govbr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/govbr", 
+        "events_url": "https://api.github.com/orgs/govbr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7524832?v=3", 
+        "repos_url": "https://api.github.com/orgs/govbr/repos", 
+        "login": "govbr", 
+        "id": 7524832, 
+        "hooks_url": "https://api.github.com/orgs/govbr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/planejamentoGovBr/issues", 
+        "members_url": "https://api.github.com/orgs/planejamentoGovBr/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/planejamentoGovBr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/planejamentoGovBr", 
+        "events_url": "https://api.github.com/orgs/planejamentoGovBr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11771106?v=3", 
+        "repos_url": "https://api.github.com/orgs/planejamentoGovBr/repos", 
+        "login": "planejamentoGovBr", 
+        "id": 11771106, 
+        "hooks_url": "https://api.github.com/orgs/planejamentoGovBr/hooks"
+    }
+]

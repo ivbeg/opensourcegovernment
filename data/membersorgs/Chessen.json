@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/USStateDept/issues", 
+        "members_url": "https://api.github.com/orgs/USStateDept/members{/member}", 
+        "description": "The GitHub Organization for the State Department - For access, send your GitHub username to Isaiah Joo or Tim Hayes", 
+        "public_members_url": "https://api.github.com/orgs/USStateDept/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USStateDept", 
+        "events_url": "https://api.github.com/orgs/USStateDept/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6164937?v=3", 
+        "repos_url": "https://api.github.com/orgs/USStateDept/repos", 
+        "login": "USStateDept", 
+        "id": 6164937, 
+        "hooks_url": "https://api.github.com/orgs/USStateDept/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/cobrateam/issues", 
+        "members_url": "https://api.github.com/orgs/cobrateam/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/cobrateam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cobrateam", 
+        "events_url": "https://api.github.com/orgs/cobrateam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/403905?v=3", 
+        "repos_url": "https://api.github.com/orgs/cobrateam/repos", 
+        "login": "cobrateam", 
+        "id": 403905, 
+        "hooks_url": "https://api.github.com/orgs/cobrateam/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dataprev/issues", 
+        "members_url": "https://api.github.com/orgs/dataprev/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/dataprev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dataprev", 
+        "events_url": "https://api.github.com/orgs/dataprev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/943248?v=3", 
+        "repos_url": "https://api.github.com/orgs/dataprev/repos", 
+        "login": "dataprev", 
+        "id": 943248, 
+        "hooks_url": "https://api.github.com/orgs/dataprev/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ebc/issues", 
+        "members_url": "https://api.github.com/orgs/ebc/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ebc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ebc", 
+        "events_url": "https://api.github.com/orgs/ebc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1265892?v=3", 
+        "repos_url": "https://api.github.com/orgs/ebc/repos", 
+        "login": "ebc", 
+        "id": 1265892, 
+        "hooks_url": "https://api.github.com/orgs/ebc/hooks"
+    }
+]

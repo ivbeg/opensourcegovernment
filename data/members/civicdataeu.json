@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/zufanka/following{/other_user}", 
+        "events_url": "https://api.github.com/users/zufanka/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/zufanka/orgs", 
+        "url": "https://api.github.com/users/zufanka", 
+        "gists_url": "https://api.github.com/users/zufanka/gists{/gist_id}", 
+        "html_url": "https://github.com/zufanka", 
+        "subscriptions_url": "https://api.github.com/users/zufanka/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2411066?v=3", 
+        "repos_url": "https://api.github.com/users/zufanka/repos", 
+        "received_events_url": "https://api.github.com/users/zufanka/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/zufanka/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "zufanka", 
+        "type": "User", 
+        "id": 2411066, 
+        "followers_url": "https://api.github.com/users/zufanka/followers"
+    }
+]

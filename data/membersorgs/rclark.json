@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/mapbox/issues", 
+        "members_url": "https://api.github.com/orgs/mapbox/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mapbox/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mapbox", 
+        "events_url": "https://api.github.com/orgs/mapbox/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/600935?v=3", 
+        "repos_url": "https://api.github.com/orgs/mapbox/repos", 
+        "login": "mapbox", 
+        "id": 600935, 
+        "hooks_url": "https://api.github.com/orgs/mapbox/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ncgmp09/issues", 
+        "members_url": "https://api.github.com/orgs/ncgmp09/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ncgmp09/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ncgmp09", 
+        "events_url": "https://api.github.com/orgs/ncgmp09/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5068416?v=3", 
+        "repos_url": "https://api.github.com/orgs/ncgmp09/repos", 
+        "login": "ncgmp09", 
+        "id": 5068416, 
+        "hooks_url": "https://api.github.com/orgs/ncgmp09/hooks"
+    }
+]

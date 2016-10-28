@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Clique-Mob/issues", 
+        "members_url": "https://api.github.com/orgs/Clique-Mob/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Clique-Mob/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Clique-Mob", 
+        "events_url": "https://api.github.com/orgs/Clique-Mob/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2343240?v=3", 
+        "repos_url": "https://api.github.com/orgs/Clique-Mob/repos", 
+        "login": "Clique-Mob", 
+        "id": 2343240, 
+        "hooks_url": "https://api.github.com/orgs/Clique-Mob/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/coquille-indian-tribe/issues", 
+        "members_url": "https://api.github.com/orgs/coquille-indian-tribe/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/coquille-indian-tribe/public_members{/member}", 
+        "url": "https://api.github.com/orgs/coquille-indian-tribe", 
+        "events_url": "https://api.github.com/orgs/coquille-indian-tribe/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3999124?v=3", 
+        "repos_url": "https://api.github.com/orgs/coquille-indian-tribe/repos", 
+        "login": "coquille-indian-tribe", 
+        "id": 3999124, 
+        "hooks_url": "https://api.github.com/orgs/coquille-indian-tribe/hooks"
+    }
+]

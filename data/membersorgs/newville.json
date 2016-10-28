@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/pyepics/issues", 
+        "members_url": "https://api.github.com/orgs/pyepics/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pyepics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pyepics", 
+        "events_url": "https://api.github.com/orgs/pyepics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/672133?v=3", 
+        "repos_url": "https://api.github.com/orgs/pyepics/repos", 
+        "login": "pyepics", 
+        "id": 672133, 
+        "hooks_url": "https://api.github.com/orgs/pyepics/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/XraySpectroscopy/issues", 
+        "members_url": "https://api.github.com/orgs/XraySpectroscopy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/XraySpectroscopy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/XraySpectroscopy", 
+        "events_url": "https://api.github.com/orgs/XraySpectroscopy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/730132?v=3", 
+        "repos_url": "https://api.github.com/orgs/XraySpectroscopy/repos", 
+        "login": "XraySpectroscopy", 
+        "id": 730132, 
+        "hooks_url": "https://api.github.com/orgs/XraySpectroscopy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/xraypy/issues", 
+        "members_url": "https://api.github.com/orgs/xraypy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/xraypy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/xraypy", 
+        "events_url": "https://api.github.com/orgs/xraypy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1273713?v=3", 
+        "repos_url": "https://api.github.com/orgs/xraypy/repos", 
+        "login": "xraypy", 
+        "id": 1273713, 
+        "hooks_url": "https://api.github.com/orgs/xraypy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lmfit/issues", 
+        "members_url": "https://api.github.com/orgs/lmfit/members{/member}", 
+        "description": "High-level Curve Fitting in Python ", 
+        "public_members_url": "https://api.github.com/orgs/lmfit/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lmfit", 
+        "events_url": "https://api.github.com/orgs/lmfit/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6190878?v=3", 
+        "repos_url": "https://api.github.com/orgs/lmfit/repos", 
+        "login": "lmfit", 
+        "id": 6190878, 
+        "hooks_url": "https://api.github.com/orgs/lmfit/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scikit-beam/issues", 
+        "members_url": "https://api.github.com/orgs/scikit-beam/members{/member}", 
+        "description": "Python library for Electrons, Neutrons and X-Rays", 
+        "public_members_url": "https://api.github.com/orgs/scikit-beam/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scikit-beam", 
+        "events_url": "https://api.github.com/orgs/scikit-beam/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16195776?v=3", 
+        "repos_url": "https://api.github.com/orgs/scikit-beam/repos", 
+        "login": "scikit-beam", 
+        "id": 16195776, 
+        "hooks_url": "https://api.github.com/orgs/scikit-beam/hooks"
+    }
+]

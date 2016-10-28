@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Granicus/issues", 
+        "members_url": "https://api.github.com/orgs/Granicus/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Granicus/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Granicus", 
+        "events_url": "https://api.github.com/orgs/Granicus/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/469057?v=3", 
+        "repos_url": "https://api.github.com/orgs/Granicus/repos", 
+        "login": "Granicus", 
+        "id": 469057, 
+        "hooks_url": "https://api.github.com/orgs/Granicus/hooks"
+    }
+]

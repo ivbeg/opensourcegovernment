@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/robinbijlani/following{/other_user}", 
+        "events_url": "https://api.github.com/users/robinbijlani/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/robinbijlani/orgs", 
+        "url": "https://api.github.com/users/robinbijlani", 
+        "gists_url": "https://api.github.com/users/robinbijlani/gists{/gist_id}", 
+        "html_url": "https://github.com/robinbijlani", 
+        "subscriptions_url": "https://api.github.com/users/robinbijlani/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2503108?v=3", 
+        "repos_url": "https://api.github.com/users/robinbijlani/repos", 
+        "received_events_url": "https://api.github.com/users/robinbijlani/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/robinbijlani/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "robinbijlani", 
+        "type": "User", 
+        "id": 2503108, 
+        "followers_url": "https://api.github.com/users/robinbijlani/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ryanvgates/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ryanvgates/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ryanvgates/orgs", 
+        "url": "https://api.github.com/users/ryanvgates", 
+        "gists_url": "https://api.github.com/users/ryanvgates/gists{/gist_id}", 
+        "html_url": "https://github.com/ryanvgates", 
+        "subscriptions_url": "https://api.github.com/users/ryanvgates/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1400394?v=3", 
+        "repos_url": "https://api.github.com/users/ryanvgates/repos", 
+        "received_events_url": "https://api.github.com/users/ryanvgates/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ryanvgates/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ryanvgates", 
+        "type": "User", 
+        "id": 1400394, 
+        "followers_url": "https://api.github.com/users/ryanvgates/followers"
+    }
+]

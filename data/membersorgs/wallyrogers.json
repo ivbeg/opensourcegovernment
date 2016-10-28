@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/OregonOpenData/issues", 
+        "members_url": "https://api.github.com/orgs/OregonOpenData/members{/member}", 
+        "description": "Data.Oregon.gov is the state of Oregon's open data portal. This is for sharing code on how to interact with the data portal", 
+        "public_members_url": "https://api.github.com/orgs/OregonOpenData/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OregonOpenData", 
+        "events_url": "https://api.github.com/orgs/OregonOpenData/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10980296?v=3", 
+        "repos_url": "https://api.github.com/orgs/OregonOpenData/repos", 
+        "login": "OregonOpenData", 
+        "id": 10980296, 
+        "hooks_url": "https://api.github.com/orgs/OregonOpenData/hooks"
+    }
+]

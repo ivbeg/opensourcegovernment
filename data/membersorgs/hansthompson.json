@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforanchorage/issues", 
+        "members_url": "https://api.github.com/orgs/codeforanchorage/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforanchorage/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforanchorage", 
+        "events_url": "https://api.github.com/orgs/codeforanchorage/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3999742?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforanchorage/repos", 
+        "login": "codeforanchorage", 
+        "id": 3999742, 
+        "hooks_url": "https://api.github.com/orgs/codeforanchorage/hooks"
+    }
+]

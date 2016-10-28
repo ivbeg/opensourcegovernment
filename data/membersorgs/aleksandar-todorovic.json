@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/duckduckgo/issues", 
+        "members_url": "https://api.github.com/orgs/duckduckgo/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/duckduckgo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/duckduckgo", 
+        "events_url": "https://api.github.com/orgs/duckduckgo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/342708?v=3", 
+        "repos_url": "https://api.github.com/orgs/duckduckgo/repos", 
+        "login": "duckduckgo", 
+        "id": 342708, 
+        "hooks_url": "https://api.github.com/orgs/duckduckgo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/occrp/issues", 
+        "members_url": "https://api.github.com/orgs/occrp/members{/member}", 
+        "description": "See @occrp-attic for our earlier works :) ", 
+        "public_members_url": "https://api.github.com/orgs/occrp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/occrp", 
+        "events_url": "https://api.github.com/orgs/occrp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3368930?v=3", 
+        "repos_url": "https://api.github.com/orgs/occrp/repos", 
+        "login": "occrp", 
+        "id": 3368930, 
+        "hooks_url": "https://api.github.com/orgs/occrp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/r3bl/issues", 
+        "members_url": "https://api.github.com/orgs/r3bl/members{/member}", 
+        "description": "An \"organization\" behind my personal blog", 
+        "public_members_url": "https://api.github.com/orgs/r3bl/public_members{/member}", 
+        "url": "https://api.github.com/orgs/r3bl", 
+        "events_url": "https://api.github.com/orgs/r3bl/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10690757?v=3", 
+        "repos_url": "https://api.github.com/orgs/r3bl/repos", 
+        "login": "r3bl", 
+        "id": 10690757, 
+        "hooks_url": "https://api.github.com/orgs/r3bl/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/jazzband/issues", 
+        "members_url": "https://api.github.com/orgs/jazzband/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/jazzband/public_members{/member}", 
+        "url": "https://api.github.com/orgs/jazzband", 
+        "events_url": "https://api.github.com/orgs/jazzband/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/15129049?v=3", 
+        "repos_url": "https://api.github.com/orgs/jazzband/repos", 
+        "login": "jazzband", 
+        "id": 15129049, 
+        "hooks_url": "https://api.github.com/orgs/jazzband/hooks"
+    }
+]

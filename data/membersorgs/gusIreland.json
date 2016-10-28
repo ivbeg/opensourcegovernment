@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open-austin/issues", 
+        "members_url": "https://api.github.com/orgs/open-austin/members{/member}", 
+        "description": "We discuss projects here: https://github.com/open-austin/project-ideas", 
+        "public_members_url": "https://api.github.com/orgs/open-austin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-austin", 
+        "events_url": "https://api.github.com/orgs/open-austin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/970084?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-austin/repos", 
+        "login": "open-austin", 
+        "id": 970084, 
+        "hooks_url": "https://api.github.com/orgs/open-austin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Developers-Doing-Development/issues", 
+        "members_url": "https://api.github.com/orgs/Developers-Doing-Development/members{/member}", 
+        "description": "for DDD Projects", 
+        "public_members_url": "https://api.github.com/orgs/Developers-Doing-Development/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Developers-Doing-Development", 
+        "events_url": "https://api.github.com/orgs/Developers-Doing-Development/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9060351?v=3", 
+        "repos_url": "https://api.github.com/orgs/Developers-Doing-Development/repos", 
+        "login": "Developers-Doing-Development", 
+        "id": 9060351, 
+        "hooks_url": "https://api.github.com/orgs/Developers-Doing-Development/hooks"
+    }
+]

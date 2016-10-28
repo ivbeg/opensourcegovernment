@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/michael-mason/following{/other_user}", 
+        "events_url": "https://api.github.com/users/michael-mason/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/michael-mason/orgs", 
+        "url": "https://api.github.com/users/michael-mason", 
+        "gists_url": "https://api.github.com/users/michael-mason/gists{/gist_id}", 
+        "html_url": "https://github.com/michael-mason", 
+        "subscriptions_url": "https://api.github.com/users/michael-mason/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3507584?v=3", 
+        "repos_url": "https://api.github.com/users/michael-mason/repos", 
+        "received_events_url": "https://api.github.com/users/michael-mason/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/michael-mason/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "michael-mason", 
+        "type": "User", 
+        "id": 3507584, 
+        "followers_url": "https://api.github.com/users/michael-mason/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ssherrin/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ssherrin/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ssherrin/orgs", 
+        "url": "https://api.github.com/users/ssherrin", 
+        "gists_url": "https://api.github.com/users/ssherrin/gists{/gist_id}", 
+        "html_url": "https://github.com/ssherrin", 
+        "subscriptions_url": "https://api.github.com/users/ssherrin/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3905331?v=3", 
+        "repos_url": "https://api.github.com/users/ssherrin/repos", 
+        "received_events_url": "https://api.github.com/users/ssherrin/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ssherrin/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ssherrin", 
+        "type": "User", 
+        "id": 3905331, 
+        "followers_url": "https://api.github.com/users/ssherrin/followers"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/urbanairship/issues", 
+        "members_url": "https://api.github.com/orgs/urbanairship/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/urbanairship/public_members{/member}", 
+        "url": "https://api.github.com/orgs/urbanairship", 
+        "events_url": "https://api.github.com/orgs/urbanairship/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/360059?v=3", 
+        "repos_url": "https://api.github.com/orgs/urbanairship/repos", 
+        "login": "urbanairship", 
+        "id": 360059, 
+        "hooks_url": "https://api.github.com/orgs/urbanairship/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pdxosgeo/issues", 
+        "members_url": "https://api.github.com/orgs/pdxosgeo/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/pdxosgeo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pdxosgeo", 
+        "events_url": "https://api.github.com/orgs/pdxosgeo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1900354?v=3", 
+        "repos_url": "https://api.github.com/orgs/pdxosgeo/repos", 
+        "login": "pdxosgeo", 
+        "id": 1900354, 
+        "hooks_url": "https://api.github.com/orgs/pdxosgeo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/OR-URISA-YPs/issues", 
+        "members_url": "https://api.github.com/orgs/OR-URISA-YPs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/OR-URISA-YPs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/OR-URISA-YPs", 
+        "events_url": "https://api.github.com/orgs/OR-URISA-YPs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2289246?v=3", 
+        "repos_url": "https://api.github.com/orgs/OR-URISA-YPs/repos", 
+        "login": "OR-URISA-YPs", 
+        "id": 2289246, 
+        "hooks_url": "https://api.github.com/orgs/OR-URISA-YPs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForPortland/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForPortland/members{/member}", 
+        "description": "Portland's Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForPortland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForPortland", 
+        "events_url": "https://api.github.com/orgs/CodeForPortland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6692606?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForPortland/repos", 
+        "login": "CodeForPortland", 
+        "id": 6692606, 
+        "hooks_url": "https://api.github.com/orgs/CodeForPortland/hooks"
+    }
+]

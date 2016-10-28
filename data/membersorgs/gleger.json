@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NRCan/issues", 
+        "members_url": "https://api.github.com/orgs/NRCan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NRCan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NRCan", 
+        "events_url": "https://api.github.com/orgs/NRCan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1929244?v=3", 
+        "repos_url": "https://api.github.com/orgs/NRCan/repos", 
+        "login": "NRCan", 
+        "id": 1929244, 
+        "hooks_url": "https://api.github.com/orgs/NRCan/hooks"
+    }
+]

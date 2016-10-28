@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opintel/issues", 
+        "members_url": "https://api.github.com/orgs/opintel/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/opintel/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opintel", 
+        "events_url": "https://api.github.com/orgs/opintel/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4622831?v=3", 
+        "repos_url": "https://api.github.com/orgs/opintel/repos", 
+        "login": "opintel", 
+        "id": 4622831, 
+        "hooks_url": "https://api.github.com/orgs/opintel/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LabPLC/issues", 
+        "members_url": "https://api.github.com/orgs/LabPLC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/LabPLC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LabPLC", 
+        "events_url": "https://api.github.com/orgs/LabPLC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5631500?v=3", 
+        "repos_url": "https://api.github.com/orgs/LabPLC/repos", 
+        "login": "LabPLC", 
+        "id": 5631500, 
+        "hooks_url": "https://api.github.com/orgs/LabPLC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/aimsat-mx/issues", 
+        "members_url": "https://api.github.com/orgs/aimsat-mx/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/aimsat-mx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/aimsat-mx", 
+        "events_url": "https://api.github.com/orgs/aimsat-mx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7276807?v=3", 
+        "repos_url": "https://api.github.com/orgs/aimsat-mx/repos", 
+        "login": "aimsat-mx", 
+        "id": 7276807, 
+        "hooks_url": "https://api.github.com/orgs/aimsat-mx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/citydevs/issues", 
+        "members_url": "https://api.github.com/orgs/citydevs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/citydevs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/citydevs", 
+        "events_url": "https://api.github.com/orgs/citydevs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8570778?v=3", 
+        "repos_url": "https://api.github.com/orgs/citydevs/repos", 
+        "login": "citydevs", 
+        "id": 8570778, 
+        "hooks_url": "https://api.github.com/orgs/citydevs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/FactiCo/issues", 
+        "members_url": "https://api.github.com/orgs/FactiCo/members{/member}", 
+        "description": "Mexico's first mobile first media outlet", 
+        "public_members_url": "https://api.github.com/orgs/FactiCo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/FactiCo", 
+        "events_url": "https://api.github.com/orgs/FactiCo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8799120?v=3", 
+        "repos_url": "https://api.github.com/orgs/FactiCo/repos", 
+        "login": "FactiCo", 
+        "id": 8799120, 
+        "hooks_url": "https://api.github.com/orgs/FactiCo/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ITAM-DS/issues", 
+        "members_url": "https://api.github.com/orgs/ITAM-DS/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ITAM-DS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ITAM-DS", 
+        "events_url": "https://api.github.com/orgs/ITAM-DS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10421300?v=3", 
+        "repos_url": "https://api.github.com/orgs/ITAM-DS/repos", 
+        "login": "ITAM-DS", 
+        "id": 10421300, 
+        "hooks_url": "https://api.github.com/orgs/ITAM-DS/hooks"
+    }
+]

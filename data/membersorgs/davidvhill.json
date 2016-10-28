@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/USGS-EROS/issues", 
+        "members_url": "https://api.github.com/orgs/USGS-EROS/members{/member}", 
+        "description": "Organization account for all USGS-EROS github repositories", 
+        "public_members_url": "https://api.github.com/orgs/USGS-EROS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/USGS-EROS", 
+        "events_url": "https://api.github.com/orgs/USGS-EROS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12549192?v=3", 
+        "repos_url": "https://api.github.com/orgs/USGS-EROS/repos", 
+        "login": "USGS-EROS", 
+        "id": 12549192, 
+        "hooks_url": "https://api.github.com/orgs/USGS-EROS/hooks"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/danspencer/following{/other_user}", 
+        "events_url": "https://api.github.com/users/danspencer/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/danspencer/orgs", 
+        "url": "https://api.github.com/users/danspencer", 
+        "gists_url": "https://api.github.com/users/danspencer/gists{/gist_id}", 
+        "html_url": "https://github.com/danspencer", 
+        "subscriptions_url": "https://api.github.com/users/danspencer/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2013704?v=3", 
+        "repos_url": "https://api.github.com/users/danspencer/repos", 
+        "received_events_url": "https://api.github.com/users/danspencer/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/danspencer/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "danspencer", 
+        "type": "User", 
+        "id": 2013704, 
+        "followers_url": "https://api.github.com/users/danspencer/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/MarcRancourt/following{/other_user}", 
+        "events_url": "https://api.github.com/users/MarcRancourt/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/MarcRancourt/orgs", 
+        "url": "https://api.github.com/users/MarcRancourt", 
+        "gists_url": "https://api.github.com/users/MarcRancourt/gists{/gist_id}", 
+        "html_url": "https://github.com/MarcRancourt", 
+        "subscriptions_url": "https://api.github.com/users/MarcRancourt/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2380732?v=3", 
+        "repos_url": "https://api.github.com/users/MarcRancourt/repos", 
+        "received_events_url": "https://api.github.com/users/MarcRancourt/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/MarcRancourt/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "MarcRancourt", 
+        "type": "User", 
+        "id": 2380732, 
+        "followers_url": "https://api.github.com/users/MarcRancourt/followers"
+    }
+]

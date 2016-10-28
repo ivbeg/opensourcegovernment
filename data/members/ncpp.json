@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bekozi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bekozi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bekozi/orgs", 
+        "url": "https://api.github.com/users/bekozi", 
+        "gists_url": "https://api.github.com/users/bekozi/gists{/gist_id}", 
+        "html_url": "https://github.com/bekozi", 
+        "subscriptions_url": "https://api.github.com/users/bekozi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/636921?v=3", 
+        "repos_url": "https://api.github.com/users/bekozi/repos", 
+        "received_events_url": "https://api.github.com/users/bekozi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bekozi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bekozi", 
+        "type": "User", 
+        "id": 636921, 
+        "followers_url": "https://api.github.com/users/bekozi/followers"
+    }
+]

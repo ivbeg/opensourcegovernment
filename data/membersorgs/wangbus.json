@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hicapacity/issues", 
+        "members_url": "https://api.github.com/orgs/hicapacity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hicapacity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hicapacity", 
+        "events_url": "https://api.github.com/orgs/hicapacity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/717133?v=3", 
+        "repos_url": "https://api.github.com/orgs/hicapacity/repos", 
+        "login": "hicapacity", 
+        "id": 717133, 
+        "hooks_url": "https://api.github.com/orgs/hicapacity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nko2/issues", 
+        "members_url": "https://api.github.com/orgs/nko2/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko2/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko2", 
+        "events_url": "https://api.github.com/orgs/nko2/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/838448?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko2/repos", 
+        "login": "nko2", 
+        "id": 838448, 
+        "hooks_url": "https://api.github.com/orgs/nko2/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Honolulu/issues", 
+        "members_url": "https://api.github.com/orgs/Honolulu/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Honolulu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Honolulu", 
+        "events_url": "https://api.github.com/orgs/Honolulu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1817426?v=3", 
+        "repos_url": "https://api.github.com/orgs/Honolulu/repos", 
+        "login": "Honolulu", 
+        "id": 1817426, 
+        "hooks_url": "https://api.github.com/orgs/Honolulu/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/slickage/issues", 
+        "members_url": "https://api.github.com/orgs/slickage/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/slickage/public_members{/member}", 
+        "url": "https://api.github.com/orgs/slickage", 
+        "events_url": "https://api.github.com/orgs/slickage/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1848356?v=3", 
+        "repos_url": "https://api.github.com/orgs/slickage/repos", 
+        "login": "slickage", 
+        "id": 1848356, 
+        "hooks_url": "https://api.github.com/orgs/slickage/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/epochtalk/issues", 
+        "members_url": "https://api.github.com/orgs/epochtalk/members{/member}", 
+        "description": "Next Generation Forum Software", 
+        "public_members_url": "https://api.github.com/orgs/epochtalk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/epochtalk", 
+        "events_url": "https://api.github.com/orgs/epochtalk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7991882?v=3", 
+        "repos_url": "https://api.github.com/orgs/epochtalk/repos", 
+        "login": "epochtalk", 
+        "id": 7991882, 
+        "hooks_url": "https://api.github.com/orgs/epochtalk/hooks"
+    }
+]

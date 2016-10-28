@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/metno/issues", 
+        "members_url": "https://api.github.com/orgs/metno/members{/member}", 
+        "description": "MET Norway is the meteorological service for military and civil services as well as the general public in Norway.", 
+        "public_members_url": "https://api.github.com/orgs/metno/public_members{/member}", 
+        "url": "https://api.github.com/orgs/metno", 
+        "events_url": "https://api.github.com/orgs/metno/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/893264?v=3", 
+        "repos_url": "https://api.github.com/orgs/metno/repos", 
+        "login": "metno", 
+        "id": 893264, 
+        "hooks_url": "https://api.github.com/orgs/metno/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EpicGames/issues", 
+        "members_url": "https://api.github.com/orgs/EpicGames/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EpicGames/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EpicGames", 
+        "events_url": "https://api.github.com/orgs/EpicGames/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6615685?v=3", 
+        "repos_url": "https://api.github.com/orgs/EpicGames/repos", 
+        "login": "EpicGames", 
+        "id": 6615685, 
+        "hooks_url": "https://api.github.com/orgs/EpicGames/hooks"
+    }
+]

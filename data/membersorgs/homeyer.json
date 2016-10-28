@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/waffleio/issues", 
+        "members_url": "https://api.github.com/orgs/waffleio/members{/member}", 
+        "description": "Automate your workflow.", 
+        "public_members_url": "https://api.github.com/orgs/waffleio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/waffleio", 
+        "events_url": "https://api.github.com/orgs/waffleio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4751584?v=3", 
+        "repos_url": "https://api.github.com/orgs/waffleio/repos", 
+        "login": "waffleio", 
+        "id": 4751584, 
+        "hooks_url": "https://api.github.com/orgs/waffleio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GoCodeColorado/issues", 
+        "members_url": "https://api.github.com/orgs/GoCodeColorado/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/GoCodeColorado/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GoCodeColorado", 
+        "events_url": "https://api.github.com/orgs/GoCodeColorado/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10778292?v=3", 
+        "repos_url": "https://api.github.com/orgs/GoCodeColorado/repos", 
+        "login": "GoCodeColorado", 
+        "id": 10778292, 
+        "hooks_url": "https://api.github.com/orgs/GoCodeColorado/hooks"
+    }
+]

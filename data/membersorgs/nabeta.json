@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/next-l/issues", 
+        "members_url": "https://api.github.com/orgs/next-l/members{/member}", 
+        "description": "Librarian community in Japan", 
+        "public_members_url": "https://api.github.com/orgs/next-l/public_members{/member}", 
+        "url": "https://api.github.com/orgs/next-l", 
+        "events_url": "https://api.github.com/orgs/next-l/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/466337?v=3", 
+        "repos_url": "https://api.github.com/orgs/next-l/repos", 
+        "login": "next-l", 
+        "id": 466337, 
+        "hooks_url": "https://api.github.com/orgs/next-l/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nims-library/issues", 
+        "members_url": "https://api.github.com/orgs/nims-library/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nims-library/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nims-library", 
+        "events_url": "https://api.github.com/orgs/nims-library/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2585322?v=3", 
+        "repos_url": "https://api.github.com/orgs/nims-library/repos", 
+        "login": "nims-library", 
+        "id": 2585322, 
+        "hooks_url": "https://api.github.com/orgs/nims-library/hooks"
+    }
+]

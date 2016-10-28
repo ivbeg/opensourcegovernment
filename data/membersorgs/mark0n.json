@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/owncloud/issues", 
+        "members_url": "https://api.github.com/orgs/owncloud/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/owncloud/public_members{/member}", 
+        "url": "https://api.github.com/orgs/owncloud", 
+        "events_url": "https://api.github.com/orgs/owncloud/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1645051?v=3", 
+        "repos_url": "https://api.github.com/orgs/owncloud/repos", 
+        "login": "owncloud", 
+        "id": 1645051, 
+        "hooks_url": "https://api.github.com/orgs/owncloud/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/epicsdeb/issues", 
+        "members_url": "https://api.github.com/orgs/epicsdeb/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/epicsdeb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/epicsdeb", 
+        "events_url": "https://api.github.com/orgs/epicsdeb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4429315?v=3", 
+        "repos_url": "https://api.github.com/orgs/epicsdeb/repos", 
+        "login": "epicsdeb", 
+        "id": 4429315, 
+        "hooks_url": "https://api.github.com/orgs/epicsdeb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/diirt/issues", 
+        "members_url": "https://api.github.com/orgs/diirt/members{/member}", 
+        "description": "Soft real time framework for handling data retrieval, aggregation and processing. Includes epics-util, pvmanager and graphene.", 
+        "public_members_url": "https://api.github.com/orgs/diirt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/diirt", 
+        "events_url": "https://api.github.com/orgs/diirt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5710312?v=3", 
+        "repos_url": "https://api.github.com/orgs/diirt/repos", 
+        "login": "diirt", 
+        "id": 5710312, 
+        "hooks_url": "https://api.github.com/orgs/diirt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EPICS-motor-wg/issues", 
+        "members_url": "https://api.github.com/orgs/EPICS-motor-wg/members{/member}", 
+        "description": "group to discuss, develop, and guide the future of motion support in EPICS", 
+        "public_members_url": "https://api.github.com/orgs/EPICS-motor-wg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EPICS-motor-wg", 
+        "events_url": "https://api.github.com/orgs/EPICS-motor-wg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12549134?v=3", 
+        "repos_url": "https://api.github.com/orgs/EPICS-motor-wg/repos", 
+        "login": "EPICS-motor-wg", 
+        "id": 12549134, 
+        "hooks_url": "https://api.github.com/orgs/EPICS-motor-wg/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforboston/issues", 
+        "members_url": "https://api.github.com/orgs/codeforboston/members{/member}", 
+        "description": "Improving civic life and social good in Greater Boston.", 
+        "public_members_url": "https://api.github.com/orgs/codeforboston/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforboston", 
+        "events_url": "https://api.github.com/orgs/codeforboston/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2533182?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforboston/repos", 
+        "login": "codeforboston", 
+        "id": 2533182, 
+        "hooks_url": "https://api.github.com/orgs/codeforboston/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/InnCrisis/issues", 
+        "members_url": "https://api.github.com/orgs/InnCrisis/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/InnCrisis/public_members{/member}", 
+        "url": "https://api.github.com/orgs/InnCrisis", 
+        "events_url": "https://api.github.com/orgs/InnCrisis/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2773642?v=3", 
+        "repos_url": "https://api.github.com/orgs/InnCrisis/repos", 
+        "login": "InnCrisis", 
+        "id": 2773642, 
+        "hooks_url": "https://api.github.com/orgs/InnCrisis/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/EssenceAPI/issues", 
+        "members_url": "https://api.github.com/orgs/EssenceAPI/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/EssenceAPI/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EssenceAPI", 
+        "events_url": "https://api.github.com/orgs/EssenceAPI/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5509644?v=3", 
+        "repos_url": "https://api.github.com/orgs/EssenceAPI/repos", 
+        "login": "EssenceAPI", 
+        "id": 5509644, 
+        "hooks_url": "https://api.github.com/orgs/EssenceAPI/hooks"
+    }
+]

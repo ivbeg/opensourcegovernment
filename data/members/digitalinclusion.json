@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/100stacks/following{/other_user}", 
+        "events_url": "https://api.github.com/users/100stacks/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/100stacks/orgs", 
+        "url": "https://api.github.com/users/100stacks", 
+        "gists_url": "https://api.github.com/users/100stacks/gists{/gist_id}", 
+        "html_url": "https://github.com/100stacks", 
+        "subscriptions_url": "https://api.github.com/users/100stacks/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10120600?v=3", 
+        "repos_url": "https://api.github.com/users/100stacks/repos", 
+        "received_events_url": "https://api.github.com/users/100stacks/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/100stacks/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "100stacks", 
+        "type": "User", 
+        "id": 10120600, 
+        "followers_url": "https://api.github.com/users/100stacks/followers"
+    }
+]

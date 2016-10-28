@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/pwyf/issues", 
+        "members_url": "https://api.github.com/orgs/pwyf/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/pwyf/public_members{/member}", 
+        "url": "https://api.github.com/orgs/pwyf", 
+        "events_url": "https://api.github.com/orgs/pwyf/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4498311?v=3", 
+        "repos_url": "https://api.github.com/orgs/pwyf/repos", 
+        "login": "pwyf", 
+        "id": 4498311, 
+        "hooks_url": "https://api.github.com/orgs/pwyf/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DemocracyClub/issues", 
+        "members_url": "https://api.github.com/orgs/DemocracyClub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DemocracyClub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DemocracyClub", 
+        "events_url": "https://api.github.com/orgs/DemocracyClub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6901194?v=3", 
+        "repos_url": "https://api.github.com/orgs/DemocracyClub/repos", 
+        "login": "DemocracyClub", 
+        "id": 6901194, 
+        "hooks_url": "https://api.github.com/orgs/DemocracyClub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/DataKind-UK/issues", 
+        "members_url": "https://api.github.com/orgs/DataKind-UK/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/DataKind-UK/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DataKind-UK", 
+        "events_url": "https://api.github.com/orgs/DataKind-UK/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7648747?v=3", 
+        "repos_url": "https://api.github.com/orgs/DataKind-UK/repos", 
+        "login": "DataKind-UK", 
+        "id": 7648747, 
+        "hooks_url": "https://api.github.com/orgs/DataKind-UK/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/electionleaflets/issues", 
+        "members_url": "https://api.github.com/orgs/electionleaflets/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/electionleaflets/public_members{/member}", 
+        "url": "https://api.github.com/orgs/electionleaflets", 
+        "events_url": "https://api.github.com/orgs/electionleaflets/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9872335?v=3", 
+        "repos_url": "https://api.github.com/orgs/electionleaflets/repos", 
+        "login": "electionleaflets", 
+        "id": 9872335, 
+        "hooks_url": "https://api.github.com/orgs/electionleaflets/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spudmind/issues", 
+        "members_url": "https://api.github.com/orgs/spudmind/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/spudmind/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spudmind", 
+        "events_url": "https://api.github.com/orgs/spudmind/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10075245?v=3", 
+        "repos_url": "https://api.github.com/orgs/spudmind/repos", 
+        "login": "spudmind", 
+        "id": 10075245, 
+        "hooks_url": "https://api.github.com/orgs/spudmind/hooks"
+    }
+]

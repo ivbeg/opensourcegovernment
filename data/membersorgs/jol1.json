@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ElectricityAuthority/issues", 
+        "members_url": "https://api.github.com/orgs/ElectricityAuthority/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ElectricityAuthority/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ElectricityAuthority", 
+        "events_url": "https://api.github.com/orgs/ElectricityAuthority/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5018497?v=3", 
+        "repos_url": "https://api.github.com/orgs/ElectricityAuthority/repos", 
+        "login": "ElectricityAuthority", 
+        "id": 5018497, 
+        "hooks_url": "https://api.github.com/orgs/ElectricityAuthority/hooks"
+    }
+]

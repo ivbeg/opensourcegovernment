@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/tormi/following{/other_user}", 
+        "events_url": "https://api.github.com/users/tormi/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/tormi/orgs", 
+        "url": "https://api.github.com/users/tormi", 
+        "gists_url": "https://api.github.com/users/tormi/gists{/gist_id}", 
+        "html_url": "https://github.com/tormi", 
+        "subscriptions_url": "https://api.github.com/users/tormi/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/146800?v=3", 
+        "repos_url": "https://api.github.com/users/tormi/repos", 
+        "received_events_url": "https://api.github.com/users/tormi/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/tormi/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "tormi", 
+        "type": "User", 
+        "id": 146800, 
+        "followers_url": "https://api.github.com/users/tormi/followers"
+    }
+]

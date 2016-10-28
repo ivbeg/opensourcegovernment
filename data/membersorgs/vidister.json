@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nyantec/issues", 
+        "members_url": "https://api.github.com/orgs/nyantec/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/nyantec/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nyantec", 
+        "events_url": "https://api.github.com/orgs/nyantec/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4959905?v=3", 
+        "repos_url": "https://api.github.com/orgs/nyantec/repos", 
+        "login": "nyantec", 
+        "id": 4959905, 
+        "hooks_url": "https://api.github.com/orgs/nyantec/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jugendhackt/issues", 
+        "members_url": "https://api.github.com/orgs/Jugendhackt/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Jugendhackt/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jugendhackt", 
+        "events_url": "https://api.github.com/orgs/Jugendhackt/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5402446?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jugendhackt/repos", 
+        "login": "Jugendhackt", 
+        "id": 5402446, 
+        "hooks_url": "https://api.github.com/orgs/Jugendhackt/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/maschinendeck/issues", 
+        "members_url": "https://api.github.com/orgs/maschinendeck/members{/member}", 
+        "description": "Hacker-, Maker, and Nerd Space in Trier, Germany", 
+        "public_members_url": "https://api.github.com/orgs/maschinendeck/public_members{/member}", 
+        "url": "https://api.github.com/orgs/maschinendeck", 
+        "events_url": "https://api.github.com/orgs/maschinendeck/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8052202?v=3", 
+        "repos_url": "https://api.github.com/orgs/maschinendeck/repos", 
+        "login": "maschinendeck", 
+        "id": 8052202, 
+        "hooks_url": "https://api.github.com/orgs/maschinendeck/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/freifunktrier/issues", 
+        "members_url": "https://api.github.com/orgs/freifunktrier/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/freifunktrier/public_members{/member}", 
+        "url": "https://api.github.com/orgs/freifunktrier", 
+        "events_url": "https://api.github.com/orgs/freifunktrier/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10552554?v=3", 
+        "repos_url": "https://api.github.com/orgs/freifunktrier/repos", 
+        "login": "freifunktrier", 
+        "id": 10552554, 
+        "hooks_url": "https://api.github.com/orgs/freifunktrier/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/socialc0de/issues", 
+        "members_url": "https://api.github.com/orgs/socialc0de/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/socialc0de/public_members{/member}", 
+        "url": "https://api.github.com/orgs/socialc0de", 
+        "events_url": "https://api.github.com/orgs/socialc0de/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14241361?v=3", 
+        "repos_url": "https://api.github.com/orgs/socialc0de/repos", 
+        "login": "socialc0de", 
+        "id": 14241361, 
+        "hooks_url": "https://api.github.com/orgs/socialc0de/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Karline-Software/issues", 
+        "members_url": "https://api.github.com/orgs/Karline-Software/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Karline-Software/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Karline-Software", 
+        "events_url": "https://api.github.com/orgs/Karline-Software/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19873253?v=3", 
+        "repos_url": "https://api.github.com/orgs/Karline-Software/repos", 
+        "login": "Karline-Software", 
+        "id": 19873253, 
+        "hooks_url": "https://api.github.com/orgs/Karline-Software/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GJTrier/issues", 
+        "members_url": "https://api.github.com/orgs/GJTrier/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GJTrier/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GJTrier", 
+        "events_url": "https://api.github.com/orgs/GJTrier/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20641091?v=3", 
+        "repos_url": "https://api.github.com/orgs/GJTrier/repos", 
+        "login": "GJTrier", 
+        "id": 20641091, 
+        "hooks_url": "https://api.github.com/orgs/GJTrier/hooks"
+    }
+]

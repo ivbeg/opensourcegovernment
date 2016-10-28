@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codefordenver/issues", 
+        "members_url": "https://api.github.com/orgs/codefordenver/members{/member}", 
+        "description": "Code For America's Denver Brigade", 
+        "public_members_url": "https://api.github.com/orgs/codefordenver/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefordenver", 
+        "events_url": "https://api.github.com/orgs/codefordenver/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7472092?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefordenver/repos", 
+        "login": "codefordenver", 
+        "id": 7472092, 
+        "hooks_url": "https://api.github.com/orgs/codefordenver/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Denver-Devs/issues", 
+        "members_url": "https://api.github.com/orgs/Denver-Devs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Denver-Devs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Denver-Devs", 
+        "events_url": "https://api.github.com/orgs/Denver-Devs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11462380?v=3", 
+        "repos_url": "https://api.github.com/orgs/Denver-Devs/repos", 
+        "login": "Denver-Devs", 
+        "id": 11462380, 
+        "hooks_url": "https://api.github.com/orgs/Denver-Devs/hooks"
+    }
+]

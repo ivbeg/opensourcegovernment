@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/aaronsalmon/following{/other_user}", 
+        "events_url": "https://api.github.com/users/aaronsalmon/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/aaronsalmon/orgs", 
+        "url": "https://api.github.com/users/aaronsalmon", 
+        "gists_url": "https://api.github.com/users/aaronsalmon/gists{/gist_id}", 
+        "html_url": "https://github.com/aaronsalmon", 
+        "subscriptions_url": "https://api.github.com/users/aaronsalmon/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/37711?v=3", 
+        "repos_url": "https://api.github.com/users/aaronsalmon/repos", 
+        "received_events_url": "https://api.github.com/users/aaronsalmon/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/aaronsalmon/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "aaronsalmon", 
+        "type": "User", 
+        "id": 37711, 
+        "followers_url": "https://api.github.com/users/aaronsalmon/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/AnthonyAstige/following{/other_user}", 
+        "events_url": "https://api.github.com/users/AnthonyAstige/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/AnthonyAstige/orgs", 
+        "url": "https://api.github.com/users/AnthonyAstige", 
+        "gists_url": "https://api.github.com/users/AnthonyAstige/gists{/gist_id}", 
+        "html_url": "https://github.com/AnthonyAstige", 
+        "subscriptions_url": "https://api.github.com/users/AnthonyAstige/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/236039?v=3", 
+        "repos_url": "https://api.github.com/users/AnthonyAstige/repos", 
+        "received_events_url": "https://api.github.com/users/AnthonyAstige/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/AnthonyAstige/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "AnthonyAstige", 
+        "type": "User", 
+        "id": 236039, 
+        "followers_url": "https://api.github.com/users/AnthonyAstige/followers"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForCuritiba/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForCuritiba/members{/member}", 
+        "description": "N\u00f3s somos um grupo de consci\u00eancia c\u00edvica formado por t\u00e9cnicos, designers e especialistas. Trabalhamos para melhorar Curitiba e o mundo.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForCuritiba/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForCuritiba", 
+        "events_url": "https://api.github.com/orgs/CodeForCuritiba/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11762338?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForCuritiba/repos", 
+        "login": "CodeForCuritiba", 
+        "id": 11762338, 
+        "hooks_url": "https://api.github.com/orgs/CodeForCuritiba/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hasadna/issues", 
+        "members_url": "https://api.github.com/orgs/hasadna/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hasadna/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hasadna", 
+        "events_url": "https://api.github.com/orgs/hasadna/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/503639?v=3", 
+        "repos_url": "https://api.github.com/orgs/hasadna/repos", 
+        "login": "hasadna", 
+        "id": 503639, 
+        "hooks_url": "https://api.github.com/orgs/hasadna/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mozilla-b2g/issues", 
+        "members_url": "https://api.github.com/orgs/mozilla-b2g/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/mozilla-b2g/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mozilla-b2g", 
+        "events_url": "https://api.github.com/orgs/mozilla-b2g/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1261292?v=3", 
+        "repos_url": "https://api.github.com/orgs/mozilla-b2g/repos", 
+        "login": "mozilla-b2g", 
+        "id": 1261292, 
+        "hooks_url": "https://api.github.com/orgs/mozilla-b2g/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/WAYbetter/issues", 
+        "members_url": "https://api.github.com/orgs/WAYbetter/members{/member}", 
+        "description": "The Social Taxi App", 
+        "public_members_url": "https://api.github.com/orgs/WAYbetter/public_members{/member}", 
+        "url": "https://api.github.com/orgs/WAYbetter", 
+        "events_url": "https://api.github.com/orgs/WAYbetter/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7403316?v=3", 
+        "repos_url": "https://api.github.com/orgs/WAYbetter/repos", 
+        "login": "WAYbetter", 
+        "id": 7403316, 
+        "hooks_url": "https://api.github.com/orgs/WAYbetter/hooks"
+    }
+]

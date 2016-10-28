@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Smithsonian/issues", 
+        "members_url": "https://api.github.com/orgs/Smithsonian/members{/member}", 
+        "description": "Smithsonian Institution OCIO Central GitHub", 
+        "public_members_url": "https://api.github.com/orgs/Smithsonian/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Smithsonian", 
+        "events_url": "https://api.github.com/orgs/Smithsonian/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3631392?v=3", 
+        "repos_url": "https://api.github.com/orgs/Smithsonian/repos", 
+        "login": "Smithsonian", 
+        "id": 3631392, 
+        "hooks_url": "https://api.github.com/orgs/Smithsonian/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SmithsonianWorkshops/issues", 
+        "members_url": "https://api.github.com/orgs/SmithsonianWorkshops/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SmithsonianWorkshops/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SmithsonianWorkshops", 
+        "events_url": "https://api.github.com/orgs/SmithsonianWorkshops/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17465526?v=3", 
+        "repos_url": "https://api.github.com/orgs/SmithsonianWorkshops/repos", 
+        "login": "SmithsonianWorkshops", 
+        "id": 17465526, 
+        "hooks_url": "https://api.github.com/orgs/SmithsonianWorkshops/hooks"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dportnoy/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dportnoy/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dportnoy/orgs", 
+        "url": "https://api.github.com/users/dportnoy", 
+        "gists_url": "https://api.github.com/users/dportnoy/gists{/gist_id}", 
+        "html_url": "https://github.com/dportnoy", 
+        "subscriptions_url": "https://api.github.com/users/dportnoy/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2925801?v=3", 
+        "repos_url": "https://api.github.com/users/dportnoy/repos", 
+        "received_events_url": "https://api.github.com/users/dportnoy/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dportnoy/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dportnoy", 
+        "type": "User", 
+        "id": 2925801, 
+        "followers_url": "https://api.github.com/users/dportnoy/followers"
+    }
+]

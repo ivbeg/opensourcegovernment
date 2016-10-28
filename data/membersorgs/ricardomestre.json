@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/developmentseed/issues", 
+        "members_url": "https://api.github.com/orgs/developmentseed/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/developmentseed/public_members{/member}", 
+        "url": "https://api.github.com/orgs/developmentseed", 
+        "events_url": "https://api.github.com/orgs/developmentseed/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/92384?v=3", 
+        "repos_url": "https://api.github.com/orgs/developmentseed/repos", 
+        "login": "developmentseed", 
+        "id": 92384, 
+        "hooks_url": "https://api.github.com/orgs/developmentseed/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hotosm/issues", 
+        "members_url": "https://api.github.com/orgs/hotosm/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/hotosm/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hotosm", 
+        "events_url": "https://api.github.com/orgs/hotosm/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/458752?v=3", 
+        "repos_url": "https://api.github.com/orgs/hotosm/repos", 
+        "login": "hotosm", 
+        "id": 458752, 
+        "hooks_url": "https://api.github.com/orgs/hotosm/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/flipside-org/issues", 
+        "members_url": "https://api.github.com/orgs/flipside-org/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/flipside-org/public_members{/member}", 
+        "url": "https://api.github.com/orgs/flipside-org", 
+        "events_url": "https://api.github.com/orgs/flipside-org/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/945170?v=3", 
+        "repos_url": "https://api.github.com/orgs/flipside-org/repos", 
+        "login": "flipside-org", 
+        "id": 945170, 
+        "hooks_url": "https://api.github.com/orgs/flipside-org/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/lisbon-opendata/issues", 
+        "members_url": "https://api.github.com/orgs/lisbon-opendata/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/lisbon-opendata/public_members{/member}", 
+        "url": "https://api.github.com/orgs/lisbon-opendata", 
+        "events_url": "https://api.github.com/orgs/lisbon-opendata/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5717377?v=3", 
+        "repos_url": "https://api.github.com/orgs/lisbon-opendata/repos", 
+        "login": "lisbon-opendata", 
+        "id": 5717377, 
+        "hooks_url": "https://api.github.com/orgs/lisbon-opendata/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/openimagerynetwork/issues", 
+        "members_url": "https://api.github.com/orgs/openimagerynetwork/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/openimagerynetwork/public_members{/member}", 
+        "url": "https://api.github.com/orgs/openimagerynetwork", 
+        "events_url": "https://api.github.com/orgs/openimagerynetwork/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12259517?v=3", 
+        "repos_url": "https://api.github.com/orgs/openimagerynetwork/repos", 
+        "login": "openimagerynetwork", 
+        "id": 12259517, 
+        "hooks_url": "https://api.github.com/orgs/openimagerynetwork/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/procurement-analytics/issues", 
+        "members_url": "https://api.github.com/orgs/procurement-analytics/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/procurement-analytics/public_members{/member}", 
+        "url": "https://api.github.com/orgs/procurement-analytics", 
+        "events_url": "https://api.github.com/orgs/procurement-analytics/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13034762?v=3", 
+        "repos_url": "https://api.github.com/orgs/procurement-analytics/repos", 
+        "login": "procurement-analytics", 
+        "id": 13034762, 
+        "hooks_url": "https://api.github.com/orgs/procurement-analytics/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeisland/issues", 
+        "members_url": "https://api.github.com/orgs/codeisland/members{/member}", 
+        "description": "RI Code for America Brigade. Civic apps focused on the cities and state of RI.", 
+        "public_members_url": "https://api.github.com/orgs/codeisland/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeisland", 
+        "events_url": "https://api.github.com/orgs/codeisland/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6508208?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeisland/repos", 
+        "login": "codeisland", 
+        "id": 6508208, 
+        "hooks_url": "https://api.github.com/orgs/codeisland/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MayOneUS/issues", 
+        "members_url": "https://api.github.com/orgs/MayOneUS/members{/member}", 
+        "description": "Super PAC to end all Super PACs", 
+        "public_members_url": "https://api.github.com/orgs/MayOneUS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MayOneUS", 
+        "events_url": "https://api.github.com/orgs/MayOneUS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7469720?v=3", 
+        "repos_url": "https://api.github.com/orgs/MayOneUS/repos", 
+        "login": "MayOneUS", 
+        "id": 7469720, 
+        "hooks_url": "https://api.github.com/orgs/MayOneUS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/engagedwith/issues", 
+        "members_url": "https://api.github.com/orgs/engagedwith/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/engagedwith/public_members{/member}", 
+        "url": "https://api.github.com/orgs/engagedwith", 
+        "events_url": "https://api.github.com/orgs/engagedwith/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11855625?v=3", 
+        "repos_url": "https://api.github.com/orgs/engagedwith/repos", 
+        "login": "engagedwith", 
+        "id": 11855625, 
+        "hooks_url": "https://api.github.com/orgs/engagedwith/hooks"
+    }
+]

@@ -1,7 +1,0 @@
-orgname	name
-noaa-nws-cpc	python-skeleton
-noaa-nws-cpc	plot-fcst-ptile
-noaa-nws-cpc	app-deployer
-noaa-nws-cpc	cpc.geofiles
-noaa-nws-cpc	cpc.geogrids
-noaa-nws-cpc	cpc.geoplot

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/SLNC-DIMP/issues", 
+        "members_url": "https://api.github.com/orgs/SLNC-DIMP/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SLNC-DIMP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SLNC-DIMP", 
+        "events_url": "https://api.github.com/orgs/SLNC-DIMP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1641150?v=3", 
+        "repos_url": "https://api.github.com/orgs/SLNC-DIMP/repos", 
+        "login": "SLNC-DIMP", 
+        "id": 1641150, 
+        "hooks_url": "https://api.github.com/orgs/SLNC-DIMP/hooks"
+    }
+]

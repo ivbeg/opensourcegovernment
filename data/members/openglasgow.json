@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/aaronbassett/following{/other_user}", 
+        "events_url": "https://api.github.com/users/aaronbassett/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/aaronbassett/orgs", 
+        "url": "https://api.github.com/users/aaronbassett", 
+        "gists_url": "https://api.github.com/users/aaronbassett/gists{/gist_id}", 
+        "html_url": "https://github.com/aaronbassett", 
+        "subscriptions_url": "https://api.github.com/users/aaronbassett/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/97928?v=3", 
+        "repos_url": "https://api.github.com/users/aaronbassett/repos", 
+        "received_events_url": "https://api.github.com/users/aaronbassett/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/aaronbassett/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "aaronbassett", 
+        "type": "User", 
+        "id": 97928, 
+        "followers_url": "https://api.github.com/users/aaronbassett/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/stevenlivz/following{/other_user}", 
+        "events_url": "https://api.github.com/users/stevenlivz/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/stevenlivz/orgs", 
+        "url": "https://api.github.com/users/stevenlivz", 
+        "gists_url": "https://api.github.com/users/stevenlivz/gists{/gist_id}", 
+        "html_url": "https://github.com/stevenlivz", 
+        "subscriptions_url": "https://api.github.com/users/stevenlivz/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3834577?v=3", 
+        "repos_url": "https://api.github.com/users/stevenlivz/repos", 
+        "received_events_url": "https://api.github.com/users/stevenlivz/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/stevenlivz/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "stevenlivz", 
+        "type": "User", 
+        "id": 3834577, 
+        "followers_url": "https://api.github.com/users/stevenlivz/followers"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/JerseyConnect/issues", 
+        "members_url": "https://api.github.com/orgs/JerseyConnect/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JerseyConnect/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JerseyConnect", 
+        "events_url": "https://api.github.com/orgs/JerseyConnect/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1520145?v=3", 
+        "repos_url": "https://api.github.com/orgs/JerseyConnect/repos", 
+        "login": "JerseyConnect", 
+        "id": 1520145, 
+        "hooks_url": "https://api.github.com/orgs/JerseyConnect/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NJStateLibrary/issues", 
+        "members_url": "https://api.github.com/orgs/NJStateLibrary/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NJStateLibrary/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NJStateLibrary", 
+        "events_url": "https://api.github.com/orgs/NJStateLibrary/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9852236?v=3", 
+        "repos_url": "https://api.github.com/orgs/NJStateLibrary/repos", 
+        "login": "NJStateLibrary", 
+        "id": 9852236, 
+        "hooks_url": "https://api.github.com/orgs/NJStateLibrary/hooks"
+    }
+]

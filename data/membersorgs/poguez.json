@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/shdhpuebla/issues", 
+        "members_url": "https://api.github.com/orgs/shdhpuebla/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/shdhpuebla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/shdhpuebla", 
+        "events_url": "https://api.github.com/orgs/shdhpuebla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1755630?v=3", 
+        "repos_url": "https://api.github.com/orgs/shdhpuebla/repos", 
+        "login": "shdhpuebla", 
+        "id": 1755630, 
+        "hooks_url": "https://api.github.com/orgs/shdhpuebla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HFpuebla/issues", 
+        "members_url": "https://api.github.com/orgs/HFpuebla/members{/member}", 
+        "description": "Somos una comunidad de todos los perfiles y lenguajes.", 
+        "public_members_url": "https://api.github.com/orgs/HFpuebla/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HFpuebla", 
+        "events_url": "https://api.github.com/orgs/HFpuebla/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2251910?v=3", 
+        "repos_url": "https://api.github.com/orgs/HFpuebla/repos", 
+        "login": "HFpuebla", 
+        "id": 2251910, 
+        "hooks_url": "https://api.github.com/orgs/HFpuebla/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CodeandoMexico/issues", 
+        "members_url": "https://api.github.com/orgs/CodeandoMexico/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/CodeandoMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeandoMexico", 
+        "events_url": "https://api.github.com/orgs/CodeandoMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2940113?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeandoMexico/repos", 
+        "login": "CodeandoMexico", 
+        "id": 2940113, 
+        "hooks_url": "https://api.github.com/orgs/CodeandoMexico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/LabPLC/issues", 
+        "members_url": "https://api.github.com/orgs/LabPLC/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/LabPLC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/LabPLC", 
+        "events_url": "https://api.github.com/orgs/LabPLC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5631500?v=3", 
+        "repos_url": "https://api.github.com/orgs/LabPLC/repos", 
+        "login": "LabPLC", 
+        "id": 5631500, 
+        "hooks_url": "https://api.github.com/orgs/LabPLC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/scalamx/issues", 
+        "members_url": "https://api.github.com/orgs/scalamx/members{/member}", 
+        "description": "Grupo de Desarrolladores Scala M\u00e9xico", 
+        "public_members_url": "https://api.github.com/orgs/scalamx/public_members{/member}", 
+        "url": "https://api.github.com/orgs/scalamx", 
+        "events_url": "https://api.github.com/orgs/scalamx/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7463216?v=3", 
+        "repos_url": "https://api.github.com/orgs/scalamx/repos", 
+        "login": "scalamx", 
+        "id": 7463216, 
+        "hooks_url": "https://api.github.com/orgs/scalamx/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/escueladehackers/issues", 
+        "members_url": "https://api.github.com/orgs/escueladehackers/members{/member}", 
+        "description": "Es una experiencia de aprendizaje para la creaci\u00f3n de productos con tecnolog\u00eda.", 
+        "public_members_url": "https://api.github.com/orgs/escueladehackers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/escueladehackers", 
+        "events_url": "https://api.github.com/orgs/escueladehackers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/20308986?v=3", 
+        "repos_url": "https://api.github.com/orgs/escueladehackers/repos", 
+        "login": "escueladehackers", 
+        "id": 20308986, 
+        "hooks_url": "https://api.github.com/orgs/escueladehackers/hooks"
+    }
+]

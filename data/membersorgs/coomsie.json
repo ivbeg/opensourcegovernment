@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/issues", 
+        "members_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CanterburyRegionalCouncil", 
+        "events_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4042728?v=3", 
+        "repos_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/repos", 
+        "login": "CanterburyRegionalCouncil", 
+        "id": 4042728, 
+        "hooks_url": "https://api.github.com/orgs/CanterburyRegionalCouncil/hooks"
+    }
+]

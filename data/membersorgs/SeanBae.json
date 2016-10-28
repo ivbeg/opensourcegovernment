@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/peacecorps/issues", 
+        "members_url": "https://api.github.com/orgs/peacecorps/members{/member}", 
+        "description": "Plug into Peace Corps' mission", 
+        "public_members_url": "https://api.github.com/orgs/peacecorps/public_members{/member}", 
+        "url": "https://api.github.com/orgs/peacecorps", 
+        "events_url": "https://api.github.com/orgs/peacecorps/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4389885?v=3", 
+        "repos_url": "https://api.github.com/orgs/peacecorps/repos", 
+        "login": "peacecorps", 
+        "id": 4389885, 
+        "hooks_url": "https://api.github.com/orgs/peacecorps/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/bitcamp/issues", 
+        "members_url": "https://api.github.com/orgs/bitcamp/members{/member}", 
+        "description": "Hackathon at University of Maryland.", 
+        "public_members_url": "https://api.github.com/orgs/bitcamp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bitcamp", 
+        "events_url": "https://api.github.com/orgs/bitcamp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6227679?v=3", 
+        "repos_url": "https://api.github.com/orgs/bitcamp/repos", 
+        "login": "bitcamp", 
+        "id": 6227679, 
+        "hooks_url": "https://api.github.com/orgs/bitcamp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/projectdeltaio/issues", 
+        "members_url": "https://api.github.com/orgs/projectdeltaio/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/projectdeltaio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/projectdeltaio", 
+        "events_url": "https://api.github.com/orgs/projectdeltaio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11812722?v=3", 
+        "repos_url": "https://api.github.com/orgs/projectdeltaio/repos", 
+        "login": "projectdeltaio", 
+        "id": 11812722, 
+        "hooks_url": "https://api.github.com/orgs/projectdeltaio/hooks"
+    }
+]

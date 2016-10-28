@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/bundestag/issues", 
+        "members_url": "https://api.github.com/orgs/bundestag/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/bundestag/public_members{/member}", 
+        "url": "https://api.github.com/orgs/bundestag", 
+        "events_url": "https://api.github.com/orgs/bundestag/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1994383?v=3", 
+        "repos_url": "https://api.github.com/orgs/bundestag/repos", 
+        "login": "bundestag", 
+        "id": 1994383, 
+        "hooks_url": "https://api.github.com/orgs/bundestag/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ropenscilabs/issues", 
+        "members_url": "https://api.github.com/orgs/ropenscilabs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ropenscilabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ropenscilabs", 
+        "events_url": "https://api.github.com/orgs/ropenscilabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16314060?v=3", 
+        "repos_url": "https://api.github.com/orgs/ropenscilabs/repos", 
+        "login": "ropenscilabs", 
+        "id": 16314060, 
+        "hooks_url": "https://api.github.com/orgs/ropenscilabs/hooks"
+    }
+]

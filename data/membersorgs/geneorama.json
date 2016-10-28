@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Chicago/issues", 
+        "members_url": "https://api.github.com/orgs/Chicago/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Chicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Chicago", 
+        "events_url": "https://api.github.com/orgs/Chicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/838189?v=3", 
+        "repos_url": "https://api.github.com/orgs/Chicago/repos", 
+        "login": "Chicago", 
+        "id": 838189, 
+        "hooks_url": "https://api.github.com/orgs/Chicago/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dssg/issues", 
+        "members_url": "https://api.github.com/orgs/dssg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dssg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dssg", 
+        "events_url": "https://api.github.com/orgs/dssg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
+        "repos_url": "https://api.github.com/orgs/dssg/repos", 
+        "login": "dssg", 
+        "id": 3827384, 
+        "hooks_url": "https://api.github.com/orgs/dssg/hooks"
+    }
+]

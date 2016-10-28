@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/e-lo/following{/other_user}", 
+        "events_url": "https://api.github.com/users/e-lo/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/e-lo/orgs", 
+        "url": "https://api.github.com/users/e-lo", 
+        "gists_url": "https://api.github.com/users/e-lo/gists{/gist_id}", 
+        "html_url": "https://github.com/e-lo", 
+        "subscriptions_url": "https://api.github.com/users/e-lo/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/794787?v=3", 
+        "repos_url": "https://api.github.com/users/e-lo/repos", 
+        "received_events_url": "https://api.github.com/users/e-lo/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/e-lo/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "e-lo", 
+        "type": "User", 
+        "id": 794787, 
+        "followers_url": "https://api.github.com/users/e-lo/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/lmz/following{/other_user}", 
+        "events_url": "https://api.github.com/users/lmz/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/lmz/orgs", 
+        "url": "https://api.github.com/users/lmz", 
+        "gists_url": "https://api.github.com/users/lmz/gists{/gist_id}", 
+        "html_url": "https://github.com/lmz", 
+        "subscriptions_url": "https://api.github.com/users/lmz/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/796272?v=3", 
+        "repos_url": "https://api.github.com/users/lmz/repos", 
+        "received_events_url": "https://api.github.com/users/lmz/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/lmz/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "lmz", 
+        "type": "User", 
+        "id": 796272, 
+        "followers_url": "https://api.github.com/users/lmz/followers"
+    }
+]

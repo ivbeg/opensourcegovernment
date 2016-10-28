@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/europeana/issues", 
+        "members_url": "https://api.github.com/orgs/europeana/members{/member}", 
+        "description": "We're a digital library aggregating collections from Europe's libraries, archives, museums and audio-visual archives.", 
+        "public_members_url": "https://api.github.com/orgs/europeana/public_members{/member}", 
+        "url": "https://api.github.com/orgs/europeana", 
+        "events_url": "https://api.github.com/orgs/europeana/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4570681?v=3", 
+        "repos_url": "https://api.github.com/orgs/europeana/repos", 
+        "login": "europeana", 
+        "id": 4570681, 
+        "hooks_url": "https://api.github.com/orgs/europeana/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/TheEuropeanLibrary/issues", 
+        "members_url": "https://api.github.com/orgs/TheEuropeanLibrary/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/TheEuropeanLibrary/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TheEuropeanLibrary", 
+        "events_url": "https://api.github.com/orgs/TheEuropeanLibrary/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7429419?v=3", 
+        "repos_url": "https://api.github.com/orgs/TheEuropeanLibrary/repos", 
+        "login": "TheEuropeanLibrary", 
+        "id": 7429419, 
+        "hooks_url": "https://api.github.com/orgs/TheEuropeanLibrary/hooks"
+    }
+]

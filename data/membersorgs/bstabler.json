@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/RSGInc/issues", 
+        "members_url": "https://api.github.com/orgs/RSGInc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/RSGInc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/RSGInc", 
+        "events_url": "https://api.github.com/orgs/RSGInc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1839125?v=3", 
+        "repos_url": "https://api.github.com/orgs/RSGInc/repos", 
+        "login": "RSGInc", 
+        "id": 1839125, 
+        "hooks_url": "https://api.github.com/orgs/RSGInc/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/osPlanning/issues", 
+        "members_url": "https://api.github.com/orgs/osPlanning/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/osPlanning/public_members{/member}", 
+        "url": "https://api.github.com/orgs/osPlanning", 
+        "events_url": "https://api.github.com/orgs/osPlanning/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4582090?v=3", 
+        "repos_url": "https://api.github.com/orgs/osPlanning/repos", 
+        "login": "osPlanning", 
+        "id": 4582090, 
+        "hooks_url": "https://api.github.com/orgs/osPlanning/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/SANDAG/issues", 
+        "members_url": "https://api.github.com/orgs/SANDAG/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/SANDAG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/SANDAG", 
+        "events_url": "https://api.github.com/orgs/SANDAG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4667114?v=3", 
+        "repos_url": "https://api.github.com/orgs/SANDAG/repos", 
+        "login": "SANDAG", 
+        "id": 4667114, 
+        "hooks_url": "https://api.github.com/orgs/SANDAG/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/UDST/issues", 
+        "members_url": "https://api.github.com/orgs/UDST/members{/member}", 
+        "description": "The place for open source projects supporting urban spatial analysis, simulation, and 3D visualization", 
+        "public_members_url": "https://api.github.com/orgs/UDST/public_members{/member}", 
+        "url": "https://api.github.com/orgs/UDST", 
+        "events_url": "https://api.github.com/orgs/UDST/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5187765?v=3", 
+        "repos_url": "https://api.github.com/orgs/UDST/repos", 
+        "login": "UDST", 
+        "id": 5187765, 
+        "hooks_url": "https://api.github.com/orgs/UDST/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/atlregional/issues", 
+        "members_url": "https://api.github.com/orgs/atlregional/members{/member}", 
+        "description": "ARC is the regional planning agency for the ten-county Atlanta region.", 
+        "public_members_url": "https://api.github.com/orgs/atlregional/public_members{/member}", 
+        "url": "https://api.github.com/orgs/atlregional", 
+        "events_url": "https://api.github.com/orgs/atlregional/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6425463?v=3", 
+        "repos_url": "https://api.github.com/orgs/atlregional/repos", 
+        "login": "atlregional", 
+        "id": 6425463, 
+        "hooks_url": "https://api.github.com/orgs/atlregional/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/issues", 
+        "members_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/members{/member}", 
+        "description": "The Bay Area's Metropolitan Planning Organization", 
+        "public_members_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MetropolitanTransportationCommission", 
+        "events_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7117320?v=3", 
+        "repos_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/repos", 
+        "login": "MetropolitanTransportationCommission", 
+        "id": 7117320, 
+        "hooks_url": "https://api.github.com/orgs/MetropolitanTransportationCommission/hooks"
+    }
+]

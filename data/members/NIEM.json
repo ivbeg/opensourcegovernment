@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/webb/following{/other_user}", 
+        "events_url": "https://api.github.com/users/webb/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/webb/orgs", 
+        "url": "https://api.github.com/users/webb", 
+        "gists_url": "https://api.github.com/users/webb/gists{/gist_id}", 
+        "html_url": "https://github.com/webb", 
+        "subscriptions_url": "https://api.github.com/users/webb/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/527478?v=3", 
+        "repos_url": "https://api.github.com/users/webb/repos", 
+        "received_events_url": "https://api.github.com/users/webb/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/webb/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "webb", 
+        "type": "User", 
+        "id": 527478, 
+        "followers_url": "https://api.github.com/users/webb/followers"
+    }
+]

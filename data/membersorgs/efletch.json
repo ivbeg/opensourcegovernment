@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/GWU-CS2441/issues", 
+        "members_url": "https://api.github.com/orgs/GWU-CS2441/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GWU-CS2441/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GWU-CS2441", 
+        "events_url": "https://api.github.com/orgs/GWU-CS2441/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3419804?v=3", 
+        "repos_url": "https://api.github.com/orgs/GWU-CS2441/repos", 
+        "login": "GWU-CS2441", 
+        "id": 3419804, 
+        "hooks_url": "https://api.github.com/orgs/GWU-CS2441/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code4sac/issues", 
+        "members_url": "https://api.github.com/orgs/code4sac/members{/member}", 
+        "description": "We're civic-minded volunteers who contribute our skills toward using the web as a platform for local government and community service.", 
+        "public_members_url": "https://api.github.com/orgs/code4sac/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code4sac", 
+        "events_url": "https://api.github.com/orgs/code4sac/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3915088?v=3", 
+        "repos_url": "https://api.github.com/orgs/code4sac/repos", 
+        "login": "code4sac", 
+        "id": 3915088, 
+        "hooks_url": "https://api.github.com/orgs/code4sac/hooks"
+    }
+]

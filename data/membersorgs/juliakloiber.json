@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okfde/issues", 
+        "members_url": "https://api.github.com/orgs/okfde/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/okfde/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfde", 
+        "events_url": "https://api.github.com/orgs/okfde/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2130307?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfde/repos", 
+        "login": "okfde", 
+        "id": 2130307, 
+        "hooks_url": "https://api.github.com/orgs/okfde/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforgermany/issues", 
+        "members_url": "https://api.github.com/orgs/codeforgermany/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforgermany/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforgermany", 
+        "events_url": "https://api.github.com/orgs/codeforgermany/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6952379?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforgermany/repos", 
+        "login": "codeforgermany", 
+        "id": 6952379, 
+        "hooks_url": "https://api.github.com/orgs/codeforgermany/hooks"
+    }
+]

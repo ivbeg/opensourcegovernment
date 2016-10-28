@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/ben3000/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ben3000/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ben3000/orgs", 
+        "url": "https://api.github.com/users/ben3000", 
+        "gists_url": "https://api.github.com/users/ben3000/gists{/gist_id}", 
+        "html_url": "https://github.com/ben3000", 
+        "subscriptions_url": "https://api.github.com/users/ben3000/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1963681?v=3", 
+        "repos_url": "https://api.github.com/users/ben3000/repos", 
+        "received_events_url": "https://api.github.com/users/ben3000/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ben3000/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ben3000", 
+        "type": "User", 
+        "id": 1963681, 
+        "followers_url": "https://api.github.com/users/ben3000/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/nielsklazenga/following{/other_user}", 
+        "events_url": "https://api.github.com/users/nielsklazenga/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/nielsklazenga/orgs", 
+        "url": "https://api.github.com/users/nielsklazenga", 
+        "gists_url": "https://api.github.com/users/nielsklazenga/gists{/gist_id}", 
+        "html_url": "https://github.com/nielsklazenga", 
+        "subscriptions_url": "https://api.github.com/users/nielsklazenga/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4694550?v=3", 
+        "repos_url": "https://api.github.com/users/nielsklazenga/repos", 
+        "received_events_url": "https://api.github.com/users/nielsklazenga/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/nielsklazenga/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "nielsklazenga", 
+        "type": "User", 
+        "id": 4694550, 
+        "followers_url": "https://api.github.com/users/nielsklazenga/followers"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/Qinliuq/following{/other_user}", 
+        "events_url": "https://api.github.com/users/Qinliuq/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/Qinliuq/orgs", 
+        "url": "https://api.github.com/users/Qinliuq", 
+        "gists_url": "https://api.github.com/users/Qinliuq/gists{/gist_id}", 
+        "html_url": "https://github.com/Qinliuq", 
+        "subscriptions_url": "https://api.github.com/users/Qinliuq/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4505201?v=3", 
+        "repos_url": "https://api.github.com/users/Qinliuq/repos", 
+        "received_events_url": "https://api.github.com/users/Qinliuq/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/Qinliuq/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "Qinliuq", 
+        "type": "User", 
+        "id": 4505201, 
+        "followers_url": "https://api.github.com/users/Qinliuq/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/ulloaa/following{/other_user}", 
+        "events_url": "https://api.github.com/users/ulloaa/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/ulloaa/orgs", 
+        "url": "https://api.github.com/users/ulloaa", 
+        "gists_url": "https://api.github.com/users/ulloaa/gists{/gist_id}", 
+        "html_url": "https://github.com/ulloaa", 
+        "subscriptions_url": "https://api.github.com/users/ulloaa/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5843166?v=3", 
+        "repos_url": "https://api.github.com/users/ulloaa/repos", 
+        "received_events_url": "https://api.github.com/users/ulloaa/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/ulloaa/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "ulloaa", 
+        "type": "User", 
+        "id": 5843166, 
+        "followers_url": "https://api.github.com/users/ulloaa/followers"
+    }
+]

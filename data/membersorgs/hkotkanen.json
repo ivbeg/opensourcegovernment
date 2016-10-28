@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/City-of-Helsinki/issues", 
+        "members_url": "https://api.github.com/orgs/City-of-Helsinki/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/City-of-Helsinki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/City-of-Helsinki", 
+        "events_url": "https://api.github.com/orgs/City-of-Helsinki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1875564?v=3", 
+        "repos_url": "https://api.github.com/orgs/City-of-Helsinki/repos", 
+        "login": "City-of-Helsinki", 
+        "id": 1875564, 
+        "hooks_url": "https://api.github.com/orgs/City-of-Helsinki/hooks"
+    }
+]

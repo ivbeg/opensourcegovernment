@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/alv-ch/issues", 
+        "members_url": "https://api.github.com/orgs/alv-ch/members{/member}", 
+        "description": "Public Employment Service Switzerland", 
+        "public_members_url": "https://api.github.com/orgs/alv-ch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/alv-ch", 
+        "events_url": "https://api.github.com/orgs/alv-ch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7008756?v=3", 
+        "repos_url": "https://api.github.com/orgs/alv-ch/repos", 
+        "login": "alv-ch", 
+        "id": 7008756, 
+        "hooks_url": "https://api.github.com/orgs/alv-ch/hooks"
+    }
+]

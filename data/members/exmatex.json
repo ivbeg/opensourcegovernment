@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/junghans/following{/other_user}", 
+        "events_url": "https://api.github.com/users/junghans/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/junghans/orgs", 
+        "url": "https://api.github.com/users/junghans", 
+        "gists_url": "https://api.github.com/users/junghans/gists{/gist_id}", 
+        "html_url": "https://github.com/junghans", 
+        "subscriptions_url": "https://api.github.com/users/junghans/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/439483?v=3", 
+        "repos_url": "https://api.github.com/users/junghans/repos", 
+        "received_events_url": "https://api.github.com/users/junghans/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/junghans/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "junghans", 
+        "type": "User", 
+        "id": 439483, 
+        "followers_url": "https://api.github.com/users/junghans/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/mcpherson/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mcpherson/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mcpherson/orgs", 
+        "url": "https://api.github.com/users/mcpherson", 
+        "gists_url": "https://api.github.com/users/mcpherson/gists{/gist_id}", 
+        "html_url": "https://github.com/mcpherson", 
+        "subscriptions_url": "https://api.github.com/users/mcpherson/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/583056?v=3", 
+        "repos_url": "https://api.github.com/users/mcpherson/repos", 
+        "received_events_url": "https://api.github.com/users/mcpherson/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mcpherson/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mcpherson", 
+        "type": "User", 
+        "id": 583056, 
+        "followers_url": "https://api.github.com/users/mcpherson/followers"
+    }
+]

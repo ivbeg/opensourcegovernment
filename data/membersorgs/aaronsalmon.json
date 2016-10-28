@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/chirpradio/issues", 
+        "members_url": "https://api.github.com/orgs/chirpradio/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/chirpradio/public_members{/member}", 
+        "url": "https://api.github.com/orgs/chirpradio", 
+        "events_url": "https://api.github.com/orgs/chirpradio/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/458340?v=3", 
+        "repos_url": "https://api.github.com/orgs/chirpradio/repos", 
+        "login": "chirpradio", 
+        "id": 458340, 
+        "hooks_url": "https://api.github.com/orgs/chirpradio/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/smartchicago/issues", 
+        "members_url": "https://api.github.com/orgs/smartchicago/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/smartchicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/smartchicago", 
+        "events_url": "https://api.github.com/orgs/smartchicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2008099?v=3", 
+        "repos_url": "https://api.github.com/orgs/smartchicago/repos", 
+        "login": "smartchicago", 
+        "id": 2008099, 
+        "hooks_url": "https://api.github.com/orgs/smartchicago/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ofa-alumni/issues", 
+        "members_url": "https://api.github.com/orgs/ofa-alumni/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ofa-alumni/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ofa-alumni", 
+        "events_url": "https://api.github.com/orgs/ofa-alumni/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2602336?v=3", 
+        "repos_url": "https://api.github.com/orgs/ofa-alumni/repos", 
+        "login": "ofa-alumni", 
+        "id": 2602336, 
+        "hooks_url": "https://api.github.com/orgs/ofa-alumni/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforeauclaire/issues", 
+        "members_url": "https://api.github.com/orgs/codeforeauclaire/members{/member}", 
+        "description": "Code for America brigade hacking on civic engagement and open data opportunities in Eau Claire, Wisconsin and the greater Chippewa Valley.", 
+        "public_members_url": "https://api.github.com/orgs/codeforeauclaire/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforeauclaire", 
+        "events_url": "https://api.github.com/orgs/codeforeauclaire/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14985225?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforeauclaire/repos", 
+        "login": "codeforeauclaire", 
+        "id": 14985225, 
+        "hooks_url": "https://api.github.com/orgs/codeforeauclaire/hooks"
+    }
+]

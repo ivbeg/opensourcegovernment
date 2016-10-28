@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/rrbaker/following{/other_user}", 
+        "events_url": "https://api.github.com/users/rrbaker/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/rrbaker/orgs", 
+        "url": "https://api.github.com/users/rrbaker", 
+        "gists_url": "https://api.github.com/users/rrbaker/gists{/gist_id}", 
+        "html_url": "https://github.com/rrbaker", 
+        "subscriptions_url": "https://api.github.com/users/rrbaker/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17545?v=3", 
+        "repos_url": "https://api.github.com/users/rrbaker/repos", 
+        "received_events_url": "https://api.github.com/users/rrbaker/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/rrbaker/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "rrbaker", 
+        "type": "User", 
+        "id": 17545, 
+        "followers_url": "https://api.github.com/users/rrbaker/followers"
+    }
+]

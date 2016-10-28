@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thacker/issues", 
+        "members_url": "https://api.github.com/orgs/thacker/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/thacker/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thacker", 
+        "events_url": "https://api.github.com/orgs/thacker/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/494319?v=3", 
+        "repos_url": "https://api.github.com/orgs/thacker/repos", 
+        "login": "thacker", 
+        "id": 494319, 
+        "hooks_url": "https://api.github.com/orgs/thacker/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/okfn-brasil/issues", 
+        "members_url": "https://api.github.com/orgs/okfn-brasil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn-brasil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn-brasil", 
+        "events_url": "https://api.github.com/orgs/okfn-brasil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1666382?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn-brasil/repos", 
+        "login": "okfn-brasil", 
+        "id": 1666382, 
+        "hooks_url": "https://api.github.com/orgs/okfn-brasil/hooks"
+    }
+]

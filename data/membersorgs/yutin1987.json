@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nodejs-tw/issues", 
+        "members_url": "https://api.github.com/orgs/nodejs-tw/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nodejs-tw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nodejs-tw", 
+        "events_url": "https://api.github.com/orgs/nodejs-tw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1064938?v=3", 
+        "repos_url": "https://api.github.com/orgs/nodejs-tw/repos", 
+        "login": "nodejs-tw", 
+        "id": 1064938, 
+        "hooks_url": "https://api.github.com/orgs/nodejs-tw/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/nko4/issues", 
+        "members_url": "https://api.github.com/orgs/nko4/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nko4/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nko4", 
+        "events_url": "https://api.github.com/orgs/nko4/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3877928?v=3", 
+        "repos_url": "https://api.github.com/orgs/nko4/repos", 
+        "login": "nko4", 
+        "id": 3877928, 
+        "hooks_url": "https://api.github.com/orgs/nko4/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/QPM/issues", 
+        "members_url": "https://api.github.com/orgs/QPM/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/QPM/public_members{/member}", 
+        "url": "https://api.github.com/orgs/QPM", 
+        "events_url": "https://api.github.com/orgs/QPM/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5299063?v=3", 
+        "repos_url": "https://api.github.com/orgs/QPM/repos", 
+        "login": "QPM", 
+        "id": 5299063, 
+        "hooks_url": "https://api.github.com/orgs/QPM/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/f2etw/issues", 
+        "members_url": "https://api.github.com/orgs/f2etw/members{/member}", 
+        "description": "We dedicate ourselves in promoting front-end technology in Taiwan.  Focusing on web technology, user interface, and web design.", 
+        "public_members_url": "https://api.github.com/orgs/f2etw/public_members{/member}", 
+        "url": "https://api.github.com/orgs/f2etw", 
+        "events_url": "https://api.github.com/orgs/f2etw/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8252114?v=3", 
+        "repos_url": "https://api.github.com/orgs/f2etw/repos", 
+        "login": "f2etw", 
+        "id": 8252114, 
+        "hooks_url": "https://api.github.com/orgs/f2etw/hooks"
+    }
+]

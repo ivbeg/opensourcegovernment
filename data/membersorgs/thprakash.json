@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NCIP/issues", 
+        "members_url": "https://api.github.com/orgs/NCIP/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NCIP/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NCIP", 
+        "events_url": "https://api.github.com/orgs/NCIP/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2387173?v=3", 
+        "repos_url": "https://api.github.com/orgs/NCIP/repos", 
+        "login": "NCIP", 
+        "id": 2387173, 
+        "hooks_url": "https://api.github.com/orgs/NCIP/hooks"
+    }
+]

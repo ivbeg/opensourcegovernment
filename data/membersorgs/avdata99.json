@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/hhba/issues", 
+        "members_url": "https://api.github.com/orgs/hhba/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hhba/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hhba", 
+        "events_url": "https://api.github.com/orgs/hhba/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1144424?v=3", 
+        "repos_url": "https://api.github.com/orgs/hhba/repos", 
+        "login": "hhba", 
+        "id": 1144424, 
+        "hooks_url": "https://api.github.com/orgs/hhba/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/democraciaconcodigos/issues", 
+        "members_url": "https://api.github.com/orgs/democraciaconcodigos/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/democraciaconcodigos/public_members{/member}", 
+        "url": "https://api.github.com/orgs/democraciaconcodigos", 
+        "events_url": "https://api.github.com/orgs/democraciaconcodigos/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5853739?v=3", 
+        "repos_url": "https://api.github.com/orgs/democraciaconcodigos/repos", 
+        "login": "democraciaconcodigos", 
+        "id": 5853739, 
+        "hooks_url": "https://api.github.com/orgs/democraciaconcodigos/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datal-org/issues", 
+        "members_url": "https://api.github.com/orgs/datal-org/members{/member}", 
+        "description": "Datos Abiertos Am\u00e9rica Latina", 
+        "public_members_url": "https://api.github.com/orgs/datal-org/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datal-org", 
+        "events_url": "https://api.github.com/orgs/datal-org/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11425389?v=3", 
+        "repos_url": "https://api.github.com/orgs/datal-org/repos", 
+        "login": "datal-org", 
+        "id": 11425389, 
+        "hooks_url": "https://api.github.com/orgs/datal-org/hooks"
+    }
+]

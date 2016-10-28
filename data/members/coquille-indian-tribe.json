@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/need2/following{/other_user}", 
+        "events_url": "https://api.github.com/users/need2/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/need2/orgs", 
+        "url": "https://api.github.com/users/need2", 
+        "gists_url": "https://api.github.com/users/need2/gists{/gist_id}", 
+        "html_url": "https://github.com/need2", 
+        "subscriptions_url": "https://api.github.com/users/need2/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1359860?v=3", 
+        "repos_url": "https://api.github.com/users/need2/repos", 
+        "received_events_url": "https://api.github.com/users/need2/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/need2/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "need2", 
+        "type": "User", 
+        "id": 1359860, 
+        "followers_url": "https://api.github.com/users/need2/followers"
+    }
+]

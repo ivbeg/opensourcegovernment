@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/mattva01/following{/other_user}", 
+        "events_url": "https://api.github.com/users/mattva01/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/mattva01/orgs", 
+        "url": "https://api.github.com/users/mattva01", 
+        "gists_url": "https://api.github.com/users/mattva01/gists{/gist_id}", 
+        "html_url": "https://github.com/mattva01", 
+        "subscriptions_url": "https://api.github.com/users/mattva01/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/797605?v=3", 
+        "repos_url": "https://api.github.com/users/mattva01/repos", 
+        "received_events_url": "https://api.github.com/users/mattva01/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/mattva01/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "mattva01", 
+        "type": "User", 
+        "id": 797605, 
+        "followers_url": "https://api.github.com/users/mattva01/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/NinaBaliga/following{/other_user}", 
+        "events_url": "https://api.github.com/users/NinaBaliga/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/NinaBaliga/orgs", 
+        "url": "https://api.github.com/users/NinaBaliga", 
+        "gists_url": "https://api.github.com/users/NinaBaliga/gists{/gist_id}", 
+        "html_url": "https://github.com/NinaBaliga", 
+        "subscriptions_url": "https://api.github.com/users/NinaBaliga/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8158155?v=3", 
+        "repos_url": "https://api.github.com/users/NinaBaliga/repos", 
+        "received_events_url": "https://api.github.com/users/NinaBaliga/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/NinaBaliga/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "NinaBaliga", 
+        "type": "User", 
+        "id": 8158155, 
+        "followers_url": "https://api.github.com/users/NinaBaliga/followers"
+    }
+]

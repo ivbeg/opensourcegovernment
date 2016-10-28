@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/nmalabs/issues", 
+        "members_url": "https://api.github.com/orgs/nmalabs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/nmalabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/nmalabs", 
+        "events_url": "https://api.github.com/orgs/nmalabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/463618?v=3", 
+        "repos_url": "https://api.github.com/orgs/nmalabs/repos", 
+        "login": "nmalabs", 
+        "id": 463618, 
+        "hooks_url": "https://api.github.com/orgs/nmalabs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/thesecretlab/issues", 
+        "members_url": "https://api.github.com/orgs/thesecretlab/members{/member}", 
+        "description": "Secret Lab builds games and apps for mobile devices, writes technical books, and runs developer training workshops.", 
+        "public_members_url": "https://api.github.com/orgs/thesecretlab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/thesecretlab", 
+        "events_url": "https://api.github.com/orgs/thesecretlab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/622021?v=3", 
+        "repos_url": "https://api.github.com/orgs/thesecretlab/repos", 
+        "login": "thesecretlab", 
+        "id": 622021, 
+        "hooks_url": "https://api.github.com/orgs/thesecretlab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/KSP-CKAN/issues", 
+        "members_url": "https://api.github.com/orgs/KSP-CKAN/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/KSP-CKAN/public_members{/member}", 
+        "url": "https://api.github.com/orgs/KSP-CKAN", 
+        "events_url": "https://api.github.com/orgs/KSP-CKAN/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9023970?v=3", 
+        "repos_url": "https://api.github.com/orgs/KSP-CKAN/repos", 
+        "login": "KSP-CKAN", 
+        "id": 9023970, 
+        "hooks_url": "https://api.github.com/orgs/KSP-CKAN/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/issues", 
+        "members_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/public_members{/member}", 
+        "url": "https://api.github.com/orgs/EPFL-AgentBased-2014", 
+        "events_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7056406?v=3", 
+        "repos_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/repos", 
+        "login": "EPFL-AgentBased-2014", 
+        "id": 7056406, 
+        "hooks_url": "https://api.github.com/orgs/EPFL-AgentBased-2014/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/metroatlas/issues", 
+        "members_url": "https://api.github.com/orgs/metroatlas/members{/member}", 
+        "description": "Atlas of Metropolitan Areas", 
+        "public_members_url": "https://api.github.com/orgs/metroatlas/public_members{/member}", 
+        "url": "https://api.github.com/orgs/metroatlas", 
+        "events_url": "https://api.github.com/orgs/metroatlas/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7620484?v=3", 
+        "repos_url": "https://api.github.com/orgs/metroatlas/repos", 
+        "login": "metroatlas", 
+        "id": 7620484, 
+        "hooks_url": "https://api.github.com/orgs/metroatlas/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/caciviclab/issues", 
+        "members_url": "https://api.github.com/orgs/caciviclab/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/caciviclab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/caciviclab", 
+        "events_url": "https://api.github.com/orgs/caciviclab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9602455?v=3", 
+        "repos_url": "https://api.github.com/orgs/caciviclab/repos", 
+        "login": "caciviclab", 
+        "id": 9602455, 
+        "hooks_url": "https://api.github.com/orgs/caciviclab/hooks"
+    }
+]

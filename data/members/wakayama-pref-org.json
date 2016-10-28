@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/iba-k/following{/other_user}", 
+        "events_url": "https://api.github.com/users/iba-k/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/iba-k/orgs", 
+        "url": "https://api.github.com/users/iba-k", 
+        "gists_url": "https://api.github.com/users/iba-k/gists{/gist_id}", 
+        "html_url": "https://github.com/iba-k", 
+        "subscriptions_url": "https://api.github.com/users/iba-k/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/19721465?v=3", 
+        "repos_url": "https://api.github.com/users/iba-k/repos", 
+        "received_events_url": "https://api.github.com/users/iba-k/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/iba-k/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "iba-k", 
+        "type": "User", 
+        "id": 19721465, 
+        "followers_url": "https://api.github.com/users/iba-k/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/kikuyama-k/following{/other_user}", 
+        "events_url": "https://api.github.com/users/kikuyama-k/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/kikuyama-k/orgs", 
+        "url": "https://api.github.com/users/kikuyama-k", 
+        "gists_url": "https://api.github.com/users/kikuyama-k/gists{/gist_id}", 
+        "html_url": "https://github.com/kikuyama-k", 
+        "subscriptions_url": "https://api.github.com/users/kikuyama-k/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10919266?v=3", 
+        "repos_url": "https://api.github.com/users/kikuyama-k/repos", 
+        "received_events_url": "https://api.github.com/users/kikuyama-k/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/kikuyama-k/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "kikuyama-k", 
+        "type": "User", 
+        "id": 10919266, 
+        "followers_url": "https://api.github.com/users/kikuyama-k/followers"
+    }
+]

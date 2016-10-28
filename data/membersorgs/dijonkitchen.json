@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForJerseyCity/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForJerseyCity/members{/member}", 
+        "description": "#civictech organization in Jersey City, a Code for America Brigade", 
+        "public_members_url": "https://api.github.com/orgs/CodeForJerseyCity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForJerseyCity", 
+        "events_url": "https://api.github.com/orgs/CodeForJerseyCity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6127403?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForJerseyCity/repos", 
+        "login": "CodeForJerseyCity", 
+        "id": 6127403, 
+        "hooks_url": "https://api.github.com/orgs/CodeForJerseyCity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cortlandtlabs/issues", 
+        "members_url": "https://api.github.com/orgs/cortlandtlabs/members{/member}", 
+        "description": "architect, code, deploy", 
+        "public_members_url": "https://api.github.com/orgs/cortlandtlabs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cortlandtlabs", 
+        "events_url": "https://api.github.com/orgs/cortlandtlabs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21087672?v=3", 
+        "repos_url": "https://api.github.com/orgs/cortlandtlabs/repos", 
+        "login": "cortlandtlabs", 
+        "id": 21087672, 
+        "hooks_url": "https://api.github.com/orgs/cortlandtlabs/hooks"
+    }
+]

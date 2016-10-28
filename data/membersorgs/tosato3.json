@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/codeforjapan/issues", 
+        "members_url": "https://api.github.com/orgs/codeforjapan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforjapan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforjapan", 
+        "events_url": "https://api.github.com/orgs/codeforjapan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5137738?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforjapan/repos", 
+        "login": "codeforjapan", 
+        "id": 5137738, 
+        "hooks_url": "https://api.github.com/orgs/codeforjapan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/spendingjp/issues", 
+        "members_url": "https://api.github.com/orgs/spendingjp/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/spendingjp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/spendingjp", 
+        "events_url": "https://api.github.com/orgs/spendingjp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5210368?v=3", 
+        "repos_url": "https://api.github.com/orgs/spendingjp/repos", 
+        "login": "spendingjp", 
+        "id": 5210368, 
+        "hooks_url": "https://api.github.com/orgs/spendingjp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforibaraki/issues", 
+        "members_url": "https://api.github.com/orgs/codeforibaraki/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforibaraki/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforibaraki", 
+        "events_url": "https://api.github.com/orgs/codeforibaraki/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6296248?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforibaraki/repos", 
+        "login": "codeforibaraki", 
+        "id": 6296248, 
+        "hooks_url": "https://api.github.com/orgs/codeforibaraki/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mito-city-5374/issues", 
+        "members_url": "https://api.github.com/orgs/mito-city-5374/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mito-city-5374/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mito-city-5374", 
+        "events_url": "https://api.github.com/orgs/mito-city-5374/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/17642493?v=3", 
+        "repos_url": "https://api.github.com/orgs/mito-city-5374/repos", 
+        "login": "mito-city-5374", 
+        "id": 17642493, 
+        "hooks_url": "https://api.github.com/orgs/mito-city-5374/hooks"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/sjcdigital/issues", 
+        "members_url": "https://api.github.com/orgs/sjcdigital/members{/member}", 
+        "description": "Grupo de transpar\u00eancia e Dados abertos de S\u00e3o Jos\u00e9 dos Campos", 
+        "public_members_url": "https://api.github.com/orgs/sjcdigital/public_members{/member}", 
+        "url": "https://api.github.com/orgs/sjcdigital", 
+        "events_url": "https://api.github.com/orgs/sjcdigital/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5611890?v=3", 
+        "repos_url": "https://api.github.com/orgs/sjcdigital/repos", 
+        "login": "sjcdigital", 
+        "id": 5611890, 
+        "hooks_url": "https://api.github.com/orgs/sjcdigital/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/PUGVale/issues", 
+        "members_url": "https://api.github.com/orgs/PUGVale/members{/member}", 
+        "description": "Python Users Group Vale do Para\u00edba", 
+        "public_members_url": "https://api.github.com/orgs/PUGVale/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PUGVale", 
+        "events_url": "https://api.github.com/orgs/PUGVale/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6979182?v=3", 
+        "repos_url": "https://api.github.com/orgs/PUGVale/repos", 
+        "login": "PUGVale", 
+        "id": 6979182, 
+        "hooks_url": "https://api.github.com/orgs/PUGVale/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Jug-Vale/issues", 
+        "members_url": "https://api.github.com/orgs/Jug-Vale/members{/member}", 
+        "description": "O grupo de usu\u00e1rios Java do Vale do Para\u00edba - S\u00e3o Paulo", 
+        "public_members_url": "https://api.github.com/orgs/Jug-Vale/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Jug-Vale", 
+        "events_url": "https://api.github.com/orgs/Jug-Vale/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7570355?v=3", 
+        "repos_url": "https://api.github.com/orgs/Jug-Vale/repos", 
+        "login": "Jug-Vale", 
+        "id": 7570355, 
+        "hooks_url": "https://api.github.com/orgs/Jug-Vale/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/databr/issues", 
+        "members_url": "https://api.github.com/orgs/databr/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/databr/public_members{/member}", 
+        "url": "https://api.github.com/orgs/databr", 
+        "events_url": "https://api.github.com/orgs/databr/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8595385?v=3", 
+        "repos_url": "https://api.github.com/orgs/databr/repos", 
+        "login": "databr", 
+        "id": 8595385, 
+        "hooks_url": "https://api.github.com/orgs/databr/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cultural-ubuntu/issues", 
+        "members_url": "https://api.github.com/orgs/cultural-ubuntu/members{/member}", 
+        "description": "A Cultural Ubuntu tem como finalidade propor a\u00e7\u00f5es sociais de causas humanit\u00e1rias atrav\u00e9s do esporte, cultura, educa\u00e7\u00e3o, lazer e tecnologia", 
+        "public_members_url": "https://api.github.com/orgs/cultural-ubuntu/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cultural-ubuntu", 
+        "events_url": "https://api.github.com/orgs/cultural-ubuntu/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12894925?v=3", 
+        "repos_url": "https://api.github.com/orgs/cultural-ubuntu/repos", 
+        "login": "cultural-ubuntu", 
+        "id": 12894925, 
+        "hooks_url": "https://api.github.com/orgs/cultural-ubuntu/hooks"
+    }
+]

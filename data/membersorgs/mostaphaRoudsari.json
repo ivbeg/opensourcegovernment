@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NREL/issues", 
+        "members_url": "https://api.github.com/orgs/NREL/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/NREL/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NREL", 
+        "events_url": "https://api.github.com/orgs/NREL/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1906800?v=3", 
+        "repos_url": "https://api.github.com/orgs/NREL/repos", 
+        "login": "NREL", 
+        "id": 1906800, 
+        "hooks_url": "https://api.github.com/orgs/NREL/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HydraShare/issues", 
+        "members_url": "https://api.github.com/orgs/HydraShare/members{/member}", 
+        "description": "Hydra is a platform for sharing Grasshopper and Dynamo files", 
+        "public_members_url": "https://api.github.com/orgs/HydraShare/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HydraShare", 
+        "events_url": "https://api.github.com/orgs/HydraShare/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14856192?v=3", 
+        "repos_url": "https://api.github.com/orgs/HydraShare/repos", 
+        "login": "HydraShare", 
+        "id": 14856192, 
+        "hooks_url": "https://api.github.com/orgs/HydraShare/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ladybug-analysis-tools/issues", 
+        "members_url": "https://api.github.com/orgs/ladybug-analysis-tools/members{/member}", 
+        "description": "Ladybug analysis tools including Ladybug, Honeybee, Dragonfly and Butterfly!", 
+        "public_members_url": "https://api.github.com/orgs/ladybug-analysis-tools/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ladybug-analysis-tools", 
+        "events_url": "https://api.github.com/orgs/ladybug-analysis-tools/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14942270?v=3", 
+        "repos_url": "https://api.github.com/orgs/ladybug-analysis-tools/repos", 
+        "login": "ladybug-analysis-tools", 
+        "id": 14942270, 
+        "hooks_url": "https://api.github.com/orgs/ladybug-analysis-tools/hooks"
+    }
+]

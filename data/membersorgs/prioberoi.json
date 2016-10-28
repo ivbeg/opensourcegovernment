@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CommerceDataService/issues", 
+        "members_url": "https://api.github.com/orgs/CommerceDataService/members{/member}", 
+        "description": "A startup within DOC focused on building data products with and for the bureaus. We're hiring! https://www.commerce.gov/dataservice/", 
+        "public_members_url": "https://api.github.com/orgs/CommerceDataService/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CommerceDataService", 
+        "events_url": "https://api.github.com/orgs/CommerceDataService/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14348415?v=3", 
+        "repos_url": "https://api.github.com/orgs/CommerceDataService/repos", 
+        "login": "CommerceDataService", 
+        "id": 14348415, 
+        "hooks_url": "https://api.github.com/orgs/CommerceDataService/hooks"
+    }
+]

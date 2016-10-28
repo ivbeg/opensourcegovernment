@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/bstabler/following{/other_user}", 
+        "events_url": "https://api.github.com/users/bstabler/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/bstabler/orgs", 
+        "url": "https://api.github.com/users/bstabler", 
+        "gists_url": "https://api.github.com/users/bstabler/gists{/gist_id}", 
+        "html_url": "https://github.com/bstabler", 
+        "subscriptions_url": "https://api.github.com/users/bstabler/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5761221?v=3", 
+        "repos_url": "https://api.github.com/users/bstabler/repos", 
+        "received_events_url": "https://api.github.com/users/bstabler/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/bstabler/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "bstabler", 
+        "type": "User", 
+        "id": 5761221, 
+        "followers_url": "https://api.github.com/users/bstabler/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/landonreed/following{/other_user}", 
+        "events_url": "https://api.github.com/users/landonreed/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/landonreed/orgs", 
+        "url": "https://api.github.com/users/landonreed", 
+        "gists_url": "https://api.github.com/users/landonreed/gists{/gist_id}", 
+        "html_url": "https://github.com/landonreed", 
+        "subscriptions_url": "https://api.github.com/users/landonreed/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2370911?v=3", 
+        "repos_url": "https://api.github.com/users/landonreed/repos", 
+        "received_events_url": "https://api.github.com/users/landonreed/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/landonreed/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "landonreed", 
+        "type": "User", 
+        "id": 2370911, 
+        "followers_url": "https://api.github.com/users/landonreed/followers"
+    }
+]

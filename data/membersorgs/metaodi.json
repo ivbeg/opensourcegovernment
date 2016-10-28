@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/liip/issues", 
+        "members_url": "https://api.github.com/orgs/liip/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/liip/public_members{/member}", 
+        "url": "https://api.github.com/orgs/liip", 
+        "events_url": "https://api.github.com/orgs/liip/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/166102?v=3", 
+        "repos_url": "https://api.github.com/orgs/liip/repos", 
+        "login": "liip", 
+        "id": 166102, 
+        "hooks_url": "https://api.github.com/orgs/liip/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ckan/issues", 
+        "members_url": "https://api.github.com/orgs/ckan/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/ckan/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ckan", 
+        "events_url": "https://api.github.com/orgs/ckan/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1630326?v=3", 
+        "repos_url": "https://api.github.com/orgs/ckan/repos", 
+        "login": "ckan", 
+        "id": 1630326, 
+        "hooks_url": "https://api.github.com/orgs/ckan/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kort/issues", 
+        "members_url": "https://api.github.com/orgs/kort/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/kort/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kort", 
+        "events_url": "https://api.github.com/orgs/kort/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3287963?v=3", 
+        "repos_url": "https://api.github.com/orgs/kort/repos", 
+        "login": "kort", 
+        "id": 3287963, 
+        "hooks_url": "https://api.github.com/orgs/kort/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/ogdch/issues", 
+        "members_url": "https://api.github.com/orgs/ogdch/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ogdch/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ogdch", 
+        "events_url": "https://api.github.com/orgs/ogdch/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5366043?v=3", 
+        "repos_url": "https://api.github.com/orgs/ogdch/repos", 
+        "login": "ogdch", 
+        "id": 5366043, 
+        "hooks_url": "https://api.github.com/orgs/ogdch/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/opendata-swiss/issues", 
+        "members_url": "https://api.github.com/orgs/opendata-swiss/members{/member}", 
+        "description": "Open Data Portal Switzerland", 
+        "public_members_url": "https://api.github.com/orgs/opendata-swiss/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendata-swiss", 
+        "events_url": "https://api.github.com/orgs/opendata-swiss/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16097353?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendata-swiss/repos", 
+        "login": "opendata-swiss", 
+        "id": 16097353, 
+        "hooks_url": "https://api.github.com/orgs/opendata-swiss/hooks"
+    }
+]

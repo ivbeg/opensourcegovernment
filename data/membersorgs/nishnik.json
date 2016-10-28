@@ -1,0 +1,67 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/okfn/issues", 
+        "members_url": "https://api.github.com/orgs/okfn/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/okfn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/okfn", 
+        "events_url": "https://api.github.com/orgs/okfn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/304263?v=3", 
+        "repos_url": "https://api.github.com/orgs/okfn/repos", 
+        "login": "okfn", 
+        "id": 304263, 
+        "hooks_url": "https://api.github.com/orgs/okfn/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cltk/issues", 
+        "members_url": "https://api.github.com/orgs/cltk/members{/member}", 
+        "description": "Natural language processing for Classical languages", 
+        "public_members_url": "https://api.github.com/orgs/cltk/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cltk", 
+        "events_url": "https://api.github.com/orgs/cltk/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6610748?v=3", 
+        "repos_url": "https://api.github.com/orgs/cltk/repos", 
+        "login": "cltk", 
+        "id": 6610748, 
+        "hooks_url": "https://api.github.com/orgs/cltk/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/metakgp/issues", 
+        "members_url": "https://api.github.com/orgs/metakgp/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/metakgp/public_members{/member}", 
+        "url": "https://api.github.com/orgs/metakgp", 
+        "events_url": "https://api.github.com/orgs/metakgp/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11089056?v=3", 
+        "repos_url": "https://api.github.com/orgs/metakgp/repos", 
+        "login": "metakgp", 
+        "id": 11089056, 
+        "hooks_url": "https://api.github.com/orgs/metakgp/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/KRSSG/issues", 
+        "members_url": "https://api.github.com/orgs/KRSSG/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/KRSSG/public_members{/member}", 
+        "url": "https://api.github.com/orgs/KRSSG", 
+        "events_url": "https://api.github.com/orgs/KRSSG/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11938153?v=3", 
+        "repos_url": "https://api.github.com/orgs/KRSSG/repos", 
+        "login": "KRSSG", 
+        "id": 11938153, 
+        "hooks_url": "https://api.github.com/orgs/KRSSG/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Azad-Hall/issues", 
+        "members_url": "https://api.github.com/orgs/Azad-Hall/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/Azad-Hall/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Azad-Hall", 
+        "events_url": "https://api.github.com/orgs/Azad-Hall/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13926292?v=3", 
+        "repos_url": "https://api.github.com/orgs/Azad-Hall/repos", 
+        "login": "Azad-Hall", 
+        "id": 13926292, 
+        "hooks_url": "https://api.github.com/orgs/Azad-Hall/hooks"
+    }
+]

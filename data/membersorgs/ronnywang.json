@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/g0v/issues", 
+        "members_url": "https://api.github.com/orgs/g0v/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/g0v/public_members{/member}", 
+        "url": "https://api.github.com/orgs/g0v", 
+        "events_url": "https://api.github.com/orgs/g0v/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2668086?v=3", 
+        "repos_url": "https://api.github.com/orgs/g0v/repos", 
+        "login": "g0v", 
+        "id": 2668086, 
+        "hooks_url": "https://api.github.com/orgs/g0v/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codefortomorrow/issues", 
+        "members_url": "https://api.github.com/orgs/codefortomorrow/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codefortomorrow/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codefortomorrow", 
+        "events_url": "https://api.github.com/orgs/codefortomorrow/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3481908?v=3", 
+        "repos_url": "https://api.github.com/orgs/codefortomorrow/repos", 
+        "login": "codefortomorrow", 
+        "id": 3481908, 
+        "hooks_url": "https://api.github.com/orgs/codefortomorrow/hooks"
+    }
+]

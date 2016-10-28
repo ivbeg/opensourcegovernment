@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/HybridAU/following{/other_user}", 
+        "events_url": "https://api.github.com/users/HybridAU/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/HybridAU/orgs", 
+        "url": "https://api.github.com/users/HybridAU", 
+        "gists_url": "https://api.github.com/users/HybridAU/gists{/gist_id}", 
+        "html_url": "https://github.com/HybridAU", 
+        "subscriptions_url": "https://api.github.com/users/HybridAU/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1610265?v=3", 
+        "repos_url": "https://api.github.com/users/HybridAU/repos", 
+        "received_events_url": "https://api.github.com/users/HybridAU/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/HybridAU/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "HybridAU", 
+        "type": "User", 
+        "id": 1610265, 
+        "followers_url": "https://api.github.com/users/HybridAU/followers"
+    }
+]

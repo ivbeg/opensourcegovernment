@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Clojadelphia/issues", 
+        "members_url": "https://api.github.com/orgs/Clojadelphia/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/Clojadelphia/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Clojadelphia", 
+        "events_url": "https://api.github.com/orgs/Clojadelphia/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5615118?v=3", 
+        "repos_url": "https://api.github.com/orgs/Clojadelphia/repos", 
+        "login": "Clojadelphia", 
+        "id": 5615118, 
+        "hooks_url": "https://api.github.com/orgs/Clojadelphia/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/NuCivic/issues", 
+        "members_url": "https://api.github.com/orgs/NuCivic/members{/member}", 
+        "description": "Open civic solutions", 
+        "public_members_url": "https://api.github.com/orgs/NuCivic/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NuCivic", 
+        "events_url": "https://api.github.com/orgs/NuCivic/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7472183?v=3", 
+        "repos_url": "https://api.github.com/orgs/NuCivic/repos", 
+        "login": "NuCivic", 
+        "id": 7472183, 
+        "hooks_url": "https://api.github.com/orgs/NuCivic/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/gophergala/issues", 
+        "members_url": "https://api.github.com/orgs/gophergala/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/gophergala/public_members{/member}", 
+        "url": "https://api.github.com/orgs/gophergala", 
+        "events_url": "https://api.github.com/orgs/gophergala/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10627504?v=3", 
+        "repos_url": "https://api.github.com/orgs/gophergala/repos", 
+        "login": "gophergala", 
+        "id": 10627504, 
+        "hooks_url": "https://api.github.com/orgs/gophergala/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/kata-seeds/issues", 
+        "members_url": "https://api.github.com/orgs/kata-seeds/members{/member}", 
+        "description": "Ready-to-go projects to help you get started quickly with a code exercise", 
+        "public_members_url": "https://api.github.com/orgs/kata-seeds/public_members{/member}", 
+        "url": "https://api.github.com/orgs/kata-seeds", 
+        "events_url": "https://api.github.com/orgs/kata-seeds/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11044217?v=3", 
+        "repos_url": "https://api.github.com/orgs/kata-seeds/repos", 
+        "login": "kata-seeds", 
+        "id": 11044217, 
+        "hooks_url": "https://api.github.com/orgs/kata-seeds/hooks"
+    }
+]

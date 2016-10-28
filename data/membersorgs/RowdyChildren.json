@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CodeForCharlotte/issues", 
+        "members_url": "https://api.github.com/orgs/CodeForCharlotte/members{/member}", 
+        "description": "A brigade of Code for America. Dedicated to raising awareness and demonstrating the value of open data, open source, and open government.", 
+        "public_members_url": "https://api.github.com/orgs/CodeForCharlotte/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CodeForCharlotte", 
+        "events_url": "https://api.github.com/orgs/CodeForCharlotte/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7139543?v=3", 
+        "repos_url": "https://api.github.com/orgs/CodeForCharlotte/repos", 
+        "login": "CodeForCharlotte", 
+        "id": 7139543, 
+        "hooks_url": "https://api.github.com/orgs/CodeForCharlotte/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/CUCAWarriors/issues", 
+        "members_url": "https://api.github.com/orgs/CUCAWarriors/members{/member}", 
+        "description": "Charlotte United Christian Academy", 
+        "public_members_url": "https://api.github.com/orgs/CUCAWarriors/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CUCAWarriors", 
+        "events_url": "https://api.github.com/orgs/CUCAWarriors/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8092764?v=3", 
+        "repos_url": "https://api.github.com/orgs/CUCAWarriors/repos", 
+        "login": "CUCAWarriors", 
+        "id": 8092764, 
+        "hooks_url": "https://api.github.com/orgs/CUCAWarriors/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/w0unc/issues", 
+        "members_url": "https://api.github.com/orgs/w0unc/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/w0unc/public_members{/member}", 
+        "url": "https://api.github.com/orgs/w0unc", 
+        "events_url": "https://api.github.com/orgs/w0unc/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/16847764?v=3", 
+        "repos_url": "https://api.github.com/orgs/w0unc/repos", 
+        "login": "w0unc", 
+        "id": 16847764, 
+        "hooks_url": "https://api.github.com/orgs/w0unc/hooks"
+    }
+]

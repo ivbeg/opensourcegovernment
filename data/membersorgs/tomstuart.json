@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/rubymanor/issues", 
+        "members_url": "https://api.github.com/orgs/rubymanor/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/rubymanor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/rubymanor", 
+        "events_url": "https://api.github.com/orgs/rubymanor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/116669?v=3", 
+        "repos_url": "https://api.github.com/orgs/rubymanor/repos", 
+        "login": "rubymanor", 
+        "id": 116669, 
+        "hooks_url": "https://api.github.com/orgs/rubymanor/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/directgov-innovate/issues", 
+        "members_url": "https://api.github.com/orgs/directgov-innovate/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/directgov-innovate/public_members{/member}", 
+        "url": "https://api.github.com/orgs/directgov-innovate", 
+        "events_url": "https://api.github.com/orgs/directgov-innovate/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/349375?v=3", 
+        "repos_url": "https://api.github.com/orgs/directgov-innovate/repos", 
+        "login": "directgov-innovate", 
+        "id": 349375, 
+        "hooks_url": "https://api.github.com/orgs/directgov-innovate/hooks"
+    }
+]

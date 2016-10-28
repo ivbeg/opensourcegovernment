@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/erasme/issues", 
+        "members_url": "https://api.github.com/orgs/erasme/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/erasme/public_members{/member}", 
+        "url": "https://api.github.com/orgs/erasme", 
+        "events_url": "https://api.github.com/orgs/erasme/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/204704?v=3", 
+        "repos_url": "https://api.github.com/orgs/erasme/repos", 
+        "login": "erasme", 
+        "id": 204704, 
+        "hooks_url": "https://api.github.com/orgs/erasme/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/laclasse-com/issues", 
+        "members_url": "https://api.github.com/orgs/laclasse-com/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/laclasse-com/public_members{/member}", 
+        "url": "https://api.github.com/orgs/laclasse-com", 
+        "events_url": "https://api.github.com/orgs/laclasse-com/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2392053?v=3", 
+        "repos_url": "https://api.github.com/orgs/laclasse-com/repos", 
+        "login": "laclasse-com", 
+        "id": 2392053, 
+        "hooks_url": "https://api.github.com/orgs/laclasse-com/hooks"
+    }
+]

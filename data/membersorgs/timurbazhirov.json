@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NERSC/issues", 
+        "members_url": "https://api.github.com/orgs/NERSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NERSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NERSC", 
+        "events_url": "https://api.github.com/orgs/NERSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380484?v=3", 
+        "repos_url": "https://api.github.com/orgs/NERSC/repos", 
+        "login": "NERSC", 
+        "id": 1380484, 
+        "hooks_url": "https://api.github.com/orgs/NERSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/Exabyte-io/issues", 
+        "members_url": "https://api.github.com/orgs/Exabyte-io/members{/member}", 
+        "description": "Materials discovery cloud", 
+        "public_members_url": "https://api.github.com/orgs/Exabyte-io/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Exabyte-io", 
+        "events_url": "https://api.github.com/orgs/Exabyte-io/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7788846?v=3", 
+        "repos_url": "https://api.github.com/orgs/Exabyte-io/repos", 
+        "login": "Exabyte-io", 
+        "id": 7788846, 
+        "hooks_url": "https://api.github.com/orgs/Exabyte-io/hooks"
+    }
+]

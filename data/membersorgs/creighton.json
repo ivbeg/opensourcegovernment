@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/adlnet/issues", 
+        "members_url": "https://api.github.com/orgs/adlnet/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/adlnet/public_members{/member}", 
+        "url": "https://api.github.com/orgs/adlnet", 
+        "events_url": "https://api.github.com/orgs/adlnet/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1256328?v=3", 
+        "repos_url": "https://api.github.com/orgs/adlnet/repos", 
+        "login": "adlnet", 
+        "id": 1256328, 
+        "hooks_url": "https://api.github.com/orgs/adlnet/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/adlnet-archive/issues", 
+        "members_url": "https://api.github.com/orgs/adlnet-archive/members{/member}", 
+        "description": "Collection of ADL projects that are no longer maintained but still hold historical significance. ", 
+        "public_members_url": "https://api.github.com/orgs/adlnet-archive/public_members{/member}", 
+        "url": "https://api.github.com/orgs/adlnet-archive", 
+        "events_url": "https://api.github.com/orgs/adlnet-archive/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/14997882?v=3", 
+        "repos_url": "https://api.github.com/orgs/adlnet-archive/repos", 
+        "login": "adlnet-archive", 
+        "id": 14997882, 
+        "hooks_url": "https://api.github.com/orgs/adlnet-archive/hooks"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/otvorenesudy/issues", 
+        "members_url": "https://api.github.com/orgs/otvorenesudy/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/otvorenesudy/public_members{/member}", 
+        "url": "https://api.github.com/orgs/otvorenesudy", 
+        "events_url": "https://api.github.com/orgs/otvorenesudy/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2652701?v=3", 
+        "repos_url": "https://api.github.com/orgs/otvorenesudy/repos", 
+        "login": "otvorenesudy", 
+        "id": 2652701, 
+        "hooks_url": "https://api.github.com/orgs/otvorenesudy/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/AskalotCQA/issues", 
+        "members_url": "https://api.github.com/orgs/AskalotCQA/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/AskalotCQA/public_members{/member}", 
+        "url": "https://api.github.com/orgs/AskalotCQA", 
+        "events_url": "https://api.github.com/orgs/AskalotCQA/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6631406?v=3", 
+        "repos_url": "https://api.github.com/orgs/AskalotCQA/repos", 
+        "login": "AskalotCQA", 
+        "id": 6631406, 
+        "hooks_url": "https://api.github.com/orgs/AskalotCQA/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/intuo/issues", 
+        "members_url": "https://api.github.com/orgs/intuo/members{/member}", 
+        "description": "Let talent thrive", 
+        "public_members_url": "https://api.github.com/orgs/intuo/public_members{/member}", 
+        "url": "https://api.github.com/orgs/intuo", 
+        "events_url": "https://api.github.com/orgs/intuo/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9412826?v=3", 
+        "repos_url": "https://api.github.com/orgs/intuo/repos", 
+        "login": "intuo", 
+        "id": 9412826, 
+        "hooks_url": "https://api.github.com/orgs/intuo/hooks"
+    }
+]

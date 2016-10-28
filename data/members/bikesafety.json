@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/dsummersl/following{/other_user}", 
+        "events_url": "https://api.github.com/users/dsummersl/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/dsummersl/orgs", 
+        "url": "https://api.github.com/users/dsummersl", 
+        "gists_url": "https://api.github.com/users/dsummersl/gists{/gist_id}", 
+        "html_url": "https://github.com/dsummersl", 
+        "subscriptions_url": "https://api.github.com/users/dsummersl/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/30856?v=3", 
+        "repos_url": "https://api.github.com/users/dsummersl/repos", 
+        "received_events_url": "https://api.github.com/users/dsummersl/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/dsummersl/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "dsummersl", 
+        "type": "User", 
+        "id": 30856, 
+        "followers_url": "https://api.github.com/users/dsummersl/followers"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/uchicago-cs/issues", 
+        "members_url": "https://api.github.com/orgs/uchicago-cs/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/uchicago-cs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/uchicago-cs", 
+        "events_url": "https://api.github.com/orgs/uchicago-cs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1261100?v=3", 
+        "repos_url": "https://api.github.com/orgs/uchicago-cs/repos", 
+        "login": "uchicago-cs", 
+        "id": 1261100, 
+        "hooks_url": "https://api.github.com/orgs/uchicago-cs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/cfachicago/issues", 
+        "members_url": "https://api.github.com/orgs/cfachicago/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/cfachicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/cfachicago", 
+        "events_url": "https://api.github.com/orgs/cfachicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2198110?v=3", 
+        "repos_url": "https://api.github.com/orgs/cfachicago/repos", 
+        "login": "cfachicago", 
+        "id": 2198110, 
+        "hooks_url": "https://api.github.com/orgs/cfachicago/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/dssg/issues", 
+        "members_url": "https://api.github.com/orgs/dssg/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/dssg/public_members{/member}", 
+        "url": "https://api.github.com/orgs/dssg", 
+        "events_url": "https://api.github.com/orgs/dssg/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/3827384?v=3", 
+        "repos_url": "https://api.github.com/orgs/dssg/repos", 
+        "login": "dssg", 
+        "id": 3827384, 
+        "hooks_url": "https://api.github.com/orgs/dssg/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/hack-at-uchicago/issues", 
+        "members_url": "https://api.github.com/orgs/hack-at-uchicago/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/hack-at-uchicago/public_members{/member}", 
+        "url": "https://api.github.com/orgs/hack-at-uchicago", 
+        "events_url": "https://api.github.com/orgs/hack-at-uchicago/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5118425?v=3", 
+        "repos_url": "https://api.github.com/orgs/hack-at-uchicago/repos", 
+        "login": "hack-at-uchicago", 
+        "id": 5118425, 
+        "hooks_url": "https://api.github.com/orgs/hack-at-uchicago/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JuliaCon/issues", 
+        "members_url": "https://api.github.com/orgs/JuliaCon/members{/member}", 
+        "description": "The Julia Conference", 
+        "public_members_url": "https://api.github.com/orgs/JuliaCon/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JuliaCon", 
+        "events_url": "https://api.github.com/orgs/JuliaCon/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7140522?v=3", 
+        "repos_url": "https://api.github.com/orgs/JuliaCon/repos", 
+        "login": "JuliaCon", 
+        "id": 7140522, 
+        "hooks_url": "https://api.github.com/orgs/JuliaCon/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/datala/issues", 
+        "members_url": "https://api.github.com/orgs/datala/members{/member}", 
+        "description": "LA", 
+        "public_members_url": "https://api.github.com/orgs/datala/public_members{/member}", 
+        "url": "https://api.github.com/orgs/datala", 
+        "events_url": "https://api.github.com/orgs/datala/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9325091?v=3", 
+        "repos_url": "https://api.github.com/orgs/datala/repos", 
+        "login": "datala", 
+        "id": 9325091, 
+        "hooks_url": "https://api.github.com/orgs/datala/hooks"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/ruboto/issues", 
+        "members_url": "https://api.github.com/orgs/ruboto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/ruboto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/ruboto", 
+        "events_url": "https://api.github.com/orgs/ruboto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/288062?v=3", 
+        "repos_url": "https://api.github.com/orgs/ruboto/repos", 
+        "login": "ruboto", 
+        "id": 288062, 
+        "hooks_url": "https://api.github.com/orgs/ruboto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/codeforamerica/issues", 
+        "members_url": "https://api.github.com/orgs/codeforamerica/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/codeforamerica/public_members{/member}", 
+        "url": "https://api.github.com/orgs/codeforamerica", 
+        "events_url": "https://api.github.com/orgs/codeforamerica/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/337792?v=3", 
+        "repos_url": "https://api.github.com/orgs/codeforamerica/repos", 
+        "login": "codeforamerica", 
+        "id": 337792, 
+        "hooks_url": "https://api.github.com/orgs/codeforamerica/hooks"
+    }
+]

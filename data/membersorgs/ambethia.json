@@ -1,0 +1,93 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/TampaRuby/issues", 
+        "members_url": "https://api.github.com/orgs/TampaRuby/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/TampaRuby/public_members{/member}", 
+        "url": "https://api.github.com/orgs/TampaRuby", 
+        "events_url": "https://api.github.com/orgs/TampaRuby/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/10180?v=3", 
+        "repos_url": "https://api.github.com/orgs/TampaRuby/repos", 
+        "login": "TampaRuby", 
+        "id": 10180, 
+        "hooks_url": "https://api.github.com/orgs/TampaRuby/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/grays/issues", 
+        "members_url": "https://api.github.com/orgs/grays/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/grays/public_members{/member}", 
+        "url": "https://api.github.com/orgs/grays", 
+        "events_url": "https://api.github.com/orgs/grays/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/121639?v=3", 
+        "repos_url": "https://api.github.com/orgs/grays/repos", 
+        "login": "grays", 
+        "id": 121639, 
+        "hooks_url": "https://api.github.com/orgs/grays/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/theironyard/issues", 
+        "members_url": "https://api.github.com/orgs/theironyard/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/theironyard/public_members{/member}", 
+        "url": "https://api.github.com/orgs/theironyard", 
+        "events_url": "https://api.github.com/orgs/theironyard/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2248433?v=3", 
+        "repos_url": "https://api.github.com/orgs/theironyard/repos", 
+        "login": "theironyard", 
+        "id": 2248433, 
+        "hooks_url": "https://api.github.com/orgs/theironyard/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/code-for-tb/issues", 
+        "members_url": "https://api.github.com/orgs/code-for-tb/members{/member}", 
+        "description": "A Code for America Brigade helping local governments & community organizations use the web better.", 
+        "public_members_url": "https://api.github.com/orgs/code-for-tb/public_members{/member}", 
+        "url": "https://api.github.com/orgs/code-for-tb", 
+        "events_url": "https://api.github.com/orgs/code-for-tb/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9374504?v=3", 
+        "repos_url": "https://api.github.com/orgs/code-for-tb/repos", 
+        "login": "code-for-tb", 
+        "id": 9374504, 
+        "hooks_url": "https://api.github.com/orgs/code-for-tb/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/suncoast-devs/issues", 
+        "members_url": "https://api.github.com/orgs/suncoast-devs/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/suncoast-devs/public_members{/member}", 
+        "url": "https://api.github.com/orgs/suncoast-devs", 
+        "events_url": "https://api.github.com/orgs/suncoast-devs/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/11248803?v=3", 
+        "repos_url": "https://api.github.com/orgs/suncoast-devs/repos", 
+        "login": "suncoast-devs", 
+        "id": 11248803, 
+        "hooks_url": "https://api.github.com/orgs/suncoast-devs/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/issues", 
+        "members_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/members{/member}", 
+        "description": "The Iron Yard - Tampa & St. Petersburg, FL - May 2015", 
+        "public_members_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015", 
+        "events_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/12092377?v=3", 
+        "repos_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/repos", 
+        "login": "tiy-tpa-rails-q2-2015", 
+        "id": 12092377, 
+        "hooks_url": "https://api.github.com/orgs/tiy-tpa-rails-q2-2015/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/tiy-tpa-fee/issues", 
+        "members_url": "https://api.github.com/orgs/tiy-tpa-fee/members{/member}", 
+        "description": "The Iron Yard - Tampa & St. Petersburg, FL", 
+        "public_members_url": "https://api.github.com/orgs/tiy-tpa-fee/public_members{/member}", 
+        "url": "https://api.github.com/orgs/tiy-tpa-fee", 
+        "events_url": "https://api.github.com/orgs/tiy-tpa-fee/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13334739?v=3", 
+        "repos_url": "https://api.github.com/orgs/tiy-tpa-fee/repos", 
+        "login": "tiy-tpa-fee", 
+        "id": 13334739, 
+        "hooks_url": "https://api.github.com/orgs/tiy-tpa-fee/hooks"
+    }
+]

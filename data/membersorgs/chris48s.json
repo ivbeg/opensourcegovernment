@@ -1,0 +1,28 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/DemocracyClub/issues", 
+        "members_url": "https://api.github.com/orgs/DemocracyClub/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/DemocracyClub/public_members{/member}", 
+        "url": "https://api.github.com/orgs/DemocracyClub", 
+        "events_url": "https://api.github.com/orgs/DemocracyClub/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6901194?v=3", 
+        "repos_url": "https://api.github.com/orgs/DemocracyClub/repos", 
+        "login": "DemocracyClub", 
+        "id": 6901194, 
+        "hooks_url": "https://api.github.com/orgs/DemocracyClub/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/wdiv-scrapers/issues", 
+        "members_url": "https://api.github.com/orgs/wdiv-scrapers/members{/member}", 
+        "description": "Scraping the UK's polling station data", 
+        "public_members_url": "https://api.github.com/orgs/wdiv-scrapers/public_members{/member}", 
+        "url": "https://api.github.com/orgs/wdiv-scrapers", 
+        "events_url": "https://api.github.com/orgs/wdiv-scrapers/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/21249579?v=3", 
+        "repos_url": "https://api.github.com/orgs/wdiv-scrapers/repos", 
+        "login": "wdiv-scrapers", 
+        "id": 21249579, 
+        "hooks_url": "https://api.github.com/orgs/wdiv-scrapers/hooks"
+    }
+]

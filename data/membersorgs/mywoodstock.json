@@ -1,0 +1,80 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/NERSC/issues", 
+        "members_url": "https://api.github.com/orgs/NERSC/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/NERSC/public_members{/member}", 
+        "url": "https://api.github.com/orgs/NERSC", 
+        "events_url": "https://api.github.com/orgs/NERSC/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1380484?v=3", 
+        "repos_url": "https://api.github.com/orgs/NERSC/repos", 
+        "login": "NERSC", 
+        "id": 1380484, 
+        "hooks_url": "https://api.github.com/orgs/NERSC/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/MPAS-Dev/issues", 
+        "members_url": "https://api.github.com/orgs/MPAS-Dev/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/MPAS-Dev/public_members{/member}", 
+        "url": "https://api.github.com/orgs/MPAS-Dev", 
+        "events_url": "https://api.github.com/orgs/MPAS-Dev/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4063217?v=3", 
+        "repos_url": "https://api.github.com/orgs/MPAS-Dev/repos", 
+        "login": "MPAS-Dev", 
+        "id": 4063217, 
+        "hooks_url": "https://api.github.com/orgs/MPAS-Dev/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/JeffersonLab/issues", 
+        "members_url": "https://api.github.com/orgs/JeffersonLab/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/JeffersonLab/public_members{/member}", 
+        "url": "https://api.github.com/orgs/JeffersonLab", 
+        "events_url": "https://api.github.com/orgs/JeffersonLab/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5191128?v=3", 
+        "repos_url": "https://api.github.com/orgs/JeffersonLab/repos", 
+        "login": "JeffersonLab", 
+        "id": 5191128, 
+        "hooks_url": "https://api.github.com/orgs/JeffersonLab/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/stupidtest/issues", 
+        "members_url": "https://api.github.com/orgs/stupidtest/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/stupidtest/public_members{/member}", 
+        "url": "https://api.github.com/orgs/stupidtest", 
+        "events_url": "https://api.github.com/orgs/stupidtest/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5731987?v=3", 
+        "repos_url": "https://api.github.com/orgs/stupidtest/repos", 
+        "login": "stupidtest", 
+        "id": 5731987, 
+        "hooks_url": "https://api.github.com/orgs/stupidtest/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/HipGISAXS/issues", 
+        "members_url": "https://api.github.com/orgs/HipGISAXS/members{/member}", 
+        "description": "High-performance X-ray scattering data analysis", 
+        "public_members_url": "https://api.github.com/orgs/HipGISAXS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/HipGISAXS", 
+        "events_url": "https://api.github.com/orgs/HipGISAXS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5734095?v=3", 
+        "repos_url": "https://api.github.com/orgs/HipGISAXS/repos", 
+        "login": "HipGISAXS", 
+        "id": 5734095, 
+        "hooks_url": "https://api.github.com/orgs/HipGISAXS/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/usqcd-software/issues", 
+        "members_url": "https://api.github.com/orgs/usqcd-software/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/usqcd-software/public_members{/member}", 
+        "url": "https://api.github.com/orgs/usqcd-software", 
+        "events_url": "https://api.github.com/orgs/usqcd-software/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6422602?v=3", 
+        "repos_url": "https://api.github.com/orgs/usqcd-software/repos", 
+        "login": "usqcd-software", 
+        "id": 6422602, 
+        "hooks_url": "https://api.github.com/orgs/usqcd-software/hooks"
+    }
+]

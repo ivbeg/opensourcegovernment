@@ -1,0 +1,54 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/open-austin/issues", 
+        "members_url": "https://api.github.com/orgs/open-austin/members{/member}", 
+        "description": "We discuss projects here: https://github.com/open-austin/project-ideas", 
+        "public_members_url": "https://api.github.com/orgs/open-austin/public_members{/member}", 
+        "url": "https://api.github.com/orgs/open-austin", 
+        "events_url": "https://api.github.com/orgs/open-austin/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/970084?v=3", 
+        "repos_url": "https://api.github.com/orgs/open-austin/repos", 
+        "login": "open-austin", 
+        "id": 970084, 
+        "hooks_url": "https://api.github.com/orgs/open-austin/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/geometeor/issues", 
+        "members_url": "https://api.github.com/orgs/geometeor/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/geometeor/public_members{/member}", 
+        "url": "https://api.github.com/orgs/geometeor", 
+        "events_url": "https://api.github.com/orgs/geometeor/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/5943043?v=3", 
+        "repos_url": "https://api.github.com/orgs/geometeor/repos", 
+        "login": "geometeor", 
+        "id": 5943043, 
+        "hooks_url": "https://api.github.com/orgs/geometeor/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/eventplicity/issues", 
+        "members_url": "https://api.github.com/orgs/eventplicity/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/eventplicity/public_members{/member}", 
+        "url": "https://api.github.com/orgs/eventplicity", 
+        "events_url": "https://api.github.com/orgs/eventplicity/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/7387374?v=3", 
+        "repos_url": "https://api.github.com/orgs/eventplicity/repos", 
+        "login": "eventplicity", 
+        "id": 7387374, 
+        "hooks_url": "https://api.github.com/orgs/eventplicity/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/myfossil/issues", 
+        "members_url": "https://api.github.com/orgs/myfossil/members{/member}", 
+        "description": "", 
+        "public_members_url": "https://api.github.com/orgs/myfossil/public_members{/member}", 
+        "url": "https://api.github.com/orgs/myfossil", 
+        "events_url": "https://api.github.com/orgs/myfossil/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/9010039?v=3", 
+        "repos_url": "https://api.github.com/orgs/myfossil/repos", 
+        "login": "myfossil", 
+        "id": 9010039, 
+        "hooks_url": "https://api.github.com/orgs/myfossil/hooks"
+    }
+]

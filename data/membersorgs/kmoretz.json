@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/Code4HR/issues", 
+        "members_url": "https://api.github.com/orgs/Code4HR/members{/member}", 
+        "description": "We meet: http://meetup.code4hr.org, Working Tasks: http://tasks.code4hr.org, Slack: http://chat.code4hr.org", 
+        "public_members_url": "https://api.github.com/orgs/Code4HR/public_members{/member}", 
+        "url": "https://api.github.com/orgs/Code4HR", 
+        "events_url": "https://api.github.com/orgs/Code4HR/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1490563?v=3", 
+        "repos_url": "https://api.github.com/orgs/Code4HR/repos", 
+        "login": "Code4HR", 
+        "id": 1490563, 
+        "hooks_url": "https://api.github.com/orgs/Code4HR/hooks"
+    }
+]

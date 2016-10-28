@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/jcbwlkr/following{/other_user}", 
+        "events_url": "https://api.github.com/users/jcbwlkr/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/jcbwlkr/orgs", 
+        "url": "https://api.github.com/users/jcbwlkr", 
+        "gists_url": "https://api.github.com/users/jcbwlkr/gists{/gist_id}", 
+        "html_url": "https://github.com/jcbwlkr", 
+        "subscriptions_url": "https://api.github.com/users/jcbwlkr/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/2027263?v=3", 
+        "repos_url": "https://api.github.com/users/jcbwlkr/repos", 
+        "received_events_url": "https://api.github.com/users/jcbwlkr/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/jcbwlkr/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "jcbwlkr", 
+        "type": "User", 
+        "id": 2027263, 
+        "followers_url": "https://api.github.com/users/jcbwlkr/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/sethetter/following{/other_user}", 
+        "events_url": "https://api.github.com/users/sethetter/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/sethetter/orgs", 
+        "url": "https://api.github.com/users/sethetter", 
+        "gists_url": "https://api.github.com/users/sethetter/gists{/gist_id}", 
+        "html_url": "https://github.com/sethetter", 
+        "subscriptions_url": "https://api.github.com/users/sethetter/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/655500?v=3", 
+        "repos_url": "https://api.github.com/users/sethetter/repos", 
+        "received_events_url": "https://api.github.com/users/sethetter/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/sethetter/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "sethetter", 
+        "type": "User", 
+        "id": 655500, 
+        "followers_url": "https://api.github.com/users/sethetter/followers"
+    }
+]

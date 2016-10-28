@@ -1,0 +1,21 @@
+[
+    {
+        "following_url": "https://api.github.com/users/waldoj/following{/other_user}", 
+        "events_url": "https://api.github.com/users/waldoj/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/waldoj/orgs", 
+        "url": "https://api.github.com/users/waldoj", 
+        "gists_url": "https://api.github.com/users/waldoj/gists{/gist_id}", 
+        "html_url": "https://github.com/waldoj", 
+        "subscriptions_url": "https://api.github.com/users/waldoj/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/656758?v=3", 
+        "repos_url": "https://api.github.com/users/waldoj/repos", 
+        "received_events_url": "https://api.github.com/users/waldoj/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/waldoj/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "waldoj", 
+        "type": "User", 
+        "id": 656758, 
+        "followers_url": "https://api.github.com/users/waldoj/followers"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/CMAP-REPOS/issues", 
+        "members_url": "https://api.github.com/orgs/CMAP-REPOS/members{/member}", 
+        "description": "The official regional planning organization for the northeastern Illinois counties of Cook, DuPage, Kane, Kendall, Lake, McHenry, and Will", 
+        "public_members_url": "https://api.github.com/orgs/CMAP-REPOS/public_members{/member}", 
+        "url": "https://api.github.com/orgs/CMAP-REPOS", 
+        "events_url": "https://api.github.com/orgs/CMAP-REPOS/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/4741755?v=3", 
+        "repos_url": "https://api.github.com/orgs/CMAP-REPOS/repos", 
+        "login": "CMAP-REPOS", 
+        "id": 4741755, 
+        "hooks_url": "https://api.github.com/orgs/CMAP-REPOS/hooks"
+    }
+]

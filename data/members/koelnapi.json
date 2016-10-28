@@ -1,0 +1,40 @@
+[
+    {
+        "following_url": "https://api.github.com/users/koos/following{/other_user}", 
+        "events_url": "https://api.github.com/users/koos/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/koos/orgs", 
+        "url": "https://api.github.com/users/koos", 
+        "gists_url": "https://api.github.com/users/koos/gists{/gist_id}", 
+        "html_url": "https://github.com/koos", 
+        "subscriptions_url": "https://api.github.com/users/koos/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/8343?v=3", 
+        "repos_url": "https://api.github.com/users/koos/repos", 
+        "received_events_url": "https://api.github.com/users/koos/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/koos/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "koos", 
+        "type": "User", 
+        "id": 8343, 
+        "followers_url": "https://api.github.com/users/koos/followers"
+    }, 
+    {
+        "following_url": "https://api.github.com/users/marians/following{/other_user}", 
+        "events_url": "https://api.github.com/users/marians/events{/privacy}", 
+        "organizations_url": "https://api.github.com/users/marians/orgs", 
+        "url": "https://api.github.com/users/marians", 
+        "gists_url": "https://api.github.com/users/marians/gists{/gist_id}", 
+        "html_url": "https://github.com/marians", 
+        "subscriptions_url": "https://api.github.com/users/marians/subscriptions", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/273727?v=3", 
+        "repos_url": "https://api.github.com/users/marians/repos", 
+        "received_events_url": "https://api.github.com/users/marians/received_events", 
+        "gravatar_id": "", 
+        "starred_url": "https://api.github.com/users/marians/starred{/owner}{/repo}", 
+        "site_admin": false, 
+        "login": "marians", 
+        "type": "User", 
+        "id": 273727, 
+        "followers_url": "https://api.github.com/users/marians/followers"
+    }
+]

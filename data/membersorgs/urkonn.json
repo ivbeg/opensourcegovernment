@@ -1,0 +1,41 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/PythonMexico/issues", 
+        "members_url": "https://api.github.com/orgs/PythonMexico/members{/member}", 
+        "description": "Chat: https://gitter.im/PythonMexico", 
+        "public_members_url": "https://api.github.com/orgs/PythonMexico/public_members{/member}", 
+        "url": "https://api.github.com/orgs/PythonMexico", 
+        "events_url": "https://api.github.com/orgs/PythonMexico/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/1126446?v=3", 
+        "repos_url": "https://api.github.com/orgs/PythonMexico/repos", 
+        "login": "PythonMexico", 
+        "id": 1126446, 
+        "hooks_url": "https://api.github.com/orgs/PythonMexico/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/mxabierto/issues", 
+        "members_url": "https://api.github.com/orgs/mxabierto/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/mxabierto/public_members{/member}", 
+        "url": "https://api.github.com/orgs/mxabierto", 
+        "events_url": "https://api.github.com/orgs/mxabierto/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6219557?v=3", 
+        "repos_url": "https://api.github.com/orgs/mxabierto/repos", 
+        "login": "mxabierto", 
+        "id": 6219557, 
+        "hooks_url": "https://api.github.com/orgs/mxabierto/hooks"
+    }, 
+    {
+        "issues_url": "https://api.github.com/orgs/GeekyGroup/issues", 
+        "members_url": "https://api.github.com/orgs/GeekyGroup/members{/member}", 
+        "description": null, 
+        "public_members_url": "https://api.github.com/orgs/GeekyGroup/public_members{/member}", 
+        "url": "https://api.github.com/orgs/GeekyGroup", 
+        "events_url": "https://api.github.com/orgs/GeekyGroup/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/13155322?v=3", 
+        "repos_url": "https://api.github.com/orgs/GeekyGroup/repos", 
+        "login": "GeekyGroup", 
+        "id": 13155322, 
+        "hooks_url": "https://api.github.com/orgs/GeekyGroup/hooks"
+    }
+]

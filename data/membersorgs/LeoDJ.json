@@ -1,0 +1,15 @@
+[
+    {
+        "issues_url": "https://api.github.com/orgs/opendata-heilbronn/issues", 
+        "members_url": "https://api.github.com/orgs/opendata-heilbronn/members{/member}", 
+        "description": "Open Data Enthusiasten in und um Heilbronn ", 
+        "public_members_url": "https://api.github.com/orgs/opendata-heilbronn/public_members{/member}", 
+        "url": "https://api.github.com/orgs/opendata-heilbronn", 
+        "events_url": "https://api.github.com/orgs/opendata-heilbronn/events", 
+        "avatar_url": "https://avatars.githubusercontent.com/u/6741385?v=3", 
+        "repos_url": "https://api.github.com/orgs/opendata-heilbronn/repos", 
+        "login": "opendata-heilbronn", 
+        "id": 6741385, 
+        "hooks_url": "https://api.github.com/orgs/opendata-heilbronn/hooks"
+    }
+]
